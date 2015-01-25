@@ -7,7 +7,7 @@
 ** Mirage
    = Deep meets Inception //permutation
 
- * Ideas
+* Ideas
 Incredibles:  
 - battle
 - getting into the school

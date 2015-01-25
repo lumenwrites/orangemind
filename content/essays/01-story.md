@@ -2,8 +2,9 @@ Title: Creating Story plot
 Date: 2015-01-16
 Tags: writing
 
->>>> Story = Setting + Character + Plot
->>>> Premise can be a gap in one or all or between any of thouse things.
+Story = Setting + Character + Plot
+
+Premise can be a gap in one or all or between any of thouse things.
 That sparks curiosity/question.
 You don't have to know all of them from the beginning, you discover them as you go.
 
@@ -21,3 +22,4 @@ New patterns are value.
 - Creative ideas(settings/plots/etc)
 - Essays
 - Vfx, Sexy ladies, etc.
+ 

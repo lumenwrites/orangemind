@@ -1711,9 +1711,9 @@ jQuery(document).ready(function($) {
 
 
   <!-- Import css and scripts  -->
-  <link rel="stylesheet" href="http://orangemind.io/theme/css/foundation.css" />
-  <link rel="stylesheet" href="http://orangemind.io/theme/css/foundation-icons/foundation-icons.css" />
-  <link rel="stylesheet" href="http://orangemind.io/theme/css/main.css" />
+  <link rel="stylesheet" href="/theme/css/foundation.css" />
+  <link rel="stylesheet" href="/theme/css/foundation-icons/foundation-icons.css" />
+  <link rel="stylesheet" href="/theme/css/main.css" />
 
   <!-- jQuery -->
   <script src="/theme/js/vendor/jquery.js" type="text/javascript"></script>
@@ -1723,24 +1723,28 @@ jQuery(document).ready(function($) {
   
 </head>
 
-<body>
-<div id="orange-line"></div>
-  <header>
-      <div class="row" >
-        <div class="large-9 columns" >
-          <a href="http://orangemind.io/"><img src="http://orangemind.io/theme/img/logo_notagline.png" /></a>
-        </div>
-        <div class="large-3 columns" id="mainMenu">
-	  <ul>
-	    <a href="/">Home</a>
-	  </ul>
-	  <ul>
-	    <a href="/stories">Stories</a>
-	  </ul>
+<body>  
+<div class="row" >
+  <div class="large-12 columns" >
+    <div id="wrapper">
+      <header>
+	<div class="row" >
+          <div class="large-9 columns" >
+            <a href="/"><img id="orange-mind-logo" src="/theme/img/orangeMindLogo.png" /></a>
+          </div>
+          <div class="large-3 columns" id="mainMenu">
+	    <ul>
+	      <li>
+		<a href="/">Home</a>
+	      </li>
+	      <li>
+		<a href="/stories">Stories</a>
+	      </li>
+	    </ul>
+	  </div>
 	</div>
-      </div>
-  </header>
-
+      </header>
+      
 <section id="content">
   
   <div id="page"  class="blogPage">
@@ -1748,20 +1752,12 @@ jQuery(document).ready(function($) {
       <div class="large-12 columns">
 
 	<article>
-          <a href="http://orangemind.io/post/boring-interesting-creativity"><h1>Boring > interesting. Creativity.</h1></a>
+          <a href="/post/boring-interesting-creativity"><h1>Boring > interesting. Creativity.</h1></a>
 	  <hr/>
 	  <p>
 	    
 	  </p>
-          <a href="http://orangemind.io/post/boring-interesting-creativity" id="readmore">>>> readmore</span></a> 
-	</article>
-	<article>
-          <a href="http://orangemind.io/post/comedy-joke-structure"><h1>Comedy. Joke structure.</h1></a>
-	  <hr/>
-	  <p>
-	    
-	  </p>
-          <a href="http://orangemind.io/post/comedy-joke-structure" id="readmore">>>> readmore</span></a> 
+          <a href="/post/boring-interesting-creativity" id="readmore">>>> readmore</span></a> 
 	</article>
 	
 <p class="paginator">
@@ -1770,8 +1766,11 @@ jQuery(document).ready(function($) {
         </div>
     </div>
 </section>
-
-  <footer>
-  </footer>
+      
+      <footer>
+      </footer>
+    </div>
+  </div>
+</div>  
 </body>
 </html>

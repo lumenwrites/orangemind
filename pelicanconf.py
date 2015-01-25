@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Ray Alez'
 SITENAME = 'orangemind'
-SITEURL = 'http://orangemind.io'
+SITEURL = '' #http://orangemind.io
 
 PATH = 'content'
 

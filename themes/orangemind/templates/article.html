@@ -3,9 +3,11 @@
 <div id="page"  class="postPage">
     <div class="row">
       <div class="large-12 columns">
-        <h1 id="blogTitle"> {{ article.title }} </h1>
-        <hr />
-	{{ article.content }}
+	<article>
+          <h1 id="blogTitle"> {{ article.title }} </h1>
+          <hr />
+	  {{ article.content }}
+	  </article>
       </div>
 </div>
 
@@ -44,12 +46,15 @@
 <div class="row">
   <div class="large-12 columns">
     <div class="comments">
-      <hr />
-      <script data-isso="//comments.digitalmind.io/"
-	      data-isso-avatar="false"
-              src="//comments.digitalmind.io/js/embed.dev.js"></script>
-      <section id="isso-thread"></section>
-      <hr />
+      <article>
+	<!-- <h3>Comments: </h3> -->
+	<!-- <hr /> -->
+	<script data-isso="//comments.digitalmind.io/"
+		data-isso-avatar="false"
+		src="//comments.digitalmind.io/js/embed.dev.js"></script>
+	<section id="isso-thread"></section>
+	<hr />
+      </article>
     </div>
   </div>
   </div>

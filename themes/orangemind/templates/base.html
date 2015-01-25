@@ -5,7 +5,7 @@
   {% block head %}
   <meta charset="utf-8" />
 
-  <title>{% block title %}Digital Mind{% endblock title %}</title> <!-- {{ SITENAME }} -->
+  <title>{% block title %}Orange Mind{% endblock title %}</title> <!-- {{ SITENAME }} -->
 
   <!-- Extra header for ipython -->
   {% if EXTRA_HEADER %}
@@ -27,27 +27,34 @@
   
 </head>
 
-<body>
-<div id="orange-line"></div>
-  <header>
-      <div class="row" >
-        <div class="large-9 columns" >
-          <a href="{{ SITEURL }}/"><img src="{{ SITEURL }}/theme/img/logo_notagline.png" /></a>
-        </div>
-        <div class="large-3 columns" id="mainMenu">
-	  {% for title, link in MENUITEMS %}
-	  <ul>
-	    <a href="{{ link }}">{{ title }}</a>
-	  </ul>
-	  {% endfor %}
+<body>  
+<div class="row" >
+  <div class="large-12 columns" >
+    <div id="wrapper">
+      <header>
+	<div class="row" >
+          <div class="large-9 columns" >
+            <a href="{{ SITEURL }}/"><img id="orange-mind-logo" src="{{ SITEURL }}/theme/img/orangeMindLogo.png" /></a>
+          </div>
+          <div class="large-3 columns" id="mainMenu">
+	    <ul>
+	      {% for title, link in MENUITEMS %}
+	      <li>
+		<a href="{{ link }}">{{ title }}</a>
+	      </li>
+	    {% endfor %}
+	    </ul>
+	  </div>
 	</div>
-      </div>
-  </header>
-
-  {% block content %}
-  {% endblock %}
-
-  <footer>
-  </footer>
+      </header>
+      
+      {% block content %}
+      {% endblock %}
+      
+      <footer>
+      </footer>
+    </div>
+  </div>
+</div>  
 </body>
 </html>

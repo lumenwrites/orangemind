@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
 
-  <title>Digital Mind</title> <!-- orangemind -->
+  <title>Orange Mind</title> <!-- orangemind -->
 
   <!-- Extra header for ipython -->
   
@@ -1711,9 +1711,9 @@ jQuery(document).ready(function($) {
 
 
   <!-- Import css and scripts  -->
-  <link rel="stylesheet" href="http://orangemind.io/theme/css/foundation.css" />
-  <link rel="stylesheet" href="http://orangemind.io/theme/css/foundation-icons/foundation-icons.css" />
-  <link rel="stylesheet" href="http://orangemind.io/theme/css/main.css" />
+  <link rel="stylesheet" href="/theme/css/foundation.css" />
+  <link rel="stylesheet" href="/theme/css/foundation-icons/foundation-icons.css" />
+  <link rel="stylesheet" href="/theme/css/main.css" />
 
   <!-- jQuery -->
   <script src="/theme/js/vendor/jquery.js" type="text/javascript"></script>
@@ -1723,31 +1723,37 @@ jQuery(document).ready(function($) {
   
 </head>
 
-<body>
-<div id="orange-line"></div>
-  <header>
-      <div class="row" >
-        <div class="large-9 columns" >
-          <a href="http://orangemind.io/"><img src="http://orangemind.io/theme/img/logo_notagline.png" /></a>
-        </div>
-        <div class="large-3 columns" id="mainMenu">
-	  <ul>
-	    <a href="/">Home</a>
-	  </ul>
-	  <ul>
-	    <a href="/stories">Stories</a>
-	  </ul>
+<body>  
+<div class="row" >
+  <div class="large-12 columns" >
+    <div id="wrapper">
+      <header>
+	<div class="row" >
+          <div class="large-9 columns" >
+            <a href="/"><img id="orange-mind-logo" src="/theme/img/orangeMindLogo.png" /></a>
+          </div>
+          <div class="large-3 columns" id="mainMenu">
+	    <ul>
+	      <li>
+		<a href="/">Home</a>
+	      </li>
+	      <li>
+		<a href="/stories">Stories</a>
+	      </li>
+	    </ul>
+	  </div>
 	</div>
-      </div>
-  </header>
-
+      </header>
+      
 <ul>
-    <li><a href="http://orangemind.io/category/drafts.html">drafts</a></li>
-    <li><a href="http://orangemind.io/category/essays.html">essays</a></li>
-    <li><a href="http://orangemind.io/category/fiction.html">fiction</a></li>
+    <li><a href="/category/essays.html">essays</a></li>
+    <li><a href="/category/fiction.html">fiction</a></li>
 </ul>
-
-  <footer>
-  </footer>
+      
+      <footer>
+      </footer>
+    </div>
+  </div>
+</div>  
 </body>
 </html>
