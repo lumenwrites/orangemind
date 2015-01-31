@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>orangemind</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-01-25T00:00:00+01:00</updated><entry><title>On the ship</title><link href="/post/on-the-ship" rel="alternate"></link><updated>2015-01-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-25:post/on-the-ship</id><summary type="html">&lt;p&gt;The ship was kneeling left and right as the giant waves were hitting it's sides.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>orangemind</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-01-31T15:00:00+01:00</updated><entry><title>Singularity #0001 - The meeting</title><link href="/post/singularity-0001-the-meeting" rel="alternate"></link><updated>2015-01-31T15:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-31:post/singularity-0001-the-meeting</id><summary type="html">&lt;p&gt;&lt;em&gt;[2031-03-20. 03:16AM]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sounds of several gunshots echoed in the abandoned metro station.&lt;/p&gt;
+&lt;p&gt;A few bullets blasted the column right above the Max's shoulder as he dived into the space between trash containers to get away from the line of fire.&lt;/p&gt;
+&lt;p&gt;He estimated that they had about half a minute, so he got back to vigorously typing in his laptop. "Hey, that's what I call 'agile programming'!"&lt;/p&gt;
+&lt;p&gt;Kyle didn't appreciate the joke. He was hiding behind another column, watching 4 people in expensive suits and with guns in their hands running in their direction. "You've said it will be safe! You've sayed it will be just a simple job!"&lt;/p&gt;
+&lt;p&gt;"Well, the next time we will be more careful"&lt;/p&gt;
+&lt;p&gt;"The &lt;em&gt;next&lt;/em&gt; time?! You gotta be high to think that I will agree to something like that again!"&lt;/p&gt;
+&lt;p&gt;Max just smiled. Typing has slowed down and then stopped with the victorious hit on enter key.&lt;/p&gt;
+&lt;p&gt;"Now we just give it a minute for it to work. Do you have any idea how do we last a minute without getting shot?"&lt;/p&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;[2031-03-11 12:36]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Tiny old house, one of the very few that still left in the center of a big city.
+Group of 6 people gathered in the biggest room on the first floor.
+All of them looked thoughtful and grim.&lt;/p&gt;
+&lt;p&gt;"So I take it we're completely screwed, huh?" abscentmindedly mumbled Alice(16 years old, long black hair, very lean) from the couch, without taking eyes off her tablet that was propped against her legs, where she was carefully drawing something. &lt;/p&gt;
+&lt;p&gt;"Uh-huh" responded Mike(21 years old, buttoned-up t-shirt with a pocket protector. Seriously.) . He was sitting on the opposite end of the couch, and reading Feynman's lectures on physics(Volume 1) for a 4th time. He was always reading when he was fighting stress. Or not. He was always reading, really.&lt;/p&gt;
+&lt;p&gt;"How did we manage not to get this one? It was a website for a baking company for ktulhu's-sake!!" asked Amber(22 years old, bulky but comfortable cloth, shuffled red hair), although they all knew perfectly well how "I do not blame Kyle for not pushing on that one, of course" she was sitting on the floor tinkering with wires on the raspberry pi project that she was making. Very, very rarely there was a moment where you could see Amber without a cheerful simle on her face. That was one of thouse moments.&lt;/p&gt;
+&lt;p&gt;"I'm telling you, guys, I should've negotiated this project. You all are bored to death with this kind of work, and it shows, I don't really care, so I could've talked them into letting you do the job" Usually relaxed and careless Seth(28 years old, slightly overweight, very hairy and beardy) was playing xbox, but he kept losing the same simple level, his heart wasn't in it. The last part of the sentence rose to the intense scream, as a figure on the screen was firing hell on crowds of aliens.&lt;/p&gt;
+&lt;p&gt;"Yiii-ha!!" Max(22, black shuffled hair and short beard, black jeans and shirt with an orange tie, also in glasses - but regular ones, simple black narrow rectangles. Bright and intent brown eyes, with strikingly sharp and saturated, almost orange retinas) looked up from behind his thinkpad x4, happy smile dawning on his face.&lt;/p&gt;
+&lt;p&gt;"What?" Kyle(24, shaved head, goatee, long coat, piercing, intent, intelligent sight from behind his augmented reality glases) was standing in the center of the room, staring intently at Max.&lt;/p&gt;
+&lt;p&gt;"I've got an idea! I've got this friend who..."&lt;/p&gt;
+&lt;p&gt;"Uu-ugh..." - from every person in the room. Not again.&lt;/p&gt;
+&lt;p&gt;"No, hear me out!! This time it's legit... Almost. Well, at least less illegal. And &lt;em&gt;definitely&lt;/em&gt; much less dangerous!" they've had this conversation before, but Max was certain that this time he will convince them. They didn't have much of a choice really. He was the only one really excited about a prospect of doing some hacking - he always found it invigorating - but he was pretty sure that all of them will really enjoy that too, eventually. Even though it really didn't seem possible right now.&lt;/p&gt;
+&lt;p&gt;"Alright, what do you have?" said Kyle, as everybody were staring at him.&lt;/p&gt;
+&lt;p&gt;Max's simle grew even wider. I knew this time it will work!! As cautious Kyle was, he was clealry more sick of the boring projects than any of them, and he may not like admitting it, but Max remembered very clearly how excited Kyle was on their last and only hack. Despite how that all turned out... Kyle may not think that hacking is very prudent, but this time he will take the interesting and challenging project he was craving for for so long.&lt;/p&gt;
+&lt;p&gt;"I have this... acquitance... who says he has a job for us. It won't be like the last time, I promise. It is a small company that doesn't take their security very seriously, and he says that all we need to do is steal some data from them for their competitors. Cmon, let's at least hear what do they have to offer!"&lt;/p&gt;
+&lt;p&gt;"Fine. Setup a meeting." Kyle's voice was still stern, but his face got noticeably less grim.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;[2031-03-14. 02:36AM]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Man in the expensive black suit was standing in the middle of the old metro station, looking bemused. Two serious-looking guys in sunglasses(In the metro. At night.) were standing by his sides. "What did you choose this place for?" said the man, a little concerned. "Couldn't we met in starbucks or something?"&lt;/p&gt;
+&lt;p&gt;Kyle and Max looked at each other. From what Max knew about that kind of meetings from movies, he assumed that the old abandoned metro station was the way to go, besides he thought that this could impress 'an owner of a small company, a regular guy' his acquitance said they were supposed to meet. Now he himself was a little nervous, the guys that were standing in front of them were looking more like some low-level thugs. Thakfully, they were looking confused and unthreatening.&lt;/p&gt;
+&lt;p&gt;"This is more private" said Kyle, assuming the authoritative tone, Max firmly nodded.&lt;/p&gt;
+&lt;p&gt;"So" said Max, "what job do you have for us?"&lt;/p&gt;
+&lt;p&gt;"Recently we learned that our, uhm, competitors, got some data about out company. Private data abot our employees mostly, and also some financial and buisiness information that we would like to keep secret. What you will need to do is to find and destroy all the information they have on their servers about our company"&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;[to be continued....]&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+----
+
+This moment a train
+--&gt;</summary><category term="short-stories"></category><category term="singularity"></category></entry><entry><title>The first battle</title><link href="/post/the-first-battle" rel="alternate"></link><updated>2015-01-31T14:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-31:post/the-first-battle</id><summary type="html">&lt;p&gt;Dash felt like he was going to pass out of exhaustion.
+The battle was at it's hardest, and they were losing.
+Vi was protecting him and Kyle with her force field while Kyle was struggling to keep his portal open while Dash was attempting to throw sleeping bombs at their enemies.&lt;/p&gt;
+&lt;p&gt;The team they were fighting against included very powerful supers. One could control the metal, another, Pyro, could manipulate the fire, and finally, they had a telepath and seer. A seer!! How are you supposed to fight against someone who can literally see the future, even if for 8.5 seconds?&lt;/p&gt;
+&lt;p&gt;That meant that whenever Dash was going to attack - seer would simply send a telepathic command to magnetto, and Dash would face a metal wall on his way, while having to dodge the streams of fire from Pyro.&lt;/p&gt;
+&lt;p&gt;Their only hope was to disable or confuse the seer.
+And their only advantage was that dash was faster.&lt;/p&gt;
+&lt;p&gt;The goal is not to choose a path that leads to victory, but to make sure that all the paths lead to victory - he remembered someone's quote.&lt;/p&gt;
+&lt;p&gt;"Vi!" said Dash, "Create the force field around the seer!"&lt;/p&gt;
+&lt;p&gt;Kyle's portals could not penetrate Vi's shield, there was a chance that seer's powers will not be able to do that either.&lt;/p&gt;
+&lt;p&gt;Field around them disappeared, immediately reappearing around the seer.&lt;/p&gt;
+&lt;p&gt;"Yes!!" Apparently that was an attack that seer had no way of avoiding.&lt;/p&gt;
+&lt;p&gt;Now it was up to Dash and Kyle to disable the last 2 opponents, which suddenly became a lot more doable.&lt;/p&gt;
+&lt;p&gt;The next second, right before the huge stream of fire was about to hit them, Kyle opened a portal, which consumed the fire and spat it out in the direction of magneto, who this time was unable to dodge it.&lt;/p&gt;
+&lt;p&gt;Then the time slowed down and things seemed to become share but more colorless, as Dash used the last burst of his power to run towards Pyro and shoot a stream of stunning rays at her.&lt;/p&gt;
+&lt;p&gt;And then everything got quiet.&lt;/p&gt;
+&lt;p&gt;Pyro was peacefully sleeping in the middle of the battlefield, seer was trapped in the force field, and magnet to was probably teleported into informatory by now.&lt;/p&gt;
+&lt;p&gt;"We won!!" yelled Dash, as the simulated environment around them faded, slowly turning into the inwards of a sleeping capsule they used to simulate their training battles.&lt;/p&gt;</summary><category term="short-stories"></category><category term="commuity"></category></entry><entry><title>On the ship</title><link href="/post/on-the-ship" rel="alternate"></link><updated>2015-01-31T13:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-31:post/on-the-ship</id><summary type="html">&lt;p&gt;The ship was kneeling left and right as the giant waves were hitting it's sides.&lt;/p&gt;
 &lt;p&gt;Pirate Cornelius was in a bad mood, and that had nothing to do with the storm. He was used to dealing with storms. What he was not used to dealing with was….&lt;/p&gt;
 &lt;p&gt;“But according to even the briefest calculations using Bayesian probability, considering the priors available to me, the chances of that happening are infitesimally small!!” said the thin figure in the black pants and t-shirt.&lt;/p&gt;
 &lt;p&gt;Cornelius looked at his crew. "Alright, which one of you idiots is responsible for taking &lt;em&gt;that&lt;/em&gt;" the gesture to the figure “on our ship!? And why is he not feeding the sharks since 3 hours ago?” &lt;/p&gt;
@@ -25,7 +83,7 @@ Just yesterday he was at his university, attending lectures, hanging with friend
 “Where am I?”&lt;/p&gt;
 &lt;p&gt;“Ehm…. You're on a ship...” said one of the men uncertainly.&lt;/p&gt;
 &lt;p&gt;”But according to even the briefest calculations using Bayesian probability, considering the priors available to me, the chances of that happening are infitesimally small!!” Eric felt that he was starting to panic, his attempts to explain how he could get out of the sunny California into the pirate ship in the middle of the night were crashing against the utter impossibility of that happening. Seeing that he was surrounded by a sea in every direction he could look wasn't helping.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;to be continued....&lt;/em&gt;&lt;/p&gt;</summary><category term="short-stories"></category><category term="pirates"></category></entry><entry><title>The Battle of Pacman</title><link href="/post/the-battle-of-pacman" rel="alternate"></link><updated>2015-01-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-25:post/the-battle-of-pacman</id><summary type="html">&lt;p&gt;“Oh, please guys, you are our only chance? Greendale never had a team of heroes to be able to defeat the City College Dynasty of pacman players!! We are hosting the tournament this year, it will be too embarrassing to lose again!” &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;to be continued....&lt;/em&gt;&lt;/p&gt;</summary><category term="short-stories"></category><category term="pirates"></category></entry><entry><title>The Battle of Pacman</title><link href="/post/the-battle-of-pacman" rel="alternate"></link><updated>2015-01-31T12:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-31:post/the-battle-of-pacman</id><summary type="html">&lt;p&gt;“Oh, please guys, you are our only chance? Greendale never had a team of heroes to be able to defeat the City College Dynasty of pacman players!! We are hosting the tournament this year, it will be too embarrassing to lose again!” said dean.&lt;/p&gt;
 &lt;p&gt;“Okay, I will kick their butts if it's so important to you. You may not know that, but in school I've always been something of a pacman prodigy.” said Troy with a cocky smile.&lt;/p&gt;
 &lt;p&gt;Everyone stared at him in the stunned silence.&lt;/p&gt;
 &lt;hr /&gt;
@@ -71,7 +129,8 @@ He wasn't sure why he was so invested in the game(#q), but he knew that he had t
 Figures off ghosts and pellets were spread across the small space.&lt;/p&gt;
 &lt;p&gt;Troy was dodging the stick with the ghosts at the end of it, pac-master was trying to reach him with.&lt;/p&gt;
 &lt;p&gt;“Is this really necessary? I thought I was going to learn tp play the game!”&lt;/p&gt;
-&lt;h2&gt;“To play pacman” (in a heavy accent) “you must learn to think like pacman, you must BE pacman!!”&lt;/h2&gt;
+&lt;p&gt;“To play pacman” (in a heavy accent) “you must learn to think like pacman, you must BE pacman!!”&lt;/p&gt;
+&lt;hr /&gt;
 &lt;p&gt;Meanwhile in Greendale Ben Chang was unrolling the red tape. The whole campus was /?inwebd? by it, as no straight 90 degree angle left in the entire college grounds.&lt;/p&gt;
 &lt;p&gt;Students were navigated the labyrinth of the tapes looking annoyed and confused, but not anywhere near as much as the /?opponents? have been. This was war, and Chang had only one weapon - of a psychological kind.&lt;/p&gt;
 &lt;p&gt;From time to time you could see ghosts images and people in ghost costumes jumping from behind the corners inside buildings, /?breeding? panic among the City College students. 
@@ -89,40 +148,4 @@ Well, let's get to it then.&lt;/p&gt;
 &lt;p&gt;Keyboard keys were pressed.&lt;/p&gt;
 &lt;p&gt;Pellets were eaten.&lt;/p&gt;
 &lt;p&gt;Ghosts were destroyed.&lt;/p&gt;
-&lt;p&gt;In the last seconds of the battle, Troy remembered in a flashback and applied the secret trick his teacher has taught him, thus defeating his opponent, and getting the glorious prize of a pacman-cup back to the Greendale.&lt;/p&gt;</summary><category term="short-stories"></category><category term="commuity"></category></entry><entry><title>The first battle</title><link href="/post/the-first-battle" rel="alternate"></link><updated>2015-01-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-25:post/the-first-battle</id><summary type="html">&lt;p&gt;Dash felt like he was going to pass out of exhaustion.
-The battle was at it's hardest, and they were losing.
-Vi was protecting him and Kyle with her force field while Kyle was struggling to keep his portal open while Dash was attempting to throw sleeping bombs at their enemies.&lt;/p&gt;
-&lt;p&gt;The team they were fighting against included very powerful supers. One could control the metal, another, Pyro, could manipulate the fire, and finally, they had a telepath and seer. A seer!! How are you supposed to fight against someone who can literally see the future, even if for 8.5 seconds?&lt;/p&gt;
-&lt;p&gt;That meant that whenever Dash was going to attack - seer would simply send a telepathic command to magnetto, and Dash would face a metal wall on his way, while having to dodge the streams of fire from Pyro.&lt;/p&gt;
-&lt;p&gt;Their only hope was to disable or confuse the seer.
-And their only advantage was that dash was faster.&lt;/p&gt;
-&lt;p&gt;The goal is not to choose a path that leads to victory, but to make sure that all the paths lead to victory - he remembered someone's quote.&lt;/p&gt;
-&lt;p&gt;"Vi!" said Dash, "Create the force field around the seer!"&lt;/p&gt;
-&lt;p&gt;Kyle's portals could not penetrate Vi's shield, there was a chance that seer's powers will not be able to do that either.&lt;/p&gt;
-&lt;p&gt;Field around them disappeared, immediately reappearing around the seer.&lt;/p&gt;
-&lt;p&gt;"Yes!!" Apparently that was an attack that seer had no way of avoiding.&lt;/p&gt;
-&lt;p&gt;Now it was up to Dash and Kyle to disable the last 2 opponents, which suddenly became a lot more doable.&lt;/p&gt;
-&lt;p&gt;The next second, right before the huge stream of fire was about to hit them, Kyle opened a portal, which consumed the fire and spat it out in the direction of magneto, who this time was unable to dodge it.&lt;/p&gt;
-&lt;p&gt;Then the time slowed down and things seemed to become share but more colorless, as Dash used the last burst of his power to run towards Pyro and shoot a stream of stunning rays at her.&lt;/p&gt;
-&lt;p&gt;And then everything got quiet.&lt;/p&gt;
-&lt;p&gt;Pyro was peacefully sleeping in the middle of the battlefield, seer was trapped in the force field, and magnet to was probably teleported into informatory by now.&lt;/p&gt;
-&lt;p&gt;"We won!!" yelled Dash, as the simulated environment around them faded, slowly turning into the inwards of a sleeping capsule they used to simulate their training battles.&lt;/p&gt;</summary><category term="short-stories"></category><category term="commuity"></category></entry><entry><title>Creating Story plot</title><link href="/post/creating-story-plot" rel="alternate"></link><updated>2015-01-16T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-01-16:post/creating-story-plot</id><summary type="html">&lt;p&gt;Story = Setting + Character + Plot&lt;/p&gt;
-&lt;p&gt;Premise can be a gap in one or all or between any of thouse things.
-That sparks curiosity/question.
-You don't have to know all of them from the beginning, you discover them as you go.&lt;/p&gt;
-&lt;h1&gt;Plot&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Sequence of events leading to achieving/failing a valuable goal
-IInc - creation of a valuable goal
-Climax - achieving/failing the goal
-Event - step closer/farther from a goal.
-Everything inbetween - struggling to get it(conflict)
-Character - your avatar
-Empathy, every step closer/farther to value - emotion
-Plot is NOT the only value.
-New patterns are value.
-- Comedy
-- Creative ideas(settings/plots/etc)
-- Essays
-- Vfx, Sexy ladies, etc.&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="writing"></category></entry></feed>
+&lt;p&gt;In the last seconds of the battle, Troy remembered in a flashback and applied the secret trick his teacher has taught him, thus defeating his opponent, and getting the glorious prize of a pacman-cup back to the Greendale.&lt;/p&gt;</summary><category term="short-stories"></category><category term="commuity"></category></entry></feed>

@@ -42,6 +42,8 @@ h1 {
     text-align: center;
     color: black;
     font-weight: bold;
+    /*  */
+    margin-bottom: 0
 }
 
 h2 {
@@ -158,9 +160,15 @@ article a:hover {
     /* text-decoration: none; */
 }
 
-article hr {
+article header {
+    background-color: transparent;
+    border-bottom: none;
+    
+}
+article header hr {
     /* margin-top: -10px; */
-    margin: -10px -10px 10px -10px;
+    /* margin: -10px -10px 10px -10px; */
+    margin: 0px -10px;
 }
 
 #readmore {

@@ -1,8 +1,8 @@
 Title: The Battle of Pacman
-Date: 2015-01-25
+Date: 2015-01-31 12:00
 Tags: short-stories, commuity
 
-“Oh, please guys, you are our only chance? Greendale never had a team of heroes to be able to defeat the City College Dynasty of pacman players!! We are hosting the tournament this year, it will be too embarrassing to lose again!” 
+“Oh, please guys, you are our only chance? Greendale never had a team of heroes to be able to defeat the City College Dynasty of pacman players!! We are hosting the tournament this year, it will be too embarrassing to lose again!” said dean.
 
 “Okay, I will kick their butts if it's so important to you. You may not know that, but in school I've always been something of a pacman prodigy.” said Troy with a cocky smile.
 
@@ -88,6 +88,7 @@ Troy was dodging the stick with the ghosts at the end of it, pac-master was tryi
 “Is this really necessary? I thought I was going to learn tp play the game!”
 
 “To play pacman” (in a heavy accent) “you must learn to think like pacman, you must BE pacman!!”
+
 ---
 
 Meanwhile in Greendale Ben Chang was unrolling the red tape. The whole campus was /?inwebd? by it, as no straight 90 degree angle left in the entire college grounds.

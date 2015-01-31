@@ -1,5 +1,5 @@
 Title: The first battle
-Date: 2015-01-25
+Date: 2015-01-31 14:00
 Tags: short-stories, commuity
 
 Dash felt like he was going to pass out of exhaustion.

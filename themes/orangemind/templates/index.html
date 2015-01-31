@@ -8,8 +8,11 @@
 
 	{% for article in articles_page.object_list %}
 	<article>
-          <a href="{{ SITEURL }}/{{ article.url }}"><h1>{{ article.title }}</h1></a>
-	  <hr/>
+	  <header>
+            <a href="{{ SITEURL }}/{{ article.url }}"><h1>{{ article.title }}</h1></a>
+	    <hr/>
+	  </header>
+
 	  <p>
 	    {{ article.summary }}
 	  </p>

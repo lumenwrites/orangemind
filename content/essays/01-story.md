@@ -1,7 +1,9 @@
-Title: Creating Story plot
-Date: 2015-01-16
+Title: Basics of story writing - Creating Story plot
+Date: 2015-01-31 12:00
 Tags: writing
+Status: draft
 
+# What is a story
 Story = Setting + Character + Plot
 
 Premise can be a gap in one or all or between any of thouse things.

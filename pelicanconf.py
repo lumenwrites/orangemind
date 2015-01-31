@@ -38,6 +38,8 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 8
 
+SUMMARY_MAX_LENGTH = 128
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
@@ -66,6 +68,8 @@ THEME = "/home/ray/projects/orangemind/themes/orangemind"
 # Plugins
 PLUGIN_PATHS = ['/home/ray/projects/orangemind/pelican-plugins']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.include_code', 'liquid_tags.notebook']
+           'liquid_tags.include_code', 'liquid_tags.notebook', 'summary']
 
 EXTRA_HEADER = open('_nb_header.html').read() #.encode('utf-8')
+
+

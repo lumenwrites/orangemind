@@ -4,58 +4,88 @@ Slug: stories
 
 *[bullet points without links are the articles not written yet, coming soon]*
 
-## Machine Learning
-### General ideas and introduction
+## Fiction
 
-- [What is machine learning?](/post/introduction-to-machine-learning)
+### Singularity
 
-- Practical applications of machine learning
-
-- General Advice on studying machine learning
-
-- [Key concepts in Machine Learning](/post/machine-learning-key-concepts)
-
-- [Deep Learning- Best Resources](/post/deep-learning-resources)  
-  Best resources for studying Deep Learning
-
-- [Deep Learning - Roadmap](/post/deep-learning-roadmap)
-
-- [List of the Machine Learning algorithms and tools to learn first](/post/machine-learning-algorithms)
-
-- Small Project Ideas
-
-### Machine Learning tools
-
-- Latex basics
-
-- Matplotlib basics
-
-- iPython basics
-
-### Machine Learning Algorithms
-
-- Linear Regression
+- First Hack  <!-- 1 (top) -->
 
 
-### Math
 
-- Introduction to Linear Algebra
-- Vectors <!-- (/post/vectors) -->
+## Fanfiction
+
+### Incredibles
+
+- First day <!-- 2 -->
+
+### Community
+
+- The Pac-Master <!-- 4 -->
 
 
-### Computer Science
 
-- Calculating derivatives in Lisp  
-  SICP [cs, programming]
+## Short stories
+
+- Pirates <!-- 3 -->
 
 
-## Artificial Intelligence
+<!--
+## Fiction
 
-- [List of the best resources to learn the foundations of Artificial Intelligence](post/artificial-intelligence-resources)
+### Singularity world
 
+- Max and metro. steal data.
+
+- Escape building.
+
+### Mirage world
+
+
+## Fanfiction
+
+### Incredibles
+
+- First day
+
+- First battle
+
+- Supervillain apprentice
+
+- Social Engineering lecture
+
+### Community
+
+- Pacman competition with City College
+
+- Abed inception
+
+### HPMOR
+
+- Harry vs Twins - pranks comppetition //+More of the cans of comed-tea
+
+- Harry vs Tracey - rationalist on a love potion
+
+- Harry vs peevez.
+
+- Agents
+
+
+## Short stories
+
+- Nerdy magician
+
+- Fallout meets How to Train your Dragon
+
+- Space pirates crew stray on a mysterious planet, try to escape.
+
+
+## Essays
+
+- Plot
+
+- de-bono
+
+- joke structure.
 
 ## Other
-
-- [Getting started with Web Development](/post/getting-started-with-web-development)
-
-- [Great books](/post/great-books)
+-->
