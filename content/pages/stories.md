@@ -2,7 +2,9 @@ Title: List of stories
 Date: 2014-12-18 20:30
 Slug: stories
 
+<!--
 *[bullet points without links are the articles not written yet, coming soon]*
+-->
 
 ## Fiction
 
