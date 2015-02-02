@@ -2,7 +2,16 @@ Title: The Battle of Pacman
 Date: 2015-01-31 12:00
 Tags: short-stories, commuity
 
-“Oh, please guys, you are our only chance? Greendale never had a team of heroes to be able to defeat the City College Dynasty of pacman players!! We are hosting the tournament this year, it will be too embarrassing to lose again!” said dean.
+The study group seated comfortably around the table.
+Before anybody had time to say anything, the Dean suddenly appeared in the doorway.
+
+"Oh, crap, I have just started hoping for a nice, normal day. I guess that doesn't happen in the Greendale, does it?" thought Jeff out loud.
+
+The Dean was wearing a fabulous light-blue dress, a wig of long light hair, and carrying 3 small stuffed dragons on his shoulders. "Hello everyone!! I am Deanarys Targaryen, the mother of dragons, and I am here to tell you that our school needs your help. Greendale is not the best school, but for generations we have been proud to hold the award for the best pacman score in the area, until City College took it from us 5 years ago. And now I am proud to say that we have an opportunity to get this honor back, return Greendale it's throne, so to speak." said he in a loud and cheerful voice while pointing at his dress.
+
+<!-- PELICAN_END_SUMMARY -->
+
+“Oh, cmon, guys, please! You are our only chance! Greendale never had a team of heroes to be able to defeat the City College Dynasty of pacman players!! We are hosting the tournament this year, it will be too embarrassing to lose again!” said Dean in response to the disbelieving  stares.
 
 “Okay, I will kick their butts if it's so important to you. You may not know that, but in school I've always been something of a pacman prodigy.” said Troy with a cocky smile.
 
