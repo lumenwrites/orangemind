@@ -446,34 +446,175 @@ Ideas:
 //Avengers. Gollum is a superhero.
 
 
+-
 Mike looked at the giant antient starship hanging above the canyon.
 It was hanging there for generations, as long as anyone could remember.
 Nobody have ever understood how did it work, nobody was even able to enter that thing.
 Because they were living in the cavemen times.
 And cavemen could never get into the spaceship.
 
+-
 It was a regular day for a Saul Goodman.
 He helped one guy to get out of jail for dealing weed, and helped that creepy lady to get every penny her husband has ever owned or will ever own.
 
+-
 Meanwhile, Jane was sitting outside of the office, tweaking the latest security software that run their corporation, when she learned that her boss developed magical powers.
 One of her laptops keeped the skype session with her boss opened, since she was trying to convince him not to open that kitten picture link in his email.
 Apparently he forgot about that in the last 15 minutes, and now was abscentmidedly picking his nose while reading something on his computer.
 She didn't tell him that she could see him immediately, and after awhilie it was just awkward,
-Suddnly that picture grabbed her attention, as she saw something like a purple explosion from behind her bosses head. Boss clearly didn't notice any of that, as he was paying all his  attention to the computer screen. Jane just wanted to tell him something, as she noticed that a pen he held in his hand, again, unbeknown to him, disappeared in the burst of flames.
+ 2Suddnly that picture grabbed her attention, as she saw something like a purple explosion from behind her bosses head. Boss clearly didn't notice any of that, as he was paying all his  attention to the computer screen. Jane just wanted to tell him something, as she noticed that a pen he held in his hand, again, unbeknown to him, disappeared in the burst of flames.
 Boss kept reading something on his screen, laughin from time to time.
 
 //some dummie gets magical powers, and a cool clever guy has to manipulate this idiot into doing what he wants. Cool. But dummie needs to also be cool and likeable. Maybe not stupid but just not the kind of character to use magical powers very well.
 
+-
 Harvey was sitting in his office when he didn't notice that something strange was happening in the city. He didn't notice because his office was on the 60th floor of a huge scyscraper.
 This was a regular morning,
 
-
+-
 Ben and Sal stood back to back, shooting lasers at crowrs of robots that were trying to get through the doors of their building. Robots were humanoids, and looked a lot like scary sceletons. Sal wondered - why would you make a robot looking that weird? Granted, friendly-looking robots were looking even creepier, but then again - what is the point of designing a thing to look outright malicious? Almost like designers hoped that these robots will rebel. You could hardly see these things assembling cars or cleaning the streets or babysitting.
 
-
+-
 Loudest roar echoed through the entire forest, as a humongous foot landed in 2 meters from the Jessie. After a second of stunned silence, Greg grabbed him by hist shirt and started running in the opposite from the foot direction. They will take time to explain what is going on later, now it was clearly the time to run. They had no reasons to suspect that T-Rex would have any interest in them - after all, he would hopefully perfer a much bigger prey, but this pack of raptors on the other hand....
 
-
+-
 Frank was having his first date in a long long time. After 20 years of ruthlessly climbing the corporate ladder in the biggest and meanest software corporation of all time he almost forgot what's it like to talk to a person without a clear agenda or buttons to push.
 
 
+* <2015-02-03 Tue>
+Vikings,
+Superheroes
+Aliens,
+Postapoc,
+Pirates,
+robots,
+dinosaurs,
+magic.
+
+Universal core chars:
+> Main
+Hermiony //Kaylee?
+Juno     //Robin/Lindsay,
+Harry,   //Frank/House/WW/etc
+Twins    //Barney
+Draco.   //
+
+> Secondary
+Jeff
+Marshal/Seth/Turtle,
+Abed,
+Captain,
+
+> Other
+Louie Ck
+Michael Cera
+Shirley
+Pierce/Chang/Dean
+Troy
+Luna
+Grandma Tyrell
+
+
+Alright, got my core chars.
+Look it doesn't matter just shut up and write.
+Pick any 2 of them, don't need more.
+
+Hey!! Here's one thing I haven't concidered: the real world!!
+It may actually be pretty awesome.
+It is already developed. It has most of the stuff that inspires scifi....
+I totally need to list the cool real world settings!!!!
+Of course, makes A LOT of sense!!
+OF COURSE!! Great idea dude!!
+Professions too
+
+
+- Pyramides
+- Stanford/MIT
+- Hot startup
+- Boston Dynamics/google R&D
+- Canada
+- Australia
+- Small town
+- New York
+- Law firm
+- Collegehumor workplace
+- Mancave, xbox, couch
+- Hollywood
+- Small african village
+- Detroit
+- Metro
+- Submarine
+- Jet
+- Abandoned hydron collider or such
+- Small tropical island
+- 
+//Check all of them in the past/present/future
+
+Professions:
+- Scientist/Mathematitian/Engineer/Programmre
+- PUA
+- Detective
+- CEO
+- Writer/Artist
+- Drug dealer
+- Douchebag Lawyer
+- Evil Machiavellian polititian(not only in politics, in any field)
+- 
+
+
+Okay, probably what's more important is to actually be coming up with IInc's!!
+- Somebody attacks you on the street
+- Aliens/other dimension creatures are coming
+- Dark overlord rises
+- Competition/sport
+- You got setup for a crime
+- Stray in a dangerous place
+- Priceless artifact has been stolen
+- Your friend is in danger, have to resque
+- Crime appened and needs to be solved
+- Somebody hurt you
+- Enemies attack your castle
+- You've met a girl who is ignoring you
+- Once in a lifetime opportunity that you need to win whatever it takes
+- Somebody is chacing you
+- You're out of money and out of stuff
+- Your best friends had a huge fight and now hate each other
+- Somebody gave you something very dangerous to take care of(like a pet)
+- 
+More specific:  
+
+
+Also I might probably need an antagonist.
+
+
+#prj I could totally make prompts =)
+- 2 protagonist characters.
+- One antagonist.
+- Setting(scifi/place)
+- Goal/IInc
+Optional:  
+- Genre
+- Controlling idea(essay/lesson to learn)
+- Secondary
+//something to munchkin? what do these rationalist guys do again? Solve a thing?
+//additional challenge - x number of words, start with a letter, make it rhyme, make it start with "banana" and end with "ostritch"
+//Image!!
+//Submit yours. Basically just shoot me a message with ideas on how to improve.
+//de-bono jumps!! reverse, exaggerate, random word. Breakdown.
+////story structure? cards and blahblahblah. probably not.
+interface?
+random prompt
+(update all, update this one),
+list of all the options(I'm making a thing for myself, not for dummies)
+tools.om.io
+- writing prompts
+- creative thinking tools
+- story structure and stuff. Questions you need to ask. 
+  //Textbook improving a thing.
+////planning organizing and visionary and shit. nah. just use emacs =)
+
+
+Alright, interesting!! IInc actually seems to be the most helpful.
+
+
+So.

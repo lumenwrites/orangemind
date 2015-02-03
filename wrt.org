@@ -111,8 +111,72 @@ Diverse short stories(/premises):
 - Illegal underground Science research lab. //fringe
 - Element magic + knights/fantasy //Airbender + GOT
 
+- Pyramides
+- Stanford/MIT
+- Hot startup
+- Boston Dynamics/google R&D
+- Canada
+- Australia
+- Small town
+- New York
+- Law firm
+- Collegehumor workplace
+- Mancave, xbox, couch
+- Hollywood
+- Small african village
+- Detroit
+- Metro
+- Submarine
+- Jet
+- Abandoned hydron collider or such
+- Small tropical island
+- 
+
+
+Professions:
+- Scientist/Mathematitian/Engineer/Programmre
+- PUA
+- Detective
+- CEO
+- Writer/Artist
+- Drug dealer
+- Douchebag Lawyer
+- Evil Machiavellian polititian(not only in politics, in any field)
+- 
+  
+//Check all of them in the past/present/future
 
 * Characters
+Universal core chars:
+> Main
+Hermiony //Kaylee?
+Juno     //Robin/Lindsay,
+Harry,   //Frank/House/WW/etc
+Twins    //Barney
+Draco.   //
+
+> Secondary
+Jeff
+Marshal/Seth/Turtle,
+Abed,
+Captain,
+
+> Other
+Louie Ck
+Michael Cera
+Shirley
+Pierce/Chang/Dean
+Troy
+Luna
+Grandma Tyrell
+
+
+- Violet(Juno)
+- Dash(Twins)
+- Kyle(Harry)
+- Pyro(Kylee)
+- Magneto(Troy?)
+- Seer(Luna+bright/positive/cheerful)
 
 - Max - hacker. satanist/house/harry /security
 - Amber - engineer. kaylee. / hardware
@@ -158,7 +222,31 @@ Satanist(Silicon Valley), Displeasing,
     Retain a memory of a girl(Eternal sunshine)
     Win at political stuff
 
-  
+** IInc?
+- Somebody attacks you on the street
+- Aliens/other dimension creatures are coming
+- Dark overlord rises
+- Competition/sport
+- You got setup for a crime
+- Stray in a dangerous place
+- Priceless artifact has been stolen
+- Your friend is in danger, have to resque
+- Crime appened and needs to be solved
+- Somebody hurt you
+- Enemies attack your castle
+- You've met a girl who is ignoring you
+- Once in a lifetime opportunity that you need to win whatever it takes
+- Somebody is chacing you
+- You're out of money and out of stuff
+- Your best friends had a huge fight and now hate each other
+- Somebody gave you something very dangerous to take care of(like a pet)
+- 
+More specific:  
+- 
+- 
+- 
+- 
+
 * Source stories
 HPMOR; RaM; futurama; Inception; matrix; Firefly; incredibles; avengers; x-men; train your dragon;star wars;MIB;fallout
 pinky and brain; airbender; got; lost; pirates of the carribean;batman;LOTR; fight club; terminator; alien;liar liar; mask; jurrasic parck; resident evil;
@@ -171,7 +259,87 @@ silicon valley; californication; fringe; lost; community; HIMYM; walking dead; f
   Yes, that too. Be creative.
 - Mystery/Whodunit //sherlock. Remember yam killing.
 
+* De-bono
+Topic/area/niche > breakdown, concrete
   
+** Focus/Creative pause:
+- ask a question nobody has asked before
+- pick a random thing and decide to challenge/improve it.  
+   
+- Boring mediocre cliches/default assumptions.
+- Things to improve, problems to solve.
+- challenge everything and ask why?
+   
+** Challenge:
+- General "new ideas in the area x"
+- Improve "How to improve x?"
+- Solve. What's wrong with it?
+  Solve problem "Is there a problem? How can I solve it?"
+- DBC - Why are we doing it this way? Better way?
+- Drop/escape it - what would we do without it?
+  Alternatives?
+– Achieve  
+
+** Jump:
+Goal - create:
+crazy/very-not-true/wrong/over-the-top/wide-gap
+(comic reality? Looking for crazy.)
+
+- Reversal
+- Exaggeration
+- Random
+- Reorder
+- Connect to field
+- Perspective (Max angle)
+- Straightforward
+  
+
+** Move: //~crazy association?? by seriously thinking on crazy stuff??
+Goal - create/find crazy/new
+connection/association/reinterpretation/alternative
+by seriously thinking on crazy stuff.
+(Rationally explain the insane thing, and this is how you find a conector??)
+
+- Positive aspect
+- Difference
+- Imagine
+- Situation in which it could be useful
+  
+** Types of connectors
+- Explanation
+- Outcome
+- Behavior
+- Reaction
+- Interpretation
+- Assumption
+- My opinion
+- Meaning(word/phrase)
+//metaphor  
+  
+** Tools  
+- Breakdown
+  Find a concrete
+- Branch away on different levels
+- List of 5 things
+- Find the core, get rid of fluff.
+
+- Connector(on multiple levels) > Alternatives!! //> exaggerate the gap
+- Jump(crazy) > Move(seriously thinking on crazy stuff, finding an association)  
+
+Once you've got new idea - unfold/essay.
+
+** Comedy
+//General vibe(maybe sometimes has something to do with):
+
+- crazy/very-not-true/wrong/over-the-top/wide-gap
+- connection/association/reinterpretation/alternative
+- seriously think on crazy stuff.
+- break/defeat/shatter the pattern/assumption/expectation
+- wrong prediction/expectation/assumption
+quick deletion of a false version/old-pattern
+detect mistaken reasoning
+   
+
 * Essays
 *** Creativity
 ***** DeBono Creativity Inventions
