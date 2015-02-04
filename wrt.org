@@ -339,7 +339,26 @@ Once you've got new idea - unfold/essay.
 - wrong prediction/expectation/assumption
 quick deletion of a false version/old-pattern
 detect mistaken reasoning
-   
+
+
+Whoah, it can be humongously valuable and convenient!!
+Maybe that's too much, there's so many types of everything in every situation.
+Well, I can at least miss certain kinds of stuff I want to often check/not miss.
+>>>> Elements/Assumtions:
+- Setting. Environment.
+  - Objects. Surrounding. Stuff you're using. Parts of the objects(wheels in a car),
+  - Purpose of an object
+  - Cloth
+  - Environment - room, road, etc?
+  - Other characters you interact with.
+- Character's actions(?). Character Behavior/Reaction to something.
+- Character's opinion on something. Character's attitude/motivation.
+- Explanation/Interpretation of this situation
+- Expected outcome
+- ++++ find more. that kind of stuff.
+- Meaning(word/phrase)
+//metaphor
+
 
 * Essays
 *** Creativity
