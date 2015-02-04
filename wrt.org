@@ -304,7 +304,8 @@ by seriously thinking on crazy stuff.
 - Difference
 - Imagine
 - Situation in which it could be useful
-  
+
+// why? how? explain? imagine?
 ** Types of connectors
 - Explanation
 - Outcome

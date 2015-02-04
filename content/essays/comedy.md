@@ -9,7 +9,7 @@ My goal is to explain how comedy works, and to understand the process of writing
 If I am successful, I will be able to teach a person who has no experience of writing comedy to write jokes at will, whenever he wants.
 
 Everything below is my hypothesis about how comedy works, and if it is correct, after reading and understanding this post, you should be able to take a setup, go through a series of steps, and end up writing a joke(s).
-
+<!-- regardless of how good they are, just has to be recognizable as a joke -->
 
 ## Background (how mind works)
 
@@ -51,14 +51,18 @@ This kind of a situation usually have this kind of ouctome
 	I see man and woman holding hands > they are probably in love
 When I see a certain kind of a situation it usually has this explanation.
 
-**Types of Lanes**(thinking patterns):  
+**Examples of kinds of Lanes**(thinking patterns):  
 
-- *prediction* a person makes about what will happen, his *expectations*
-- or his *explanation* of what is going on in this
-- all of the *assumptions* that he makes about what he perceives
+- *prediction* a person makes about what will happen,
+- his *expectations* about the *outcome* of this situation
+- or his *explanation* of what is going on in this situation
+- all of the *assumptions* that he makes
 - his *interpretations* of what's going on
 - etc
 
+Basically lanes are the "trails of thought", everything that you consciously "think" about a situation, or unconsciously expect to be true.
+
+<!--
 ### New ideas and inventions
 
 Examples above were the examples of the "default" lanes.
@@ -68,88 +72,225 @@ When scientist invent new laws or formulas - they are essentially finding new (u
 
 When writers write fiction, they setup situations and then show the unexpected outcomes.
 
-People value new thinking patterns very much and enjoy learning them<!-- (especially when they are valuable) -->. Similarly people value destroying the wrong patterns(finding mistakes in their thinking).
+People value new thinking patterns very much and enjoy learning them<!-- (especially when they are valuable). Similarly people value destroying the wrong patterns(finding mistakes in their thinking).
 
 I have a strong viceral sense that the concepts of curiosity, creativity, and comedy have something very similar with each other. Based on that theory of mind, here are quick definitions of creativity and curiosity:
 
 Creativity is the process of finding/creating the new patterns.
 
 Curiosity is what people experience when they are faced with a question that they can not predict the outcome of. The more valuable it is to predict that outcome the more curious people are.
-	
-## What is comedy
+-->
+
+## Comedy
+
+What is comedy?
 
 ### Comedy happens when:  
-A person realizes that the assumption(based on a default thinking pattern) <!-- *(that he was not aware of?)*   --> that he made about a situation was (very)wrong, and as a result he *detects mistaken reasoning and quickly deletes of a false version/old-pattern*  
+A person realizes that the assumption(based on a default thinking pattern) that he made about a situation was (very)wrong, and as a result he *detects mistaken reasoning (that he was not aware of?) and quickly deletes a false version/old-pattern*,
 and that's when he laughs.  
 
+In other words, comedy happens when:
+Something *break/defeats/shatters* the default *thinking pattern/prediction/explanation/expectation/assumption/interpetation*.
+
+In other words, a person laughs when he recognizes that the lane he took was *very* wrong, and as a result
+*his thinking quickly switches to the unexpected, alternative lane*.  
 
 
-*thinking pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
-
-(default lane and alternative lane)
+**Default lane** - default thinking pattern, everything that you think/predict/expect/assume/interpret/etc by default.  
+**The 2nd(alternative) lane** - a new lane that your thinking switches to when you hear the punch-line of the joke.
 
 ### To achieve that effect, your goal is to:
-*break/defeat/shatter* the default  
-*pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
 
 ### To do that you need to
-find an alternative *pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
-that is *very different* from the default one that a person has made,
+Find an alternative lane(*pattern/prediction/explanation/expectation/assumption/interpetation/outcome*) that is *very different* from the default lane that a person took,
 but *compatible with the information you have, makes sense in the hindsight.*
+
+The alternative lane is what turns out to be the true perception of reality, but is very different from what is expected.
+
+**The Wide Gap**  
+*Gap* is, well, a gap between the default lane and an alternative lane. The difference between the default perception of the reality and an alternative one.
+
+The wider the gap - the better.
+
+That is why, a good ways to thinnk about the 2nd lane are:
+- Crazy alternative
+- Very-not-true interpretation
+- "Wrong "interpretation
+- Over-the-top
+
 
 <br/>
 
-## Joke structure.
+### Joke structure.
+
+Every joke has a setup and a punch line.
+
+**Setup** is what creates(sets-up) a "default" lane, and **punch** is what reveals the 2nd, "alternative" lane.
+
+**Connector** - is the element of a joke that is compatible with both lanes.
+It is a thing that can be interpreted in 2 ways, that makes both the default and the alternative lane possible.
+
+*connection/association/explanation* that is compatible with both lanes, that connects them.
+
+Example of a joke(from a book "Step by Step to Stand up comedy" by Greg Dean):
+> My grandfather died peacefully in his sleep.... But the kids on the bus were screaming.
+
 [![Joke Structure](/images/joke-structure.png)](/images/deep-learning/deep-learning-roadmap.png)
 
+*"1st Story" in this diagram is the same as the "default lane", and "2nd Story" is the same as the "alternative lane". That's just what writer calls them, I use my own terminology because I think it's better.
+*
 
-### **Example:**
+In this joke, when you hear the **setup**(*My grandfather died peacefully in his sleep....*)
+your brain creates a **thinking pattern(assumption, lane)** - *you imagine an old man lying peacefully in his bed*, when you hear the **punch-line**(*But the kids on the bus were screaming.*) you immediately switch lanes(*image of a bus and a sleeping driver*), you realize that your default interpretation of the reality was *very* wrong, your brain detects the mistaken pattern, and that's when you laugh.
+
+### Another Example:
 
 >	Doctor's appointment.  
 	- I'm sorry, but you will have to stop masturbating.  
 	- But why?  
 	- So I could examine you.  
 
-Explanation:
+**Default lane**: Image of a doctor, patient, the doctor gives him advice.  
+**Alternative lane**: Image of a dude jerking off in front of the doctor.
 
-**Default lane**: Doctor, patient, doctor gives him advice.  
-**Alternative lane**: Dude jerks off in front of the doctor.
-
-<br/>
-
-It is *compatible with the information given, makes sense in the hindsight.* Yet your
-*pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
+The alternative lane is *compatible with the information given, makes sense in the hindsight.* Yet your *pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
 was *very wrong*.
 
+
+### Importance of the connector
+
+Nonsequitir. Just something crazy but not funny.
+
 <br/>
 
+### Types of connectors
+Types of connectors are similar to the types of lanes you can have.
 
+- Explanation
+- Outcome
+- Behavior
+- Reaction
+- Interpretation
+- Assumption
+- My opinion
+- Meaning(word/phrase)
+- //metaphor  
 
-### The main challenge in comedy
-is finding that *(very-not-true)alternative.*  
-That is both *(very)different* and *'wrong',*  
+## The main challenge in comedy
+The main challenge in comedy is  
+finding that 2nd lane, *(very unexpected alternative),*   
+that is **both**  
+*crazy/very-not-true/wrong/over-the-top/unexpected*  
 and at the same time  
 *compatible, makes sense in the hindsight.*
 
-<br/>
+This is what makes it hard.
 
-### There are 3 ways to do that.
+Finding an alternative explanation that makes sense is easy, you just list all the possible explanations that make sense. But it will not be funny.(*example*)
+
+Finding a crazy idea is also easy("I'm afraid that you have to stop masturbating - But why? - because fish live under water". "My grandfather died peacefully in his sleep.... But humans can breathe in space") - but it will be just that, crazy. It will not be funny because it is not connected or associated with a setup in any way.
+
+The second lane should be **both** *very* crazy, **and** make a lot of sense in retrospect, be a viable explanation for what is going on.
+
+
+## Finding the alternative lane
+
+There are 3 ways to do that.
 
 #### 1 Connectors > Crazy Alternatives
-Look at all the elements/properties of the situation that you have  
-(connectors)  
-(that may have double meaning, (very not true)alternative explanation/etc)  
-and look for them  
+Search for things(possible connectors) that have double meanings or 2 alternative explanations/interpretations/etc.
 
-#### 2 Crazy Alternatives > Connectors
-Come up with a crazy idea first, and then 'move', find a way to connect it  
+Or - take a situation(setup) and look at all the elements/properties that may have double meanin/nterpretations, and try to find the alternative lanes.
+
+This is probably the way that most of the double entendres are made, and most of the jokes based on the words with double meaning.
+
+This method seems very simple and straightforward. The downside of this method is that sometimes it's hard to find connectors with 2 lanes from a setup/situation.
+
+Also it is hard to imagine how a lot of high-level jokes or funny stories to be made using this method.
+
+#### 2 Misdirection.
+
+You can phrase a setup in a way that misleads a person into wrong lanes, creates wrong assumptions.
+
+In this method you basically start with a 2nd lane(the one that the punch line) is based on, and then you come up with a setup that is compatible with it, but strongly suggest a different meaning.
+
+> example 
+
+this method is weird and I'm mentioning it just because I think comedians are often using it.
+
+<br/>
+
+#### 3 Jump>Move
+
+This method is more complex, and requires understanding of some new concepts, but I also think that it is the most interesting and the most universal one.
+
+It is the main reason I am writing this article, I am hoping that it will be possible to create more complex and high-level types of comedy with this method.
+
+Creation of a lot of the most hilarious comedy(xkcd, community) is unlikely to be explained by the first 2 methods, but I think that this one *may* be formalizing the thinking process really cool comedians are going through, but are struggling to explain.
+
+Rest of the article explains the concepts you need to understand to use it and the steps for doing that.
+
+## Jump>Move
+
+The main idea is to  
+- start with creating the crazy idea (crazy lane, 3rd lane, not connected lane)  
+and /then/  
+- find/create a connector and the 2nd lane, in the process of moving??
+
+I call these 2 steps "*jump*" and "*move*".(I explain why use these names later)
+
+Come up with a crazy idea first("*jump*"), and then find a way to connect it("*move*").
+
+**Jump** is the step where you create an unconnected *crazy idea*, the 3rd lane.
+
+<!-- **Move** this is where you find a connector, the *crazy association*. -->
+
+**Move** this is where you find a the *crazy association*, try find a connection between the "crazy idea" and reality. 
+
+Important thing: the 2nd lane is **not** the same as the "crazy idea". You find the second lane in the process of trying to connect the "crazy idea" with the reality?
+
+Just trying to make crazy idea make sense will not work?
+
+>>>> 2nd lane lies inbetween the "crazy" lane idea and the "default" lane??
+
+
+This steps connects the 2 lanes, make the "crazy idea" sensible in the hindsight, and that makes a joke.
 
 
 
+### Jump
+Goal - create  
+*crazy/very-not-true/wrong/over-the-top/wide-gap*
+crazy alternative.
+(comic reality? Looking for crazy.)
 
+- Reversal
+- Exaggeration
+- Random
+- Reorder
+- Connect to field
+- Perspective (Max angle)
+- Straightforward
 
-<!-- #### 3 Misdirection -->
-<!-- //You can use misdirection   -->
+### Move //~crazy association??
+Goal - create/find crazy/new  
+connection/association/reinterpretation/alternative  
+by seriously thinking on crazy stuff.  
+(Rationally explain the insane thing, and this is how you find a conector??)
+
+- Positive aspect
+- Difference
+- Imagine
+- Situation in which it could be useful
+
+// why? how? explain? imagine?
+
+//thoughts sparkling through gaps between default and crazy.
+
+shirley/annie - buddy/detectives.
+You don't have to find the association, you can make one.
+(//with a strong frame)
+
 
 
 <!-- Example of writing a joke -->
@@ -161,7 +302,7 @@ Come up with a crazy idea first, and then 'move', find a way to connect it
 <!-- Theory of comedy. Prediction: J should be able to write a joke based on these setups. -->
 
 
-<!-- Request -->
+<!-- Request
 If anything is confusing or unclear to you - please leave a comment.
 If you have any questions - let me know.
 Also please take the setups that I've provided, and try writing a joke based on them.
@@ -172,13 +313,15 @@ If you need help at one of the steps or more examples - tell me.
 And the success rate, how many of the attempts resulted in a joke.
 
 Also if this post helped you and you are feeling grateful, the best thing you can do(besides leaving feedback) - is to share this post with your friends or on social networks.
+ -->
 
 <!-- Disclaimer -->
 <!-- Because everything above is just hypothesis, some or all of the ideas may be inaccurate and wrong, and are up to refinement/improvement.-->
 
 <!-- Credit: -->
-<!-- Credit to a lot of these ideas goes to Jeff Hawkins, Greg Dean and Edward De-Bono -->
+<!-- Credit to a lot of these ideas goes to Jeff Hawkins, Greg Dean and Edward De-Bono, these other dudes -->
 
+<!-- I have a theory that explains the process of coming up with new jokes and ideas, and I need some feedback -->
 <br/>
 
 
