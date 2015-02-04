@@ -86,77 +86,161 @@ Curiosity is what people experience when they are faced with a question that the
 and that's when he laughs.  &lt;/p&gt;
 &lt;p&gt;In other words, comedy happens when:
 Something &lt;em&gt;break/defeats/shatters&lt;/em&gt; the default &lt;em&gt;thinking pattern/prediction/explanation/expectation/assumption/interpetation&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;In other words, a person laughs when he recognizes that the lane he took was &lt;em&gt;very&lt;/em&gt; wrong, and as a result
+&lt;p&gt;In yet other words, and this is the main definition I will be using here, a person laughs when he recognizes that the lane he took was &lt;em&gt;very&lt;/em&gt; wrong, and as a result
 &lt;em&gt;his thinking quickly switches to the unexpected, alternative lane&lt;/em&gt;.  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Default lane&lt;/strong&gt; - default thinking pattern, everything that you think/predict/expect/assume/interpret/etc by default.&lt;br /&gt;
 &lt;strong&gt;The 2nd(alternative) lane&lt;/strong&gt; - a new lane that your thinking switches to when you hear the punch-line of the joke.&lt;/p&gt;
 &lt;h3&gt;To achieve that effect, your goal is to:&lt;/h3&gt;
-&lt;h3&gt;To do that you need to&lt;/h3&gt;
 &lt;p&gt;Find an alternative lane(&lt;em&gt;pattern/prediction/explanation/expectation/assumption/interpetation/outcome&lt;/em&gt;) that is &lt;em&gt;very different&lt;/em&gt; from the default lane that a person took,
 but &lt;em&gt;compatible with the information you have, makes sense in the hindsight.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The alternative lane is what turns out to be the true perception of reality, but is very different from what is expected.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Wide Gap&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Gap&lt;/em&gt; is, well, a gap between the default lane and an alternative lane. The difference between the default perception of the reality and an alternative one.&lt;/p&gt;
-&lt;p&gt;The wider the gap - the better.&lt;/p&gt;
-&lt;p&gt;That is why, a good ways to thinnk about the 2nd lane are:
-- Crazy alternative
-- Very-not-true interpretation
-- "Wrong "interpretation
-- Over-the-top&lt;/p&gt;
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h3&gt;Joke structure.&lt;/h3&gt;
-&lt;p&gt;Every joke has a setup and a punch line.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt; is what creates(sets-up) a "default" lane, and &lt;strong&gt;punch&lt;/strong&gt; is what reveals the 2nd, "alternative" lane.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Connector&lt;/strong&gt; - is the element of a joke that is compatible with both lanes.
-It is a thing that can be interpreted in 2 ways, that makes both the default and the alternative lane possible.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;connection/association/explanation&lt;/em&gt; that is compatible with both lanes, that connects them.&lt;/p&gt;
-&lt;p&gt;Example of a joke(from a book "Step by Step to Stand up comedy" by Greg Dean):&lt;/p&gt;
+&lt;p&gt;Every joke has a &lt;strong&gt;setup&lt;/strong&gt; and a &lt;strong&gt;punch-line&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt; is what creates(sets-up) a "default" lane.&lt;br /&gt;
+Think of a lane as an underlying trail of thoughts, and of the setup as just words(or images, or behaviors, or situations - depending on the form of a comedy) that expresses this lane.&lt;br /&gt;
+The goal of a setup is to cause person to make certain assumptions/predictions/etc, to take the 1st lane of thought.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Punch&lt;/strong&gt; is what reveals the 2nd, "alternative" lane.&lt;br /&gt;
+It is also just words(or images/etc), that express the underlying alternative lane of thinking.  &lt;/p&gt;
+&lt;p&gt;Example of a joke:  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;My grandfather died peacefully in his sleep.... But the kids on the bus were screaming.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href="/images/deep-learning/deep-learning-roadmap.png"&gt;&lt;img alt="Joke Structure" src="/images/joke-structure.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;"1st Story" in this diagram is the same as the "default lane", and "2nd Story" is the same as the "alternative lane". That's just what writer calls them, I use my own terminology because I think it's better.
-&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In this joke, when you hear the &lt;strong&gt;setup&lt;/strong&gt;(&lt;em&gt;My grandfather died peacefully in his sleep....&lt;/em&gt;)
 your brain creates a &lt;strong&gt;thinking pattern(assumption, lane)&lt;/strong&gt; - &lt;em&gt;you imagine an old man lying peacefully in his bed&lt;/em&gt;, when you hear the &lt;strong&gt;punch-line&lt;/strong&gt;(&lt;em&gt;But the kids on the bus were screaming.&lt;/em&gt;) you immediately switch lanes(&lt;em&gt;image of a bus and a sleeping driver&lt;/em&gt;), you realize that your default interpretation of the reality was &lt;em&gt;very&lt;/em&gt; wrong, your brain detects the mistaken pattern, and that's when you laugh.&lt;/p&gt;
-&lt;h3&gt;Another Example:&lt;/h3&gt;
+&lt;p&gt;Another Example:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Doctor's appointment.&lt;br /&gt;
     - I'm sorry, but you will have to stop masturbating.&lt;br /&gt;
     - But why?&lt;br /&gt;
     - So I could examine you.  &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Default lane&lt;/strong&gt;: Image of a doctor, patient, the doctor gives him advice.&lt;br /&gt;
-&lt;strong&gt;Alternative lane&lt;/strong&gt;: Image of a dude jerking off in front of the doctor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;: "Doctor's appointment. 'I'm sorry, but you will have to stop masturbating.' 'But why?'"&lt;br /&gt;
+&lt;strong&gt;Default lane&lt;/strong&gt;: Image of a doctor, a patient, the doctor gives him healthcare advice.&lt;br /&gt;
+&lt;strong&gt;Alternative lane&lt;/strong&gt;: Image of a dude jerking off in front of the doctor.&lt;br /&gt;
+&lt;strong&gt;Punch&lt;/strong&gt;: "So I could examine you."&lt;/p&gt;
 &lt;p&gt;The alternative lane is &lt;em&gt;compatible with the information given, makes sense in the hindsight.&lt;/em&gt; Yet your &lt;em&gt;pattern/prediction/explanation/expectation/assumption/interpetation/outcome&lt;/em&gt;
 was &lt;em&gt;very wrong&lt;/em&gt;.&lt;/p&gt;
-&lt;h3&gt;Importance of the connector&lt;/h3&gt;
-&lt;p&gt;Nonsequitir. Just something crazy but not funny.&lt;/p&gt;
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h3&gt;Types of connectors&lt;/h3&gt;
-&lt;p&gt;Types of connectors are similar to the types of lanes you can have.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Explanation&lt;/li&gt;
-&lt;li&gt;Outcome&lt;/li&gt;
-&lt;li&gt;Behavior&lt;/li&gt;
-&lt;li&gt;Reaction&lt;/li&gt;
-&lt;li&gt;Interpretation&lt;/li&gt;
-&lt;li&gt;Assumption&lt;/li&gt;
-&lt;li&gt;My opinion&lt;/li&gt;
-&lt;li&gt;Meaning(word/phrase)&lt;/li&gt;
-&lt;li&gt;//metaphor  &lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2&gt;The main challenge in comedy&lt;/h2&gt;
-&lt;p&gt;The main challenge in comedy is&lt;br /&gt;
-finding that 2nd lane, &lt;em&gt;(very unexpected alternative),&lt;/em&gt; &lt;br /&gt;
-that is &lt;strong&gt;both&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;crazy/very-not-true/wrong/over-the-top/unexpected&lt;/em&gt;&lt;br /&gt;
+&lt;p&gt;In the description of the alternative lane, there are 2 very important points, &lt;strong&gt;both&lt;/strong&gt; of which should &lt;strong&gt;necessarily&lt;/strong&gt; be true.&lt;/p&gt;
+&lt;p&gt;The main challenge in comedy is finding that 2nd, alternative lane, that is &lt;strong&gt;both&lt;/strong&gt;:&lt;br /&gt;
+&lt;em&gt;crazy/very-not-true/wrong/over-the-top/extremely-unexpected/very-different&lt;/em&gt;&lt;br /&gt;
 and at the same time&lt;br /&gt;
-&lt;em&gt;compatible, makes sense in the hindsight.&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;compatible with the setup, consistent with the information given, makes sense in the hindsight.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This is what makes it hard.&lt;/p&gt;
-&lt;p&gt;Finding an alternative explanation that makes sense is easy, you just list all the possible explanations that make sense. But it will not be funny.(&lt;em&gt;example&lt;/em&gt;)&lt;/p&gt;
-&lt;p&gt;Finding a crazy idea is also easy("I'm afraid that you have to stop masturbating - But why? - because fish live under water". "My grandfather died peacefully in his sleep.... But humans can breathe in space") - but it will be just that, crazy. It will not be funny because it is not connected or associated with a setup in any way.&lt;/p&gt;
-&lt;p&gt;The second lane should be &lt;strong&gt;both&lt;/strong&gt; &lt;em&gt;very&lt;/em&gt; crazy, &lt;strong&gt;and&lt;/strong&gt; make a lot of sense in retrospect, be a viable explanation for what is going on.&lt;/p&gt;
+&lt;p&gt;Hence - the following 2 concepts:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Wide Gap&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Gap&lt;/em&gt; is, well, a gap between the default lane and an alternative lane. The difference between the default perception of the reality and an alternative one.&lt;/p&gt;
+&lt;p&gt;The wider the gap - the better.
+It is very important for the 2nd lane to be &lt;strong&gt;very&lt;/strong&gt; different, &lt;strong&gt;extremely&lt;/strong&gt; unexpected. It should seem "crazy".&lt;/p&gt;
+&lt;p&gt;That is why, some good ways to thinnk about the 2nd lane are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Crazy alternative&lt;/li&gt;
+&lt;li&gt;Very-not-true interpretation&lt;/li&gt;
+&lt;li&gt;"Wrong "interpretation&lt;/li&gt;
+&lt;li&gt;Over-the-top&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The Nexus&lt;/strong&gt;&lt;br /&gt;
+The nexus is what makes the 2nd compatible with the setup, consistent with the information given, makes sense in the hindsight.&lt;/p&gt;
+&lt;p&gt;The 2nd lane should seem "crazy", but also "true". For a person to switch lanes of thinking he has to believe the 2nd lane, buy-into it.&lt;/p&gt;
+&lt;p&gt;Important thing to note - is that the 2nd lane should be compatible/consistent with the &lt;em&gt;information given in setup&lt;/em&gt;, but &lt;em&gt;not necessarily&lt;/em&gt; with the real world as we expect it to be. That is what allows it to be "crazy" and "true" at the same time. It is "true" to the setup, it is connected/associated with it in some way, but it is extremely unexpected or just completely crazy compared to reality.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Finding a 2nd lane with both of these elements is what makes comedy challenging.&lt;/p&gt;
+&lt;p&gt;Finding a 2nd lane that is compatible with the setup is easy, you just list all the possible explanations/outcomes/etc that make sense. But it will not be funny, it will be just boring.
+(&lt;em&gt;example&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Finding a crazy idea that is not compatible with the setup is also easy, you just list random unrelated crazy things, but it will be just that - crazy. It will not be funny because it is not connected or associated with a setup in any way, it is just a nonsequitir.&lt;/p&gt;
+&lt;!-- Finding an alternative explanation that makes sense is easy, you just list all the possible explanations that make sense. But it will not be funny.(*example*)
+
+Finding a crazy idea is also easy("I'm afraid that you have to stop masturbating - But why? - because fish live under water". "My grandfather died peacefully in his sleep.... But humans can breathe in space") - but it will be just that, crazy. It will not be funny because it is not connected or associated with a setup in any way.
+
+The second lane should be **both** *very* crazy, **and** make a lot of sense in retrospect, be a viable explanation for what is going on.
+
+
+**The Wide Gap**  
+*Gap* is, well, a gap between the default lane and an alternative lane. The difference between the default perception of the reality and an alternative one.
+
+The wider the gap - the better.
+
+That is why, a good ways to thinnk about the 2nd lane are:
+- Crazy alternative
+- Very-not-true interpretation
+- "Wrong "interpretation
+- Over-the-top
+
+
+&lt;br/&gt;
+
+### Joke structure.
+
+Every joke has a setup and a punch line.
+
+**Setup** is what creates(sets-up) a "default" lane, and **punch** is what reveals the 2nd, "alternative" lane.
+
+**Connector** - is the element of a joke that is compatible with both lanes.
+It is a thing that can be interpreted in 2 ways, that makes both the default and the alternative lane possible.
+
+*connection/association/explanation* that is compatible with both lanes, that connects them.
+
+Example of a joke(from a book "Step by Step to Stand up comedy" by Greg Dean):
+&gt; My grandfather died peacefully in his sleep.... But the kids on the bus were screaming.
+
+[![Joke Structure](/images/joke-structure.png)](/images/deep-learning/deep-learning-roadmap.png)
+
+*"1st Story" in this diagram is the same as the "default lane", and "2nd Story" is the same as the "alternative lane". That's just what writer calls them, I use my own terminology because I think it's better.
+*
+
+In this joke, when you hear the **setup**(*My grandfather died peacefully in his sleep....*)
+your brain creates a **thinking pattern(assumption, lane)** - *you imagine an old man lying peacefully in his bed*, when you hear the **punch-line**(*But the kids on the bus were screaming.*) you immediately switch lanes(*image of a bus and a sleeping driver*), you realize that your default interpretation of the reality was *very* wrong, your brain detects the mistaken pattern, and that's when you laugh.
+
+### Another Example:
+
+&gt;   Doctor's appointment.  
+    - I'm sorry, but you will have to stop masturbating.  
+    - But why?  
+    - So I could examine you.  
+
+**Default lane**: Image of a doctor, patient, the doctor gives him advice.  
+**Alternative lane**: Image of a dude jerking off in front of the doctor.
+
+The alternative lane is *compatible with the information given, makes sense in the hindsight.* Yet your *pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
+was *very wrong*.
+
+### Importance of the connector
+
+Nonsequitir. Just something crazy but not funny.
+
+&lt;br/&gt;
+
+### Types of connectors
+Types of connectors are similar to the types of lanes you can have.
+
+- Explanation
+- Outcome
+- Behavior
+- Reaction
+- Interpretation
+- Assumption
+- My opinion
+- Meaning(word/phrase)
+- //metaphor  
+
+## The main challenge in comedy
+The main challenge in comedy is  
+finding that 2nd lane, *(very unexpected alternative),*   
+that is **both**  
+*crazy/very-not-true/wrong/over-the-top/unexpected*  
+and at the same time  
+*compatible, makes sense in the hindsight.*
+
+This is what makes it hard.
+
+Finding an alternative explanation that makes sense is easy, you just list all the possible explanations that make sense. But it will not be funny.(*example*)
+
+Finding a crazy idea is also easy("I'm afraid that you have to stop masturbating - But why? - because fish live under water". "My grandfather died peacefully in his sleep.... But humans can breathe in space") - but it will be just that, crazy. It will not be funny because it is not connected or associated with a setup in any way.
+
+The second lane should be **both** *very* crazy, **and** make a lot of sense in retrospect, be a viable explanation for what is going on.
+
+--&gt;
+
 &lt;h2&gt;Finding the alternative lane&lt;/h2&gt;
 &lt;p&gt;There are 3 ways to do that.&lt;/p&gt;
 &lt;h4&gt;1 Connectors &amp;gt; Crazy Alternatives&lt;/h4&gt;
@@ -179,13 +263,26 @@ and at the same time&lt;br /&gt;
 &lt;p&gt;Creation of a lot of the most hilarious comedy(xkcd, community) is unlikely to be explained by the first 2 methods, but I think that this one &lt;em&gt;may&lt;/em&gt; be formalizing the thinking process really cool comedians are going through, but are struggling to explain.&lt;/p&gt;
 &lt;p&gt;Rest of the article explains the concepts you need to understand to use it and the steps for doing that.&lt;/p&gt;
 &lt;h2&gt;Jump&amp;gt;Move&lt;/h2&gt;
-&lt;p&gt;The main idea is to&lt;br /&gt;
-- start with creating the crazy idea (crazy lane, 3rd lane, not connected lane)&lt;br /&gt;
-and /then/&lt;br /&gt;
-- find/create a connector and the 2nd lane, in the process of moving??&lt;/p&gt;
-&lt;p&gt;I call these 2 steps "&lt;em&gt;jump&lt;/em&gt;" and "&lt;em&gt;move&lt;/em&gt;".(I explain why use these names later)&lt;/p&gt;
-&lt;p&gt;Come up with a crazy idea first("&lt;em&gt;jump&lt;/em&gt;"), and then find a way to connect it("&lt;em&gt;move&lt;/em&gt;").&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jump&lt;/strong&gt; is the step where you create an unconnected &lt;em&gt;crazy idea&lt;/em&gt;, the 3rd lane.&lt;/p&gt;
+&lt;p&gt;This method consists of 2 separate steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create a crazy idea("jump")
+p&lt;!-- (crazy lane, 3rd lane, not connected lane) --&gt;&lt;/li&gt;
+&lt;li&gt;Find a way to connect/associate/make it compatible with the reality, 
+&lt;!-- make it "make sense". Find/create a connector and the 2nd lane, in the process of moving?? --&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Background (why this method works)&lt;/h3&gt;
+&lt;p&gt;So, our brains think in patterns.&lt;br /&gt;
+And creativity/comedy/inventions rely on finding/creating the new patterns.&lt;br /&gt;
+But how do you go about that?  &lt;/p&gt;
+&lt;p&gt;When you follow your default, familiar trails of thoughts, they will lead you to other default and familiar trails of thoughts.&lt;/p&gt;
+&lt;p&gt;Here, you start with creating an alternative that &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jump&lt;/strong&gt;&lt;br /&gt;
+Jump is a method for intentionally generating "crazy" ideas.&lt;br /&gt;
+These ideas should &lt;em&gt;not&lt;/em&gt; be funny, or creative, or make any sense at all.  &lt;/p&gt;
+&lt;p&gt;The goal of a jump is to createcreate:&lt;br /&gt;
+crazy/very-not-true/wrong/over-the-top/insane ideas.  &lt;/p&gt;
+&lt;!-- is the step where you create an unconnected *crazy idea*, the 3rd lane. --&gt;
+
 &lt;!-- **Move** this is where you find a connector, the *crazy association*. --&gt;
 
 &lt;p&gt;&lt;strong&gt;Move&lt;/strong&gt; this is where you find a the &lt;em&gt;crazy association&lt;/em&gt;, try find a connection between the "crazy idea" and reality. &lt;/p&gt;
