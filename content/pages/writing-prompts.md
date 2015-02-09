@@ -5,17 +5,6 @@ Slug: writing-prompts
 
 | Settings                                           |
 |----------------------------------------------------|
-| ---- **Sci-fi:** ----                              |
-| Agents vs Aliens //MIB                             |
-| Nuclear Postapoc //fallout                         |
-| Laboratory, mice //pinky and brain/ratotuille      |
-| Pirates plus Magic //Pirates of the Carribean      |
-| Robot world //Terminator/WALL-E                    |
-| Alien planet //Alien                               |
-| Dinosaurs //Jurrasic Parck, land before time       |
-| Zombies //Resident Evil/Walking Dead               |
-| Illegal underground Science research lab. //fringe |
-| Element magic + knights/fantasy //Airbender + GOT  |
 | ---- **Locations:**----                            |
 | Pyramides                                          |
 | Stanford/MIT                                       |
@@ -45,6 +34,18 @@ Slug: writing-prompts
 | Drug dealer                                        |
 | Douchebag Lawyer                                   |
 | Evil Machiavellian polititian(in any field)        |
+| ---- **Sci-fi:** ----                              |
+| Agents vs Aliens //MIB                             |
+| Nuclear Postapoc //fallout                         |
+| Laboratory, mice //pinky and brain/ratotuille      |
+| Pirates plus Magic //Pirates of the Carribean      |
+| Robot world //Terminator/WALL-E                    |
+| Alien planet //Alien                               |
+| Dinosaurs //Jurrasic Parck, land before time       |
+| Zombies //Resident Evil/Walking Dead               |
+| Illegal underground Science research lab. //fringe |
+| Element magic + knights/fantasy //Airbender + GOT  |
+
 
 
 | Characters                          |
@@ -85,21 +86,6 @@ Slug: writing-prompts
 
 | Goals/IInc                                                             |
 |------------------------------------------------------------------------|
-| ---- **Goals:** ----                                                   |
-| Fight a villain/opponent                                               |
-| Get out of trouble                                                     |
-| Retrieve an artifact. Find/Steal a thing //inception                   |
-| Resque someone                                                         |
-| Break into/out of something                                            |
-| Solve a crime                                                          |
-| Exact revenge                                                          |
-| Fix what is wrong with the world                                       |
-| Protect a place from an army //whorehouse, alien invasion              |
-| Get/impress a girl/person                                              |
-| Win/close a deal                                                       |
-| Escape from agents/creatures                                           |
-| Take over something //villain, world                                   |
-| Any other goal of value                                                |
 | ---- **IInc:** ----                                                    |
 | Somebody attacks you on the street                                     |
 | Aliens/other dimension creatures are coming                            |
@@ -118,11 +104,25 @@ Slug: writing-prompts
 | You're out of money and out of stuff                                   |
 | Your best friends had a huge fight and now hate each other             |
 | Somebody gave you something very dangerous to take care of(like a pet) |
-|                                                                        |
-
+| ---- **Goals:** ----                                                   |
+| Fight a villain/opponent                                               |
+| Get out of trouble                                                     |
+| Retrieve an artifact. Find/Steal a thing //inception                   |
+| Resque someone                                                         |
+| Break into/out of something                                            |
+| Solve a crime                                                          |
+| Exact revenge                                                          |
+| Fix what is wrong with the world                                       |
+| Protect a place from an army //whorehouse, alien invasion              |
+| Get/impress a girl/person                                              |
+| Win/close a deal                                                       |
+| Escape from agents/creatures                                           |
+| Take over something //villain, world                                   |
+| Any other goal of value                                                |
 
 
 <div style="clear:both;"></div>
+
 
 <style>
 table {

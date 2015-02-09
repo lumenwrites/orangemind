@@ -109,14 +109,14 @@ New patterns are value.
 - Essays
 - Vfx, Sexy ladies, etc.
 
-> drama-plots - basic story. //Cleverness - as in BB.
-- Simulation/Prediction. Situation > what happens next?
-- Simplest story. IInc-goal(climax)-events
-- Boring>interesting.Jump to defeat expectations, curiosity gaps.
-> scifi - ideas, inventions, world building, munchkinism
-> underwood-plots
-> comedy
-//essay ph/pd
+<!--  drama-plots - basic story. //Cleverness - as in BB. -->
+<!-- - Simulation/Prediction. Situation > what happens next? -->
+<!-- - Simplest story. IInc-goal(climax)-events -->
+<!-- - Boring>interesting.Jump to defeat expectations, curiosity gaps. -->
+<!--  scifi - ideas, inventions, world building, munchkinism -->
+<!--  underwood-plots -->
+<!--  comedy -->
+<!-- //essay ph/pd -->
 
 # Pipeline
 
@@ -136,14 +136,18 @@ Fiction:
 - Add textbook story questions
 - //style, improvement, blah blah blah
 
-Total Process:
+
+# Process:
 - Character(s)/Setting/IInc
 - Bottom-up explore. Have a draft of something. Chars in a situation doing stuff.
 - Use it as a setup for comedy.
 //  
-+ Find Goal/Climax(=Plot).
-+ Have a draft with climax.
++ Goal/Climax > Draft with climax = Story
 + Textbook story questions to improve story.
 + Textbook style/grammar/dialogue/etc questions to polish.
 
+# New OM path:
+- Comedy
+- drama-plots - basic story.
+- Scifi/Underwood plots.
 

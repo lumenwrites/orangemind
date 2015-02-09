@@ -2,6 +2,75 @@ Title: Creativity tools
 Date: 2014-12-18 20:30
 Slug: creativity
 
+| Jump:                   |
+|-------------------------|
+| Reversal                |
+| Exaggeration            |
+| Random (to jump)        |
+| Reorder                 |
+| Connect to field        |
+| Perspective (Max angle) |
+
+<!-- | Straightforward         | -->
+  
+
+| Move:                                 |
+|---------------------------------------|
+| Positive aspect                       |
+| Difference                            |
+| Imagine                               |
+| Situation in which it could be useful |
+|                                       |
+| Why? how? explain? imagine?           |
+
+
+| Elements/Assumtions:                                                             |
+|----------------------------------------------------------------------------------|
+| **Setting. Environment.**                                                        |
+| Objects. Surrounding. Stuff you're using. Parts of the objects(wheels in a car), |
+| Purpose of an object                                                             |
+| Cloth                                                                            |
+| Environment - room, road, etc?                                                   |
+| Other characters you interact with.                                              |
+|                                                                                  |
+| Character's actions(?). Character Behavior/Reaction to something.                |
+| Character's opinion on something. Character's attitude/motivation.               |
+| Explanation/Interpretation of this situation                                     |
+| Expected outcome                                                                 |
+| ++++ find more. that kind of stuff.                                              |
+| Meaning(word/phrase)                                                             |
+| metaphor                                                                         |
+
+<!--
+| Connectors           |
+|----------------------|
+| Explanation          |
+| Outcome              |
+| Behavior             |
+| Reaction             |
+| Interpretation       |
+| Assumption           |
+| My opinion           |
+| Meaning(word/phrase) |
+| metaphor             |
+-->  
+
+<div style="clear:both;"></div>
+
+
+
+| Tools                                    |
+|------------------------------------------|
+| Breakdown Find a concrete                |
+| Branch away on different levels          |
+| List of 5 things                         |
+| Boring > Interesting                     |
+| Find the lean core, get rid of fluff.    |
+| Once you've got new idea - unfold/essay. |
+
+<div style="clear:both;"></div>
+
+
 Topic/area/niche > breakdown, concrete
   
 | Focus/Creative pause:                                   |
@@ -21,63 +90,15 @@ Topic/area/niche > breakdown, concrete
 | Solve problem "How can I solve it?"                |
 | Why are we doing it this way? Is there Better way? |
 | Drop/escape it - what would we do without it?      |
-
-<!-- | Alternatives?                                      | -->
-<!-- | Achieve                                            | -->
-
-<!-- <div style="clear:both;"></div> -->
-
-| Jump:                   |
-|-------------------------|
-| Reversal                |
-| Exaggeration            |
-| Random                  |
-| Reorder                 |
-| Connect to field        |
-| Perspective (Max angle) |
-
-<!-- | Straightforward         | -->
-  
-
-| Move:                                 |
-|---------------------------------------|
-| Positive aspect                       |
-| Difference                            |
-| Imagine                               |
-| Situation in which it could be useful |
-|                                       |
-| Why? how? explain? imagine?           |
-
-<div style="clear:both;"></div>
-
-| Connectors           |
-|----------------------|
-| Explanation          |
-| Outcome              |
-| Behavior             |
-| Reaction             |
-| Interpretation       |
-| Assumption           |
-| My opinion           |
-| Meaning(word/phrase) |
-| metaphor             |
-  
-| Tools                                    |
-|------------------------------------------|
-| Breakdown Find a concrete                |
-| Branch away on different levels          |
-| List of 5 things                         |
-| Boring > Interesting                     |
-| Find the lean core, get rid of fluff.    |
-| Once you've got new idea - unfold/essay. |
-
+| //Alternatives?                                    |
+| Achieve                                            |
 
 <div style="clear:both;"></div>
 
 <style>
 table {
 float:left;
-max-width: 25%;
+max-width: 50%;
 }
 
 #set-height {

@@ -23,6 +23,8 @@ Brain makes predictions by learning(memorizing) and then recognizing patterns.
 When you think you follow a sequence of familiar, memorized steps, to go from one thought to another.
 These are "thinking patterns", I will call them "**lanes**"
 
+[![thinking patterns](/images/comedy/thinking-patterns.svg)](/images/comedy/thinking-patterns.svg)
+
 Example:  
 
 	What is the last worrd at the end of this _______?
@@ -132,6 +134,8 @@ Example of a joke:
 
 In this joke, when you hear the **setup**(*My grandfather died peacefully in his sleep....*)
 your brain creates a **thinking pattern(assumption, lane)** - *you imagine an old man lying peacefully in his bed*, when you hear the **punch-line**(*But the kids on the bus were screaming.*) you immediately switch lanes(*image of a bus and a sleeping driver*), you realize that your default interpretation of the reality was *very* wrong, your brain detects the mistaken pattern, and that's when you laugh.
+
+[![joke structure](/images/comedy/joke-structure.svg)](/images/comedy/joke-structure.svg)
 
 Another Example:
 
@@ -246,6 +250,7 @@ The "disadvantage" is that it may seem less "natural' and a bit more challenging
 
 
 ## Searching for the alternatives
+[![turn](/images/comedy/turn.svg)](/images/comedy/joke-structure.svg)
 
 Or - Take a setup/situation, look at all of it's elements/properties, and then try to come up with alternatives.
 
@@ -262,6 +267,7 @@ Or - take a situation(setup) and look at all the elements/properties that may ha
  -->
 
 ## Jump>Move
+[![jump move](/images/comedy/jump-move.svg)](/images/comedy/joke-structure.svg)
 
 This method consists of 2 separate steps:
 
@@ -331,6 +337,10 @@ This steps connects the 2 lanes, make the "crazy idea" sensible in the hindsight
 shirley/annie - buddy/detectives.
 You don't have to find the association, you can make one.
 (//with a strong frame)
+
+## Joke writing process
+
+[![joke writing process](/images/comedy/joke-writing-process.svg)](/images/comedy/joke-writing-process.svg)
 
 <!-- #### 3 Jump>Move
 
