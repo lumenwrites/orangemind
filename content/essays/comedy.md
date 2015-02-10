@@ -15,15 +15,13 @@ Everything below is my hypothesis about how comedy works, and if it is correct, 
 
 The main function of a brain is to make predictions about the world.
 (when you can predict what happens next you are better at survival and reproduction).
-
+ 
 Brain makes predictions by learning(memorizing) and then recognizing patterns.
 
 ### Default thinking patterns
 
 When you think you follow a sequence of familiar, memorized steps, to go from one thought to another.
 These are "thinking patterns", I will call them "**lanes**"
-
-[![thinking patterns](/images/comedy/thinking-patterns.svg)](/images/comedy/thinking-patterns.svg)
 
 Example:  
 
@@ -33,16 +31,10 @@ You can naturally fill the last word(sentence) because you have recognized the b
 
 More examples of patterns:
 
-	A B C D _ F
-(you can predict that the 5th letter is F)
+[![thinking patterns](/images/comedy/thinking-patterns.svg)](/images/comedy/thinking-patterns.svg)
 
-	1 2 3 4 _
-(5)
 
-	Wake up > Drink Coffee > ________
-(Dress and Go to work.)
-
-<!-- More complex, high-level ones: -->
+<!-- More complex, high-level ones:
 
 	I see a man in a business suit >?he is probably successfull and competent
 When I see a person that looks a cerain way, this is how he is supposed to act.
@@ -51,13 +43,14 @@ When I see a person that looks a cerain way, this is how he is supposed to act.
 This kind of a situation usually have this kind of ouctome
 
 	I see man and woman holding hands > they are probably in love
-When I see a certain kind of a situation it usually has this explanation.
+	When I see a certain kind of a situation it usually has this explanation.
+-->	
 
-**Examples of kinds of Lanes**(thinking patterns):  
+**Lanes**(thinking patterns) **include**:  
 
-- *prediction* a person makes about what will happen,
+- *predictions* a person makes about what will happen,
 - his *expectations* about the *outcome* of this situation
-- or his *explanation* of what is going on in this situation
+- or his *explanations* of what is going on in this situation
 - all of the *assumptions* that he makes
 - his *interpretations* of what's going on
 - etc
@@ -82,7 +75,12 @@ This is what ideas are - just thoughts that are "*new*" and "*valuable*".
 
 When scientists invent new laws or formulas - they are essentially finding new (unexpected) patterns, and then teaching other people to recognize these patterns.
 
-When writers write fiction, they setup situations and then show the unexpected outcomes.
+[![discovery](/images/comedy/discovery.svg)](/images/comedy/discovery.svg)
+
+
+When writers write fiction, they setup new situations and then show the unexpected outcomes.
+
+[![fiction idea](/images/comedy/fiction-idea.svg)](/images/comedy/fiction-idea.svg)
 
 People value the new and unexpected thinking patterns, and enjoy learning them.<!-- (especially when they are valuable).--> Similarly people value destroying the old and wrong patterns(finding mistakes in their thinking).
 
@@ -96,7 +94,7 @@ And as you will see, this process is very much related to the process of creatin
 
 ---- 
 
-## What is comedy?
+# What is comedy?
 
 Comedy happens when:  
 A person realizes that the assumption(based on a default thinking pattern) that he made about a situation was (very)wrong, and as a result he *detects mistaken reasoning (that he was not aware of?) and quickly deletes a false version/old-pattern*,
@@ -108,34 +106,88 @@ Something *break/defeats/shatters* the default *thinking pattern/prediction/expl
 In yet other words, and this is the main definition I will be using here, a person laughs when he recognizes that the lane he took was *very* wrong, and as a result
 *his thinking quickly switches to the unexpected, alternative lane*.  
 
+[![joke structure](/images/comedy/joke-structure.svg)](/images/comedy/joke-structure.svg)
 
 **Default lane** - default thinking pattern, everything that you think/predict/expect/assume/interpret/etc by default.  
-**The 2nd(alternative) lane** - a new lane that your thinking switches to when you hear the punch-line of the joke.
 
-### To achieve that effect, your goal is to:
-Find an alternative lane(*pattern/prediction/explanation/expectation/assumption/interpetation/outcome*) that is *very different* from the default lane that a person took,
-but *compatible with the information you have, makes sense in the hindsight.*
+**The 2nd(alternative) lane** - a new lane that your thinking switches to when you hear the punch-line of the joke.  
+The alternative lane is what turns out to be the "right/real" interpretation of the setup <!-- true perception of reality -->, but is very different from what is expected.
 
-The alternative lane is what turns out to be the true perception of reality, but is very different from what is expected.
-
-### Joke structure.
-
-Every joke has a **setup** and a **punch-line**.
 
 **Setup** is what creates(sets-up) a "default" lane.  
+Setup is compatible with both of the lanes, but strongly suggests the default one.  
 Think of a lane as an underlying trail of thoughts, and of the setup as just words(or images, or behaviors, or situations - depending on the form of a comedy) that expresses this lane.  
-The goal of a setup is to cause person to make certain assumptions/predictions/etc, to take the 1st lane of thought.  
+The goal of a setup is to cause a person to make certain assumptions/predictions/etc, to take the 1st lane of thought.  
 
 **Punch** is what reveals the 2nd, "alternative" lane.  
+Punch is compatible with setup and expresses the 2nd (crazy) lane.  
 It is also just words(or images/etc), that express the underlying alternative lane of thinking.  
 
+(The wide) **Gap** is, well, a gap between the default lane and an alternative lane. The difference between the default <!-- perception of the reality --> interpretation of the setup
+and an alternative one.
+
+The wider the gap - the better.
+It is very important for the 2nd lane to be **very** different, **extremely** unexpected. It should seem "crazy".
+
+<!--
+That is why, some good ways to think about the 2nd lane are:
+
+- Crazy alternative
+- Very-different-not-true> interpretation
+- "Wrong "interpretation
+- Over-the-top
+-->
+
+----
+
+# Creating comedy
+
+If you already have a setup, your goal is to find an alternative lane(*pattern/prediction/explanation/expectation/assumption/interpetation/outcome*) that is *very different* from the default lane that a person took,
+but *compatible with the information you have setup, makes sense in the hindsight.*
+
+These are the 2 very important properties of the alternative lane, **both** of which should **necessarily** be true.
+
+Alternative lane, should be **both**:  
+*crazy/over-the-top/extremely-unexpected/very-different* <!-- very-not-true/wrong/ -->  
+and at the same time  
+*compatible with the setup, consistent with the information given, makes sense in the hindsight.*  
+
+If the alternative lane will not be **very** different - joke will not be very funny, thinking will not switch to something completely unexpected.
+
+If the alternative lane is very different and crazy, but not **compatible** with the information given in setup - it will be just a non sequitur, some crazy unrelated statement that does not switch thinking to the alternative lane.
+
+This(finding the **very different** yet **compatible** alternative lane) is the main challenge in comedy, and this is what makes it hard.
+
+<br />
+
+Creating a joke from a setup is just a special case of the more universal way of making jokes.
+To create a joke from scratch, the main thing you need to do is to find these 2 "intersecting" lanes.
+
+- One of them should be the default, the "natural" lane of thinking.
+
+- The second should be the "crazy" alternative lane of thinking.
+
+- These lanes should "intersect". By "intersecting" I mean that they should have some elements in common, elements that can be interpreted in 2 ways, elements that are compatible with the both of them.
+
+After you find these 2 lanes:
+
+- you write a setup, that is compatible with both of the lanes, but strongly suggests the default one,
+
+- and then you write punch that switches person's interpretation of the setup to the alternative lane.
+
+
+
+
+
+<!-- Hence - the following 2 concepts: -->
+
+<!--
 Example of a joke:  
 > My grandfather died peacefully in his sleep.... But the kids on the bus were screaming.
 
 In this joke, when you hear the **setup**(*My grandfather died peacefully in his sleep....*)
 your brain creates a **thinking pattern(assumption, lane)** - *you imagine an old man lying peacefully in his bed*, when you hear the **punch-line**(*But the kids on the bus were screaming.*) you immediately switch lanes(*image of a bus and a sleeping driver*), you realize that your default interpretation of the reality was *very* wrong, your brain detects the mistaken pattern, and that's when you laugh.
 
-[![joke structure](/images/comedy/joke-structure.svg)](/images/comedy/joke-structure.svg)
 
 Another Example:
 
@@ -149,42 +201,21 @@ Another Example:
 **Alternative lane**: Image of a dude jerking off in front of the doctor.  
 **Punch**: "So I could examine you."
 
+
 The alternative lane is *compatible with the information given, makes sense in the hindsight.* Yet your *pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
 was *very wrong*.
 
-
-## The main challenge in comedy
-In the description of the alternative lane, there are 2 very important points, **both** of which should **necessarily** be true.
-
-The main challenge in comedy is finding that 2nd, alternative lane, that is **both**:  
-*crazy/very-not-true/wrong/over-the-top/extremely-unexpected/very-different*  
-and at the same time  
-*compatible with the setup, consistent with the information given, makes sense in the hindsight.*
-
-This is what makes it hard.
-
-Hence - the following 2 concepts:
+-->
 
 
-**The Wide Gap**  
-*Gap* is, well, a gap between the default lane and an alternative lane. The difference between the default perception of the reality and an alternative one.
-
-The wider the gap - the better.
-It is very important for the 2nd lane to be **very** different, **extremely** unexpected. It should seem "crazy".
-
-That is why, some good ways to thinnk about the 2nd lane are:
-
-- Crazy alternative
-- Very-not-true interpretation
-- "Wrong "interpretation
-- Over-the-top
-
+<!--
 **The Nexus**  
 The nexus is what makes the 2nd lane compatible with the setup, consistent with the information given, makes sense in the hindsight.
 
 The 2nd lane should seem "crazy", but also "true". For a person to switch lanes of thinking he has to believe the 2nd lane, buy-into it.
 
 Important thing to note - is that the 2nd lane should be compatible/consistent with the *information given in setup*, but *not necessarily* with the real world as we expect it to be. That is what allows it to be "crazy" and "true" at the same time. It is "true" to the setup, it is connected/associated with it in some way, but it is extremely unexpected or just completely crazy compared to reality.
+
 
 ### Why is it hard?
 
@@ -196,6 +227,8 @@ Finding a 2nd lane that is compatible with the setup is easy, you just list all 
 Finding a crazy idea that is not compatible with the setup is also easy, you just list random unrelated crazy things, but it will be just that - crazy. It will not be funny because it is not connected or associated with a setup in any way, it is just a nonsequitir.
 
 But for a joke to work the 2nd lane has to containt both of thouse elements, and the rest of the article is about ways for searching that kind of lanes.
+
+-->
 <!-- ### Types of connectors -->
 <!-- Types of connectors are similar to the types of lanes you can have. -->
 
@@ -211,7 +244,9 @@ But for a joke to work the 2nd lane has to containt both of thouse elements, and
 
 ----
 
-## Finding the alternative lane
+# Finding the alternative lane
+
+## From the setup
 
 So, our brains think in patterns.
 When we think, we follow lanes, the trails of thought.
@@ -221,11 +256,12 @@ This is the "normal", the "default" mode of thinking. The normal/default thought
 
 When we create comedy(or any new and creative ideas), our goal is to find/create the new, unexpected patterns. To do that we need to break out of the normal thinking patterns, to find the trails of thoughts that we would not find by following the "normal" trails of thought step by step.
 
-How do you find a 2nd lane that is both **new/unexpected** and **compatible** with the previous one?
+How do you find a 2nd alternative lane that is both **new/unexpected** and **compatible** with the default one?
 
 1. **Searching for the alternatives**  
 You can start with *compatible*, and search for ways to make it *new/unexpected*.  
 You can take the setup/situation, look at all of it's elements, and search for the *new* and unexpected alternatives.
+
 2. **"Jump>Move"**(the reason I call it that is explained below)  
 You can start with *new/unexpected* and search for ways to make it *compatible*.
 In other words - you start with a random and "crazy" idea that has nothing to do with the setup, and that enables you to break out of the default thinking patterns, and then - you find a connection between this idea and a setup, and turn it into something compatible.
@@ -249,8 +285,8 @@ The advantage is that the space of really new/crazy ideas available with this me
 The "disadvantage" is that it may seem less "natural' and a bit more challenging/complex.
 
 
-## Searching for the alternatives
-[![turn](/images/comedy/turn.svg)](/images/comedy/joke-structure.svg)
+### Searching for the alternatives
+[![setup turn](/images/comedy/setup-turn.svg)](/images/comedy/setup-turn.svg)
 
 Or - Take a setup/situation, look at all of it's elements/properties, and then try to come up with alternatives.
 
@@ -266,8 +302,9 @@ After you find some alternatives(they don't have to be too unusual or hilarious 
 Or - take a situation(setup) and look at all the elements/properties that may have double meanin/nterpretations, and try to find the alternative lanes.
  -->
 
-## Jump>Move
-[![jump move](/images/comedy/jump-move.svg)](/images/comedy/joke-structure.svg)
+### Jump>Move
+
+[![setup jump](/images/comedy/setup-jump.svg)](/images/comedy/setup-jump.svg)
 
 This method consists of 2 separate steps:
 
@@ -308,7 +345,7 @@ In other words - completely crazy, not connected to reality at all in any way.
 <!-- is the step where you create an unconnected *crazy idea*, the 3rd lane. -->
 <!-- **Move** this is where you find a connector, the *crazy association*. -->
 
-#Move //~crazy association??
+### Move //~crazy association??
 Goal - create/find crazy/new  
 connection/association/reinterpretation/alternative  
 by seriously thinking on crazy stuff.  
@@ -337,6 +374,16 @@ This steps connects the 2 lanes, make the "crazy idea" sensible in the hindsight
 shirley/annie - buddy/detectives.
 You don't have to find the association, you can make one.
 (//with a strong frame)
+
+## Without the setup
+
+### Turn
+[![jump move](/images/comedy/turn.svg)](/images/comedy/turn.svg)
+
+### Jump>Move
+
+[![jump move](/images/comedy/jump-move.svg)](/images/comedy/joke-structure.svg)
+
 
 ## Joke writing process
 
@@ -436,5 +483,9 @@ blockquote, blockquote p {
 
 blockquote strong {
     color: #6F6F6F;
+	}
+
+a img {
+width: 100%;
 }
 </style>
