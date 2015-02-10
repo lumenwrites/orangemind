@@ -2,6 +2,7 @@ Title: Setups. Source.
 Slug: source
 Date: 2015-02-03
 Tags: creativity, comedy
+Status: draft
 
 Bottom-up dictionary random word.
 

@@ -1,6 +1,7 @@
 Title: Story structure
 Date: 2015-02-01 12:00
 Tags: writing
+Status: draft
 
 ## What is a story
 Story = Setting + Character + Plot

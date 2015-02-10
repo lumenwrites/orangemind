@@ -2,6 +2,7 @@ Title: Comedy theory.
 Slug: comedy
 Date: 2015-02-03
 Tags: creativity, comedy
+Status: draft
 
 ## Introduction
 
@@ -375,6 +376,7 @@ shirley/annie - buddy/detectives.
 You don't have to find the association, you can make one.
 (//with a strong frame)
 
+
 ## Without the setup
 
 ### Turn
@@ -388,6 +390,7 @@ You don't have to find the association, you can make one.
 ## Joke writing process
 
 [![joke writing process](/images/comedy/joke-writing-process.svg)](/images/comedy/joke-writing-process.svg)
+
 
 <!-- #### 3 Jump>Move
 
@@ -485,7 +488,7 @@ blockquote strong {
     color: #6F6F6F;
 	}
 
-a img {
+article a img {
 width: 100%;
 }
 </style>
