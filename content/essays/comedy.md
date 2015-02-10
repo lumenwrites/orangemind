@@ -377,6 +377,7 @@ You don't have to find the association, you can make one.
 (//with a strong frame)
 
 
+<!--
 ## Without the setup
 
 ### Turn
@@ -390,7 +391,7 @@ You don't have to find the association, you can make one.
 ## Joke writing process
 
 [![joke writing process](/images/comedy/joke-writing-process.svg)](/images/comedy/joke-writing-process.svg)
-
+-->
 
 <!-- #### 3 Jump>Move
 
