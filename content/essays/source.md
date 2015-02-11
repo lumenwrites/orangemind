@@ -25,7 +25,8 @@ No standup/videos/comics/essays/opinions. No fluff.
 - Situation comedy.
 
 
-
+<!-- Perfect setups -->
+char, situation, zoe setups
 
 <!-- De-bono ideas focus challenge -->
 Topic/area/niche > breakdown, concrete
