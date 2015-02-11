@@ -58,48 +58,24 @@ This kind of a situation usually have this kind of ouctome
 Basically lanes are the "trails of thought", everything that you consciously "think" about a situation, or unconsciously expect to be true.
 -->
 
+### Curiosity
+
+Curiosity is what people experience when they are faced with a pattern that they can not recognize, so they can't predict the outcome of it. The more valuable it is to predict that outcome the more curious people are.
+
+[![curiosity](/images/creativity/curiosity.svg)](/images/creativity/curiosity.svg)
+
+
 ## What is creativity?
 
 Examples above were the examples of the "default", "normal" lanes.
 
+This is the "default" mode of thinking.
+We think in patterns, we follow lanes, the trails of thought.
+New thoughts logically flow from the previous ones and lead to the next - default, familiar, and expected thoughts.
+
 Creativity is the process of finding/creating the new, unexpected, abnormal thinking patterns.
-The goal of creativity is to break out of the default/normal patterns, and create/search for new ways of thikning, new, alternative lanes.
 
 New "creative" ideas/discoveries/inventions are the thinking patterns that nobody has recognized before.
-
-For a thought to be called an "idea" it has to have 2 properties:
-
-- It has to be new
-- It has to be valuable
-
-This is what ideas are - just thoughts that are "*new*" and "*valuable*".
-
-When scientists invent new laws or formulas - they are essentially finding new (unexpected) patterns, and then teaching other people to recognize these patterns.
-
-[![discovery](/images/comedy/discovery.svg)](/images/comedy/discovery.svg)
-
-
-When writers write fiction, they setup new situations and then show the unexpected outcomes.
-
-[![fiction idea](/images/comedy/fiction-idea.svg)](/images/comedy/fiction-idea.svg)
-
-People value the new and unexpected thinking patterns, and enjoy learning them.<!-- (especially when they are valuable).--> Similarly people value destroying the old and wrong patterns(finding mistakes in their thinking).
-
-<!-- I have a strong viceral sense that the concepts of curiosity, creativity, and comedy have something very similar with each other. Based on that theory of mind, here are quick definitions of creativity and curiosity: -->
-
-<!-- Curiosity is what people experience when they are faced with a question that they can not predict the outcome of. The more valuable it is to predict that outcome the more curious people are. -->
-
-## Ideas
-
-So, our brains think in patterns.
-When we think, we follow lanes, the trails of thought.
-New thoughts logically flow from the previous ones and lead to the next thoughts.
-
-This is the "normal", the "default" mode of thinking. The normal/default thoughts lead to other, normal, default, familiar, and expected thoughts.
-
-To create iddeas, goal is to find/create the new, unexpected patterns. To do that we need to break out of the normal thinking patterns, to find the trails of thoughts that we would not find by following the "normal" trails of thought step by step.
-
-We are searching for new alternative lanes of thinking.
 
 These are the 2 very important properties of the alternative lane that make it into a valuable creative idea, **both** of which should **necessarily** be true.
 
@@ -108,20 +84,33 @@ Alternative lane should be:
 - **Compatible with the real world**
   (it "*makes sense in the hindisght*")
 
-If the thought is not new it is just a normal thought, not interesting, and if it is not compatible with the real world it is just a crazy random thing that has nothing to do with anything.
-But when it's both new and compatible - it becomes a new and valuable idea.
+If the thought is not new it is just a normal thought, not interesting, and if it is not compatible with the real world it is just a crazy random thought that has nothing to do with anything.
 
+But when it's both *new* and *compatible* - it becomes a new and valuable idea.
+
+
+When scientists invent new laws or formulas - they are essentially finding new (unexpected) lanes, that are compatible with reality. The old lanes were also compatible with reality, but the new ones describe it more accurately, better:
+
+[![discovery](/images/comedy/discovery.svg)](/images/comedy/discovery.svg)
+
+
+When writers write fiction, they create new lanes that are not compatible with reality. Some small change in reality leads to new situations and unexpected outcomes, which makes them interesting:
+
+[![fiction idea](/images/comedy/fiction-idea.svg)](/images/comedy/fiction-idea.svg)
+
+People value the new and unexpected thinking patterns, and enjoy learning them. Similarly people value destroying the old and wrong patterns(finding mistakes in their thinking).
 
 
 ---- 
 
 # Creating ideas
 
-So, to create ideas, your goal is to **find an alternative lane** that is *new/different* from the default one but *compatible with the reality, makes sense in the hindsight.*
+
+To create ideas we need to break out of the default/normal patterns, and **create/find new, alternative lanes**, the trails of thoughts that we would not find by following the "normal" lanes step by step.
 
 How do you find a 2nd alternative lane that is both **new/unexpected** and **compatible** with the default one?
 
-- First you look at the boring/default options thoughts available now
+- First you look at all the boring/default options thoughts available now
 
 After that:
 
