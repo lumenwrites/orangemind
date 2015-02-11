@@ -339,11 +339,12 @@ To not start with overly and unnecessarily complex things(like long screenplays 
 
 It includes all of the essential, the most challenging and important elements, and leaves out all the unnecessary complexity that you don't need at the beginning.
 
-**Diverse funny rationalist science-fiction short-stories**
+**Diverse funny rationalist cartoon science-fiction short-stories**
 
 - **Short**  
   Somewhere between 500-word flash-fiction, 5-minute collegehumor sketches, and 20-minute sitcom episode.  
-  It is important that stories should be short, because it incourages to focus only on things that matter the most. You are not compelled to include any of the unnecessary fluff to make a story longer and more complex that it needs to be, you don't write secondary storylines or do anything overly complex. Just focus on learning to create elements that matter most, in the simplest way possible.
+  It is important that stories should be short, because it incourages to focus only on things that matter the most. You are not compelled to include any of the unnecessary fluff to make a story longer and more complex that it needs to be, you don't write secondary storylines or do anything overly complex. Just focus on learning to create elements that matter most, in the simplest way possible.  
+  At first 1-5 scenes should be enough. 1 scene would be just a climax, 2 scenes would be IInc and climax, and 5 scenes would be the 5 turning points(IInc creates a goal, 3 failed attempts to achieve it, victory at Climax)
 - **Diverse**  
   Stories should be set in various worlds and contain various characters(as opposed to one giant novel). That increases the flexibility of what you can do, and the amount of things you can try and experiment with, amount of ideas you can create.  
 - **Funny**  
@@ -352,14 +353,26 @@ It includes all of the essential, the most challenging and important elements, a
   More importantly - it is one of the key skills that I want to develop, because it has so much to do with the way creative ideas work.
 - **Science-fiction**  
   It should be scifi. Scifi is very creative and challenging, contains a lot of awesome ideas and inventions. It is on par with comedy at the amount of creative ideas. Besides if you can write great sci-fi you can write pretty much anything else. But why would you - you already can write scifi =)
+- **Cartoon**  
+  Imagine your stories set in a cartoon'ish world, such as Incredibles/Wall-e, or Rick and Morty, or Harry Potter. First of all that simplifies the world very much. It's much easier to create rational and consistent stories in a simplified cartoon-like world which rules you define, as opposed to dealing with complexities of writing realistic stuff. Cartoon worlds are sharper and simpler and more exaggerated, so you're more focused on things that matters, again, without unnecessary complexity.  
+  Besides it supposed to make writing science-fiction and comedy much easier, because your mind has less restrictions and expectations about the cartoon world, and can do crazier things.
 - **Rationalist**  
 Characters should be rational and intelligent. Minimize the amount of hand-waving and cheating, give everyone intelligent and logical motivations, everything should happen for rational reasons.
 Antagonists do what they do for good reasons, not because they're "evil", events happen as the result of conscious actions, not by accident. Everything should be understandable and solvable.
 - Treat them like **episodes of a tv-show**  
-  That makes you able to switch to a longer and more complex format gradually and effortlessly, whenever you want.
+  That makes you able to switch to a longer and more complex format gradually and effortlessly, whenever you want.  
   Once you have a lot of diverse short stories, you will have a lot of ideas(High Concepts) for different worlds. When you feel competent and confident with writing them, you can just start setting some stories in the same world, and come up with longer story-arcs, of any length you want.
 You can just start treating your short stories as episodes of a longer tv-show, which enables you to turn any of your ideas into a longer novel/screenplay/tv-show very naturally and organically.
 
+<!-- visual, present tense. Screenplay-way -->
+
+My favorite examples containing some of these elements are:
+
+- HPMOR(brilliant, rationalist, hilarious)
+- xkcd and collegehumor sketches - short comedy
+- Rick and Morty and Futurama - cartoonish funny sciencefiction.
+
+That way you can focus on practicing the most important and valuable parts of writing, without any fluff or extra complexity, and once you've mastered that - it should't be a problem to move onto creating more serious, long, or complex stories. Creating anything more advanced will be just a matter of making it longer and adding complexity.
 
 
 
