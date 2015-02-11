@@ -1,41 +1,204 @@
-Title: Story structure
+Title: Story
 Date: 2015-02-01 12:00
 Tags: writing
 Status: draft
 
-## What is a story
+## Value of fiction
+
+The main reason I love fiction is because I love learning and creating new and unexpected creative ideas.
+
+The main reason I love stories is that they are a great format for expressing a vast variety of diverse ideas.
+
+I love stories, because they are a great format for creating an engaging, meaningful, and educational experience. Also, because you can express the most diverse kinds of ideas through them.
+
+The main types of value I am getting out of stoires, the main reasons I enjoy them:
+
+- **Drama** is what makes story an engaging experience to live through.
+  It is a necessary element, because this is what makes a story recognizable as a story.
+- Scifi is a source of creative ideas, inventions, new thinking patterns.
+  Scifi changes the world in an interesting way and explores all of it's implications.
+- Comedy - is a type of ideas that I crave and enjoy the most.
+  It breaks the default thinking patterns, and reflects something important and fundamental about creativity and new ideas, which is the reason I crave it so much.
+- Underwood plots/Creative Solutions
+  Is the 3rd major type of value I'm getting out of stories.
+  My favorite characters are people like HPMOR!Harry, Walter White, House, Frank Underwood, Michael Scofield, Benjamin Linus, Barney, etc. Because they are brilliant and excellent at inventing sophisticated and creative plots, and this is the kind of thing I enjoy watching and learning about.
+- Essay/CI - underlying ideas that author teaches you by the means of a story. Ayn Rand(teaching philosophy) and Eliezer Yudkowsky(teaching rationality) are my favorite examples of authors who express valuable ideas through their stories.
+<!-- - Twist/punch - unexpected plot twists, rush of epiphany you get when something incredible about the story is revealed, it is interesting, satisfying, and in many ways similar to a punchline of a joke. -->
+
+# Story Structure
+
+## Main elements of the story  <!-- What is a story -->
+[![story](/images/story/main-parts.svg)](/images/story/main-parts.svg)
+
 Story = Setting + Character + Plot
 
-**Premise** can be a gap in one or all or between any of thouse things.  
+**High Concept**(story premise, story idea) can be a gap in one or all or between any of thouse things.  
+
+
+**CI**(Controlling Idea)
+
+
+
+## Plot
+[![plot](/images/story/plot.svg)](/images/story/plot.svg)
+
+**Event** - is a meaningful change of value in character's life.
+<!-- step closer/farther from a goal. -->
+
+Story is about a **Big Event** that happens at **Climax**, a moment when character achieves his  **Goal**.
+
+The Goal is the main value for a character in a story.
+
+**Inciting Incident**(IInc) is an moment <!-- event --> when a main story Goal is created.
+
+Story consists of **Scenes** - smaller events, steps closer-to/farther-away from a Goal.
+
+Everything inbetween IInc and a Climax is about struggling to achieve the goal, series of successful/failed attempts to move closer to the goal, that eventually succeed.
+
+**Plot** is a sequence of all the events in a story put together.
+
+### Turning points
+
+
+**Turning points** are the most important events(scenes) that happen between the IInc and a Climax.
+
+The turning points are the major changes in action.
+
+**IInc** is a moment where natural course of character's life is disturbed/upset with something, the moment that creates a big goal for characters to achieve.
+
+**TP1**(first Turning Point) is a moment where character decides to go after the goal, makes his first attempt/step towards getting it.
+
+After this first attempt things *escalate*, *stakes* get higher.
+
+**MP**(Mid-Point) is a point of no return.
+Imagine crossing a river, MP is the moment where character is closer to the other shore(achieving his goal) than to the one he left(the natural course of his life). He can still sink or he can achieve his goal, but now there's no point of going back.
+
+**TP2**(second Turning Point) is a moment when character loses everything and goal seems unattainable.
+
+**Climax** is a major reversal, the moment when character, despite all the odds, makes the last desperate attempt to achieve his goal and succeeds.
+
+
+
+
+#### IInc
+
+IInc and climax are the 2 sides of the same idea - the goal.
+p
+
+### Character
+
+**Protagonist**
+
+**Antagonist**
+
+> Everything inbetween - (conflict)
+> Character - your avatar
+> Empathy, every step closer/farther to value - emotion
+
+curiosity gap
+
+event  
+Step towards/away from the goal.  
+
+
+----
+
+
+# Creating a story
+
+
+# High Concept and Curiosity Gap
+HC is a QUALITY of Character/Setting/IInc.
+HC = boring>interesting.
+New creative De-Bono idea/lane from either of the elemetns.
+
+Curiosity gap = High Concept
+
+"
+> Character - Dexter - I want to write about a serial killer, but good, who kills only bad guys.
+> Setting  - Harry Potter - School for magic
+> CI - Atlas Shrugged - Socialism is bad, creators get fucked by society, why?
+> Event - Prison Break - Brilliant engineer breaking out of prison
+> IInc - Lost?(modern people stranded in a mysterious island) Jaws(shark attacking a beach)?
+
+
+# IInc(Goal<Obstacle<Antagonist(motivation?)).
+> IInc creates Goal.
+- Obstacles - 80% default way of creating a Goal - "goal to overcome the obstacle"
+- Antagonist - 80% default source of the Obstacles.
+Motivation for antagonist is a challenege.
+Ideally - 2 rational, reasonable but uncompatible goals.
+Lazy motivation - "evil", mistake(idiot ball), irrational overreaction, etc.
+
+Conflict/Opposition - cheatcode for making thouse!!
+
+# Event
+> Event is the outcome of a Goal. //change in value.
+- Story event is 99% "Achieving the goal"
+- Scene event is 50/50 achieving/failing the goal.
+
+# Plot
+> 3 points between the IInc and Event(climax).
+
+How you go about achieving a goal.
+3 attempts to achieve a goal,
+inscreasing commitment/stakes,
+last one fails.
+Climax reverses.
+
+> IInc(create a goal)
+- TP1(engage, first attempt)
+- MP(Escalate. Full commitment, no return.)
+- TP2(Escalate. All is lost, I've failed. )
+> Climax(turn lose into win)
+  
+
+Note:
+When coming up with Event - DON'T have to know how to achieve it.
+Steps to the goal is the process of figuring it out.
+
+# CI. Twist. Creative solution.
+> Twist/Punch = 2nd lane through the story.
+> CI/Lesson/moral/Character arc. = Lesson the character learns.
+The thing that changes the character and enables him to win.
+
+>>>> Things that enable you to win at climax
+> Figure out the twist, the 2nd lane
+> Come up with a creative solution
+> Learn the moral/lesson/CI
+
+Might want all 3 of them, or for now they may be interchangeable, or one can cause the other.
+- Twist causes philosophical revelation
+  (what twist reveals, and makes him realize his philosophical mistake)
+- Philosophical revelation causes twist -  understanding of the 2nd lane
+  (didn't understand the story because he was making a philosophical mistake)
+- Twist/revelation enable you to come up with creative solution.
+  
+Just one of them is fine
+"Harry escaping Azkaban"
+Though he did have revelations about a cloak that enabled him to survive.
+
+
+# Process
+- Scifi-HC: Setting/Character. (HC = boring>interesting) 
+- Story-HC: IInc=Goal=Event(<Obstacles<Antagonist. Conflict/opposition is a cheatcode.)
+- Plot: 3 points between IInc and goal. 3 Attempts. TP1-MP-TP2
+- Comedy from scenes.
+
+  
+  
+
+
 That sparks curiosity - question that you want to know but can't predict the answer to.  
 You don't have to know all of them from the beginning, you discover them as you go.  
 
-**Value**
+
 ## Basic story
 
 Plot(IInc/Goal)
 Character
 Setting
 
-## Plot
-Goal/IInc
-
-Story consists of events, the sequence of all events put together is a plot.  
-**Plot** is a sequence of events in a story, leading to achieving/failing a valuable goal.
-**Climax** - achieving/failing the goal
-**IInc** - creation of a valuable goal
-**Event** - step closer/farther from a goal.
-> Everything inbetween - struggling to get it(conflict)
-> Character - your avatar
-> Empathy, every step closer/farther to value - emotion
-
-event  
-Meaningful change in character's life.  
-Change of value.  
-Step towards/away from the goal.  
-
-
-defeating villains is a default
 ## Bottom-up writing(writing process)
 
 start with one part, ask questions, explore
@@ -121,6 +284,15 @@ New patterns are value.
 
 # Pipeline
 
+
+process
+- Character(s) + Setting + IInc/Challenge //(HC = boring>interesting) HC is QUALITY
+- Event(change of value)  
+- Plot. Main points.  
+  Engage(tp1) - Noreturn(mp) - All is lost(tp2). Or any other 3 scenes.
+//Merge later with Comedy on top of the scenes.  
+
+
 Comedy:
 - Character(s)/Setting/IInc
 - Bottom-up explore. Have a draft of something. Scene, chars in a situation doing stuff.
@@ -152,3 +324,10 @@ Fiction:
 - drama-plots - basic story.
 - Scifi/Underwood plots.
 
+
+**Value**
+- Scifi-ideas
+- Comedy
+- CI/essay
+- Machiavellian plots/Creative solutions
+....

@@ -702,18 +702,3 @@ Investigation of a mysterious diappearance of an old x lead Rick and Dave to thi
 **** Elements>Jump>Move
 
 * <2015-02-06 Fri>
-Zoe was on her 3rd course studying computational biology when these weird students started appearing more and more often on campus. It was hard to pinpoint what they all had in common, besides the strange behavior and aura of weirdness around them. They've seemed to come from all over US, in no particular pattern, they weren't similar in cloth, appearance, or a behavior, yet
-all had something strangely in common and alien....
-
-Topics?
-- Students
-- Camputs
-- Computational biology
-- Alien students
-  
-What do I need for setups?
-Char/situation/dialogue.
-- NO conflict
-- NO goal
-- NO nothing like that, nothing like a fiction
-Just a place that has some properties and general topic.  
