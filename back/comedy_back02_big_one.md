@@ -6,18 +6,46 @@ Status: draft
 
 ## Introduction
 
-In the [previous post](/post/creativity) I've explained techniques for coming up with creative ideas.
-
-Here my goal is to explain how comedy works, and to understand the process of writing jokes.
+My goal is to explain how comedy works, and to understand the process of writing jokes.
 If I am successful, I will be able to teach a person who has no experience of writing comedy to write jokes at will, whenever he wants.
 
 Below are my ideas and hypothesis about how comedy works, if they are correct, after reading and understanding this post, you should be able to take a setup, go through a series of steps, and end up writing a joke(s).
 <!-- regardless of how good they are, just has to be recognizable as a joke -->
 
+## Background (how mind works)
 
-# What is comedy?
+The main function of a brain is to make predictions about the world.
+(when you can predict what happens next you are better at survival and reproduction).
+ 
+Brain makes predictions by learning(memorizing) and then recognizing patterns.
 
-Remember, from the [previous post on creativity](/post/creativity), that we think in thinking patterns(lanes) that are the "trails of thought", everything that you consciously recognie and predict about a situation, or unconsciously expect to be true.
+### Default thinking patterns
+
+When you think you follow a sequence of familiar, memorized steps, to go from one thought to another.
+These are "thinking patterns", I will call them "**lanes**"
+
+Example:  
+
+	What is the last worrd at the end of this _______?
+
+You can naturally fill the last word(sentence) because you have recognized the beginning of a familiar pattern, and can predict what happens next.
+
+More examples of patterns:
+
+[![thinking patterns](/images/comedy/thinking-patterns.svg)](/images/comedy/thinking-patterns.svg)
+
+
+<!-- More complex, high-level ones:
+
+	I see a man in a business suit >?he is probably successfull and competent
+When I see a person that looks a cerain way, this is how he is supposed to act.
+
+	?Example
+This kind of a situation usually have this kind of ouctome
+
+	I see man and woman holding hands > they are probably in love
+	When I see a certain kind of a situation it usually has this explanation.
+-->	
 
 **Lanes**(thinking patterns) **include**:  
 
@@ -29,8 +57,50 @@ Remember, from the [previous post on creativity](/post/creativity), that we thin
 - etc
 
 
+
+Basically lanes are the "trails of thought", everything that you consciously "think" about a situation, or unconsciously expect to be true.
+
+### Creativity
+
+Examples above were the examples of the "default", "normal" lanes.
+
+Creativity is the process of finding/creating the new, unexpected, abnormal thinking patterns.
+The goal of creativity is to break out of the default/normal patterns, and create/search for new ways of thikning, new, alternative lanes.
+
+New "creative" ideas/discoveries/inventions are the thinking patterns that nobody has recognized before.
+
+For a thought to be called an "idea" it has to have 2 properties:
+
+- It has to be new
+- It has to be valuable
+
+This is what ideas are - just thoughts that are "*new*" and "*valuable*".
+
+When scientists invent new laws or formulas - they are essentially finding new (unexpected) patterns, and then teaching other people to recognize these patterns.
+
+[![discovery](/images/comedy/discovery.svg)](/images/comedy/discovery.svg)
+
+
+When writers write fiction, they setup new situations and then show the unexpected outcomes.
+
+[![fiction idea](/images/comedy/fiction-idea.svg)](/images/comedy/fiction-idea.svg)
+
+People value the new and unexpected thinking patterns, and enjoy learning them.<!-- (especially when they are valuable).--> Similarly people value destroying the old and wrong patterns(finding mistakes in their thinking).
+v
+And as you will see, this process is very much related to the process of creating comedy.
+
+
+<!-- I have a strong viceral sense that the concepts of curiosity, creativity, and comedy have something very similar with each other. Based on that theory of mind, here are quick definitions of creativity and curiosity: -->
+
+
+<!-- Curiosity is what people experience when they are faced with a question that they can not predict the outcome of. The more valuable it is to predict that outcome the more curious people are. -->
+
+---- 
+
+# What is comedy?
+
 Comedy happens when:  
-A person realizes that he recognized a wrong pattern, and that his *predictions/expectations/explanations/interpretations/assumptions* that he made about a situation are (**very**)**wrong**, and as a result he *detects mistaken reasoning (that he was not aware of?) and quickly deletes a false version/old-pattern*,
+A person realizes that the assumption(based on a default thinking pattern) that he made about a situation was (very)wrong, and as a result he *detects mistaken reasoning (that he was not aware of?) and quickly deletes a false version/old-pattern*,
 and that's when he laughs.  
 
 In other words, comedy happens when:
@@ -64,19 +134,11 @@ and an alternative one.
 The wider the gap - the better.
 It is very important for the 2nd lane to be **very** different, **extremely** unexpected. It should seem "crazy".
 
-### The difference between xthe jokes and creative ideas
-
-When you create a new idea(with "Jump>Move" method), you take a crazy idea, and then find a way to make it compatible with reality, that way you turn a crazy idea into something that makes sense. That way you can look at the reality in a new but valid way.
-
-When you write jokes, the alternative (crazy) lane does **not** have to be compatible with reality, only with the setup.
-
-That is the function of a setup - to be compatibe both with our expectations about reality and the crazy lane. Then, when the crazy lane turn out to be the correct one, our expectations are shattered and we laugh.
-
 ### Example of a joke:  
 > My grandfather died peacefully in his sleep.... But the kids on the bus were screaming.
 
 In this joke, when you hear the **setup**(*My grandfather died peacefully in his sleep....*)
-your brain recognizes a **thinking pattern**, and you make all kinds of assumptions - *you imagine an old man lying peacefully in his bed*, when you hear the **punch-line**(*But the kids on the bus were screaming.*) you immediately switch lanes(*image of a bus and a sleeping driver*), you realize that your default interpretation of the reality was *very* wrong, your brain detects the mistaken pattern, and that's when you laugh.
+your brain creates a **thinking pattern(assumption, lane)** - *you imagine an old man lying peacefully in his bed*, when you hear the **punch-line**(*But the kids on the bus were screaming.*) you immediately switch lanes(*image of a bus and a sleeping driver*), you realize that your default interpretation of the reality was *very* wrong, your brain detects the mistaken pattern, and that's when you laugh.
 
 
 Another Example:
@@ -92,8 +154,8 @@ Another Example:
 **Punch**: "So I could examine you."
 
 
-The alternative lane is *compatible with the information given(the setup), makes sense in the hindsight.* Yet your *predictions/explanations/expectations/assumptions/interpetations*
-were *very wrong*.
+The alternative lane is *compatible with the information given, makes sense in the hindsight.* Yet your *pattern/prediction/explanation/expectation/assumption/interpetation/outcome*
+was *very wrong*.
 
 
 ----
@@ -101,7 +163,7 @@ were *very wrong*.
 
 # Creating comedy
 
-To create comedy, your goal is to find an alternative lane(*pattern/prediction/explanation/expectation/assumption/interpetation/outcome*) that is *very different* from the default lane that setup lead a person towards,
+To create comedy, your goal is to find an alternative lane(*pattern/prediction/explanation/expectation/assumption/interpetation/outcome*) that is *very different* from the default lane that a person took,
 but *compatible with the information you have setup, makes sense in the hindsight.*
 
 These are the 2 very important properties of the alternative lane, **both** of which should **necessarily** be true.
@@ -131,7 +193,7 @@ This is the "normal", the "default" mode of thinking. The normal/default thought
 
 When we create comedy(or any new and creative ideas), our goal is to find/create the new, unexpected patterns. To do that we need to break out of the normal thinking patterns, to find the trails of thoughts that we would not find by following the "normal" trails of thought step by step.
 
-How do you find a 2nd alternative lane that is both **new/unexpected** and **compatible** with the setup?
+How do you find a 2nd alternative lane that is both **new/unexpected** and **compatible** with the default one?
 
 - You can start with *compatible*, and search for ways to make it *new/unexpected*.  
   (**"Searching for the alternatives"**).
@@ -167,11 +229,8 @@ The "disadvantage" is that it may seem less "natural' and a bit more challenging
 You take the a setup/situation, look at all of it's elements/properties, and search for the *new* and unexpected alternatives.
 
 
-1. Take a setup/situation, look at all of it's elements/properties.  
-   Everythign that it **directly** describes. 
-   In case of a joke it's words, in case of an image/tv-show is everything that you see.
+1. Take a setup/situation, look at all of it's elements/properties.
 
-<!--
 	Examples of the **elements/properties**:  
 
 	- *predictions* a person makes about what will happen,
@@ -183,7 +242,7 @@ You take the a setup/situation, look at all of it's elements/properties, and sea
 	- *opinions* and *attitudes* about things
 	- expeted *meanings* of words/phrases
 	- etc
--->
+
 2. Look for all the elements/properties that may have double meanings/interpretations/etc.
 
 3. If you don't find any obvious ones - look at the elements one by one, and consciously search for **alternatives/associations**.
@@ -204,7 +263,7 @@ These can be:
 
 After you find some alternatives(they don't have to be too unusual or hilarious ones) you make them more unusual and unexpected by using methods such as **exaggeration**.
 
-<!-- Or - take a situation(setup) and look at all the elements/properties, and try to find the alternative lanes. -->
+Or - take a situation(setup) and look at all the elements/properties, and try to find the alternative lanes.
 
 
 ### Jump>Move
@@ -214,7 +273,7 @@ After you find some alternatives(they don't have to be too unusual or hilarious 
 2. Take one element, and then "jump" from it - flip it upside down, turn it into it's opposite, make it extremely exaggerated, etc.  
  (*Turn a normal element into a crazy idea.*)
 3. And then "move" - try to find a way to "connect" this new crazy idea to the setup, explain how that could make sense.  
-(*Find a connection/association between this crazy idea and the setup.*)
+(*Find a connection/association between this crazy idea and the reality.*)
 
 
 [![setup jump](/images/comedy/setup-jump.svg)](/images/comedy/setup-jump.svg)
@@ -277,7 +336,7 @@ Ways to move:
 <!-- Important thing: the 2nd lane is **not** the same as the "crazy idea". ? -->
 <!-- 2nd lane lies inbetween the "crazy" lane idea and the "default" lane?? <<<< -->
 
-You find the second lane in the process of trying to connect the "crazy idea" with the.
+You find the second lane in the process of trying to connect the "crazy idea" with the reality.
 This steps connects the 2 lanes, make the "crazy idea" sensible in the hindsight, and that makes a joke.
 
 
@@ -288,6 +347,11 @@ This steps connects the 2 lanes, make the "crazy idea" sensible in the hindsight
 
 [![joke writing process](/images/comedy/joke-writing-process.svg)](/images/comedy/joke-writing-process.svg)
 
+
+<!-- Example of going through the process -->
+
+
+----
 
 
 ## Conclusion
@@ -318,7 +382,7 @@ A lot of these ideas are inspired by these wonderful books:
 > The art of misdirections is saying things with 2 meanings, the default one is misleading
 "Blah blah blah, and by blah blah, I mean blah blah".
 "If by x you mean y and z, then yes"
-
+-->
 - Misdirection is more like a trick than a core method
 You can phrase a setup in a way that misleads a person into wrong lanes, creates wrong assumptions.
 In this method you basically start with a 2nd lane(the one that the punch line) is based on, and then you come up with a setup that is compatible with it, but strongly suggest a different meaning. -->
