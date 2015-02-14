@@ -2,6 +2,7 @@ Title: Writing Prompts
 Date: 2014-12-18 20:30
 Slug: writing-prompts
 
+# Scifi-HC
 
 | Settings                                           |
 |----------------------------------------------------|
@@ -84,9 +85,12 @@ Slug: writing-prompts
 | Seth                                |
 | Mike                                |
 
-| Goals/IInc                                                             |
+<div style="clear:both;"></div>
+
+# Story-HC
+
+| IInc(Problems/Challenges)                                              |
 |------------------------------------------------------------------------|
-| ---- **IInc:** ----                                                    |
 | Somebody attacks you on the street                                     |
 | Aliens/other dimension creatures are coming                            |
 | Dark overlord rises                                                    |
@@ -104,21 +108,31 @@ Slug: writing-prompts
 | You're out of money and out of stuff                                   |
 | Your best friends had a huge fight and now hate each other             |
 | Somebody gave you something very dangerous to take care of(like a pet) |
-| ---- **Goals:** ----                                                   |
-| Fight a villain/opponent                                               |
-| Get out of trouble                                                     |
-| Retrieve an artifact. Find/Steal a thing //inception                   |
-| Resque someone                                                         |
-| Break into/out of something                                            |
-| Solve a crime                                                          |
-| Exact revenge                                                          |
-| Fix what is wrong with the world                                       |
-| Protect a place from an army //whorehouse, alien invasion              |
-| Get/impress a girl/person                                              |
-| Win/close a deal                                                       |
-| Escape from agents/creatures                                           |
-| Take over something //villain, world                                   |
-| Any other goal of value                                                |
+
+| Obstacles? |
+|------------|
+| ....       |
+
+| Antagonists?(motivations?) |
+|----------------------------|
+| ....                       |
+
+| Goals:                                                    |
+|-----------------------------------------------------------|
+| Fight a villain/opponent                                  |
+| Get out of trouble                                        |
+| Retrieve an artifact. Find/Steal a thing //inception      |
+| Resque someone                                            |
+| Break into/out of something                               |
+| Solve a crime                                             |
+| Exact revenge                                             |
+| Fix what is wrong with the world                          |
+| Protect a place from an army //whorehouse, alien invasion |
+| Get/impress a girl/person                                 |
+| Win/close a deal                                          |
+| Escape from agents/creatures                              |
+| Take over something //villain, world                      |
+| Any other goal of value                                   |
 
 
 <div style="clear:both;"></div>

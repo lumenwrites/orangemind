@@ -2,6 +2,34 @@ Title: Creativity tools
 Date: 2014-12-18 20:30
 Slug: creativity
 
+| Directly perceive, info given, elements                            |
+|--------------------------------------------------------------------|
+| Words                                                              |
+| Visuals                                                            |
+| Setting. Environment. Objects. Surrounding.                        |
+| Parts of the objects(wheels in a car),                             |
+| Cloth                                                              |
+| Other characters you interact with.                                |
+
+
+
+| Assumptions/Predictions                         |
+|-------------------------------------------------|
+| Assumptions                                     |
+| Interpretations/Explanations                    |
+| Thoughts. Opnions.                              |
+| Attitude. Motivation                            |
+| Behavior                                        |
+| Meaning.(of a word).  Purpose.(object/behavior) |
+|                                                 |
+| Predictions/Expectations/Outcome                |
+| Reaction                                        |
+
+
+
+<div style="clear:both;"></div>
+
+
 | Jump:                   |
 |-------------------------|
 | Reversal                |
@@ -16,52 +44,33 @@ Slug: creativity
 
 | Move:                                 |
 |---------------------------------------|
+| Superficial explanation               |
+| Why? how? explain? imagine?           |
 | Positive aspect                       |
 | Difference                            |
 | Imagine                               |
 | Situation in which it could be useful |
-|                                       |
-| Why? how? explain? imagine?           |
 
+| Turn         |
+|--------------|
+| Alternatives |
+| Associations |
+| Metaphor     |
 
-| Elements/Assumtions:                                                             |
-|----------------------------------------------------------------------------------|
-| **Setting. Environment.**                                                        |
-| Objects. Surrounding. Stuff you're using. Parts of the objects(wheels in a car), |
-| Purpose of an object                                                             |
-| Cloth                                                                            |
-| Environment - room, road, etc?                                                   |
-| Other characters you interact with.                                              |
-|                                                                                  |
-| Character's actions(?). Character Behavior/Reaction to something.                |
-| Character's opinion on something. Character's attitude/motivation.               |
-| Explanation/Interpretation of this situation                                     |
-| Expected outcome                                                                 |
-| ++++ find more. that kind of stuff.                                              |
-| Meaning(word/phrase)                                                             |
-| metaphor                                                                         |
+| Tricks Cheat |
+|              |
 
-<!--
-| Connectors           |
-|----------------------|
-| Explanation          |
-| Outcome              |
-| Behavior             |
-| Reaction             |
-| Interpretation       |
-| Assumption           |
-| My opinion           |
-| Meaning(word/phrase) |
-| metaphor             |
--->  
 
 <div style="clear:both;"></div>
 
 
 
+
+
+
 | Tools                                    |
 |------------------------------------------|
-| Breakdown Find a concrete                |
+| Breakdown. Find a concrete                |
 | Branch away on different levels          |
 | List of 5 things                         |
 | Boring > Interesting                     |

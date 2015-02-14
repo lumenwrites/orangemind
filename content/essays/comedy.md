@@ -286,7 +286,9 @@ This steps connects the 2 lanes, make the "crazy idea" sensible in the hindsight
 
 # Joke writing process
 
-[![joke writing process](/images/comedy/joke-writing-process.svg)](/images/comedy/joke-writing-process.svg)
+[![joke writing process lane](/images/comedy/process-lane.svg)](/images/comedy/process-lane.svg)
+
+[![joke writing process setup](/images/comedy/process-setup.svg)](/images/comedy/process-setup.svg)
 
 
 

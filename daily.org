@@ -981,3 +981,83 @@ Zoom out. Small sport-shop in the mall.
 Concerned shopkeeper, little skinny guy/angry old lady:
 "Sir, si-ir! If you won't gonna buy anything I'm afraid I'm going to have to ask you to leave!"
 
+* <2015-02-13 Fri>
+Excellent, let's do this!!
+
+CIs:
+- Broken Windows
+  Somebody made a small mistake,
+  neglected a tiny flaw,
+  and it gradually escalated into a disaster?
+- Straw-Man conversation
+- 
+- 
+- 
+- 
+- 
+- 
+  
+
+IInc:
+- Somebody attacks you on the street
+- Aliens/other dimension creatures are coming
+- Dark overlord rises
+- Competition/sport
+- You got setup for a crime
+- Stray in a dangerous place
+- Priceless artifact has been stolen
+- Your friend is in danger, have to resque
+- Crime appened and needs to be solved
+- Somebody hurt you
+- Enemies attack your castle
+- You've met a girl who is ignoring you
+- Once in a lifetime opportunity that you need to win whatever it takes
+- Somebody is chacing you
+- You're out of money and out of stuff
+- Your best friends had a huge fight and now hate each other
+- Somebody gave you something very dangerous to take care of(like a pet)
+  
+- Max, steal data, villains. in Futurama this time.
+- Abandoned spaceship? > Abandoned company with loot.
+- Train job? > Steal something physical in transit.
+- Laser? > Pure break, enter, download data job.
+- Niska? > get in trouble with criminals.
+- Ariel? > 2 of them are downloading data as alarm goes off(no betrayal).
+- Whorehouse? > protect a website from ddos or someting? Fight off another group of hackers.
+- HPMOR battles? > Wining Defcon hacking competition!! (to get in the door somewhere, or fun)
+- Wizengamot? > Defending net neutrality, making sure a bullshit law doesn't get approved.
+- Saving Hermiony? > They freak out that Alice could be in danger, when they come to save her turns out that she kicked all the butts there were to be to kick.
+- Inception? > Convince a guy to not sell his company or something, by helping/protecting/manipulating him. Maybe all 3.
+- Prison Break? > Government agents are onto them.
+- Pranks competition? > Competition between Max and Kyle, bet, who beats whom and such. Maybe breaking into 2 teams, 3 vs 3. on sometihng.
+- Harry vs Tracey? > They all have decided to try LSD, when something comes up they need full alertness with.
+- Harry vs peeves? > trolls come together on reddit to ddoss/attack them/their friends company or some website that they like? And they destroy trolls from the inside or some such.
+- Agents? > They decide to infiltrate some company to find out the secrets, something super secret and exciting. Not as a job but because they need to know.
+- Criminals take someone hostage?
+- Woman, husband, the bank where he holds his money?
+  
+
+** Scifi-HC 
+**** Setting
+**** Character
+** Story-HC
+**** AIMA-CI Example
+[Concrete example of CI? (Metaphor)]
+     
+Broken Windows
+Somebody made a small mistake,
+neglected a tiny flaw,
+and it gradually escalated into a disaster?
+     
+**** IInc (Obstacles, Problem)
+[Problem CI can solve?]
+[What can go wrong if you do the opposite?]
+** Plot
+**** Engage. 1st attempt.
+**** Escalate. 2nd attempt. No-return.
+**** Lose. 3rd attempt.
+** Climax
+**** Realize. Plan. (CI? Twist? Creative Solution?)
+**** Win. Final Battle.
+  
+  

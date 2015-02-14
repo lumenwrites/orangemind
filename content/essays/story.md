@@ -273,18 +273,25 @@ Usually alternate, win-lose-win-lose, etc.
 # Process
 
 #### Core of the story
+
+//essay-way
+
 - Scifi-HC: Setting/Character. (HC = boring>interesting) 
 - Story-HC: IInc=Goal=Event(<Obstacles<Antagonist. Conflict/opposition is a cheatcode.)
 - Plot: 3 points between IInc and goal. 3 Attempts. TP1-MP-TP2
 - CI. Twist. Creative solution.
 <!-- - Comedy from scenes. is the quality of everything-->
 
-[![processsx](/images/story/process.svg)](/images/story/process.svg)
-
+[![process essay way](/images/story/process-essay-way.svg)](/images/story/process-essay-way.svg)
 
 You don't have to know all of them from the beginning, you discover them as you go.
 
 These are the main questions to answer.
+
+
+#### AIMA-CI-way
+
+[![process CI way](/images/story/process-CI-way.svg)](/images/story/process-CI-way.svg)
 
 
 ## Writing process.
@@ -292,8 +299,8 @@ These are the main questions to answer.
 You write story by figuring out the answers to the questions above.
 
 
-There are 2 ways to approach the writing process:
-**Bottom-up(discovery) writing** - you take any small random element of a story and just start writing, exploring world from there as you go.
+There are 2 ways to approach the writing process:  
+**Bottom-up(discovery) writing** - you take any small random element of a story and just start writing, exploring world from there as you go.  
 **Outline-writing.** - you start with creating the outline, figuring out the main points of a story, and then breaking them down into scenes and adding more details.
 
 The problem with bottom-up writing is that you don't have very much control over the story.
@@ -373,8 +380,6 @@ My favorite examples containing some of these elements are:
 - Rick and Morty and Futurama - cartoonish funny sciencefiction.
 
 That way you can focus on practicing the most important and valuable parts of writing, without any fluff or extra complexity, and once you've mastered that - it should't be a problem to move onto creating more serious, long, or complex stories. Creating anything more advanced will be just a matter of making it longer and adding complexity.
-
-
 
 <!-- xkcd-HPMOR-collegehumor -->
 
