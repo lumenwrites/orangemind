@@ -990,8 +990,8 @@ CIs:
   neglected a tiny flaw,
   and it gradually escalated into a disaster?
 - Straw-Man conversation
-- 
-- 
+- Rationalization
+- Evidence
 - 
 - 
 - 
@@ -1059,5 +1059,12 @@ and it gradually escalated into a disaster?
 ** Climax
 **** Realize. Plan. (CI? Twist? Creative Solution?)
 **** Win. Final Battle.
-  
+
+
+
+* <2015-02-14 Sat>
+**** Scifi-HC. Setting/Character
+**** Story-HC. IInc. Problem. What can go wrong? (Obstacles<Antagonist?)
+**** Plot. Engage>Escalate>Lose. How does he go about achieving the goal?
+**** Climax. Creative Solution. How does he win final battle???
   

@@ -31,15 +31,18 @@ This is the list of the main types of ideas that stories consist of, the main ty
 - **Drama** is what makes story an engaging experience to live through.  
   It is a necessary element, because this is what makes a story recognizable as a story. 
   <!-- //Cleverness - as in BB. -->
-- Scifi is a source of creative ideas, inventions, new thinking patterns.  
+- **Scifi** is a source of creative ideas, inventions, new thinking patterns.  
   Scifi changes the world in an interesting way and explores all of it's implications.
   <!-- munchkinism -->
-- Comedy - is a type of ideas that I crave and enjoy the most.  
+- **Comedy** - is a type of ideas that I crave and enjoy the most.  
   It breaks the default thinking patterns, and reflects something important and fundamental about creativity and new ideas, which is the reason I crave it so much.
-- Underwood plots/Creative Solutions  
+- Underwood plots/**Creative Solutions**  
   Is the 3rd major type of value I'm getting out of stories.  
   My favorite characters are people like HPMOR!Harry, Walter White, House, Frank Underwood, Michael Scofield, Benjamin Linus, Barney, etc. Because they are brilliant and excellent at inventing sophisticated and creative plots, and this is the kind of thing I enjoy watching and learning about.
+
+<!--
 - Essay/CI - underlying ideas that author teaches you by the means of a story. Ayn Rand(teaching philosophy) and Eliezer Yudkowsky(teaching rationality) are my favorite examples of authors who express valuable ideas through their stories.
+--> 
 <!-- - Twist/punch - unexpected plot twists, rush of epiphany you get when something incredible about the story is revealed, it is interesting, satisfying, and in many ways similar to a punchline of a joke. -->
 <!-- Vfx, Sexy ladies, etc. -->
 
@@ -102,22 +105,24 @@ Imagine crossing a river, MP is the moment where character is closer to the othe
 
 **Climax** is a major reversal, turning of lose into a win, the moment when character, despite all the odds, makes the last desperate attempt to achieve his goal and succeeds.
 
+<!--
 ### CI. Twist. Creative solution.
 
 These 3 things(or one of them, or a combination of them) is what enables a character to go from "all is lost" to a climax, epiphanies that enable him to win.
-
+-->
 <!-- These elements are optional, but they are the top priority to think about, once the core of the story is created. -->
-
+<!--
 **CI**(Controlling Idea) is the "lesson" character(and reader) learns throughout the story, the reasonf for a meaningful change(Event) to occur.
+-->
 <!-- The thing that changes the character and enables him to win. -->
 <!-- CI/Lesson/moral/Character arc. = Lesson the character learns. -->
-
+<!--
 It is the "essay" part of a story, underlying "philosophy" and ideas that writer wants to express.
 
 **Twist** - is a plot twist that happens before the climax that creates the rush of the insight. The "Luke, I'm your father" kind of a thing. <!-- 2nd lane through the story. -->
 
 **Creative solution**(in my favorite stories - brilliant elaborate Machiavellian plot) - the idea that a character comes up with, the plan that he executes to achieve his goal.
-
+-->
 <!--
 I think it's good to have all 3 of them, but at the beginning they are optional/interchangeable, because they're hard to come up with.
 
@@ -272,6 +277,7 @@ Usually alternate, win-lose-win-lose, etc.
 
 # Process
 
+<!--
 #### Core of the story
 
 //essay-way
@@ -280,23 +286,27 @@ Usually alternate, win-lose-win-lose, etc.
 - Story-HC: IInc=Goal=Event(<Obstacles<Antagonist. Conflict/opposition is a cheatcode.)
 - Plot: 3 points between IInc and goal. 3 Attempts. TP1-MP-TP2
 - CI. Twist. Creative solution.
+-->
+
 <!-- - Comedy from scenes. is the quality of everything-->
 
-[![process essay way](/images/story/process-essay-way.svg)](/images/story/process-essay-way.svg)
+<!--
+[![process](/images/story/process6.svg)](/images/story/process6.svg)
 
 You don't have to know all of them from the beginning, you discover them as you go.
 
 These are the main questions to answer.
-
-
+-->
+<!--
 #### AIMA-CI-way
 
 [![process CI way](/images/story/process-CI-way.svg)](/images/story/process-CI-way.svg)
+-->
 
 
-## Writing process.
+## Bottom-up vs Top-down writing. Developing a story.
 
-You write story by figuring out the answers to the questions above.
+<!-- You write story by figuring out the answers to the questions above. -->
 
 
 There are 2 ways to approach the writing process:  
@@ -323,6 +333,19 @@ It is very hard to commit to bottom-up writing without knowing the outline of th
 
 That is why you start with some small part that you can imagine now <!-- penetration point + beacons -->, and then you ask questions and explore from there. <!-- simulation, prediction -->
 You take an interesting situation and simulate what happens next, and search for answers to the high-level questions.
+
+
+## Writing process.
+Therefore, I've figured the "perfect" writing process - you ask the 4 "most important" questions that create the outline of the story, and then bottom-up write on each of them(by answering questions):
+
+[![process](/images/story/process7.svg)](/images/story/process7.svg)n
+
+- Scifi-HC. Setting/Character. What are they?
+- Story-HC. IInc. Problem. What can go wrong? (Obstacles<Antagonist?)
+- Plot. Engage>Escalate>Lose. How does he go about achieving the goal?
+- Climax. Creative Solution. How does he win final battle???
+
+<!-- what can go wrong? ~ what can create a goal? -->
 
 ### Polish
 
@@ -392,6 +415,24 @@ Event-sized. Diverse stories.
 1-5 scenes.
 -->
 
+<!--
+### Writing path(things to learn, and order in which to learn them):
+
+#### Things I need NOW(to win)
+
+- **Drama** - because necessary for a flash to be recognizable as a story.
+  (and flash is the perfect diverse format for comedy)
+- **Comedy** - because it is the sharp core to focus on, top priority, thing I really NEED.
+- **Scifi** - because it is creative, costs little, and a nice part of format I want to get used to from the start. Mostly it is just about removing ocnstraints.
+
+#### Things I do NOT need now:
+
+- *Creative Solution*/Underwood Plots - it is a thing I like, and a great step forward after the basics are mastered. It is a nice challenge to stack into the future. I do NOT need it NOW, but it's an avenue to expand into.
+
+#### Things I do NOT need ANY time soon:
+
+- *Essays/CI's* - there's just no reason I would really need them. I'm writing to learn and to be creative. Essays/CI's take away more value by distracting my attention than add value by teaching me stuff.
+-->
 <!--
 You do NOT think>code, you code>think!!!!
 

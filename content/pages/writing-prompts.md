@@ -2,7 +2,10 @@ Title: Writing Prompts
 Date: 2014-12-18 20:30
 Slug: writing-prompts
 
-# Scifi-HC
+<div style="width:50%; float: left;"> <h1>Scifi-HC</h1></div>
+<div style="width:50%; float: left;"> <h1>Story-HC</h1></div>
+
+<div style="clear:both;"></div>
 
 | Settings                                           |
 |----------------------------------------------------|
@@ -85,11 +88,11 @@ Slug: writing-prompts
 | Seth                                |
 | Mike                                |
 
-<div style="clear:both;"></div>
 
-# Story-HC
 
-| IInc(Problems/Challenges)                                              |
+<!-- # Story-HC -->
+
+| IInc(Problems/Challenges). What can go wrong? (Obstacles<Antagonists?) |
 |------------------------------------------------------------------------|
 | Somebody attacks you on the street                                     |
 | Aliens/other dimension creatures are coming                            |
@@ -109,6 +112,7 @@ Slug: writing-prompts
 | Your best friends had a huge fight and now hate each other             |
 | Somebody gave you something very dangerous to take care of(like a pet) |
 
+<!--
 | Obstacles? |
 |------------|
 | ....       |
@@ -116,6 +120,7 @@ Slug: writing-prompts
 | Antagonists?(motivations?) |
 |----------------------------|
 | ....                       |
+-->
 
 | Goals:                                                    |
 |-----------------------------------------------------------|
