@@ -2,14 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>orangemind</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-02-25T00:00:00+01:00</updated><entry><title>Rational reading list</title><link href="/post/rational-reading-list" rel="alternate"></link><updated>2015-02-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-25:post/rational-reading-list</id><summary type="html">&lt;p&gt;&lt;img src="/images/snap.png" style="float:right;"/&gt;&lt;/p&gt;
 &lt;p&gt;So you've read &lt;a href="http://hpmor.com/"&gt;HPMOR&lt;/a&gt;, it blew your mind, and you're looking for more things like that to read. Unfortunately, it is very hard to find something that would equal it in awesomeness, but I did my best to compile a list of readings that the kind of person who loved HPMOR would enjoy.&lt;/p&gt;
 &lt;p&gt;This list is compiled mostly from recommendations on &lt;a href="http://www.reddit.com/r/rational/"&gt;/r/rational&lt;/a&gt;, &lt;a href="http://www.reddit.com/r/HPMOR/"&gt;/r/HPMOR&lt;/a&gt;, and my personal must-read list. Items in each category are arranged starting from the best and most awesome, so you can just begin &lt;!-- start --&gt; reading them &lt;!-- starting --&gt; from the top.&lt;/p&gt;
-&lt;p&gt;If you have suggestions about this list - you can help me to improve it by leaving your ideas in the comments, or editing this article directly on &lt;a href="https://github.com/raymestalez/orangemind/blob/master/content/rational-reading-list.md"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- If you have suggestions about this list - you can help me to improve it by leaving your ideas in the comments, or editing this article directly on [GitHub](https://github.com/raymestalez/orangemind/blob/master/content/rational-reading-list.md). --&gt;
+
 &lt;div class="panel"&gt;
 &lt;ul&gt;
     &lt;li&gt;&lt;a href="#science-fiction"&gt; Science Fiction&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="#fantasy"&gt; Fantasy&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="#fanfiction"&gt; Fanfiction&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="#non-fiction"&gt; Non-fiction&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#resources"&gt; Other Resources&lt;/a&gt;&lt;/li&gt;  
+    &lt;!-- &lt;li&gt;&lt;a href="#resources"&gt; Other Resources&lt;/a&gt;&lt;/li&gt;  --&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
@@ -105,10 +106,7 @@ A stunning blend of adventure and mysticism, environmentalism and politics, Dune
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Altered Carbon&lt;/strong&gt; by Richard K. Morgan &lt;br /&gt;
     [&lt;a href="http://www.amazon.com/Altered-Carbon-Takeshi-Kovacs-Novels/dp/0345457684/"&gt;amazon&lt;/a&gt;]
-    [&lt;a href="http://en.wikipedia.org/wiki/Altered_Carbon"&gt;wiki&lt;/a&gt;] 
-    &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
-    &lt;div class="description"&gt;
-    &lt;/div&gt;&lt;/p&gt;
+    [&lt;a href="http://en.wikipedia.org/wiki/Altered_Carbon"&gt;wiki&lt;/a&gt;] &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Blindsight&lt;/strong&gt; by Peter Watts&lt;br /&gt;
@@ -171,17 +169,17 @@ British rerelease if you can, which edits things down.&lt;br /&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;The Lies of Locke Amora&lt;/strong&gt; by Scott Lynch&lt;br /&gt;
-    [&lt;a href=""&gt;link&lt;/a&gt;]
-    [&lt;a href=""&gt;wiki&lt;/a&gt;] 
+    [&lt;a href="http://www.amazon.com/Lies-Locke-Lamora-Gentleman-Bastards/dp/055358894X/"&gt;amazon&lt;/a&gt;]
+    [&lt;a href="http://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora"&gt;wiki&lt;/a&gt;] 
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;
   It is about a bunch of gentleman thieves, has a lot of trickery, deceit, plotting, and meta-plotting. Clever and enjoyable, with lots of the "solving problems under ridiculous constraints" type stuff. It's also has some fantastic worldbuilding.
   &lt;/div&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The Name of the Wind&lt;/strong&gt;&lt;br /&gt;
-    [&lt;a href=""&gt;link&lt;/a&gt;]
-    [&lt;a href=""&gt;wiki&lt;/a&gt;] 
+&lt;p&gt;&lt;strong&gt;The Name of the Wind&lt;/strong&gt; by Patrick Rothfuss &lt;br /&gt;
+    [&lt;a href="http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/"&gt;amazon&lt;/a&gt;]
+    [&lt;a href="http://en.wikipedia.org/wiki/The_Name_of_the_Wind"&gt;wiki&lt;/a&gt;] 
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;
     Main character is super smart, uses his wits to get out of (and into)
@@ -192,8 +190,8 @@ British rerelease if you can, which edits things down.&lt;br /&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Brandon Sanderson's &lt;strong&gt;Mistborn&lt;/strong&gt; and &lt;strong&gt;The Way of Kings&lt;/strong&gt;&lt;br /&gt;
-    [&lt;a href=""&gt;link&lt;/a&gt;]
-    [&lt;a href=""&gt;wiki&lt;/a&gt;] 
+    [&lt;a href="http://www.amazon.com/The-Way-Kings-Stormlight-Archive/dp/0765365278"&gt;link&lt;/a&gt;]
+    [&lt;a href="http://en.wikipedia.org/wiki/The_Way_of_Kings"&gt;wiki&lt;/a&gt;] 
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;
     Mistborn is a fantasy trilogy that (like most things Brandon Sanderson writes) has a very
@@ -204,7 +202,9 @@ currently unfinished series, but some of the best stuff that he's written - only
 &lt;/div&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;The &lt;strong&gt;Discworld&lt;/strong&gt; series by Terry Pratchett (starting with Mort, Small Gods, or Sourcery)&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Discworld&lt;/strong&gt; series by Terry Pratchett (starting with Mort, Small Gods, or Sourcery)
+    [&lt;a href="http://www.amazon.com/Mort-Discworld-Terry-Pratchett/dp/0062225715/"&gt;link&lt;/a&gt;]
+    [&lt;a href="http://en.wikipedia.org/wiki/Mort"&gt;wiki&lt;/a&gt;] &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
@@ -212,8 +212,6 @@ currently unfinished series, but some of the best stuff that he's written - only
 &lt;h2&gt;Fanfiction&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://hpmor.com"&gt;HPMOR&lt;/a&gt;, obviously.&lt;br /&gt;
-    [&lt;a href=""&gt;link&lt;/a&gt;]
-    [&lt;a href=""&gt;wiki&lt;/a&gt;] 
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;
         Petunia Evans married a biochemist, and Harry Potter grew
@@ -224,7 +222,7 @@ friends, like Hermione Granger, and Draco Malfoy, and
 Professor Quirrell...
   &lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=""&gt;Everything&lt;/a&gt; by alexanderwales &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/u/4976703/alexanderwales"&gt;Everything&lt;/a&gt; by alexanderwales &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;A Bluer Shade of White&lt;/strong&gt;&lt;br /&gt;
   Brilliant Frozen fanfic. &lt;!-- Science fiction featuring AI and singularity - --&gt; Won't say anything more to avoid spoilers, just read it.&lt;/li&gt;
@@ -237,18 +235,18 @@ Professor Quirrell...
 &lt;li&gt;
 &lt;p&gt;HPMOR meta fanfiction:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hacking the source of magic&lt;/strong&gt;!! qbsmd?  &lt;/li&gt;
-&lt;li&gt;another one by him&lt;/li&gt;
-&lt;li&gt;Following the Phoenix
+&lt;li&gt;&lt;a href="https://www.fanfiction.net/s/10446022/1/Continuing-HPMoR-Hacking-the-Source-of-Magic"&gt;Hacking the Source of Magic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fanfiction.net/s/10636246/1/Following-the-Phoenix"&gt;Following the Phoenix&lt;/a&gt;
 &lt;!-- Hermione Granger and the Perfectly Reasonable Explanation? --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Other Harry Potter Fanfiction:&lt;/p&gt;
-&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - Other Harry Potter Fanfiction: --&gt;
+
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Mother of Learning&lt;/strong&gt;&lt;br /&gt;
-    [&lt;a href=""&gt;link&lt;/a&gt;]
+    [&lt;a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning"&gt;link&lt;/a&gt;]
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;
   Zorian, a mage in training, only wanted to finish his education in peace. Now he struggles to find answers as he finds himself repeatedly reliving the same month. 'Groundhog's day' style setup in a fantasy world.
@@ -256,36 +254,37 @@ Professor Quirrell...
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Luminosity&lt;/strong&gt; by Alicorn&lt;br /&gt;
-    [&lt;a href=""&gt;link&lt;/a&gt;]
+    [&lt;a href="http://luminous.elcenia.com/"&gt;link&lt;/a&gt;]
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;
     Twilight fanfiction, inspired by HPMOR, semi-rational character exploiting her powers.
       &lt;/div&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Friendship is optimal
-    [&lt;a href=""&gt;link&lt;/a&gt;]
+&lt;p&gt;&lt;strong&gt;Friendship is Optimal&lt;/strong&gt;&lt;br /&gt;
+    [&lt;a href="http://www.fimfiction.net/story/62074/Friendship-is-Optimal"&gt;link&lt;/a&gt;]
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;
     My Little Pony fanfiction. A researcher with a brilliant new AI design gets an offer she can't refuse for building that AI into Hasbro's forthcoming Equestria Online game. 
-  &lt;/div&gt;
-&lt;!--
-Alexandra Quick HP fanfic
---&gt;&lt;/p&gt;
+  &lt;/div&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;!--
+Alexandra Quick HP fanfic
+--&gt;
+
 &lt;hr /&gt;
 &lt;p&gt;&lt;span id="non-fiction"&gt;&lt;/p&gt;
 &lt;h2&gt;Non-fiction&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;LessWrong&lt;/strong&gt; sequences&lt;br /&gt;
-  "Everything that HPMOR!Harry knows and more", written by EY. While reading it you can imagine that these are the lessons Harry gives to Draco, that makes it even more fun, I'm 99% sure that this is the exact content of thouse lessons.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LessWrong&lt;/strong&gt; &lt;a href="http://wiki.lesswrong.com/wiki/Sequences"&gt;sequences&lt;/a&gt;&lt;br /&gt;
+  &lt;!-- "Everything that HPMOR!Harry knows and more", written by EY. While reading it you can imagine that these are the lessons Harry gives to Draco, that makes it even more fun, I'm 99% sure that this is the exact content of thouse lessons. --&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Gödel, Escher, Bach&lt;/strong&gt; by Douglas R. Hofstadter&lt;br /&gt;
-  [&lt;a href=""&gt;amazon&lt;/a&gt;]
-  [&lt;a href=""&gt;wiki&lt;/a&gt;] 
+  [&lt;a href="http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567"&gt;amazon&lt;/a&gt;]
+  [&lt;a href="http://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"&gt;wiki&lt;/a&gt;] 
     &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
     &lt;div class="description"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -312,54 +311,61 @@ average person any more.&lt;br /&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Paul Graham's essays and his book "&lt;strong&gt;Hackers and Painters&lt;/strong&gt;".&lt;br /&gt;
-  [&lt;a href=""&gt;amazon&lt;/a&gt;]
-  [&lt;a href=""&gt;wiki&lt;/a&gt;] 
-  &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;&lt;br /&gt;
-  &lt;div&gt;
-  The 2nd person I am aware of who is as brilliant as EY and thinks in clever and interesting ways and is amazing at writing essays, possibly even more interesting than sequences. If you're looking for a great example to learn how to think - this is it.
-  &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Paul Graham's &lt;a href="http://www.paulgraham.com/articles.html"&gt;essays&lt;/a&gt; and his book "&lt;strong&gt;Hackers and Painters&lt;/strong&gt;".&lt;br /&gt;
+  [&lt;a href="http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/"&gt;amazon&lt;/a&gt;]
+  [&lt;a href="http://en.wikipedia.org/wiki/Hackers_%26_Painters"&gt;wiki&lt;/a&gt;] 
+  &lt;!-- &lt;span class="expand"&gt;[Show Description]&lt;/span&gt;   --&gt;
+  &lt;!-- &lt;div&gt; --&gt;
+  &lt;!-- The 2nd person I am aware of who is as brilliant as EY and thinks in clever and interesting ways and is amazing at writing essays, possibly even more interesting than sequences. If you're looking for a great example to learn how to think - this is it. --&gt;
+  &lt;!-- &lt;/div&gt; --&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Authobiographies of the coolest people: &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Surely you're joking, Mr. Feynman&lt;/strong&gt; by Richard Feynman&lt;br /&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041"&gt;Surely you're joking, Mr. Feynman&lt;/a&gt; by Richard Feynman&lt;br /&gt;
     &lt;!-- Awesome physicist --&gt;&lt;/li&gt;
-&lt;li&gt;Ghost in the Wires Mitnick&lt;br /&gt;
-    Brilliant hacker, story reads like an adventure book, ubelieveable that somebody can pull it off in real life. autobiography of a great hacker. Extremely clever and awesome. I bet people here will love it.&lt;/li&gt;
-&lt;li&gt;Catch me if you can by Abagnale &lt;br /&gt;
-  I remember disliking the movie, but the book is brilliant and hilarious. Autobiography of one of the boldest, horniest, and most brilliant con artists.&lt;/li&gt;
-&lt;li&gt;iWozWozniak&lt;br /&gt;
-Autobiography of Steve Wozniak. Also wonderful and super positive and inspiring story.
-    Inventor of the first apple computer.&lt;/li&gt;
-&lt;li&gt;Tesla.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/1441793755"&gt;Ghost In The Wires&lt;/a&gt; by Kevin Mitnick
+    &lt;!-- Brilliant hacker, story reads like an adventure book, ubelieveable that somebody can pull it off in real life. autobiography of a great hacker. Extremely clever and awesome. I bet people here will love it. --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Catch-Me-If-You-Can/dp/0767905385"&gt;Catch Me If You Can&lt;/a&gt; by Frank Abagnale.&lt;br /&gt;
+  &lt;!-- I remember disliking the movie, but the book is brilliant and hilarious. Autobiography of one of the boldest, horniest, and most brilliant con artists. --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/iWoz-Computer-Invented-Personal-Co-Founded/dp/0393330435"&gt;iWoz&lt;/a&gt; by Steve Wozniak
+&lt;!-- Autobiography of Steve Wozniak. Also wonderful and super positive and inspiring story. --&gt;
+&lt;!--    Inventor of the first apple computer. --&gt;
+&lt;!-- - Tesla. --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;On Intelligence&lt;/strong&gt; by Jeff Hawkins&lt;br /&gt;
-  Explains the theory of mind&lt;/p&gt;
+    [&lt;a href="http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533/"&gt;amazon&lt;/a&gt;]
+    [&lt;a href="http://en.wikipedia.org/wiki/On_Intelligence"&gt;wiki&lt;/a&gt;] &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The Selfish Gene&lt;/strong&gt; by Richard Dawkins
-  Excellent and very engaging book that explains the evolution in a very interesting way.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The 48 Laws of Power, Influence: The Psychology of Persuasion, The Prince by Niccolò Machiavelli.//Tzu the art of war
-  These books are about manipulation and plotting Quirrel-style.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Serious Creativity&lt;/strong&gt; by Edward De Bono&lt;br /&gt;
-  The best book I am aware of that analyzes the process of inventing new ideas and teaches you to think creatively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Selfish Gene&lt;/strong&gt; by Richard Dawkins&lt;br /&gt;
+    [&lt;a href="http://www.amazon.com/The-Selfish-Gene-Popular-Science/dp/0192860925"&gt;amazon&lt;/a&gt;]
+    [&lt;a href="http://en.wikipedia.org/wiki/The_Selfish_Gene"&gt;wiki&lt;/a&gt;] &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- - The 48 Laws of Power, Influence: The Psychology of Persuasion, The Prince by Niccolò Machiavelli.//Tzu the art of war --&gt;
+
+&lt;!--   These books are about manipulation and plotting Quirrel-style. --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Serious Creativity&lt;/strong&gt; by Edward De Bono&lt;br /&gt;
+    [&lt;a href="http://www.amazon.com/Serious-Creativity-Lateral-Thinking-Create/dp/0887306357"&gt;amazon&lt;/a&gt;]
+    [&lt;a href="http://en.wikipedia.org/wiki/Edward_de_Bono"&gt;wiki&lt;/a&gt;] &lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- The best book I am aware of that analyzes the process of inventing new ideas and teaches you to think creatively. --&gt;
+
 &lt;!-- - "A Brief History of Time" by Stephen Hawking (?) --&gt;
 
-&lt;h2&gt;Other&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Homestuck&lt;/li&gt;
-&lt;li&gt;Strong female protagonist.&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://slatestarcodex.com/2013/05/27/transhumanist-fables/"&gt;Transhumanist Fables&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- ## Other --&gt;
+
+&lt;!-- - Homestuck --&gt;
+
+&lt;!-- - Strong female protagonist. --&gt;
+
+&lt;!-- - [Transhumanist Fables](http://slatestarcodex.com/2013/05/27/transhumanist-fables/) --&gt;
+
 &lt;!-- &lt;span id="resources"&gt; --&gt;
 
 &lt;!-- ## Other Resources --&gt;
@@ -370,30 +376,50 @@ Autobiography of Steve Wozniak. Also wonderful and super positive and inspiring 
 
 &lt;!-- - [/r/HPMOR](http://www.reddit.com/r/HPMOR/),  --&gt;
 
-&lt;p&gt;To sort:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;diamond age &lt;/li&gt;
-&lt;li&gt;Anathem&lt;/li&gt;
-&lt;li&gt;Rainbow's End&lt;/li&gt;
-&lt;li&gt;Atlas Shrugged&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Symbiote&lt;/strong&gt; by farmerbob1 about what would you do
-with control over biology. I haven't read his other story
-yet, &lt;strong&gt;Reject Hero&lt;/strong&gt;, but I heard it's good.
-&lt;strong&gt;Hamlet and the Philosopher's Stone&lt;/strong&gt;, where Hamlet
-acts rationally, but you have to buy it for $4. It's not
-free and it's less than 100 pages long, but please don't
-try to find a free copy online to cheat this wonderful
-author.
-If you liked &lt;strong&gt;Two Year Emperor&lt;/strong&gt;, then you'll like Harry
-&lt;strong&gt;Potter and the Natural Twenty&lt;/strong&gt;.
-There's a couple more stories I know of (&lt;/p&gt;
-&lt;p&gt;&lt;span id="authors"&gt;&lt;/p&gt;
-&lt;h3&gt;Best Authors&lt;/h3&gt;
-&lt;p&gt;Eliezer Yudkowsky&lt;/p&gt;
-&lt;p&gt;alexanderwales&lt;/p&gt;
-&lt;p&gt;[so far that's all I know, help me to improve this list by suggesting more in the coments]&lt;/p&gt;
-&lt;p&gt;Special thanks to /u/alexanderwales and /u/xamueljones&lt;/p&gt;
+&lt;!-- To add: --&gt;
+
+&lt;!-- - diamond age  --&gt;
+
+&lt;!-- - Anathem --&gt;
+
+&lt;!-- - Rainbow's End --&gt;
+
+&lt;!-- - Atlas Shrugged --&gt;
+
+&lt;!-- **Symbiote** by farmerbob1 about what would you do --&gt;
+
+&lt;!-- with control over biology. I haven't read his other story --&gt;
+
+&lt;!-- yet, **Reject Hero**, but I heard it's good. --&gt;
+
+&lt;!-- **Hamlet and the Philosopher's Stone**, where Hamlet --&gt;
+
+&lt;!-- acts rationally, but you have to buy it for $4. It's not --&gt;
+
+&lt;!-- free and it's less than 100 pages long, but please don't --&gt;
+
+&lt;!-- try to find a free copy online to cheat this wonderful --&gt;
+
+&lt;!-- author. --&gt;
+
+&lt;!-- If you liked **Two Year Emperor**, then you'll like Harry --&gt;
+
+&lt;!-- **Potter and the Natural Twenty**. --&gt;
+
+&lt;!-- There's a couple more stories I know of ( --&gt;
+
+&lt;!-- &lt;span id="authors"&gt; --&gt;
+
+&lt;!-- ### Best Authors --&gt;
+
+&lt;!-- Eliezer Yudkowsky --&gt;
+
+&lt;!-- alexanderwales --&gt;
+
+&lt;!-- [so far that's all I know, help me to improve this list by suggesting more in the coments] --&gt;
+
+&lt;!-- Special thanks to /u/alexanderwales and /u/xamueljones --&gt;
+
 &lt;!--
 ## Literature
 
@@ -495,7 +521,7 @@ Asimov
 &lt;!-- Author: &lt;a href="http://rationalfiction.io/users/rayalez"&gt;Ray Alez&lt;/a&gt; --&gt;
 
 &lt;a style="float:right;"
-href="https://github.com/raymestalez/rationalfiction/blob/master/content/rational-books.md"&gt;Edit on GitHub&lt;/a&gt;
+href="https://github.com/raymestalez/orangemind/blob/master/content/essays/rational-reading-list.md"&gt;Edit on GitHub&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
