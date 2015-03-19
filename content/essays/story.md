@@ -1,7 +1,6 @@
 Title: Story
-Date: 2015-02-01 12:00
+Date: 2015-02-16 12:00
 Tags: writing
-Status: draft
 
 This article is about the 2nd biggest challenge in writing fiction, besides generating creaitve ideas - putting these ideas togethre into an engaging, meaningful, and educational experience. 
 
@@ -101,47 +100,12 @@ From here, as he goes forward, things *escalate*, *stakes* get higher, and his c
 **MP**(Mid-Point) is a point of no return, of full commitment to the goal.
 Imagine crossing a river, MP is the moment where character is closer to the other shore(achieving his goal) than to the one he left(the natural course of his life). He can still sink or he can achieve his goal, but now there's no point of going back.
 
-**TP2**(second Turning Point) is a moment when character loses everything and goal seems unattainable. This is the last attempt that dramatically fails.
+**TP2**(second Turning Point) is a moment when character loses everything and goal seems unattain
+able. This is the last attempt that dramatically fails.
+
+**Creative solution**(in my favorite stories - brilliant elaborate Machiavellian plot) - the idea that a character comes up with, the plan that he executes to achieve his goal. That enables him to go from "all is lost" to a climax, to turn lose into win.
 
 **Climax** is a major reversal, turning of lose into a win, the moment when character, despite all the odds, makes the last desperate attempt to achieve his goal and succeeds.
-
-<!--
-### CI. Twist. Creative solution.
-
-These 3 things(or one of them, or a combination of them) is what enables a character to go from "all is lost" to a climax, epiphanies that enable him to win.
--->
-<!-- These elements are optional, but they are the top priority to think about, once the core of the story is created. -->
-<!--
-**CI**(Controlling Idea) is the "lesson" character(and reader) learns throughout the story, the reasonf for a meaningful change(Event) to occur.
--->
-<!-- The thing that changes the character and enables him to win. -->
-<!-- CI/Lesson/moral/Character arc. = Lesson the character learns. -->
-<!--
-It is the "essay" part of a story, underlying "philosophy" and ideas that writer wants to express.
-
-**Twist** - is a plot twist that happens before the climax that creates the rush of the insight. The "Luke, I'm your father" kind of a thing. <!-- 2nd lane through the story. -->
-
-**Creative solution**(in my favorite stories - brilliant elaborate Machiavellian plot) - the idea that a character comes up with, the plan that he executes to achieve his goal.
--->
-<!--
-I think it's good to have all 3 of them, but at the beginning they are optional/interchangeable, because they're hard to come up with.
-
-There's also various combinations, for example:
-
-- Twist causes philosophical revelation  
-  (what twist reveals, and makes him realize his philosophical mistake)
-- Philosophical revelation causes twist -  understanding of the 2nd lane  
-  (didn't understand the story because he was making a philosophical mistake)
-- Twist/revelation enable you to come up with creative solution.  
-  
--->
-
-<!--
-Just one of them is fine
-"Harry escaping Azkaban"
-Though he did have revelations about a cloak that enabled him to survive.
--->
-
 
 
 
@@ -347,6 +311,13 @@ Therefore, I've figured the "perfect" writing process - you ask the 4 "most impo
 
 <!-- what can go wrong? ~ what can create a goal? -->
 
+[![process](/images/story/flash-comedy-process.svg)](/images/story/flash-comedy-process.svg)
+
+<!--
+## Or routine way!!
+[![routine way](/images/story/routine-way.svg)](/images/story/routine-way.svg)
+-->
+
 ### Polish
 
 After you've got the core outline and a draft of a story, you simply take good textbooks and go through the questions from them to fill your story with more details.
@@ -416,24 +387,6 @@ Event-sized. Diverse stories.
 -->
 
 <!--
-### Writing path(things to learn, and order in which to learn them):
-
-#### Things I need NOW(to win)
-
-- **Drama** - because necessary for a flash to be recognizable as a story.
-  (and flash is the perfect diverse format for comedy)
-- **Comedy** - because it is the sharp core to focus on, top priority, thing I really NEED.
-- **Scifi** - because it is creative, costs little, and a nice part of format I want to get used to from the start. Mostly it is just about removing ocnstraints.
-
-#### Things I do NOT need now:
-
-- *Creative Solution*/Underwood Plots - it is a thing I like, and a great step forward after the basics are mastered. It is a nice challenge to stack into the future. I do NOT need it NOW, but it's an avenue to expand into.
-
-#### Things I do NOT need ANY time soon:
-
-- *Essays/CI's* - there's just no reason I would really need them. I'm writing to learn and to be creative. Essays/CI's take away more value by distracting my attention than add value by teaching me stuff.
--->
-<!--
 You do NOT think>code, you code>think!!!!
 
 > Discovery writibg + de-bono list all the questions that arise!!
@@ -470,5 +423,63 @@ If McKee plot is not useful as a source for creating a story, maybe joke structu
 - Scifi/Underwood plots.
 -->
 
+
+
+<!--
+### Writing path(things to learn, and order in which to learn them):
+
+#### Things I need NOW(to win)
+
+- **Drama** - because necessary for a flash to be recognizable as a story.
+  (and flash is the perfect diverse format for comedy)
+- **Comedy** - because it is the sharp core to focus on, top priority, thing I really NEED.
+- **Scifi** - because it is creative, costs little, and a nice part of format I want to get used to from the start. Mostly it is just about removing ocnstraints.
+
+#### Things I do NOT need now:
+
+- *Creative Solution*/Underwood Plots - it is a thing I like, and a great step forward after the basics are mastered. It is a nice challenge to stack into the future. I do NOT need it NOW, but it's an avenue to expand into.
+
+#### Things I do NOT need ANY time soon:
+
+- *Essays/CI's* - there's just no reason I would really need them. I'm writing to learn and to be creative. Essays/CI's take away more value by distracting my attention than add value by teaching me stuff.
+-->
+
+
+
+<!--
+### CI. Twist. Creative solution.
+
+These 3 things(or one of them, or a combination of them) is what enables a character to go from "all is lost" to a climax, epiphanies that enable him to win.
+-->
+<!-- These elements are optional, but they are the top priority to think about, once the core of the story is created. -->
+<!--
+**CI**(Controlling Idea) is the "lesson" character(and reader) learns throughout the story, the reasonf for a meaningful change(Event) to occur.
+-->
+<!-- The thing that changes the character and enables him to win. -->
+<!-- CI/Lesson/moral/Character arc. = Lesson the character learns. -->
+<!--
+It is the "essay" part of a story, underlying "philosophy" and ideas that writer wants to express.
+
+**Twist** - is a plot twist that happens before the climax that creates the rush of the insight. The "Luke, I'm your father" kind of a thing. <!-- 2nd lane through the story. -->
+
+
+<!--
+I think it's good to have all 3 of them, but at the beginning they are optional/interchangeable, because they're hard to come up with.
+
+There's also various combinations, for example:
+
+- Twist causes philosophical revelation  
+  (what twist reveals, and makes him realize his philosophical mistake)
+- Philosophical revelation causes twist -  understanding of the 2nd lane  
+  (didn't understand the story because he was making a philosophical mistake)
+- Twist/revelation enable you to come up with creative solution.  
+  
+-->
+
+<!--
+Just one of them is fine
+"Harry escaping Azkaban"
+Though he did have revelations about a cloak that enabled him to survive.
+-->
 
 

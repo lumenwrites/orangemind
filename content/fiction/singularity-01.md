@@ -1,7 +1,7 @@
 Title: Singularity #0001 - The meeting
 Date: 2015-01-31 15:00
 Tags: short-stories, singularity
-
+Status: draft
 
 *[2031-03-20. 03:16AM]*
 

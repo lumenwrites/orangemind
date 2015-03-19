@@ -2,7 +2,7 @@ Title: Comedy theory.
 Slug: comedy
 Date: 2015-02-03
 Tags: creativity, comedy
-Status: draft
+
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-Title: Disclaier
+Title: Disclaimer
 Date: 2015-02-14
 Status: draft 
 <div class="panel">

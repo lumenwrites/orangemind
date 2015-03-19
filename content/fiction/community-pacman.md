@@ -1,6 +1,7 @@
 Title: The Battle of Pacman
 Date: 2015-01-31 12:00
 Tags: short-stories, commuity
+Status: draft
 
 The study group seated comfortably around the table.
 Before anybody had time to say anything, the Dean suddenly appeared in the doorway.

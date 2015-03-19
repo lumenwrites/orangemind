@@ -1,3 +1,45 @@
+* Process 4x128
+> Prompt. (SciFi-HC. Story-HC.)
+> Plot. (Escalate > Lose)
+> Climax. (Solution. Setups. Default Lanes.)
+> Crazy Lanes > Move/Express
+
+
+> Prompt. (SciFi-HC. Story-HC.)
+  - What are some interesting places to explore?
+  - Which character do I want to place there?
+  - What can go wrong?
+> Plot. (Escalate > Lose)
+  - How can it escalate?
+  - What could be the point of no-return?
+  - How can he lose?
+> Climax. (Solution. Setups. Default Lanes.)
+  - How could he turn the lose into win?
+> Crazy Lanes > Move/Express
+  - What are the expected lanes, patterns climax makes you to recognize?
+  - What are some crazy alternative lanes?
+  - How can I associate/explain them?
+
+* Climaxes
+- Lily tied in the angar, criminals asking for sensitive flash > flying away on stolen plane
+- Linus and Turtle vs robots. Escalate-lose - surrounded by robots? turn into a win - infect the skynet
+- Jane manipulates her dummie scared boss into fighting and winning the necromancer
+- 
+- 
+- 
+- 
+- 
+
+* Setups
+- Guy working out in the gym
+- Students sitting on a boring lecture
+- Guy sitting in front of the computer in his office
+- One person pointing a gun at another person
+- Dude waking up and drinking coffee
+- Girl sitting on a couch doodling someting in a notebook
+- 2 people on a raft in a middle of the ocean/dude on a tropical island
+- Lawyer siting in his office/dude playing a guitar
+  
 * Ideas
 **** Open Source
 Like Max could hack /?microsoft's? website and a whole bunch of stuff, opensource /?windows? code, and company thinks it's better to roll with it than the emberrasment of admitting that they were so hacked. If they even can prove that they aren't just going back on their word.
@@ -26,7 +68,7 @@ Ben and Sal stood back to back, shooting lasers at crowrs of robots that were tr
 Zoe was on her 3rd course studying computational biology when these weird students started appearing more and more often on campus. It was hard to pinpoint what they all had in common, besides the strange behavior and aura of weirdness around them. They've seemed to come from all over US, in no particular pattern, they weren't similar in cloth, appearance, or a behavior, yet
 all had something strangely in common and alien....
 	
-**** Canada. Twins. Dark overlod rises.
+**** Canada. Twins. Dark overlod rises. ?
 Jim was spending his summer at his father's in Canada.
 When he
 
@@ -35,7 +77,7 @@ Matt didn't expect this trip to turn out so weird.
 He was on a trip to photograph places around this small town, when things started to go wrong.
 Before I continue I'd like to mention that Matt was kind of a dick. Or maybe a better word would be an "antihero", but that's not how his girlfriend called him when they broke up. Or his boss, right before firing him.
 
-**** Mancave. Jeff(hot guy). Your friend is in danger.
+**** Mancave. Jeff(hot guy). Your friend is in danger. ?
 Jeff was playing xbox on his couch when his telephone rang.
 "If you want your friend to be well - meet me at the corner of x and y"
 
@@ -47,12 +89,12 @@ Mike never expected to be stranded in such place with no money but here he was.
 Trusting that weird taxi guy was a mistake. Hell, getting into this terrifying city was a mistake.
 Why did I do that, again?
  
-**** Small Tropical island. Troy and Pierce. Priceless artifact has been stolen.
+**** Small Tropical island. Troy and Pierce. Priceless artifact has been stolen. ?
 Investigation of a mysterious diappearance of an old x lead Rick and Dave to this tropical island.
 
 **** Pyramides. Hermioiny/Kaylee. Somebody attacks you on the streeet.
 Lily was visiting pyramids for the first time.
-When he was trying to buy a thing on the street
+When she was trying to buy a thing on the street
 - 3 americans in expensive suits asked her to come with them.
 She ran.
 
@@ -100,8 +142,9 @@ Frank was having his first date in a long long time. After 20 years of ruthlessl
    Yeah, like a newbie agent is assigned a mission to deal with a 
    stray werewolves!! Not HP world, or maybe heck, maybe HP!!    
    Imagine US agents who are aware of magic.
-**** Connected dreams
 
+
+**** Connected dreams
 **** Abandoned spaceship? > Abandoned company with loot.
 **** Train job? > Steal something physical in transit.
 **** Laser? > Pure break, enter, download data job.
@@ -122,13 +165,15 @@ Frank was having his first date in a long long time. After 20 years of ruthlessl
 **** Competition with city college. Get back the throne.
 **** Abed (/de)inception in dreamatorium
 **** Somebody blew up the studyroom and they all have lost their memories
+
 **** cloverfield? 
 **** paintball sequel?
 **** computer game sequel?  
 **** Harry vs Twins - pranks comppetition //+More of the cans of comed-tea  
 **** Harry vs Tracey - rationalist on a love potion
 **** Harry vs peevez.
-**** Agents  
+**** Agents
+     
 **** Harry vs Dumbledor, over taking control of his money!
 **** Ron is in love with Hermiony. He knows harry is superior, gives his best to come up with a plan to defeat his evil.
 **** Harry wants to do experiments on ghosts, they are too proud
@@ -139,41 +184,43 @@ Frank was having his first date in a long long time. After 20 years of ruthlessl
 **** Max, steal data, villains. in Futurama this time.
 
 * CIs
-1. Broken Window theory
-  Somebody made a small mistake,
-  neglected a tiny flaw,
-  and it gradually escalated into a disaster?
-2. Straw-Man conversation
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
-26. 
-27. 
-28. 
-29. 
-30. 
-31. 
-32. 
+1. "Reality is normal, you're weird."
+   There is a perfectly reasonable explanation for everything; things only seem strange because of your own ignorance.
+2. Enemies. being innately evil. 
+   that seems obvious enough.+correspondence bias(kickiNg wending ,machine)
+3. Majority is always wrong. most popular cant be the best.
+4. Availability heuristic!!
+   Now that is an actually interesting challenge Id like to explain on a metaphor.
+5. Don't trust people just because they sound wise or confident, see if their arguments make sense. no ad homeniem either.
+6. don't choose to believe in things just because it feels better
+   what can be destroyed by the truth shall be. reality is already is, admitting it doesnt make it worse.
+7. never attribute to malice what can be explained by incompetence. sse randomness. not center around yourself.
+ dont see purpose where  there isnt.
+8. PG: see the world through your own eyes, imitate what you like, not what you're "supposed to" like.
+9. You can't just use skepticism or doubt ti defeat any argument you dislike.   
+10. people choose the more charismatic politician and thenn rationalize  backwards
+    same with words. say things that make them feel good, they will rationalize agreeingvwith you afterwards.
+11. Broken Window theory
+   Somebody made a small mistake,
+   neglected a tiny flaw,
+   and it gradually escalated into a disaster?
+12. Straw-Man conversation
+13. Trust  science/rationaliqty more than  your eyes??
+14. practice vs talent
+15. adjusting emotions/beliefs according to probabikities? If it is 10 times less likely it should be 10 times less scary?
+    
+Fake explanations? What you predict matters, not what you explain? Names of things don't tell you anything.
+Reversed stupidity is not intelligence?
+like they dont believe something because bad tribe says that?
+science vs politics?
+Kyle uses/teaches someone a reciprocation trick?
+Everyone is totally winging it all the time. Confident people are just better at hiding it.
+If you really believed something, you'd act like it were were true.
+It doesnt matter how it looks, just what it causes. Utilitwrian stuff.
+//Morals are made up?
+Dont expect life to be fair, do what works. What is true and what works is what matters, not fairness.
+rationalization
+dont grow blank, dont allow yourself to ignore things.
   
 
 - Understand>Automate, don't rely on subconscousness?
@@ -299,7 +346,52 @@ Pierce/Chang/Dean
 Troy
 Luna
 Grandma Tyrell
+* Names
+http://fantasynamegenerators.com/native_american_names.php#.VOrk6sv0CBZ
+Misu
+Bimisi
+Iye
+Ahnu
+Nayate
+Yiska
+Kuruk
+Roul
+Armen
+Draven
+Aaron
+Maldar
+Bryne
+Akir
+Liam 
+Keon
+Glen
+Keara
+Gory
+Xiri
+Darna
+Belric
+Baseros
+Bolog
+Joggor
+Fecha
+Avas
+Malo
+Iana
+Agdi
 
+Ugu
+Uba
+Zoug
+Ayla
+Gobur
+
+http://www.erblist.com/erbmania/paluldon/paluldonglossary.html
+http://public.wsu.edu/~delahoyd/cavespeak.html
+akara - fire
+
+
+
+  
 ** Male Names
 - a Alan, Alex
 - b 
@@ -757,6 +849,7 @@ Investigation of a mysterious diappearance of an old x lead Rick and Dave to thi
 - breaking bad - scientist turns bad
 - portal - experiment subject
    
+
 
 
 ** Characters

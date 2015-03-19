@@ -1,6 +1,7 @@
 Title: The first battle
 Date: 2015-01-31 14:00
 Tags: short-stories, commuity
+Status: draft
 
 Dash felt like he was going to pass out of exhaustion.
 The battle was at it's hardest, and they were losing.

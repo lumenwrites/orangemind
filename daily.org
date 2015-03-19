@@ -1,6 +1,101 @@
-* <2015-01-17 Sat>
+* temp
+Sunbeam cut through the tiny interior of a dim and foggy Shaman's tent.
+A dirty face peered from behind the coyote skins that were covering the entrance.
+
+"Are you coming in or not?" said the weary and sligtly annoyed voice. It was very hot inside, and a small fire that was burning in the center of the tent wasn't helpting.
+
+Ugu entered. He was dressed in skins and leather, wooden club attached to his belt. In his hands he was carrying several dead rabbits.
+
+"So you're the hunter I take it?" A man sitting in front of the fire looked pretty young for a shaman. He wore simple black clothes, and a grim expression on his face.
+
+"How... how did you know?" Ugu was staring at the shaman in bewilderment.
+
+"I'm a shaman, is that not clear? Spirits told me, of course. So what do you want?"
+
+Ugu gaped at him for a while, then put his dead rabits into a pile of other gifts, and cautiously and respectfully sat down in front of the fire. 
+
+"Ehm... I need your help, err.. shaman?"
+
+"Kyle is my name. So what do you want?"
+
+" 
+
+
+
+
+Untidy black hair, goatee.
+He wore black jeans, simple dark shirt, and a grim expression on his face.
+Fire illuminated dim crimson light. Crimson shadows was dancing on the walls and on the half lit face
+
+"That much I've figured. 
+
+impressed shaken reality shuttered
+
+He was trying to look mysterious and formidable at first, but as the day went on
+
+"What?"
+
+"Nothing, nevermind []"
+
+so it's true that you know everything
+impressed
+
+
+
+Untidy black hair and a goatee
+
+
+tired annoyed weary
+Right now he was
+
+ dwelling.
+
+
+more like barbarian
+
+made it easier to breathe.
+
+"Come in already!" shaman's face was sweaty and grim. It was very hot inside, and a small fire was burning in the center of the tent wasn't helpting.
+
+A small hand pushed aside
+, and a gust of wind
+, and briefly disappeared as Akir entered.
+
+
+
+
+
+Small beam of light fell through the entrance 
+, clearly visible in the smoke
+Small village seemed lost in the middle of the lifeless mesa
+Several small tents were scattered on the edge of a mesa.
+
+Hot and dense air
+Lean figure was sitting in the center of a tent.
+Shaman's tent was
+
+IIncs. What can go wrong?
+Tribesmen doing the opposite of CIs and getting into trouble.
+Or just general trouble. Maybe solved with CIs.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+  
+Maybe they're just at the edge of the mesa? In the shadow?
+caves, forest, river....
+
+they've probably setup his tent the way they expect shaman to like.
+He'll change it later.
+* daily
+** <2015-01-17 Sat>
 Harry was sitting at the Ravenclaw table when black haired girl came up to him.  
-* <2015-01-25 Sun>
+** <2015-01-25 Sun>
 Kyle jumped to the right, dodging the bite of a mutated rat.
 His crowbar, covered in what was left of his previous enemies, was shaking in his hands.
 Right behind him was a narrow river with ominously looking black water.
@@ -14,8 +109,8 @@ and the remaining 4 were looking more and more hesitant to attack.
 Rats were pretty useless, clever animals, but too aggressive.
 Despite Kyle's attempts, the project of domesticating these creatures hasn't been a very successfull one.
 
-* <2015-01-31 Sat>
-** Singularity outline
+** <2015-01-31 Sat>
+*** Singularity outline
 Solving OM and singularity today!!
 - Bottom-um procedural code-style singularity draft
 + Complete one of the drafts and turn it into a post.
@@ -299,7 +394,7 @@ Maybe after realizing what they had done they've decided not to give the info to
 Where do they get money then? Did they have any avance? Will they have to return it?
 What do they have on the gangsters?
 
-** Bottom-up procedural code style
+*** Bottom-up procedural code style
 <!--
 Amber(22 years old, bulky but comfortable cloth, shuffled red hair) was sitting on the floor tinkering with wires on the raspberry pi project that she was making.
 Mike(21 years old, buttoned-up t-shirt with a pocket protector. Seriously.) was sitting on the couch and reading Feynman's lectures on physics(Volume 1) for a 4th time.
@@ -386,7 +481,7 @@ Kyle and Max looked at each other. From what Max knew about that kind of meeting
 This moment a train
 -->
 
-** .
+*** .
 - Scene of Max proposing the hack
 - Scene where Dean asks them to enter the competition
 //Scene where they prepare for break in(to have a new scene to write)?
@@ -419,7 +514,7 @@ Before anybody had time to say anything, the Dean suddenly appeared in the doorw
 The Dean was wearing a fabulous light-blue dress, a wig of long light hair, and carrying 3 small stuffed dragons on his shoulders.
 "Hello everyone!! I am the Deanarys Targaryen, the mother of dragons, and I am here to tell you that our school needs your help. Greendale is not the best school, but for generations we have been proud to hold the award for the best pacman score in the area, until City College took it from us 5 years ago. And now I am proud to say that we have an opportunity to get this honor back, return Greendale it's throne, so to speak." said he in a loud and cheerful voice while pointing at his dress.
 
-* <2015-02-01 Sun>
+** <2015-02-01 Sun>
 
 Short, 5-minute , visual, present tense, diverse fiction stories. Screenplay-way.
 
@@ -481,7 +576,7 @@ Loudest roar echoed through the entire forest, as a humongous foot landed in 2 m
 Frank was having his first date in a long long time. After 20 years of ruthlessly climbing the corporate ladder in the biggest and meanest software corporation of all time he almost forgot what's it like to talk to a person without a clear agenda or buttons to push.
 
 
-* <2015-02-03 Tue>
+** <2015-02-03 Tue>
 Vikings,
 Superheroes
 Aliens,
@@ -619,7 +714,7 @@ Alright, interesting!! IInc actually seems to be the most helpful.
 
 So.
 
-* <2015-02-04 Wed>
+** <2015-02-04 Wed>
 
 # Perfect Ultimate Format:
 5-min shorts, visual, present tense. Screenplay-way. (= Setup given)
@@ -631,7 +726,7 @@ So.
 - Use it as a setup for comedy.
 
 Hard to start? Confused?
-**** Just list stuff!! I've got 3 tables!!
+***** Just list stuff!! I've got 3 tables!!
 
 1. - Pyramides. 
    - Hermiony/Kaylee. 
@@ -663,47 +758,47 @@ Just like that.
 Took me like 2 minutes.
 
 Now?
-**** Discovery write!!!!
-******* Pyramides. Hermioiny/Kaylee. Somebody attacks you on the streeet.
+***** Discovery write!!!!
+******** Pyramides. Hermioiny/Kaylee. Somebody attacks you on the streeet.
 Lily was visiting pyramids for the first time.
 When he was trying to buy a thing on the street
 - 3 americans in expensive suits asked her to come with them.
 She ran.
 
-******* Stanford/MIT. Juno. Aliens are coming.
+******** Stanford/MIT. Juno. Aliens are coming.
 Zoe was on her 3rd course studying computational biology when these weird students started appearing more and more often on campus. It was hard to pinpoint what they all had in common, besides the strange behavior and aura of weirdness around them. They've seemed to come from all over US, in no particular pattern, they weren't similar in cloth, appearance, or a behavior, yet
 all had something strangely in common and alien....
 	
-******* Canada. Twins. Dark overlod rises.
+******** Canada. Twins. Dark overlod rises.
 Jim was spending his summer at his father's in Canada.
 When he
 
-******* Small town. Draco. Stray in a dangerous place.
+******** Small town. Draco. Stray in a dangerous place.
 Matt didn't expect this trip to turn out so weird.
 He was on a trip to photograph places around this small town, when things started to go wrong.
 Before I continue I'd like to mention that Matt was kind of a dick. Or maybe a better word would be an "antihero", but that's not how his girlfriend called him when they broke up. Or his boss, right before firing him.
 
-******* Mancave. Jeff(hot guy). Your friend is in danger.
+******** Mancave. Jeff(hot guy). Your friend is in danger.
 Jeff was playing xbox on his couch when his telephone rang.
 "If you want your friend to be well - meet me at the corner of x and y"
 
-******* Hollywood. Abed. Someone is chasing you.
+******** Hollywood. Abed. Someone is chasing you.
 Ted was running through the sunny streets of Los Angeles, being chased by 3 angry old people.
 
-******* Detroit. Michael Cera. You're out of money and stuff/stray.
+******** Detroit. Michael Cera. You're out of money and stuff/stray.
 Mike never expected to be stranded in such place with no money but here he was.
 Trusting that weird taxi guy was a mistake. Hell, getting into this terrifying city was a mistake.
 Why did I do that, again?
  
-******* Small Tropical island. Troy and Pierce. Priceless artifact has been stolen.
+******** Small Tropical island. Troy and Pierce. Priceless artifact has been stolen.
 Investigation of a mysterious diappearance of an old x lead Rick and Dave to this tropical island.
 
 
-**** Elements>Jump>Move
+***** Elements>Jump>Move
 
-* <2015-02-06 Fri>
+** <2015-02-06 Fri>
 
-* <2015-02-11 Thu>
+** <2015-02-11 Thu>
 ## Example of writing a joke
 
 First I need a topic, something that will create a default lane.
@@ -981,7 +1076,7 @@ Zoom out. Small sport-shop in the mall.
 Concerned shopkeeper, little skinny guy/angry old lady:
 "Sir, si-ir! If you won't gonna buy anything I'm afraid I'm going to have to ask you to leave!"
 
-* <2015-02-13 Fri>
+** <2015-02-13 Fri>
 Excellent, let's do this!!
 
 CIs:
@@ -1037,11 +1132,11 @@ IInc:
 - Woman, husband, the bank where he holds his money?
   
 
-** Scifi-HC 
-**** Setting
-**** Character
-** Story-HC
-**** AIMA-CI Example
+*** Scifi-HC 
+***** Setting
+***** Character
+*** Story-HC
+***** AIMA-CI Example
 [Concrete example of CI? (Metaphor)]
      
 Broken Windows
@@ -1049,22 +1144,265 @@ Somebody made a small mistake,
 neglected a tiny flaw,
 and it gradually escalated into a disaster?
      
-**** IInc (Obstacles, Problem)
+***** IInc (Obstacles, Problem)
 [Problem CI can solve?]
 [What can go wrong if you do the opposite?]
-** Plot
-**** Engage. 1st attempt.
-**** Escalate. 2nd attempt. No-return.
-**** Lose. 3rd attempt.
-** Climax
-**** Realize. Plan. (CI? Twist? Creative Solution?)
-**** Win. Final Battle.
+*** Plot
+***** Engage. 1st attempt.
+***** Escalate. 2nd attempt. No-return.
+***** Lose. 3rd attempt.
+*** Climax
+***** Realize. Plan. (CI? Twist? Creative Solution?)
+***** Win. Final Battle.
 
 
 
-* <2015-02-14 Sat>
-**** Scifi-HC. Setting/Character
-**** Story-HC. IInc. Problem. What can go wrong? (Obstacles<Antagonist?)
-**** Plot. Engage>Escalate>Lose. How does he go about achieving the goal?
-**** Climax. Creative Solution. How does he win final battle???
+** <2015-02-14 Sat>
+[optional] Bottom-up Procedural Scenes (Explore)
+***** Scifi-HC. Setting/Character
+***** Story-HC. IInc. Problem. What can go wrong? (Obstacles<Antagonist?)
+***** Plot. Engage>Escalate>Lose. How does he go about achieving the goal?
+***** Climax. Creative Solution. How does he win final battle???
+
+
+*** Routine way
+> Topic. Setting/Character/IInc
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
   
+> Ideas. Plot>Creative-Solution.
+[How does he go about achieving the goal? How does he win final battle???]
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+> Jokes. Scenes.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+** <2015-02-15 Sun>
+*** Writing prompts
+Pyramides
+Kaylee
+Cops/Agents
+
+*** Scifi-HC. Setting/Character
+Lily was visiting pyramids for the first time.
+
+*** Story-HC. IInc. Problem. What can go wrong? (Obstacles<Antagonist?)
+2 men in expensive suits seemed to appear out of nowhere.
+"Please come with us" said one of them politely.
+"Do I have to?"
+"Yes, and don't be a problem. This place is surrounded"
+"I will scream for help"
+"Nobody here knows the language, nor really cares. You can try if you like"
+"I will if you won't tell me immediately what's it all about."
+"Look, don't play dumb. We have a hidden camera footage of you stealing some extremely classified information"
+"Unless you will show me an arrest order and your documents I'm not going anywhere"
+Agent sighed heavily and reached for his bag. At this moment Lily kicked the agent in the groin and bolted across the street, hoping to hide in the labyrinth of narrow streets of this crazy city. 2nd agents was 2 steps behind her.
+
+***** Pyramides. 2 agents vs a girl [idea]
+******** Elements:
+- The reason agents are there
+- Girl's reaction
+- How environment around pyramides looks like
+- What kind of person is she?
+
+******** Jumps:
+- Girl is a serial killer, and she is chased by agents everywhere? Did she kill a president?
+- Girl is a criminal look-alike?
+- Agents are hunting people with superpowers?
+- it is actually 2000 bc?
+
+******** Move/Explain/express
+She killed an evil minister, now the whole world is hunting for her, especially evil agents.
+She killed him because.... he was about to pass a law that will....lead to incredible trouble in the future? Screw her people? North Korean leader was about to launch a nuke? Guy had power to launch a nuke and wasn't stable? She knew him before and knows he's crazy?
+Alliance.... why would Kaylee kill some government official? For hunting River?
+Okay, screw that, she just stole something.
+Something like.... Some artifact....
+She stole a classified info(flash card with mcguffin) because she's a cool criminal.
+Now agents are hunting her.
+Cool, great IInc.
+At climax she escapes.
+
+***** Girl is being taken in by creepy agents[joke]
+******** Elements
+- Her reaction
+- Agent's intentions
+- 
+     
+******** Jump
+- Agents are afraid of her?
+- Agent wants to take her out on a date?
+- 
+
+******** Move
+- Agents are afraid of her because....
+She's known to be dangerous? Because agent has panic attacks?
+-
+
+******** Express
+"Agent is afraid of her because he's a newbie and has panic attacks"
+
+
+*** Plot. Engage>Escalate>Lose. How does he go about achieving the goal?
+Lily was sitting in the dark angar with her hands tied behind her back. Yeah, these people clearly weren't a government. With her eyes tied he could hear one man coming up to her.
+"Okay, I'll get right to the point. You will tell us where you hid the flash card, and you will get out of here alive"
+
+*** Climax. Creative Solution. How does he win final battle???
+Plane was taking off the ground, as sounds of gunshots were getting quieter and quieter. She was never so happy about the fact that she learned how to fly. And to steal cars. And about the fact that stealing a plane wasn't that much harder.
+
+*** Story
+
+***** Scene/Joke
+
+***** All is lost
+She looked on the 2 sides of the street where agents were standing in her way. One of them was holding a peculiar device.
+In a few seconds she felt extremely sleepy and lightheaded.     
+
+***** Scene/Joke
+
+***** Scene/Joke
+
+***** Scene/Joke
+      
+** <2015-02-16 Mon>
+Ideas  Climaxes.
+Scifi-HC, Story-HC.
+Escalate>Lose.
+Turn into a win.
+
+"Benjamin Linus and Turtle fight robot rebellion.
+Ben and Sal stood back to back, shooting lasers at crowrs of robots that were trying to get through the doors of their building. Robots were humanoids, and looked a lot like scary sceletons. Sal wondered - why would you make a robot looking that weird? Granted, friendly-looking robots were looking even creepier, but then again - what is the point of designing a thing to look outright malicious? Almost like designers hoped that these robots will rebel. You could hardly see these things assembling cars or cleaning the streets or babysitting.
+"
+
+escalate-lose - surrounded by robots?
+turn into a win - infect the skynet?
+
+and guess what - that should be already enough for a cartoonish climax with jokes!!!!
+
+Jane manipulates her dummie scared boss into fighting and winning the necromancer
+
+Harvey convinces dudes not to blow up the city?
+Or escape.... when you see a clear problem it gives you most of the goal....
+
+how can detroit escalate into something bad?
+how can he escape?
+
+Yeah, see, these IIncs are cool challenges to solve, and climax is a solution.
+
+agents catch that magician?
+see, need to know how and all this.
+
+
+** <2015-02-18 Wed>
+512 words of any type.
+But going generally after 3 more climaxes.
+
+** <2015-03-02 Mon>
+
+Her name was Akira. She had short red hair, and freckles.
+Being chief's daughter is pretty hard, her stern father was the complete opposite of the rebellious and freedom craving character of Akira.
+Having to learn politics and everything else that comes with the position of power is so annoying when you constantly crave to mess with things and satisfy your curiosity, and can't help but despise social status games.
+
+Boredom. Boredom was always his main enemy.
+
+
+Wind was shashing the raindrops against the huge windows of skyscrapers. Storms in New York are magnificent and awesome.
+
+
+Series of gigantic explosions were startling people all around the small city.
+4 cars blew up as they were passing buy on the highway.
+
+
+
+
+
+
+
+** <2015-03-03 Tue>
+He was staring at his computer screen when the boss entered the office.
+
+"Good news everyone!" - well, that wasn't something you could hear too oftent. Although he could've just been referencing futurama, in which case they were as screwed as always.
+
+"Our competitors are ..." - yep, definitely futurama.
+
+
+Sun was setting beyound the horizon, white sand of the desert turned reddish in the sunset's light.
+They've made a small camp rigt where they stood - there was no point in picking a place, it was the same sand in all directions.
+
+Superheroe school was a giant shiny building standing on the shore of an ocean. Sun and mountains were refleting from it's windows. Steel and glass. It was the most modern and technologically advanced university you could imagine, built by an eccentrick billionaire who realized that it was time to train superheroes deliberately. They were hard to control but it was better than having uneducated and often miserable and rejected heroes running around and fighting each other without any understanding or means to do so well.
+
+Dash was sitting on the social engineering lecture and looking concerned. Learning about this subject wass exciting but not at all what he expected a young superheroes should be taught. His father told him that superheroe should be 100% good, and show people an example, and be a great symbol of everything that is right and just. Dash saw the appeal in learning how to lie and plot, and he supposed it was necessary to learn to be able to fight supervillains who wouldn't hesitate to do so, but it still seemed weird. He used to imagine superheroes winning in battle, by their strength or speed, not in the intrigues or plotting.
+
+Dark side of this creepy planet was called, and sometimes Kaylee thought that she saw the eyes gleaming in the light of the bright starts and 2 moons. Planet has slowed down it's rotation, and each cycle matched with the cycle of the planet rotating around a star. It seemed very improbablye, but out of the infinite number of starts in the universe each of which had several planets it was bound to happen at least once.
+That weird coincidence resulted in one side of the planet being always turned towards the star, while the opposite side was constantly facing away, for thousands of years.
+Local wildlife looked pretty brutal and it was.
+
+It was hard to believe that some people were crazy enough to live here, but prescious minerals and unique lifeforms attracted 2 distinctly different kinds of people - thugs willing to do almost anything to satisfy their greed, and scientists willing to do almost anything to satisfy their curiosity.
+
+None of the crew wanted to stay on this creepy planet any longer, but being chased by alliance left their ship broken, and this planet was the only place they could land in hopes of fixing it.
+In the radio conversation local scientists explained to them where to land, but they couldn't come too close without disturbing the force fields, so they had to land in 50 meters from the entrance. That meant that they had to cross 50 meters filled vicious creatures of night.
+Mal asked to send for some transport to fetch them, but it turned out that only recently a group of space pirates attacked their transport under a similar pretence, and held the drivers hostage until they were given some loot.
+
+That meant that they were to cross these 50 meters relying only on their suits, speed and Jayne's favorite gun Vera. They were encouraged that most of the wildlife was chased away by light of projectors, but warned that they still should be extremely careful.
+
+As Kaylee stept onto the ground(frozen to -120 degrees) she notices something creepy slythering away from under her feet. From the darkness surrounding a small spot of projector's light, she saw dozens of pairs of eyes gleaming in the darkness, reflecting their flashlights, and escaping being hit directly by any light beams.
+
+> Prompt.
+
+Cave's floor was wet and slippery. Various bugs were crawling arounds it's floor and walls.
+Greg and Jessie were panting heavily, strenuously looking outside, trying to make out any movement or danger within the forest.
+
+T-Rex was gone, and raptors seemed to follow the wrong lead.
+
+They looked at each other, exhaling in unison. That was close.
+
+"So, how the hell do you think we got here?" asked Jessie.
+
+- Crazy experiment they did together?
+- Accidentally, without knowing how that could happen
+- ....
+  
+"Do you think that if I knew I would be here in the first place? What were you doing when you teleported here - you got here the same way, I'm assuming?" said Greg annoyed.
+
+"Yo, man, I was just erhm... chilling with my homies, when this gigantic portal appeared. I couldn't resist checking it out, but once I came close it.. er... sucked me in? And then I'm standing in the middle of the forest looking at a giant lizard. The rest you know. What about you?"
+
+"Same here. Except for homies, I was solving the case. Why the hell weren't you running back there by the way?"
+
+"I was looking at a freaking Tyranosaur, man! I thought that I was.. imagining it. Hey, do you think it's just 2 of us or other people got here too?"
+
+"That doesn't matter, and we'll find out eventually anyway. Now the best thing we can do is survie, explore this weird place, and then find a way to get the hell out of here."
+
+Jessie looked around the cave, kicked around some dirt, accidntally killing several bugs.
+"Alright, we need to find a better place to spend the night. I think I saw some more caves as we were running."
+
+----
+
+Night fell upon the forest. Dry and roomy cave was lighted by a small  fire burning in the center of it. Entrance to the cave had a few twists and turns, which prevented most of the mud from getting here, and was likely to prevent the light of the fire from attracting animals and mosquitos.
+
+Jessie couldn't imagine how cold and terrifying it would have been here if not for the fire, for the first time in his life he was really glad that he smoked. At first he tried to pinch himself from time to time hoping that it was a weird dream or hallucination, but it was time to accept it - this was really happening. Exhausted, he leaned against the wall of the cave and passed out almost immediately.
+
+----
+
+He woke up with a jolt - he thought he heard somebody screaming. Woman's voice. His hopes of it being just a part of his uneasy dream were shaterred against the concerned look on the Gregs face, who also clearly has just waken up.
+
+** <2015-03-04 Wed>
+   

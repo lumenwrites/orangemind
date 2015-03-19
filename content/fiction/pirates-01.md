@@ -1,6 +1,7 @@
 Title: On the ship
 Date: 2015-01-31 13:00
 Tags: short-stories, pirates
+Status: draft
 
 The ship was kneeling left and right as the giant waves were hitting it's sides.
 

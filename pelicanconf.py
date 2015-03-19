@@ -29,8 +29,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
-# Menu
-MENUITEMS = [('Home', '/'), ('Stories', '/stories'),] #('Essays', '/essays'),
+# Menu should be fiction, articles, 
+MENUITEMS = [('Home', '/'), ('Articles', '/category/articles')]
+#('Essays', '/essays'), ('Home', '/')
+# ('Stories', '/stories'),
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),

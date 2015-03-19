@@ -2,7 +2,7 @@ Title: Creativity
 Slug: creativity
 Date: 2015-02-03
 Tags: creativity
-Status: draft
+
 
 In the [previous post](/post/essay) I've described how to find challenges to exercise your creativity.
 
