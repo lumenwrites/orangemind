@@ -1,5 +1,6 @@
 Title: Caveman Syndrome
 Date: 2015-03-07
+Status: draft
 
 Max liked to imagine how the life 100.000 years ago would be like, it helped him to understand himself and other people much better.
 

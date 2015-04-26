@@ -2,7 +2,6 @@ Title: Writing essay
 Date: 2015-02-01 12:00
 Slug: essay
 Tags: writing
-Status: draft
 
 Essays are about coming up with new and surprising ideas, and then exploring them.
 

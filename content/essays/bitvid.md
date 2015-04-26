@@ -1,5 +1,6 @@
 Title: What I would do to keep bitvid alive. (+ my offer to bitvid founders)
 Date: 2015-03-29
+Status: draft
 
 I've read the news about you guys shutting down the development of bitvid, and it saddens me. It was obviously a brilliant idea that got a lot of people very excited, I can't imagine why you would give up on that. I have very little information about the internal state of the project, but I can't stop thinking that maybe it doesn't have to die.
 
