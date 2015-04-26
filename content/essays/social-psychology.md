@@ -1,5 +1,6 @@
 Title: Social Psychology - Community Episode Analysis
 Date: 2015-04-10
+Status: draft
 
 [Script PDF](#link)
 
