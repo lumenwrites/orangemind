@@ -16,10 +16,11 @@
 	  <p>
 	    {{ article.summary }}
 	  </p>
-          <a href="{{ SITEURL }}/{{ article.url }}" id="readmore">>>> readmore</span></a> 
+
+          <a href="{{ SITEURL }}/{{ article.url }}" id="readmore">>>> readmore</span></a>
 	</article>
 	{% endfor %}
-	
+
 	{% include 'pagination.html' %}
         </div>
     </div>
