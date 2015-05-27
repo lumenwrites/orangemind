@@ -319,6 +319,11 @@ footer {
     font-size: 40px;
 }
 
+.fictionhub-subscribe img {
+    width: 45px;
+    float: right;
+    margin: -2px 4px;    
+}
 /* Comments */
 .comments {
     margin: 20px;

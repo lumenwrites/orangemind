@@ -30,7 +30,9 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Menu should be fiction, articles, 
-MENUITEMS = [('Home', '/'), ('Articles', '/category/articles')]
+MENUITEMS = [('Home', '/'),
+             # ('Articles', '/category/articles'),
+             ('Fictionhub', 'http://fictionhub.io'),]
 #('Essays', '/essays'), ('Home', '/')
 # ('Stories', '/stories'),
 
