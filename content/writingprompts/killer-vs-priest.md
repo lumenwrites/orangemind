@@ -1,5 +1,6 @@
 Title: Killer vs Priest
 Date: 2015-05-07
+Tags: fictionhub, writing-prompts
 
 **[WP] A serial killer and a Priest are having a conversation about God.**
 

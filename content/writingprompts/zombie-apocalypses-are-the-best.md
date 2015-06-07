@@ -1,5 +1,6 @@
 Title: Zombie Apocalypses Are The Best
 Date: 2015-05-03
+Tags: fictionhub, writing-prompts
 
 **[WP] a zombie apocalypse occurs, the weak and inadequate are killed, but 500 years later the natural selection of the apocalypse leaves only the strongest and brightest to breed and rebuild. Everyone is the best of the best.**
 

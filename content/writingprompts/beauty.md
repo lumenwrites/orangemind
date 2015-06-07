@@ -1,6 +1,6 @@
 Title: Beauty
 Date: 2015-05-09
-Tags: fictionhub, writing-prompts
+Tags: fictionhub, writing-prompts, comedy
 
 **[WP]: Describe the ugliest person imaginable using only praises and compliments**
 

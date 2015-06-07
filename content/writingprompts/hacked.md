@@ -1,5 +1,6 @@
 Title: Hacked
 Date: 2015-05-02
+Tags: fictionhub, writing-prompts, comedy
 
 **[WP] You have just become aware that your significant other can control your actions with a simple little phrase preceding a command.**
 

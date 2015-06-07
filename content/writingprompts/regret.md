@@ -1,5 +1,6 @@
 Title: Regret
 Date: 2015-06-12
+Tags: fictionhub, writing-prompts
 
 **[WP] When you were younger you murdered 4 people in cold blood. 30 years later you meet the man who confessed and went to prison for your murders.**
 
