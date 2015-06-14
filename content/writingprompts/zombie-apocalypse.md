@@ -1,5 +1,6 @@
 Title: Zombie Apocalypse
 Date: 2015-05-03
+Tags: fictionhub, writing-prompts
 
 Based on [[WP] The zombie apocalypse is here! We've all seen the movies and played the games so we thought we knew what to do. Unfortunately, there's something different about the real zombies that pop culture never prepared us for.](http://www.reddit.com/r/WritingPrompts/comments/34otpm/wp_the_zombie_apocalypse_is_here_weve_all_seen/cqwp7nb)
 

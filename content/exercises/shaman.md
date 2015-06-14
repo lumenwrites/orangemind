@@ -19,6 +19,6 @@ Ugu gaped at him for a while, then put his dead rabits into a pile of other gift
 
 "Ehm... I need your help, err.. shaman?"
 
-"Kyle is my name. So what do you want?"
+"Call me Max. So what do you want?"
 
 *[to be continued]*

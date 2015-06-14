@@ -388,7 +388,7 @@ Gobur
 http://www.erblist.com/erbmania/paluldon/paluldonglossary.html
 http://public.wsu.edu/~delahoyd/cavespeak.html
 akara - fire
-
+agni
 
 
   
@@ -410,7 +410,7 @@ akara - fire
 - o
 - p
 - q
-- r
+- r Richard
 - s Sal, Saul, Seth
 - t Ted
 - u
