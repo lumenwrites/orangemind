@@ -37,19 +37,28 @@
 <div class="row" >
   <div class="large-12 columns" >
     <div id="wrapper">
+<div style="position:absolute;top:20px;width:100%; text-align:center;">
+	<a class="small button fi-previous" style="z-index: 2;" id="first-post" href="#"></a>
+	<a class="small button fi-rewind" style="z-index: 2;" id="prev-post" href="#"><!-- Prev --></a>
+	<a class="small button" href="#"  id="random-post" style="padding: 3px 7px; z-index: 2;">
+	  <!-- Random -->
+	  <img style="width:40px;margin:-1px;"
+	       src="https://www.iconexperience.com/_img/m_collection_png/256x256/plain/die.png"/>
+	</a>
+	<a class="small button fi-fast-forward" style="z-index: 2;" id="next-post" href="#"><!-- Next --></a>
+	<a class="small button fi-next" style="z-index: 2;" id="last-post" href="#"></a>
+</div>
       <header>
 	<div class="row" >
-          <div class="large-8 columns" >
+          <div class="large-6 columns" >
             <a href="/"><img id="orange-mind-logo" src="/theme/img/orangeMindLogo.png" /></a>
-          </div>
-          <div class="large-4 columns" id="mainMenu">
+          </div>	  
+          <div class="large-6 columns" id="mainMenu">
 	    <ul>
 	      <li>
-		<a href="/">Home</a>
+		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>
 	      </li>
-	      <li>
-		<a href="http://fictionhub.io">Fictionhub</a>
-	      </li>
+	      
 	    </ul>
 	  </div>
 	</div>
@@ -58,62 +67,91 @@
 <h1>Archives for orangemind</h1>
 
 <dl>
-    <dt>Wed 17 June 2015</dt>
-    <dd><a href="/post/portal">The Gate</a></dd>
-    <dt>Fri 12 June 2015</dt>
-    <dd><a href="/post/regret">Regret</a></dd>
-    <dt>Tue 26 May 2015</dt>
-    <dd><a href="/post/odd-thoughts-1">Odd thoughts #1</a></dd>
-    <dt>Fri 22 May 2015</dt>
-    <dd><a href="/post/how-to-become-a-serial-killer-in-21-easy-steps">How to become a serial killer in 21 easy steps</a></dd>
-    <dt>Thu 21 May 2015</dt>
-    <dd><a href="/post/cookbook">Cookbook</a></dd>
-    <dt>Thu 21 May 2015</dt>
-    <dd><a href="/post/maya">Maya</a></dd>
-    <dt>Tue 19 May 2015</dt>
-    <dd><a href="/post/dinosaurs">Dinosaurs</a></dd>
-    <dt>Sat 16 May 2015</dt>
-    <dd><a href="/post/paranoia">Paranoia</a></dd>
-    <dt>Sat 16 May 2015</dt>
-    <dd><a href="/post/the-last-conversation">The Last Conversation</a></dd>
-    <dt>Thu 14 May 2015</dt>
-    <dd><a href="/post/pinch-me">Pinch Me</a></dd>
-    <dt>Wed 13 May 2015</dt>
-    <dd><a href="/post/pigeons-of-death">Pigeons of Death</a></dd>
-    <dt>Sat 09 May 2015</dt>
-    <dd><a href="/post/beauty">Beauty</a></dd>
-    <dt>Thu 07 May 2015</dt>
-    <dd><a href="/post/ghost">Ghost</a></dd>
-    <dt>Thu 07 May 2015</dt>
-    <dd><a href="/post/glip-glops">Glip Glops</a></dd>
-    <dt>Thu 07 May 2015</dt>
-    <dd><a href="/post/killer-vs-priest">Killer vs Priest</a></dd>
-    <dt>Sun 03 May 2015</dt>
-    <dd><a href="/post/the-cell">The Cell</a></dd>
-    <dt>Sun 03 May 2015</dt>
-    <dd><a href="/post/zombie-apocalypse">Zombie Apocalypse</a></dd>
-    <dt>Sun 03 May 2015</dt>
-    <dd><a href="/post/zombie-apocalypses-are-the-best">Zombie Apocalypses Are The Best</a></dd>
-    <dt>Sat 02 May 2015</dt>
-    <dd><a href="/post/hacked">Hacked</a></dd>
-    <dt>Fri 01 May 2015</dt>
-    <dd><a href="/post/oreo">Oreo</a></dd>
-    <dt>Thu 26 March 2015</dt>
-    <dd><a href="/post/sanity">Sanity</a></dd>
-    <dt>Wed 25 February 2015</dt>
-    <dd><a href="/post/rational-reading-list">Rational reading list</a></dd>
-    <dt>Mon 16 February 2015</dt>
-    <dd><a href="/post/story">Story</a></dd>
-    <dt>Tue 03 February 2015</dt>
-    <dd><a href="/post/comedy">Comedy theory.</a></dd>
-    <dt>Tue 03 February 2015</dt>
-    <dd><a href="/post/creativity">Creativity</a></dd>
-    <dt>Sun 01 February 2015</dt>
-    <dd><a href="/post/essay">Writing essay</a></dd>
+    <dt>Wed 06 January 2016</dt>
+    <dd><a href="/post/statistically">Statistically</a></dd>
+    <dt>Mon 04 January 2016</dt>
+    <dd><a href="/post/alex-aspiring-assasin-vol-1">Alex Aspiring Assasin Vol 1</a></dd>
+    <dt>Fri 01 January 2016</dt>
+    <dd><a href="/post/christmas-tree">Christmas Tree</a></dd>
+    <dt>Mon 07 December 2015</dt>
+    <dd><a href="/post/gifted">Gifted</a></dd>
+    <dt>Sun 06 December 2015</dt>
+    <dd><a href="/post/self-employed">Self-employed</a></dd>
+    <dt>Sat 05 December 2015</dt>
+    <dd><a href="/post/high">High</a></dd>
+    <dt>Fri 04 December 2015</dt>
+    <dd><a href="/post/running">Running</a></dd>
+    <dt>Thu 03 December 2015</dt>
+    <dd><a href="/post/school">School</a></dd>
+    <dt>Wed 02 December 2015</dt>
+    <dd><a href="/post/getting-old">Getting Old</a></dd>
+    <dt>Tue 01 December 2015</dt>
+    <dd><a href="/post/introductions">Introductions</a></dd>
 </dl>
       
-      <footer>
-      </footer>
+
+
+<!-- Subscribe popup -->
+<div id="subscribePopup" class="reveal-modal tiny" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog" style="padding: 20px 20px 0px 20px;">
+  <!-- <h2 id="modalTitle">Enter your email.</h2> -->
+  <!-- <p class="lead">Your couch.  It is mine.</p> -->
+  <!-- <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p> -->
+
+    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
+      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="mc-field-group">
+
+	  <!-- RSS icon -->
+	  <span class="rss-icon" style="margin:20px;">
+	    <a href="/feed/all.atom.xml">
+	      <i class="fi-rss large"></i></a>
+	  </span>
+
+          <input class="required email"
+                 id="mce-EMAIL"
+                 name="EMAIL"
+                 placeholder="Enter your email"
+                 type="email"
+                 value=""
+		 style="/*width: 65%;*/
+			width:calc(100% - 50px);
+			height: 42px;
+			float: left;
+			margin: 0;"/>
+          <input class="small button right"
+                 id="subscribeButton"
+                 name="subscribe"
+                 type="submit"
+                 value="Subscribe"
+		 style="width:100%;
+			width:calc(100% - 50px);
+			float:left!important;
+			margin-top:4px;
+			"/>
+        </div>
+
+        <div class="clear" id="mce-responses">
+          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
+          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
+        </div>
+      </form>
+    </div>
+  <!-- <a class="close-reveal-modal" aria-label="Close">&#215;</a> -->
+</div>      
+      
+<script src="/theme/js/foundation/foundation.js"></script>  
+<script src="/theme/js/foundation/foundation.reveal.js"></script>
+<script>
+Foundation.global.namespace = '';
+$(document).foundation();
+</script>
+
+
+
+
+<footer>
+</footer>
+
     </div>
   </div>
 </div>  

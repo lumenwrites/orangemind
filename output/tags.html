@@ -37,34 +37,98 @@
 <div class="row" >
   <div class="large-12 columns" >
     <div id="wrapper">
+<div style="position:absolute;top:20px;width:100%; text-align:center;">
+	<a class="small button fi-previous" style="z-index: 2;" id="first-post" href="#"></a>
+	<a class="small button fi-rewind" style="z-index: 2;" id="prev-post" href="#"><!-- Prev --></a>
+	<a class="small button" href="#"  id="random-post" style="padding: 3px 7px; z-index: 2;">
+	  <!-- Random -->
+	  <img style="width:40px;margin:-1px;"
+	       src="https://www.iconexperience.com/_img/m_collection_png/256x256/plain/die.png"/>
+	</a>
+	<a class="small button fi-fast-forward" style="z-index: 2;" id="next-post" href="#"><!-- Next --></a>
+	<a class="small button fi-next" style="z-index: 2;" id="last-post" href="#"></a>
+</div>
       <header>
 	<div class="row" >
-          <div class="large-8 columns" >
+          <div class="large-6 columns" >
             <a href="/"><img id="orange-mind-logo" src="/theme/img/orangeMindLogo.png" /></a>
-          </div>
-          <div class="large-4 columns" id="mainMenu">
+          </div>	  
+          <div class="large-6 columns" id="mainMenu">
 	    <ul>
 	      <li>
-		<a href="/">Home</a>
+		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>
 	      </li>
-	      <li>
-		<a href="http://fictionhub.io">Fictionhub</a>
-	      </li>
+	      
 	    </ul>
 	  </div>
 	</div>
       </header>
       
-    <h1>Tags for orangemind</h1>        <li><a href="/tag/comedy.html">comedy</a> (3)</li>
-        <li><a href="/tag/creativity.html">creativity</a> (2)</li>
-        <li><a href="/tag/fiction.html">fiction</a> (1)</li>
-        <li><a href="/tag/fictionhub.html">fictionhub</a> (6)</li>
-        <li><a href="/tag/rational.html">rational</a> (1)</li>
-        <li><a href="/tag/writing.html">writing</a> (2)</li>
-        <li><a href="/tag/writing-prompts.html">writing-prompts</a> (6)</li>
+    <h1>Tags for orangemind</h1>        <li><a href="/tag/comics.html">comics</a> (10)</li>
       
-      <footer>
-      </footer>
+
+
+<!-- Subscribe popup -->
+<div id="subscribePopup" class="reveal-modal tiny" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog" style="padding: 20px 20px 0px 20px;">
+  <!-- <h2 id="modalTitle">Enter your email.</h2> -->
+  <!-- <p class="lead">Your couch.  It is mine.</p> -->
+  <!-- <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p> -->
+
+    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
+      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="mc-field-group">
+
+	  <!-- RSS icon -->
+	  <span class="rss-icon" style="margin:20px;">
+	    <a href="/feed/all.atom.xml">
+	      <i class="fi-rss large"></i></a>
+	  </span>
+
+          <input class="required email"
+                 id="mce-EMAIL"
+                 name="EMAIL"
+                 placeholder="Enter your email"
+                 type="email"
+                 value=""
+		 style="/*width: 65%;*/
+			width:calc(100% - 50px);
+			height: 42px;
+			float: left;
+			margin: 0;"/>
+          <input class="small button right"
+                 id="subscribeButton"
+                 name="subscribe"
+                 type="submit"
+                 value="Subscribe"
+		 style="width:100%;
+			width:calc(100% - 50px);
+			float:left!important;
+			margin-top:4px;
+			"/>
+        </div>
+
+        <div class="clear" id="mce-responses">
+          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
+          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
+        </div>
+      </form>
+    </div>
+  <!-- <a class="close-reveal-modal" aria-label="Close">&#215;</a> -->
+</div>      
+      
+<script src="/theme/js/foundation/foundation.js"></script>  
+<script src="/theme/js/foundation/foundation.reveal.js"></script>
+<script>
+Foundation.global.namespace = '';
+$(document).foundation();
+</script>
+
+
+
+
+<footer>
+</footer>
+
     </div>
   </div>
 </div>  

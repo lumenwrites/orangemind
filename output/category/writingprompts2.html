@@ -37,11 +37,22 @@
 <div class="row" >
   <div class="large-12 columns" >
     <div id="wrapper">
+<div style="position:absolute;top:20px;width:100%; text-align:center;">
+	<a class="small button fi-previous" style="z-index: 2;" id="first-post" href="#"></a>
+	<a class="small button fi-rewind" style="z-index: 2;" id="prev-post" href="#"><!-- Prev --></a>
+	<a class="small button" href="#"  id="random-post" style="padding: 3px 7px; z-index: 2;">
+	  <!-- Random -->
+	  <img style="width:40px;margin:-1px;"
+	       src="https://www.iconexperience.com/_img/m_collection_png/256x256/plain/die.png"/>
+	</a>
+	<a class="small button fi-fast-forward" style="z-index: 2;" id="next-post" href="#"><!-- Next --></a>
+	<a class="small button fi-next" style="z-index: 2;" id="last-post" href="#"></a>
+</div>
       <header>
 	<div class="row" >
           <div class="large-8 columns" >
             <a href="/"><img id="orange-mind-logo" src="/theme/img/orangeMindLogo.png" /></a>
-          </div>
+          </div>	  
           <div class="large-4 columns" id="mainMenu">
 	    <ul>
 	      <li>
@@ -56,140 +67,154 @@
       </header>
       
 <section id="content">
-  
-  <div id="page"  class="blogPage">
+
+
+
+<div id="page"  class="postPage">
     <div class="row">
       <div class="large-12 columns">
-
 	<article>
-	  <header>
-            <a href="/post/pigeons-of-death"><h1>Pigeons of Death</h1></a>
-	    <hr/>
-	  </header>
+          <h1 id="blogTitle"> Regret </h1>
+          <hr />	  
+	  <p><strong>[WP] When you were younger you murdered 4 people in cold blood. 30 years later you meet the man who confessed and went to prison for your murders.</strong></p>
+<p>"Hello, Vincent."</p>
+<p>Vince froze in place, staring in shock at a man who stood in front of his door.</p>
+<p>"Hello, father." he looked in the cold blue eyes of a man he hasn't seen for 30 years. "Come in."</p>
+<p>"Doctors say I do not have much longer. I've come to say goodby." another shock. Father was always terse and got straight to the point.</p>
+<p>"I'm...." <em>sorry?</em> Didn't seem like a proportional thing to say.... </p>
+<p>"You did what you thought was right, I did what I thought was right. I don't regret anything. I wish you visited me sometimes, but I understand."</p>
+<p>Tears were gathering in his eyes. Vince was haunted by the events of that summer his whole life. He could never bring himself to regret murdering those bastards who killed his sister. Now he knew that his father felt the same way about saving him.</p>
+	  </article>
+      </div>
+</div>
 
-	  <p>
-	    <p>Windows shattered and in the next moment the roof was ripped away from the car. The speeding ferrari was lifted 2 meters up into the air, then dropped back to the road, Jack was barely able to handle the steering wheel and to keep moving.</p>
-<p>Alice, who was sitting in the passenger seat, dropped now useless guns, and reached under her seat for the bazooka.</p>
-<p>4 gigantic pigeons were following the car, weathers burned away from previous explosions, muscles bulging under the bullet-proof skin. They looked like fat and jacked pterodactyls. One of them emitted an angry roar, threw away the roof he was holding in his claws, and dived after the car. At the same time Jack made a sharp turn, so the pigeon missed and smashed ...</p>
-	  </p>
 
-          <a href="/post/pigeons-of-death" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/beauty"><h1>Beauty</h1></a>
-	    <hr/>
-	  </header>
+<script>
+var posts = [
+    "/post/regret",
+    "/post/how-to-become-a-serial-killer-in-21-easy-steps",
+    "/post/cookbook",
+    "/post/maya",
+    "/post/dinosaurs",
+    "/post/paranoia",
+    "/post/the-last-conversation",
+    "/post/pinch-me",
+    "/post/pigeons-of-death",
+    "/post/beauty",
+    "/post/ghost",
+    "/post/glip-glops",
+    "/post/killer-vs-priest",
+    "/post/the-cell",
+    "/post/zombie-apocalypse",
+    "/post/zombie-apocalypses-are-the-best",
+    "/post/hacked",
+    "/post/oreo",
+    "/post/sanity",
+];
 
-	  <p>
-	    <p><strong>[WP]: Describe the ugliest person imaginable using only praises and compliments</strong></p>
-<p>She was more handsome than a barfing snail. When people looked at her they couldn't look away, and dreamed about her for weeks after, waking up screaming every night. Her hair were like an ocean, a very deep ocean with terrifying creatures underneath. She had beautiful blue eyes, a lot of them, looking kindly at each other.
-What can I say, that girl stole my heart. And refused to give it back until I kiss her. That was a wonderful moment I won't be able to forget for the rest of my life, no matter how hard I try.</p>
-	  </p>
+posts.reverse();
+// console.log(links);
+var next = "";
+var prev = "";
+for (var i = 0; i <= posts.length-1; i++) {
+    if (posts[i] == "/post/regret"){
+	if (i < posts.length-1){
+	    next = posts[i+1];
+	} else {
+	    next = posts[i];	    
+	}
 
-          <a href="/post/beauty" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/ghost"><h1>Ghost</h1></a>
-	    <hr/>
-	  </header>
+	if (i > 0){
+	    prev = posts[i-1];
+	} else {
+	    prev = posts[0];
+	}	
+    }
+}
 
-	  <p>
-	    <p><strong>[WP] You die and become a ghost and find out that you have only 24 hours left to do what you never did when you were alive. Problem is, you can't interact with anything or anyone.</strong></p>
-<p>Cold brilliant light of the stars turned into bright streaks of light. At the center of it there was a glowing, unimaginably distant bright dot. Luckily, ghosts have no mass, so David was able to travel at 99.999% of the speed of light. He knew that Alpha Centauri, the closest star to Earth, is 4.3 light years away. He knew that he could not possibly reach it in 24 hours that he had left. He knew that no matter how fast he could go, it would never become visibly ...</p>
-	  </p>
+randomNumber = Math.round(Math.random()*posts.length) + 1
 
-          <a href="/post/ghost" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/glip-glops"><h1>Glip Glops</h1></a>
-	    <hr/>
-	  </header>
+random = posts[randomNumber]
 
-	  <p>
-	    <p><strong>[WP] Describe the most delicious thing ever tasted by anyone and then what ruined it.</strong></p>
-<p>Museum of intergalactic history was filled with visitors from all habitable planets.</p>
-<p>"...and this is the photo of the last remaining specimen of Glip-Glops, the species exterminated in a month after they were discovered. Unfortunately for these cute, intelligent, and peaceful creatures, they turned out to be the most delicious thing in the galaxy. Their meat was so tasty that eating it was described as '100 times more joyful than an orgasm' and '10 times more addictive than heroin'. In effort to preserve them, the last one of them is now hidden in a secret place, guarded by robots preventing hundreds of Glip-Glop-addicts from reaching him, while scientists are trying to clone him ...</p>
-	  </p>
+console.log("First post:" + posts[0]);
+console.log("Prev post:" + prev);
+console.log("Random post:" + random);
+console.log("Next post:" + next);
+console.log("Last post:" + posts[posts.length-1]);
 
-          <a href="/post/glip-glops" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/killer-vs-priest"><h1>Killer vs Priest</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP] A serial killer and a Priest are having a conversation about God.</strong></p>
-<p>"We should never do this again!"</p>
-<p>"But she is a godless wench, why are you protecting her?"</p>
-<p>"Every human life is sacred, we shouldn't kill anyone anymore!"</p>
-<p>"We have burned dozens of witches already, don't you think that it's a little too late to change your mind?"</p>
-<p>"I'm no longer sure that what we are doing is right, how a merciful God could want us to do this?"</p>
-<p>"Because they are witches! And admit it, it's fun, you like it a little."</p>
-<p>"No I don't, how dare you!"</p>
-<p>"I am a part of you, I know everything that you think or feel."</p>
-<p>"You are lying!"</p>
-<p>"Well, here's a ...</p>
-	  </p>
+$("#first-post").attr("href", posts[0]);
+$("#prev-post").attr("href", prev);
+$("#random-post").attr("href", random);
+$("#next-post").attr("href", next);
+$("#last-post").attr("href", posts[posts.length-1]);
 
-          <a href="/post/killer-vs-priest" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/the-cell"><h1>The Cell</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP] You are trapped in a windowless cell with no one to help you stay alive. It's been 5 days.</strong></p>
-<p>He was hungry and lonely. He was dying of thirst, and suffocating because of the amount of waste there was in the cell. It looked like a small cube, with no windows, no doors, and only one camera staring at him from the wall.</p>
-<p>He was living here for several weeks,  and it seemed fine at first. Food used to appear out of thin air from time to time, and the poop he left in the corner disappeared after a couple of hours.
-Sometimes a ball appeared, which he could play with, bouncing it off the walls and catching, but it has always disappeared after a few ...</p>
-	  </p>
+</script>    
+    
 
-          <a href="/post/the-cell" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/zombie-apocalypse"><h1>Zombie Apocalypse</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p>Based on <a href="http://www.reddit.com/r/WritingPrompts/comments/34otpm/wp_the_zombie_apocalypse_is_here_weve_all_seen/cqwp7nb">[WP] The zombie apocalypse is here! We've all seen the movies and played the games so we thought we knew what to do. Unfortunately, there's something different about the real zombies that pop culture never prepared us for.</a></p>
-<p>"Please, please don't kill me." cried Alice.</p>
-<p>Jack froze in place. He felt cold sweat running down his forehead. He thought he was prepared. He loved watching zombie movies, so when the apocalypse came he was kind of excited. He thought he knew what to do.</p>
-<p>But then she got bitten. His only love, the only person that matters to him, after surviving for this long she got bit. He stared at her in a terror.</p>
-<p>There was one thing that nobody has expected, that ...</p>
-	  </p>
 
-          <a href="/post/zombie-apocalypse" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/zombie-apocalypses-are-the-best"><h1>Zombie Apocalypses Are The Best</h1></a>
-	    <hr/>
-	  </header>
+      <!-- Follow -->
+<div class="row">
+  <div class="large-12 columns">
+  <div class="post-footer-signup panel">
+    <span style="float:left"><p>Liked this post? Subscribe to updates!</p></span>
+    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
+      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="mc-field-group">
 
-	  <p>
-	    <p><strong>[WP] a zombie apocalypse occurs, the weak and inadequate are killed, but 500 years later the natural selection of the apocalypse leaves only the strongest and brightest to breed and rebuild. Everyone is the best of the best.</strong></p>
-<p>"Welcome everyone to the 500 anniversary of a zombie apocalypse celebration party! Today we celebrate the biggest tragedy in the history of humanity, that has also turned out to be our greatest fortune. Just in 28 days all of the humanity's problems were solved. Global warming, starvation, lack of energy and resources, all wars and conflicts. All thanks to the unnamed hero, the mad biohacker, who, using his home-grown, genetically modified virus, did what the rest of our ancestors never had the balls to do - wipe out 98% of ...</p>
-	  </p>
+	  <!-- <a href="http://fictionhub.io/user/raymestalez/subscribe" class="fictionhub-subscribe"> -->
+	  <!--   <img src="/theme/img/fictionhub_logo_128x128.png"/></a> -->
+	  
+	  <!-- <span id="rss-icon"><a href="/feeds/all.atom.xml"><i class="fi-rss large"></i></a></span> -->
 
-          <a href="/post/zombie-apocalypses-are-the-best" id="readmore">>>> readmore</span></a>
-	</article>
-
-<p class="paginator">
-        <a href="/category/writingprompts.html">&laquo;</a>
-    Page 2 / 3
-        <a href="/category/writingprompts3.html">&raquo;</a>
-</p>
+          <input class="small button"
+                 id="subscribeButton"
+                 name="subscribe"
+                 type="submit"
+                 value="Subscribe"/>
+          <input class="required email"
+                 id="mce-EMAIL"
+                 name="EMAIL"
+                 placeholder="Enter your email"
+                 type="email"
+                 value=""/>
         </div>
+
+        <div class="clear" id="mce-responses">
+          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
+          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
+        </div>
+      </form>
     </div>
+  </div>
+</div>
+
+&nbsp;<br/>
+
+
+<!-- Comments -->
+  
+<!-- <div class="row"> -->
+<!--   <div class="large-12 columns"> -->
+<!--     <div class="comments"> -->
+<!--       <article> -->
+<!-- 	<\!-- <h3>Comments: </h3> -\-> -->
+<!-- 	<\!-- <hr /> -\-> -->
+<!-- 	<script data-isso="//comments.orangemind.io/om/" -->
+<!-- 		data-isso-avatar="false" -->
+<!-- 		src="//comments.orangemind.io/om/js/embed.dev.js"></script> -->
+<!-- 	<section id="isso-thread"></section> -->
+<!-- 	<hr /> -->
+<!--       </article> -->
+<!--     </div> -->
+<!--   </div> -->
+<!-- </div> -->
+
+</div>
+
+
 </section>
       
       <footer>

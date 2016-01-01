@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+
 <div id="page"  class="postPage">
     <div class="row">
       <div class="large-12 columns">
@@ -11,57 +12,113 @@
       </div>
 </div>
 
-      <!-- Follow -->
-<div class="row">
-  <div class="large-12 columns">
-  <div class="post-footer-signup panel">
-    <span style="float:left"><p>Liked this post? Subscribe to updates!</p></span>
-    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
-      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div class="mc-field-group">
 
-	  <a href="http://fictionhub.io/user/raymestalez/subscribe" class="fictionhub-subscribe">
-	    <img src="{{ SITEURL }}/theme/img/fictionhub_logo_128x128.png"/></a>
-	  
-	  <span id="rss-icon"><a href="/feeds/all.atom.xml"><i class="fi-rss large"></i></a></span>
+{% if article.category == "comics" %}
+<style>
+  h1 {
+  color:white;
+  display:none;
+  }
+  article {
+  background: rgba(0,0,0,0.8);
+  background: none;
+  padding: 0;
+  border:none;
+  }
+  hr {
+  margin: 20px;
+  display:none;
+  }
+  p {
+  text-align:center;
+  }
+  article img {
+  width: 100%;
+  }
+</style>
+{% endif %}
 
-          <input class="small button"
-                 id="subscribeButton"
-                 name="subscribe"
-                 type="submit"
-                 value="Subscribe"/>
-          <input class="required email"
-                 id="mce-EMAIL"
-                 name="EMAIL"
-                 placeholder="Enter your email"
-                 type="email"
-                 value=""/>
-        </div>
 
-        <div class="clear" id="mce-responses">
-          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
-          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
-        </div>
-      </form>
-    </div>
-  </div>
+{% include 'subscribe-footer.html' %}
+
+<script>
+var posts = [
+    {% for article in articles %}
+    "/{{ article.url }}",
+    {% endfor %}
+];
+
+var comicurl = "/{{article.url}}"
+posts.reverse();
+// console.log(links);
+var next = "";
+var prev = "";
+for (var i = 0; i <= posts.length-1; i++) {
+    if (posts[i] == comicurl){
+	if (i < posts.length-1){
+	    next = posts[i+1];
+	} else {
+		next = posts[i];
+		$("#next-post").css('background-color','rgba(51, 51, 51, 0.64)');
+		$("#last-post").css('background-color','rgba(51, 51, 51, 0.64)');		
+	}
+
+	if (i > 0){
+	    prev = posts[i-1];
+	} else {
+		     prev = posts[0];
+		     $("#prev-post").css('background-color','rgba(51, 51, 51, 0.64)');
+		     $("#first-post").css('background-color','rgba(51, 51, 51, 0.64)');		
+		     
+	}	
+    }
+}
+
+randomNumber = Math.round(Math.random()*(posts.length-1))
+var random = posts[randomNumber]
+if (posts[randomNumber] == comicurl) {
+    if (randomNumber < posts.length - 2 ){
+	random = posts[randomNumber+2];
+    } else {
+	random = posts[randomNumber-2];	
+    }
+}
+
+
+console.log("First post:" + posts[0]);
+console.log("Prev post:" + prev);
+console.log("Random post:" + random);
+console.log("Next post:" + next);
+console.log("Last post:" + posts[posts.length-1]);
+
+
+$("#first-post").attr("href", posts[0]);
+$("#prev-post").attr("href", prev);
+$("#random-post").attr("href", random);
+$("#next-post").attr("href", next);
+$("#last-post").attr("href", posts[posts.length-1]);
+
+
+</script>    
+
+<!-- Comments -->
+  
+<!-- <div class="row"> -->
+<!--   <div class="large-12 columns"> -->
+<!--     <div class="comments"> -->
+<!--       <article> -->
+<!-- 	<\!-- <h3>Comments: </h3> -\-> -->
+<!-- 	<\!-- <hr /> -\-> -->
+<!-- 	<script data-isso="//comments.orangemind.io/om/" -->
+<!-- 		data-isso-avatar="false" -->
+<!-- 		src="//comments.orangemind.io/om/js/embed.dev.js"></script> -->
+<!-- 	<section id="isso-thread"></section> -->
+<!-- 	<hr /> -->
+<!--       </article> -->
+<!--     </div> -->
+<!--   </div> -->
+<!-- </div> -->
+
 </div>
 
-      <!-- Comments -->
-<div class="row">
-  <div class="large-12 columns">
-    <div class="comments">
-      <article>
-	<!-- <h3>Comments: </h3> -->
-	<!-- <hr /> -->
-	<script data-isso="//comments.orangemind.io/om/"
-		data-isso-avatar="false"
-		src="//comments.orangemind.io/om/js/embed.dev.js"></script>
-	<section id="isso-thread"></section>
-	<hr />
-      </article>
-    </div>
-  </div>
-  </div>
-</div>
 {% endblock content %}

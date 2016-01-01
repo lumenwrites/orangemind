@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Ray Alez'
 SITENAME = 'orangemind'
-SITEURL = '' #http://orangemind.io
+SITEURL = ''# 'http://orangemind.io'
+
+# LOCALE = ('en_US')
 
 PATH = 'content'
 
@@ -17,6 +19,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
+# FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml' #None
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 CATEGORY_FEED_ATOM = None
@@ -31,9 +34,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Menu should be fiction, articles, 
-MENUITEMS = [('Home', '/'),
-             # ('Articles', '/category/articles'),
-             ('Fictionhub', 'http://fictionhub.io'),]
+MENUITEMS = [
+    # ('About', '/about'),
+    # ('Store', '/store'),
+    # ('Articles', '/category/articles'),
+]
 #('Essays', '/essays'), ('Home', '/')
 # ('Stories', '/stories'),
 
@@ -66,7 +71,7 @@ AUTHOR_SAVE_AS = ''
 #     (2, '{base_name}/posts/{number}/', '{base_name}/posts/{number}/index.html'),
 #)
 
-DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', ) #'about',
+DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about',) #'about',
 
 THEME = "/home/ray/projects/orangemind/themes/orangemind"
 

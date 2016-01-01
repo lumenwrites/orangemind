@@ -37,11 +37,22 @@
 <div class="row" >
   <div class="large-12 columns" >
     <div id="wrapper">
+<div style="position:absolute;top:20px;width:100%; text-align:center;">
+	<a class="small button fi-previous" style="z-index: 2;" id="first-post" href="#"></a>
+	<a class="small button fi-rewind" style="z-index: 2;" id="prev-post" href="#"><!-- Prev --></a>
+	<a class="small button" href="#"  id="random-post" style="padding: 3px 7px; z-index: 2;">
+	  <!-- Random -->
+	  <img style="width:40px;margin:-1px;"
+	       src="https://www.iconexperience.com/_img/m_collection_png/256x256/plain/die.png"/>
+	</a>
+	<a class="small button fi-fast-forward" style="z-index: 2;" id="next-post" href="#"><!-- Next --></a>
+	<a class="small button fi-next" style="z-index: 2;" id="last-post" href="#"></a>
+</div>
       <header>
 	<div class="row" >
           <div class="large-8 columns" >
             <a href="/"><img id="orange-mind-logo" src="/theme/img/orangeMindLogo.png" /></a>
-          </div>
+          </div>	  
           <div class="large-4 columns" id="mainMenu">
 	    <ul>
 	      <li>
@@ -60,7 +71,7 @@
       <div class="large-12 columns">
 	<article>
           <h1 id="blogTitle"> Writing essay </h1>
-          <hr />
+          <hr />	  
 	  <p>Essays are about coming up with new and surprising ideas, and then exploring them.</p>
 <p>You write an essay by asking a question and typing your thinking process.</p>
 <p>Looking for all the new and interesting ideas that you can find.</p>
@@ -126,6 +137,83 @@ write jokes about x.
       </div>
 </div>
 
+
+<script>
+var posts = [
+    "/post/comics",
+    "/post/portal",
+    "/post/regret",
+    "/post/odd-thoughts-1",
+    "/post/how-to-become-a-serial-killer-in-21-easy-steps",
+    "/post/cookbook",
+    "/post/maya",
+    "/post/dinosaurs",
+    "/post/paranoia",
+    "/post/the-last-conversation",
+    "/post/pinch-me",
+    "/post/pigeons-of-death",
+    "/post/beauty",
+    "/post/ghost",
+    "/post/glip-glops",
+    "/post/killer-vs-priest",
+    "/post/the-cell",
+    "/post/zombie-apocalypse",
+    "/post/zombie-apocalypses-are-the-best",
+    "/post/hacked",
+    "/post/oreo",
+    "/post/sanity",
+    "/post/rational-reading-list",
+    "/post/story",
+    "/post/story-structure",
+    "/post/comedy",
+    "/post/creativity",
+    "/post/essay",
+    "/post/rational-fiction",
+];
+
+posts.reverse();
+// console.log(links);
+var next = "";
+var prev = "";
+for (var i = 0; i <= posts.length-1; i++) {
+    if (posts[i] == "/post/essay"){
+	if (i < posts.length-1){
+	    next = posts[i+1];
+	} else {
+	    next = posts[i];	    
+	}
+
+	if (i > 0){
+	    prev = posts[i-1];
+	} else {
+	    prev = posts[0];
+	}	
+    }
+}
+
+randomNumber = Math.round(Math.random()*posts.length) + 1
+
+random = posts[randomNumber]
+
+console.log("First post:" + posts[0]);
+console.log("Prev post:" + prev);
+console.log("Random post:" + random);
+console.log("Next post:" + next);
+console.log("Last post:" + posts[posts.length-1]);
+
+
+$("#first-post").attr("href", posts[0]);
+$("#prev-post").attr("href", prev);
+$("#random-post").attr("href", random);
+$("#next-post").attr("href", next);
+$("#last-post").attr("href", posts[posts.length-1]);
+
+
+</script>    
+    
+
+
+
       <!-- Follow -->
 <div class="row">
   <div class="large-12 columns">
@@ -135,10 +223,10 @@ write jokes about x.
       <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div class="mc-field-group">
 
-	  <a href="http://fictionhub.io/user/raymestalez/subscribe" class="fictionhub-subscribe">
-	    <img src="/theme/img/fictionhub_logo_128x128.png"/></a>
+	  <!-- <a href="http://fictionhub.io/user/raymestalez/subscribe" class="fictionhub-subscribe"> -->
+	  <!--   <img src="/theme/img/fictionhub_logo_128x128.png"/></a> -->
 	  
-	  <span id="rss-icon"><a href="/feeds/all.atom.xml"><i class="fi-rss large"></i></a></span>
+	  <!-- <span id="rss-icon"><a href="/feeds/all.atom.xml"><i class="fi-rss large"></i></a></span> -->
 
           <input class="small button"
                  id="subscribeButton"
@@ -162,23 +250,29 @@ write jokes about x.
   </div>
 </div>
 
-      <!-- Comments -->
-<div class="row">
-  <div class="large-12 columns">
-    <div class="comments">
-      <article>
-	<!-- <h3>Comments: </h3> -->
-	<!-- <hr /> -->
-	<script data-isso="//comments.orangemind.io/om/"
-		data-isso-avatar="false"
-		src="//comments.orangemind.io/om/js/embed.dev.js"></script>
-	<section id="isso-thread"></section>
-	<hr />
-      </article>
-    </div>
-  </div>
-  </div>
+&nbsp;<br/>
+
+
+<!-- Comments -->
+  
+<!-- <div class="row"> -->
+<!--   <div class="large-12 columns"> -->
+<!--     <div class="comments"> -->
+<!--       <article> -->
+<!-- 	<\!-- <h3>Comments: </h3> -\-> -->
+<!-- 	<\!-- <hr /> -\-> -->
+<!-- 	<script data-isso="//comments.orangemind.io/om/" -->
+<!-- 		data-isso-avatar="false" -->
+<!-- 		src="//comments.orangemind.io/om/js/embed.dev.js"></script> -->
+<!-- 	<section id="isso-thread"></section> -->
+<!-- 	<hr /> -->
+<!--       </article> -->
+<!--     </div> -->
+<!--   </div> -->
+<!-- </div> -->
+
 </div>
+
       
       <footer>
       </footer>

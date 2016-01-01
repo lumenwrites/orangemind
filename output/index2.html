@@ -37,166 +37,255 @@
 <div class="row" >
   <div class="large-12 columns" >
     <div id="wrapper">
+<div style="position:absolute;top:20px;width:100%; text-align:center;">
+	<a class="small button fi-previous" style="z-index: 2;" id="first-post" href="#"></a>
+	<a class="small button fi-rewind" style="z-index: 2;" id="prev-post" href="#"><!-- Prev --></a>
+	<a class="small button" href="#"  id="random-post" style="padding: 3px 7px; z-index: 2;">
+	  <!-- Random -->
+	  <img style="width:40px;margin:-1px;"
+	       src="https://www.iconexperience.com/_img/m_collection_png/256x256/plain/die.png"/>
+	</a>
+	<a class="small button fi-fast-forward" style="z-index: 2;" id="next-post" href="#"><!-- Next --></a>
+	<a class="small button fi-next" style="z-index: 2;" id="last-post" href="#"></a>
+</div>
       <header>
 	<div class="row" >
-          <div class="large-8 columns" >
+          <div class="large-6 columns" >
             <a href="/"><img id="orange-mind-logo" src="/theme/img/orangeMindLogo.png" /></a>
-          </div>
-          <div class="large-4 columns" id="mainMenu">
+          </div>	  
+          <div class="large-6 columns" id="mainMenu">
 	    <ul>
 	      <li>
-		<a href="/">Home</a>
+		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>
 	      </li>
-	      <li>
-		<a href="http://fictionhub.io">Fictionhub</a>
-	      </li>
+	      
 	    </ul>
 	  </div>
 	</div>
       </header>
       
 <section id="content">
-  
-  <div id="page"  class="blogPage">
+
+
+
+<div id="page"  class="postPage">
     <div class="row">
       <div class="large-12 columns">
-
 	<article>
-	  <header>
-            <a href="/post/the-last-conversation"><h1>The Last Conversation</h1></a>
-	    <hr/>
-	  </header>
+          <h1 id="blogTitle"> Statistically </h1>
+          <hr />	  
+	  <p><img alt="Statistically" src="/images/statistically.png" /></p>
+	  </article>
+      </div>
+</div>
 
-	  <p>
-	    <p><a href="http://www.reddit.com/r/WritingPrompts/comments/363rdk/wp_the_last_conversation_in_human_history/">[WP] The last conversation in Human history.</a></p>
-<p>"Dude, be careful!"</p>
-<p>"Oh, cmon, don't be such a buzzkill, I know what I'm doing."</p>
-<p>"Man, it's a Large Hadron Collider, you are not supposed to play with it."</p>
-<p>"Don't worry, I bet I can handle it easily. Hold my beer."</p>
-	  </p>
 
-          <a href="/post/the-last-conversation" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/pinch-me"><h1>Pinch Me</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP] Your friend tells you "pinch me I'm dreaming". As a joke you do as he asks. He then vanishes afterwards.</strong></p>
-<p>Lucas disappeared, popped out of existence like a soap bubble. Michael panicked.
-Does that mean I'm in his dream? <em>No!</em> The world around him blurred and twisted for a moment. He saw a tall building crushing down in the distance. Colors grew pale.
-<em>No-no-no-no-no!! I can't let him wake up, everything will disappear!</em> he thought, but then realized that it is too late. All dreams end, and in a few minutes, by the time Lucas walks to his kitchen to grab a cup of coffee, the remaining memories of this world will be wiped away from his mind.
-Michael felt his body losing sharpness ...</p>
-	  </p>
+<script>
+var posts = [
+    "/post/statistically",
+    "/post/alex-aspiring-assasin-vol-1",
+    "/post/christmas-tree",
+    "/post/gifted",
+    "/post/self-employed",
+    "/post/high",
+    "/post/running",
+    "/post/school",
+    "/post/getting-old",
+    "/post/introductions",
+];
 
-          <a href="/post/pinch-me" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/pigeons-of-death"><h1>Pigeons of Death</h1></a>
-	    <hr/>
-	  </header>
+posts.reverse();
+// console.log(links);
+var next = "";
+var prev = "";
 
-	  <p>
-	    <p>Windows shattered and in the next moment the roof was ripped away from the car. The speeding ferrari was lifted 2 meters up into the air, then dropped back to the road, Jack was barely able to handle the steering wheel and to keep moving.</p>
-<p>Alice, who was sitting in the passenger seat, dropped now useless guns, and reached under her seat for the bazooka.</p>
-<p>4 gigantic pigeons were following the car, weathers burned away from previous explosions, muscles bulging under the bullet-proof skin. They looked like fat and jacked pterodactyls. One of them emitted an angry roar, threw away the roof he was holding in his claws, and dived after the car. At the same time Jack made a sharp turn, so the pigeon missed and smashed ...</p>
-	  </p>
+next = posts[posts.length-1];
+prev = posts[posts.length-2];
+$("#next-post").css('background-color','rgba(51, 51, 51, 0.64)');
+$("#last-post").css('background-color','rgba(51, 51, 51, 0.64)');		
 
-          <a href="/post/pigeons-of-death" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/beauty"><h1>Beauty</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP]: Describe the ugliest person imaginable using only praises and compliments</strong></p>
-<p>She was more handsome than a barfing snail. When people looked at her they couldn't look away, and dreamed about her for weeks after, waking up screaming every night. Her hair were like an ocean, a very deep ocean with terrifying creatures underneath. She had beautiful blue eyes, a lot of them, looking kindly at each other.
-What can I say, that girl stole my heart. And refused to give it back until I kiss her. That was a wonderful moment I won't be able to forget for the rest of my life, no matter how hard I try.</p>
-	  </p>
 
-          <a href="/post/beauty" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/ghost"><h1>Ghost</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP] You die and become a ghost and find out that you have only 24 hours left to do what you never did when you were alive. Problem is, you can't interact with anything or anyone.</strong></p>
-<p>Cold brilliant light of the stars turned into bright streaks of light. At the center of it there was a glowing, unimaginably distant bright dot. Luckily, ghosts have no mass, so David was able to travel at 99.999% of the speed of light. He knew that Alpha Centauri, the closest star to Earth, is 4.3 light years away. He knew that he could not possibly reach it in 24 hours that he had left. He knew that no matter how fast he could go, it would never become visibly ...</p>
-	  </p>
+randomNumber = Math.round(Math.random()*(posts.length-2))
+random = posts[randomNumber];	
 
-          <a href="/post/ghost" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/glip-glops"><h1>Glip Glops</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP] Describe the most delicious thing ever tasted by anyone and then what ruined it.</strong></p>
-<p>Museum of intergalactic history was filled with visitors from all habitable planets.</p>
-<p>"...and this is the photo of the last remaining specimen of Glip-Glops, the species exterminated in a month after they were discovered. Unfortunately for these cute, intelligent, and peaceful creatures, they turned out to be the most delicious thing in the galaxy. Their meat was so tasty that eating it was described as '100 times more joyful than an orgasm' and '10 times more addictive than heroin'. In effort to preserve them, the last one of them is now hidden in a secret place, guarded by robots preventing hundreds of Glip-Glop-addicts from reaching him, while scientists are trying to clone him ...</p>
-	  </p>
+console.log("Random number:" + randomNumber);
+console.log("First post:" + posts[0]);
+console.log("Prev post:" + prev);
+console.log("Random post:" + random);
+console.log("Next post:" + next);
+console.log("Last post:" + posts[posts.length-1]);
 
-          <a href="/post/glip-glops" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/killer-vs-priest"><h1>Killer vs Priest</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP] A serial killer and a Priest are having a conversation about God.</strong></p>
-<p>"We should never do this again!"</p>
-<p>"But she is a godless wench, why are you protecting her?"</p>
-<p>"Every human life is sacred, we shouldn't kill anyone anymore!"</p>
-<p>"We have burned dozens of witches already, don't you think that it's a little too late to change your mind?"</p>
-<p>"I'm no longer sure that what we are doing is right, how a merciful God could want us to do this?"</p>
-<p>"Because they are witches! And admit it, it's fun, you like it a little."</p>
-<p>"No I don't, how dare you!"</p>
-<p>"I am a part of you, I know everything that you think or feel."</p>
-<p>"You are lying!"</p>
-<p>"Well, here's a ...</p>
-	  </p>
+$("#first-post").attr("href", posts[0]);
+$("#prev-post").attr("href", prev);
+$("#random-post").attr("href", random);
+$("#next-post").attr("href", next);
+$("#last-post").attr("href", posts[posts.length-1]);
 
-          <a href="/post/killer-vs-priest" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/the-cell"><h1>The Cell</h1></a>
-	    <hr/>
-	  </header>
 
-	  <p>
-	    <p><strong>[WP] You are trapped in a windowless cell with no one to help you stay alive. It's been 5 days.</strong></p>
-<p>He was hungry and lonely. He was dying of thirst, and suffocating because of the amount of waste there was in the cell. It looked like a small cube, with no windows, no doors, and only one camera staring at him from the wall.</p>
-<p>He was living here for several weeks,  and it seemed fine at first. Food used to appear out of thin air from time to time, and the poop he left in the corner disappeared after a couple of hours.
-Sometimes a ball appeared, which he could play with, bouncing it off the walls and catching, but it has always disappeared after a few ...</p>
-	  </p>
+</script>    
 
-          <a href="/post/the-cell" id="readmore">>>> readmore</span></a>
-	</article>
 
-<p class="paginator">
-        <a href="/index.html">&laquo;</a>
-    Page 2 / 4
-        <a href="/index3.html">&raquo;</a>
-</p>
+
+<style>
+  h1 {
+  color:white;
+  display:none;
+  }
+  article {
+  background: rgba(0,0,0,0.8);
+  background: none;
+  padding: 0;
+  border:none;
+  }
+  hr {
+  margin: 20px;
+  display:none;
+  }
+  p {
+  text-align:center;
+  }
+  article img {
+  width: 100%;
+  }
+</style>
+
+
+
+      <!-- Follow -->
+<div class="row">
+  <div class="large-12 columns">
+  <div class="post-footer-signup panel">
+    <span style="float:left"><p>Liked this post? Subscribe to updates!</p></span>
+    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
+      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="mc-field-group">
+
+	  <!-- <a href="http://fictionhub.io/user/raymestalez/subscribe" class="fictionhub-subscribe"> -->
+	  <!--   <img src="/theme/img/fictionhub_logo_128x128.png"/></a> -->
+	  
+	  <!-- <span id="rss-icon"><a href="/feeds/all.atom.xml"><i class="fi-rss large"></i></a></span> -->
+
+	  <!-- RSS icon -->
+	  <span class="rss-icon" style="float:right;margin-left:10px;">
+	    <a href="/feed/all.atom.xml">
+	      <i class="fi-rss large"></i></a>
+	  </span>
+	  
+          <input class="small button"
+                 id="subscribeButton"
+                 name="subscribe"
+                 type="submit"
+                 value="Subscribe"/>
+          <input class="required email"
+                 id="mce-EMAIL"
+                 name="EMAIL"
+                 placeholder="Enter your email"
+                 type="email"
+                 value=""/>
         </div>
+
+        <div class="clear" id="mce-responses">
+          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
+          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
+        </div>
+      </form>
     </div>
+  </div>
+</div>
+
+&nbsp;<br/>
+
+<!-- Comments -->
+  
+<!-- <div class="row"> -->
+<!--   <div class="large-12 columns"> -->
+<!--     <div class="comments"> -->
+<!--       <article> -->
+<!-- 	<\!-- <h3>Comments: </h3> -\-> -->
+<!-- 	<\!-- <hr /> -\-> -->
+<!-- 	<script data-isso="//comments.orangemind.io/om/" -->
+<!-- 		data-isso-avatar="false" -->
+<!-- 		src="//comments.orangemind.io/om/js/embed.dev.js"></script> -->
+<!-- 	<section id="isso-thread"></section> -->
+<!-- 	<hr /> -->
+<!--       </article> -->
+<!--     </div> -->
+<!--   </div> -->
+<!-- </div> -->
+
+</div>
+
+
 </section>
       
-      <footer>
-      </footer>
+
+
+<!-- Subscribe popup -->
+<div id="subscribePopup" class="reveal-modal tiny" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog" style="padding: 20px 20px 0px 20px;">
+  <!-- <h2 id="modalTitle">Enter your email.</h2> -->
+  <!-- <p class="lead">Your couch.  It is mine.</p> -->
+  <!-- <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p> -->
+
+    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
+      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="mc-field-group">
+
+	  <!-- RSS icon -->
+	  <span class="rss-icon" style="margin:20px;">
+	    <a href="/feed/all.atom.xml">
+	      <i class="fi-rss large"></i></a>
+	  </span>
+
+          <input class="required email"
+                 id="mce-EMAIL"
+                 name="EMAIL"
+                 placeholder="Enter your email"
+                 type="email"
+                 value=""
+		 style="/*width: 65%;*/
+			width:calc(100% - 50px);
+			height: 42px;
+			float: left;
+			margin: 0;"/>
+          <input class="small button right"
+                 id="subscribeButton"
+                 name="subscribe"
+                 type="submit"
+                 value="Subscribe"
+		 style="width:100%;
+			width:calc(100% - 50px);
+			float:left!important;
+			margin-top:4px;
+			"/>
+        </div>
+
+        <div class="clear" id="mce-responses">
+          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
+          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
+        </div>
+      </form>
+    </div>
+  <!-- <a class="close-reveal-modal" aria-label="Close">&#215;</a> -->
+</div>      
+      
+<script src="/theme/js/foundation/foundation.js"></script>  
+<script src="/theme/js/foundation/foundation.reveal.js"></script>
+<script>
+Foundation.global.namespace = '';
+$(document).foundation();
+</script>
+
+
+
+
+<footer>
+</footer>
+
     </div>
   </div>
 </div>  
