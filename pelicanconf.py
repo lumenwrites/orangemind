@@ -73,7 +73,7 @@ AUTHOR_SAVE_AS = ''
 
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about',) #'about',
 
-THEME = "/home/ray/projects/orangemind/themes/orangemind"
+THEME = "/home/ray/orangemind/themes/orangemind"
 
 # Plugins
 PLUGIN_PATHS = ['/home/ray/projects/orangemind/pelican-plugins']
