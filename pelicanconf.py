@@ -76,7 +76,7 @@ DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about',)
 THEME = "/home/ray/orangemind/themes/orangemind"
 
 # Plugins
-PLUGIN_PATHS = ['/home/ray/projects/orangemind/pelican-plugins']
+PLUGIN_PATHS = ['/home/ray/orangemind/pelican-plugins']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code', 'liquid_tags.notebook', 'summary']
 
