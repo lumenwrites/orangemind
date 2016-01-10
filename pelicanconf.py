@@ -37,6 +37,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 MENUITEMS = [
     # ('About', '/about'),
     # ('Store', '/store'),
+    # ('Fiction', 'http://fictionhub.io/user/rayalez'),    
     # ('Articles', '/category/articles'),
 ]
 #('Essays', '/essays'), ('Home', '/')
@@ -77,8 +78,8 @@ THEME = "/home/ray/orangemind/themes/orangemind"
 
 # Plugins
 PLUGIN_PATHS = ['/home/ray/orangemind/pelican-plugins']
-PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.include_code', 'liquid_tags.notebook', 'summary']
+# PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
+#            'liquid_tags.include_code', 'liquid_tags.notebook', 'summary']
 
 # EXTRA_HEADER = open('_nb_header.html').read() #.encode('utf-8')
 

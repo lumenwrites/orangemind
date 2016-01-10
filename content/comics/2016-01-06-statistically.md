@@ -1,4 +1,5 @@
 Title: Statistically
+Slug: statistically
 Date: 2016-01-06
 Tags: comics
 
