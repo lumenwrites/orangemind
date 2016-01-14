@@ -4,9 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Ray Alez'
 SITENAME = 'orangemind'
-SITEURL = ''# 'http://orangemind.io'
+SITEURL = '' #'http://orangemind.io'
 
-# LOCALE = ('en_US')
+LOCALE = ('en_US.UTF-8')
+
+LANG=('en_US')
 
 PATH = 'content'
 
@@ -14,18 +16,21 @@ STATIC_PATHS = [
     'images',
     ]
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
-# FEED_DOMAIN = SITEURL
+FEED_DOMAIN = 'http://orangemind.io'
 FEED_ALL_ATOM = 'feeds/all.atom.xml' #None
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+
+# FEED_RSS = 'feeds/all.rss.xml'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
