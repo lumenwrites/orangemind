@@ -4,6 +4,7 @@
 
 {% block content %}
 
+
 <div id="page"  class="postPage">
     <div class="row">
       <div class="large-12 columns">
@@ -11,7 +12,23 @@
           <h1 id="blogTitle"> {{ article.title }} </h1>
           <hr />
 	  {{ article.content }}
-	  </article>
+
+	  <div style="width: 100%;height: 15px;">
+	  <div style="float:left;">
+	    <a class="small button fi-previous" style="z-index: 2;" id="first-post" href="#"></a>
+	    <a class="small button fi-rewind" style="z-index: 2;" id="prev-post" href="#"></a>
+	  </div>
+	  <div style="float:right;">
+	    <a class="small button fi-fast-forward" style="z-index: 2;" id="next-post" href="#"></a>
+	    <a class="small button fi-next" style="z-index: 2;" id="last-post" href="#"></a>
+	  </div>
+	  <div class="clearfix"></div>
+	  </div>
+	</article>
+
+<div style="width:100%; text-align:center;">
+</div>
+	
       </div>
 </div>
 
@@ -52,7 +69,7 @@ var posts = [
 ];
 
 var comicurl = "/{{article.url}}"
-posts.reverse();
+posts = posts.reverse();
 // console.log(links);
 var next = "";
 var prev = "";

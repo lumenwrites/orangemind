@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Ray Alez'
 SITENAME = 'orangemind'
-SITEURL = '' #'http://orangemind.io'
+SITEURL = '' #
 
 LOCALE = ('en_US.UTF-8')
 
@@ -42,8 +42,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 MENUITEMS = [
     # ('About', '/about'),
     # ('Store', '/store'),
-    # ('Fiction', 'http://fictionhub.io/user/rayalez'),    
-    # ('Articles', '/category/articles'),
+    # ('Essays', '/category/articles'),    
+    # ('Fiction', 'http://fictionhub.io/user/rayalez'),
+    ('Browse', '/browse/'),    
+    ('Videos', 'http://lumiverse.io/series/orangemind'),
 ]
 #('Essays', '/essays'), ('Home', '/')
 # ('Stories', '/stories'),
@@ -52,7 +54,9 @@ MENUITEMS = [
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 8
+DEFAULT_PAGINATION = 12
+
+# ARTICLE_ORDER_BY = 'date'
 
 SUMMARY_MAX_LENGTH = 128
 
@@ -77,7 +81,9 @@ AUTHOR_SAVE_AS = ''
 #     (2, '{base_name}/posts/{number}/', '{base_name}/posts/{number}/index.html'),
 #)
 
-DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about',) #'about',
+DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about','browse',) #'about',
+
+
 
 THEME = "/home/ray/orangemind/themes/orangemind"
 

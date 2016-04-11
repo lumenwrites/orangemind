@@ -41,17 +41,6 @@
 <div class="row" >
   <div class="large-12 columns" >
     <div id="wrapper">
-<div style="position:absolute;top:20px;width:100%; text-align:center;">
-	<a class="small button fi-previous" style="z-index: 2;" id="first-post" href="#"></a>
-	<a class="small button fi-rewind" style="z-index: 2;" id="prev-post" href="#"><!-- Prev --></a>
-	<a class="small button" href="#"  id="random-post" style="padding: 3px 7px; z-index: 2;">
-	  <!-- Random -->
-	  <img style="width:40px;margin:-1px;"
-	       src="https://www.iconexperience.com/_img/m_collection_png/256x256/plain/die.png"/>
-	</a>
-	<a class="small button fi-fast-forward" style="z-index: 2;" id="next-post" href="#"><!-- Next --></a>
-	<a class="small button fi-next" style="z-index: 2;" id="last-post" href="#"></a>
-</div>
       <header>
 	<div class="row" >
           <div class="large-6 columns" >
@@ -60,7 +49,10 @@
           <div class="large-6 columns" id="mainMenu">
 	    <ul>
 	      <li>
-		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>
+		<a href="http://lumiverse.io/series/orangemind">Videos</a>
+	      </li>
+	      <li>
+		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>		
 	      </li>
 	      
 	    </ul>
@@ -69,167 +61,69 @@
       </header>
       
 <section id="content">
-
-
-
-<div id="page"  class="postPage">
+  
+  <div id="page"  class="blogPage">
     <div class="row">
       <div class="large-12 columns">
-	<article>
-          <h1 id="blogTitle"> Alex Aspiring Assasin Vol 1 </h1>
-          <hr />	  
-	  <p><img alt="Alex Aspiring Assasin Vol 1" src="/images/alex-aspiring-assassin-1.png" /></p>
-	  </article>
+
+	<article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
+	  <div style="height:166px;width:296px;overflow:hidden;">
+	    <img src=""/>
+	  </div>
+	  <!-- <p>Test</p> -->
+	  <div style="padding:10px;height:80px;">
+	    <a href="/post/test-article">
+	      <h4 style="font-size:22px;font-weight:normal;color:black;">Test article</h4>
+	    </a>
+	  </div>
+	  <!-- 
+	  <div style="padding:10px;">	  
+	    <p>Imagine you have a basket of fruits(apples and oranges), you reach out, take one at random, and eat it. Then you decide you’re hungry, and…</p>
+	  </div>
+	   -->
+	</article>
+	<article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
+	  <div style="height:166px;width:296px;overflow:hidden;">
+	    <img src=""/>
+	  </div>
+	  <!-- <p>Test 2</p> -->
+	  <div style="padding:10px;height:80px;">
+	    <a href="/post/test-article-2">
+	      <h4 style="font-size:22px;font-weight:normal;color:black;">Test article 2</h4>
+	    </a>
+	  </div>
+	  <!-- 
+	  <div style="padding:10px;">	  
+	    <p>Imagine you have a basket of fruits(apples and oranges), you reach out, take one at random, and eat it. Then you decide you’re hungry, and…</p>
+	  </div>
+	   -->
+	</article>
+	<article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
+	  <div style="height:166px;width:296px;overflow:hidden;">
+	    <img src=""/>
+	  </div>
+	  <!-- <iframe width="853" height="480" src="https://www.youtube.com/embed/77QhyHAO3lY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+	  <div style="padding:10px;height:80px;">
+	    <a href="/post/test-video">
+	      <h4 style="font-size:22px;font-weight:normal;color:black;">Test video</h4>
+	    </a>
+	  </div>
+	  <!-- 
+	  <div style="padding:10px;">	  
+	    <p>Imagine you have a basket of fruits(apples and oranges), you reach out, take one at random, and eat it. Then you decide you’re hungry, and…</p>
+	  </div>
+	   -->
+	</article>
       </div>
-</div>
 
+	<div class="clearfix"></div>
+<p class="paginator">
+        <a href="/index.html">&laquo;</a>
+    Page 2 / 2
+</p>
 
-
-<script>
-var posts = [
-    "/post/alex-aspiring-assasin-vol-1",
-    "/post/turtle",
-    "/post/dont-move",
-    "/post/whats-the-worst-thing-that-can-happen",
-    "/post/allergic",
-    "/post/captain",
-    "/post/statistically",
-    "/post/christmas-tree",
-    "/post/gifted",
-    "/post/self-employed",
-    "/post/high",
-    "/post/running",
-    "/post/school",
-    "/post/getting-old",
-    "/post/introductions",
-];
-
-posts.reverse();
-// console.log(links);
-var next = "";
-var prev = "";
-
-next = posts[posts.length-1];
-prev = posts[posts.length-2];
-$("#next-post").css('background-color','rgba(51, 51, 51, 0.64)');
-$("#last-post").css('background-color','rgba(51, 51, 51, 0.64)');		
-
-
-
-
-randomNumber = Math.round(Math.random()*(posts.length-2))
-random = posts[randomNumber];	
-
-
-console.log("Random number:" + randomNumber);
-console.log("First post:" + posts[0]);
-console.log("Prev post:" + prev);
-console.log("Random post:" + random);
-console.log("Next post:" + next);
-console.log("Last post:" + posts[posts.length-1]);
-
-
-$("#first-post").attr("href", posts[0]);
-$("#prev-post").attr("href", prev);
-$("#random-post").attr("href", random);
-$("#next-post").attr("href", next);
-$("#last-post").attr("href", posts[posts.length-1]);
-
-
-</script>    
-
-
-
-<style>
-  h1 {
-  color:white;
-  display:none;
-  }
-  article {
-  background: rgba(0,0,0,0.8);
-  background: none;
-  padding: 0;
-  border:none;
-  }
-  hr {
-  margin: 20px;
-  display:none;
-  }
-  p {
-  text-align:center;
-  }
-  article img {
-  width: 100%;
-  }
-</style>
-
-
-
-      <!-- Follow -->
-<div class="row">
-  <div class="large-12 columns">
-  <div class="post-footer-signup panel">
-    <span style="float:left"><p>Liked this post? Subscribe to updates!</p></span>
-    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
-      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div class="mc-field-group">
-
-	  <!-- <a href="http://fictionhub.io/user/raymestalez/subscribe" class="fictionhub-subscribe"> -->
-	  <!--   <img src="/theme/img/fictionhub_logo_128x128.png"/></a> -->
-	  
-	  <!-- <span id="rss-icon"><a href="/feeds/all.atom.xml"><i class="fi-rss large"></i></a></span> -->
-
-	  <!-- RSS icon -->
-	  <span class="rss-icon" style="float:right;margin-left:10px;">
-	    <a href="/feeds/all.atom.xml">
-	      <i class="fi-rss large"></i></a>
-	  </span>
-	  
-          <input class="small button"
-                 id="subscribeButton"
-                 name="subscribe"
-                 type="submit"
-                 value="Subscribe"/>
-          <input class="required email"
-                 id="mce-EMAIL"
-                 name="EMAIL"
-                 placeholder="Enter your email"
-                 type="email"
-                 value=""/>
-        </div>
-
-        <div class="clear" id="mce-responses">
-          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
-          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
-        </div>
-      </form>
+	
     </div>
-  </div>
-</div>
-
-&nbsp;<br/>
-
-<!-- Comments -->
-  
-<!-- <div class="row"> -->
-<!--   <div class="large-12 columns"> -->
-<!--     <div class="comments"> -->
-<!--       <article> -->
-<!-- 	<\!-- <h3>Comments: </h3> -\-> -->
-<!-- 	<\!-- <hr /> -\-> -->
-<!-- 	<script data-isso="//comments.orangemind.io/om/" -->
-<!-- 		data-isso-avatar="false" -->
-<!-- 		src="//comments.orangemind.io/om/js/embed.dev.js"></script> -->
-<!-- 	<section id="isso-thread"></section> -->
-<!-- 	<hr /> -->
-<!--       </article> -->
-<!--     </div> -->
-<!--   </div> -->
-<!-- </div> -->
-
-</div>
-
-
 </section>
       
 

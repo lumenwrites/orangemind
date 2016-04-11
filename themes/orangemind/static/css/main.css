@@ -29,6 +29,7 @@ a {
 p {
     margin-top: 19px!important;
     /* margin: 20px; */
+    font-size:21px;
 }
 
 h1, h2, h3, h4 {
@@ -431,3 +432,20 @@ blockquote strong {
 /* article a img { */
 /* width: 100%; */
 /* } */
+
+
+
+
+.video {
+    width: calc(33.3% - 8px);
+    margin: 4px;
+    float:left;
+    padding:0;
+    background: rgba(0,0,0,0.8);
+    border:none;
+}
+
+.video h4 {
+    color:white;
+    margin:0;
+}
