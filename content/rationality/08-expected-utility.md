@@ -5,7 +5,9 @@ Summary: How to take calculated risks and make decisions under uncertainty.
 
 Imagine I offer you a gamble. I will spin the wheel that looks like this:
 
-![](/images/expected-value-1.png)
+<div style="text-align:center;">
+<img src="/images/expected-value-1.png" style="width:auto;"/>
+</div>
 
 And you win the amount of money that it will choose. If it hits a negative number you owe me that much. Should you play or not?
 
@@ -17,7 +19,9 @@ To find out the answer, you need to know the sum of all the potential benefits m
 
 So first we estimate probabilities of each outcome:
 
-![](/images/expected-value-2.png)
+<div style="text-align:center;">
+<img src="/images/expected-value-2.png" style="width:auto;"/>
+</div>
 
 And then we calculate our upside:
 

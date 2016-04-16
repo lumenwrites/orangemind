@@ -16,6 +16,8 @@ STATIC_PATHS = [
     'images',
     ]
 
+IGNORE_FILES = ['.#*', '*draft*']
+
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'

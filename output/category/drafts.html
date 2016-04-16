@@ -14,8 +14,12 @@
   <link rel="stylesheet" href="/theme/css/foundation-icons/foundation-icons.css" />
   <link rel="stylesheet" href="/theme/css/main.css" />
 
+  <!-- Fontawesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+  
   <meta property="og:image" content="http://orangemind.io/theme/img/orangemind-square-brain.png">
-  <meta property="og:description" content="Scifi comedy comics.">
+  <meta property="og:description" content="Rationaity, Comedy, Science Fiction.">
   
 
   <!-- jQuery -->
@@ -54,15 +58,23 @@
 
 	    <ul>
 
-<ul class="menu">
+
+
+<ul class="menu" style="display:none;">
     <li>
-        <a href="/browse">Browse Articles</a>
+        <a href="/browse">Browse</a>
         <ul>
             <!-- <li><a href="#">In Order</a></li> -->
-            <!-- <li><a href="#">Rationality</a></li> -->
-            <!-- <li><a href="#">Writing</a></li> -->
-            <!-- <li><a href="#">Fiction</a></li> -->
-            <!-- <li><a href="#">CS and Tech</a></li>	    	     -->
+            <!-- <li><a href="/category/rationality">Rationality</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="/category/fiction">Fiction</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="/category/writing">On Writing</a></li> -->
+
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="#">AI and CS</a></li> -->
+
+            <!-- <li><a href="/category/rationality">My Projects</a></li>	     -->
 
         </ul>
     </li>
@@ -73,7 +85,7 @@
 	      <!-- 	<a href="">Browse Articles</a> -->
 	      <!-- </li> -->
 	      <li>
-		<a href="http://lumiverse.io/series/orangemind">Videos</a>
+		<a href="/about">About</a>
 	      </li>
 	      <li>
 		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>		
@@ -90,61 +102,78 @@
     <div class="row">
       <div class="large-12 columns">
 
-	<article>
-	  <header>
-            <a href="/post/paradox-of-choice"><h1>Paradox of Choice</h1></a>
+ <!-- articles _ page. object_list  -->
+	<!-- | reverse -->
+	<a href="/post/availability-heuristic">
+
+	  <article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
+	  <!--  -->
+	  <div style="padding: 10px 20px 0px 20px!important;
+">
+	    <h4 style="font-size:26px;font-weight:normal;color:#222222!important;">
+	      Availability Heuristic</h4>
 	    <hr/>
-	  </header>
+	  </div>
 
-	  <p>
-	    
-	  </p>
 
-          <a href="/post/paradox-of-choice" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/false-dichotomy"><h1>False Dichotomy</h1></a>
-	    <hr/>
-	  </header>
-
-	  <p>
-	    
-	  </p>
-
-          <a href="/post/false-dichotomy" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/scientific-method"><h1>Scientific Method</h1></a>
-	    <hr/>
-	  </header>
-
-	  <p>
-	    
-	  </p>
-
-          <a href="/post/scientific-method" id="readmore">>>> readmore</span></a>
-	</article>
-	<article>
-	  <header>
-            <a href="/post/availability-heuristic"><h1>Availability Heuristic</h1></a>
-	    <hr/>
-	  </header>
-
-	  <p>
-	    
-	  </p>
-
-          <a href="/post/availability-heuristic" id="readmore">>>> readmore</span></a>
+	  
+	  <div style="padding:10px;padding-top:0; padding: 0px 20px 20px 20px;">
+	    <p>The airplane is speeding up and preparing to take off, and you can’t stop imagining it blowing up or being taken over by terrorists. You sweat and worry during the whole flight. Eventually it lands, and you are ...
+	  </div>
+	  
 	</article>
 
-<p class="paginator">
-    Page 1 / 1
-</p>
-        </div>
+	    </a>
+	
+ <!-- articles _ page. object_list  -->
+	<!-- | reverse -->
+	<a href="/post/false-dichotomy">
+
+	  <article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
+	  <!--  -->
+	  <div style="padding: 10px 20px 0px 20px!important;
+">
+	    <h4 style="font-size:26px;font-weight:normal;color:#222222!important;">
+	      False Dichotomy</h4>
+	    <hr/>
+	  </div>
+
+
+	  
+	  <div style="padding:10px;padding-top:0; padding: 0px 20px 20px 20px;">
+	    <p>False Dichotomy means taking a complex issue, and boiling it down to 2 simple mutually exclusive choices, when in reality there’s more alternatives available. To make their side look more appealing, people present ...
+	  </div>
+	  
+	</article>
+
+	    </a>
+	
+      </div>
+
+	<div class="clearfix"></div>
+
+	
     </div>
 </section>
+
+<style>
+  .video {
+  width:calc(100% - 40px)!important;
+  height: 166px;
+  margin:10px 20px;
+  }
+
+  h4 {
+  font-weight:bold!important;
+  color:black!important;
+  }
+
+  hr {
+    clear: none!important;
+    margin: 0!important;
+  }
+</style>
+
       
 
 
@@ -174,7 +203,8 @@
 			width:calc(100% - 50px);
 			height: 42px;
 			float: left;
-			margin: 0;"/>
+			margin: 0;
+			width: calc(100% - 160px);"/>
           <input class="small button right"
                  id="subscribeButton"
                  name="subscribe"
@@ -184,6 +214,10 @@
 			width:calc(100% - 50px);
 			float:left!important;
 			margin-top:4px;
+
+			margin-top: 0;
+			height: 42px;
+			width: calc(100% - 320px);			
 			"/>
         </div>
 
@@ -202,32 +236,14 @@
 Foundation.global.namespace = '';
 $(document).foundation();
 $(document).ready(function() {
-    $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').css('display','block');
 });
 </script>
 
 <style>
   .menu {
-  margin-top:0!important;
-    float: left!important;
-  margin: 0!important;
-  }
-
-  .menu ul li {
-  background: white!important;
-
-  }
-  .menu ul li a {
-  color:#3d454b!important;
-  }
-
-  .dropit-submenu {
-  margin: 0!important;
-    text-align: left!important;
-  }
-  .dropit-submenu li {
-  margin: 0!important;
-      width: 138.5px;
+  dipslay:block;
   }
 </style>
 
