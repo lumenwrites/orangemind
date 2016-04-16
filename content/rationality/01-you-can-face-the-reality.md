@@ -1,7 +1,7 @@
 Title: You can face the reality
 Date: 2016-04-03
 Image: http://img.youtube.com/vi/p2d_szbVqYU/mqdefault.jpg
-
+Summary: What is true is already so. Owning up to it doesn’t make it worse.
 
 
 If something is true I want to believe that it's true.  

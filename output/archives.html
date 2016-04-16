@@ -14,8 +14,12 @@
   <link rel="stylesheet" href="/theme/css/foundation-icons/foundation-icons.css" />
   <link rel="stylesheet" href="/theme/css/main.css" />
 
+  <!-- Fontawesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+  
   <meta property="og:image" content="http://orangemind.io/theme/img/orangemind-square-brain.png">
-  <meta property="og:description" content="Scifi comedy comics.">
+  <meta property="og:description" content="Rationaity, Comedy, Science Fiction.">
   
 
   <!-- jQuery -->
@@ -54,14 +58,24 @@
 
 	    <ul>
 
-<ul class="menu">
+
+
+<ul class="menu" style="display:none;">
     <li>
-        <a href="#">Browse Articles</a>
+        <a href="/browse">Browse</a>
         <ul>
-            <li><a href="#">In Order</a></li>
-            <li><a href="#">Best</a></li>
-            <li><a href="#">Biases</a></li>
-            <li><a href="#">Rationality</a></li>
+            <!-- <li><a href="#">In Order</a></li> -->
+            <!-- <li><a href="/category/rationality">Rationality</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="/category/fiction">Fiction</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="/category/writing">On Writing</a></li> -->
+
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="#">AI and CS</a></li> -->
+
+            <!-- <li><a href="/category/rationality">My Projects</a></li>	     -->
+
         </ul>
     </li>
 </ul>	    
@@ -71,10 +85,7 @@
 	      <!-- 	<a href="">Browse Articles</a> -->
 	      <!-- </li> -->
 	      <li>
-		<a href="/browse/">Browse</a>
-	      </li>
-	      <li>
-		<a href="http://lumiverse.io/series/orangemind">Videos</a>
+		<a href="/about">About</a>
 	      </li>
 	      <li>
 		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>		
@@ -89,21 +100,13 @@
 
 <dl>
     <dt>Sun 03 April 2016</dt>
-    <dd><a href="/post/paradox-of-choice">Paradox of Choice</a></dd>
-    <dt>Sun 03 April 2016</dt>
     <dd><a href="/post/false-dichotomy">False Dichotomy</a></dd>
-    <dt>Sun 03 April 2016</dt>
-    <dd><a href="/post/scientific-method">Scientific Method</a></dd>
     <dt>Sun 03 April 2016</dt>
     <dd><a href="/post/availability-heuristic">Availability Heuristic</a></dd>
     <dt>Sun 03 April 2016</dt>
     <dd><a href="/post/expected-utility">Expected Utility</a></dd>
     <dt>Sun 03 April 2016</dt>
     <dd><a href="/post/rationalization">Rationalization</a></dd>
-    <dt>Sun 03 April 2016</dt>
-    <dd><a href="/post/be-willing-to-change-your-mind">Be willing to change your mind</a></dd>
-    <dt>Sun 03 April 2016</dt>
-    <dd><a href="/post/sunk-cost-fallacy">Sunk Cost Fallacy</a></dd>
     <dt>Sun 03 April 2016</dt>
     <dd><a href="/post/confirmation-bias">Confirmation Bias</a></dd>
     <dt>Sun 03 April 2016</dt>
@@ -142,7 +145,8 @@
 			width:calc(100% - 50px);
 			height: 42px;
 			float: left;
-			margin: 0;"/>
+			margin: 0;
+			width: calc(100% - 160px);"/>
           <input class="small button right"
                  id="subscribeButton"
                  name="subscribe"
@@ -152,6 +156,10 @@
 			width:calc(100% - 50px);
 			float:left!important;
 			margin-top:4px;
+
+			margin-top: 0;
+			height: 42px;
+			width: calc(100% - 320px);			
 			"/>
         </div>
 
@@ -170,33 +178,14 @@
 Foundation.global.namespace = '';
 $(document).foundation();
 $(document).ready(function() {
-    $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').css('display','block');
 });
 </script>
 
 <style>
   .menu {
-  margin-top:0!important;
-    float: left!important;
-  margin: 0!important;
-  display:none;
-  }
-
-  .menu ul li {
-  background: white!important;
-
-  }
-  .menu ul li a {
-  color:#3d454b!important;
-  }
-
-  .dropit-submenu {
-  margin: 0!important;
-    text-align: left!important;
-  }
-  .dropit-submenu li {
-  margin: 0!important;
-      width: 138.5px;
+  dipslay:block;
   }
 </style>
 

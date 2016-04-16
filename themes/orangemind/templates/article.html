@@ -8,8 +8,8 @@
 <div id="page"  class="postPage">
     <div class="row">
       <div class="large-12 columns">
-	<article>
-          <h1 id="blogTitle"> {{ article.title }} </h1>
+	<article style="//padding: 40px;">
+          <h1 id="blogTitle" style="color:#222222;"> {{ article.title }} </h1>
           <hr />
 	  {{ article.content }}
 
@@ -121,24 +121,7 @@ $("#last-post").attr("href", posts[posts.length-1]);
 
 </script>    
 
-<!-- Comments -->
-  
-<!-- <div class="row"> -->
-<!--   <div class="large-12 columns"> -->
-<!--     <div class="comments"> -->
-<!--       <article> -->
-<!-- 	<\!-- <h3>Comments: </h3> -\-> -->
-<!-- 	<\!-- <hr /> -\-> -->
-<!-- 	<script data-isso="//comments.orangemind.io/om/" -->
-<!-- 		data-isso-avatar="false" -->
-<!-- 		src="//comments.orangemind.io/om/js/embed.dev.js"></script> -->
-<!-- 	<section id="isso-thread"></section> -->
-<!-- 	<hr /> -->
-<!--       </article> -->
-<!--     </div> -->
-<!--   </div> -->
-<!-- </div> -->
-
+{# {% include 'commments.html' %} #}
 </div>
 
 {% endblock content %}

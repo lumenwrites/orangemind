@@ -1,6 +1,7 @@
 Title: Rationalization
 Date: 2016-04-03 00:07
 Image: https://cdn-images-1.medium.com/max/800/1*KZ5uI7NyHGgGGtyRMcjS6w.png
+Summary: We do whatever feels good, and then come up with explanations that make us feel better about it.
 
 You see this beautiful girl standing across the room. You would like to approach her and start a conversation, but then you think to yourself “Nah, she probably has a boyfriend. Also she wouldn’t like me anyway. Not to mention that I need to focus on studying, I don’t really have time for relationships.” So you look away, go home, play World of Warcraft, eat a pizza, feed your cats, hump your human-sized action figure of Chewbacca, go to sleep, and die alone.
 

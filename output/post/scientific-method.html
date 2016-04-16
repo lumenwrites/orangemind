@@ -54,14 +54,22 @@
 
 	    <ul>
 
-<ul class="menu">
+
+
+<ul class="menu" style="display:none;">
     <li>
-        <a href="#">Browse Articles</a>
+        <a href="/browse">Browse Articles</a>
         <ul>
-            <li><a href="#">In Order</a></li>
-            <li><a href="#">Best</a></li>
-            <li><a href="#">Biases</a></li>
-            <li><a href="#">Rationality</a></li>
+            <!-- <li><a href="#">In Order</a></li> -->
+            <!-- <li><a href="/category/rational">Rationality</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="/category/fiction">Fiction</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/>	     -->
+            <!-- <li><a href="/category/writing">On Writing</a></li> -->
+
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="#">AI and CS</a></li> -->
+
         </ul>
     </li>
 </ul>	    
@@ -70,12 +78,6 @@
 	      <!-- <li> -->
 	      <!-- 	<a href="">Browse Articles</a> -->
 	      <!-- </li> -->
-	      <li>
-		<a href="/browse/">Browse</a>
-	      </li>
-	      <li>
-		<a href="http://lumiverse.io/series/orangemind">Videos</a>
-	      </li>
 	      <li>
 		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>		
 	      </li>
@@ -91,7 +93,7 @@
     <div class="row">
       <div class="large-12 columns">
 	<article>
-          <h1 id="blogTitle"> Scientific Method </h1>
+          <h1 id="blogTitle" style="color:#222222;"> Scientific Method </h1>
           <hr />
 	  
 
@@ -122,7 +124,7 @@
 <div class="row">
   <div class="large-12 columns">
   <div class="post-footer-signup panel">
-    <span style="float:left"><p>Liked this post? Subscribe to updates!</p></span>
+    <span style="float:left"><p>Liked this post? Subscribe to the updates!</p></span>
     <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
       <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div class="mc-field-group">
@@ -163,14 +165,11 @@
 &nbsp;<br/>
 <script>
 var posts = [
-    "/post/paradox-of-choice",
     "/post/false-dichotomy",
     "/post/scientific-method",
     "/post/availability-heuristic",
     "/post/expected-utility",
     "/post/rationalization",
-    "/post/be-willing-to-change-your-mind",
-    "/post/sunk-cost-fallacy",
     "/post/confirmation-bias",
     "/post/what-are-cognitive-biases",
     "/post/light",
@@ -279,7 +278,8 @@ $("#last-post").attr("href", posts[posts.length-1]);
 			width:calc(100% - 50px);
 			height: 42px;
 			float: left;
-			margin: 0;"/>
+			margin: 0;
+			width: calc(100% - 160px);"/>
           <input class="small button right"
                  id="subscribeButton"
                  name="subscribe"
@@ -289,6 +289,10 @@ $("#last-post").attr("href", posts[posts.length-1]);
 			width:calc(100% - 50px);
 			float:left!important;
 			margin-top:4px;
+
+			margin-top: 0;
+			height: 42px;
+			width: calc(100% - 320px);			
 			"/>
         </div>
 
@@ -307,33 +311,14 @@ $("#last-post").attr("href", posts[posts.length-1]);
 Foundation.global.namespace = '';
 $(document).foundation();
 $(document).ready(function() {
-    $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').css('display','block');
 });
 </script>
 
 <style>
   .menu {
-  margin-top:0!important;
-    float: left!important;
-  margin: 0!important;
-  display:none;
-  }
-
-  .menu ul li {
-  background: white!important;
-
-  }
-  .menu ul li a {
-  color:#3d454b!important;
-  }
-
-  .dropit-submenu {
-  margin: 0!important;
-    text-align: left!important;
-  }
-  .dropit-submenu li {
-  margin: 0!important;
-      width: 138.5px;
+  dipslay:block;
   }
 </style>
 

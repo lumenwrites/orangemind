@@ -1,6 +1,7 @@
 Title: What are Cognitive Biases?
 Date: 2016-04-03 00:03
 Image: https://cdn-images-1.medium.com/max/800/1*9G3F5QW3-A5fPiPlldIK8Q.png
+Summary: Our brain takes mental shortcuts that distort our picture of the world.
 
 Imagine you have a basket of fruits(apples and oranges), you reach out, take one at random, and eat it. Then you decide you’re hungry, and eat a few more. At that point you realize that you ate like 5 apples and only one orange, so you think that there’s way more apples in there. Makes sense.
 

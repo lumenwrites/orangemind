@@ -29,6 +29,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+USE_FOLDER_AS_CATEGORY = True
 
 # FEED_RSS = 'feeds/all.rss.xml'
 
@@ -40,12 +41,12 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Menu should be fiction, articles, 
 MENUITEMS = [
-    # ('About', '/about'),
+    ('About', '/about'),
     # ('Store', '/store'),
     # ('Essays', '/category/articles'),    
     # ('Fiction', 'http://fictionhub.io/user/rayalez'),
-    ('Browse', '/browse/'),    
-    ('Videos', 'http://lumiverse.io/series/orangemind'),
+    # ('Browse Articles', '/browse'),    
+    # ('Videos', 'http://lumiverse.io/series/orangemind'),
 ]
 #('Essays', '/essays'), ('Home', '/')
 # ('Stories', '/stories'),
@@ -71,7 +72,7 @@ PAGE_SAVE_AS = '{slug}.html'
 TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 
-# TAG_URL = 'tag/{slug}/'
+TAG_URL = 'tag/{slug}/'
 # TAG_SAVE_AS = 'tag/{slug}/index.html'
 # TAGS_URL = 'tags/'
 # TAGS_SAVE_AS = 'tags/index.html'
@@ -81,7 +82,7 @@ AUTHOR_SAVE_AS = ''
 #     (2, '{base_name}/posts/{number}/', '{base_name}/posts/{number}/index.html'),
 #)
 
-DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about','browse',) #'about',
+DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about','browse','browse-cards',) #'about',
 
 
 

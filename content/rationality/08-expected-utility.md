@@ -1,6 +1,8 @@
 Title: Expected Utility
 Date: 2016-04-03 00:08
 Image: https://cdn-images-1.medium.com/max/800/1*hJtobFtiK-N_SM0isn0HWg.png
+Summary: How to take calculated risks and make decisions under uncertainty.
+
 Imagine I offer you a gamble. I will spin the wheel that looks like this:
 
 ![](/images/expected-value-1.png)

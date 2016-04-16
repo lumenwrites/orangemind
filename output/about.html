@@ -14,8 +14,12 @@
   <link rel="stylesheet" href="/theme/css/foundation-icons/foundation-icons.css" />
   <link rel="stylesheet" href="/theme/css/main.css" />
 
+  <!-- Fontawesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+  
   <meta property="og:image" content="http://orangemind.io/theme/img/orangemind-square-brain.png">
-  <meta property="og:description" content="Scifi comedy comics.">
+  <meta property="og:description" content="Rationaity, Comedy, Science Fiction.">
   
 
   <!-- jQuery -->
@@ -54,14 +58,24 @@
 
 	    <ul>
 
-<ul class="menu">
+
+
+<ul class="menu" style="display:none;">
     <li>
-        <a href="#">Browse Articles</a>
+        <a href="/browse">Browse</a>
         <ul>
-            <li><a href="#">In Order</a></li>
-            <li><a href="#">Best</a></li>
-            <li><a href="#">Biases</a></li>
-            <li><a href="#">Rationality</a></li>
+            <!-- <li><a href="#">In Order</a></li> -->
+            <!-- <li><a href="/category/rationality">Rationality</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="/category/fiction">Fiction</a></li> -->
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="/category/writing">On Writing</a></li> -->
+
+	    <!-- <hr style="margin:0;width:calc(100% - 10px);border-width: 1px 0 0;"/> -->
+            <!-- <li><a href="#">AI and CS</a></li> -->
+
+            <!-- <li><a href="/category/rationality">My Projects</a></li>	     -->
+
         </ul>
     </li>
 </ul>	    
@@ -71,10 +85,7 @@
 	      <!-- 	<a href="">Browse Articles</a> -->
 	      <!-- </li> -->
 	      <li>
-		<a href="/browse/">Browse</a>
-	      </li>
-	      <li>
-		<a href="http://lumiverse.io/series/orangemind">Videos</a>
+		<a href="/about">About</a>
 	      </li>
 	      <li>
 		<a href="#" data-reveal-id="subscribePopup">Subscribe</a>		
@@ -96,27 +107,45 @@
           <h1 id="blogTitle"> About</h1>
           <hr />
 	  <img src="theme/img/signature.png" style="float:right;width:180px;"/>
-	  <p>Hi! My name is Ray Alez. I create comedy revolving around topics of science fiction and technology.  </p>
-	  <p>If you like my comics - you will probably also like
-	    <a href="http://fictionhub.io/user/rayalez">fiction</a> that I write.</p>
-	  <p>If you want to send me a message - my email is raymestalez@gmail.com</p>
+	  <p>Hi! My name is Ray Alez.</p>
+
+	  <p>I write articles about rationaliy, science fiction, and comedy. I am also interested in Computer Science, AI, and Startups. </p>
+
+	  <p>If you like this blog - you probably want to check out <br/> the list of the <a href="https://medium.com/@rayalez/projects-a18dcb7dd9ff">other projects I have created</a>.</p>
+
+	  <p>If you want to send me a message, my email is  <br/> <b>raymestalez@gmail.com</b></p>
+
+	  <hr/>
+	  <p>You can also find me over here:</p>
+	  <div class="social-media">
+	    <a href="https://medium.com/@rayalez/"><i class="fa fa-medium"></i></a>
+	    <a href="https://news.ycombinator.com/user?id=rayalez"><i class="fa fa-hacker-news"></i></a>
+	    <a href="https://www.reddit.com/u/raymestalez/"><i class="fa fa-reddit"></i></a>	    
+	    <a href="https://twitter.com/RaymestAlez"><i class="fa fa-twitter"></i></a>
+	    <a href="https://www.facebook.com/rayalez/"><i class="fa fa-facebook"></i></a>
+	    <a href="https://github.com/raymestalez"><i class="fa fa-github"></i></a>
+
+	  </div>
 	  
 	  </article>
       </div>
 </div>
 
-
+    <style>
+      .social-media i {
+      font-size:40px;
+      }
+      .social-media a {
+      margin-right:10px;
+      }
+    </style>
 
 <script>
 var posts = [
-    "/post/paradox-of-choice",
     "/post/false-dichotomy",
-    "/post/scientific-method",
     "/post/availability-heuristic",
     "/post/expected-utility",
     "/post/rationalization",
-    "/post/be-willing-to-change-your-mind",
-    "/post/sunk-cost-fallacy",
     "/post/confirmation-bias",
     "/post/what-are-cognitive-biases",
     "/post/light",
@@ -159,49 +188,6 @@ $("#last-post").attr("href", posts[posts.length-1]);
 
 
 
-      <!-- Follow -->
-<div class="row">
-  <div class="large-12 columns">
-  <div class="post-footer-signup panel">
-    <span style="float:left"><p>Liked this post? Subscribe to updates!</p></span>
-    <div id="mc_embed_signup" style="/* margin-left:60; float: right;*/">
-      <form action="//orangemind.us7.list-manage.com/subscribe/post?u=0f23c7984541d915d1108a16e&amp;id=6b00e5a9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div class="mc-field-group">
-
-	  <!-- <a href="http://fictionhub.io/user/raymestalez/subscribe" class="fictionhub-subscribe"> -->
-	  <!--   <img src="/theme/img/fictionhub_logo_128x128.png"/></a> -->
-	  
-	  <!-- <span id="rss-icon"><a href="/feeds/all.atom.xml"><i class="fi-rss large"></i></a></span> -->
-
-	  <!-- RSS icon -->
-	  <span class="rss-icon" style="float:right;margin-left:10px;">
-	    <a href="/feeds/all.atom.xml">
-	      <i class="fi-rss large"></i></a>
-	  </span>
-	  
-          <input class="small button"
-                 id="subscribeButton"
-                 name="subscribe"
-                 type="submit"
-                 value="Subscribe"/>
-          <input class="required email"
-                 id="mce-EMAIL"
-                 name="EMAIL"
-                 placeholder="Enter your email"
-                 type="email"
-                 value=""/>
-        </div>
-
-        <div class="clear" id="mce-responses">
-          <div class="response" id="mce-error-response" style="display:none">&nbsp;</div>
-          <div class="response" id="mce-success-response" style="display:none">&nbsp;</div>
-        </div>
-      </form>
-    </div>
-  </div>
-</div>
-
-&nbsp;<br/>
 
 <!-- Comments -->
   
@@ -254,7 +240,8 @@ $("#last-post").attr("href", posts[posts.length-1]);
 			width:calc(100% - 50px);
 			height: 42px;
 			float: left;
-			margin: 0;"/>
+			margin: 0;
+			width: calc(100% - 160px);"/>
           <input class="small button right"
                  id="subscribeButton"
                  name="subscribe"
@@ -264,6 +251,10 @@ $("#last-post").attr("href", posts[posts.length-1]);
 			width:calc(100% - 50px);
 			float:left!important;
 			margin-top:4px;
+
+			margin-top: 0;
+			height: 42px;
+			width: calc(100% - 320px);			
 			"/>
         </div>
 
@@ -282,33 +273,14 @@ $("#last-post").attr("href", posts[posts.length-1]);
 Foundation.global.namespace = '';
 $(document).foundation();
 $(document).ready(function() {
-    $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').dropit({action: 'mouseenter',}); //
+  $('.menu').css('display','block');
 });
 </script>
 
 <style>
   .menu {
-  margin-top:0!important;
-    float: left!important;
-  margin: 0!important;
-  display:none;
-  }
-
-  .menu ul li {
-  background: white!important;
-
-  }
-  .menu ul li a {
-  color:#3d454b!important;
-  }
-
-  .dropit-submenu {
-  margin: 0!important;
-    text-align: left!important;
-  }
-  .dropit-submenu li {
-  margin: 0!important;
-      width: 138.5px;
+  dipslay:block;
   }
 </style>
 

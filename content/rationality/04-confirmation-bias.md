@@ -1,6 +1,7 @@
 Title: Confirmation Bias
 Date: 2016-04-03 00:04
 Image: https://cdn-images-1.medium.com/max/800/1*EnATXKL_TOZAwhiVwiq26Q.png
+Summary: We jump to conclusions, and then look for information that confirms our beliefs.
 
 Let’s say your elbow is itchy, and you are starting to fear that it might be serious. You type in google “itchy elbow, serious symptom”, and in 20 minutes you are convinced that you have elbow cancer, space AIDS, and a severe case of acute ladidadidosis. The more you search, the more certain you are of your impending doom.
 

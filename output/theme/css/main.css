@@ -154,6 +154,7 @@ article {
     color: #000;
     padding-bottom: 28px;
     padding: 5px 20px 28px 20px;
+    //padding: 40px;    
 }
 
 article a:hover {
@@ -449,3 +450,30 @@ blockquote strong {
     color:white;
     margin:0;
 }
+
+
+
+/* Menu update */
+
+  .menu {
+  margin-top:0!important;
+    float: left!important;
+  margin: 0!important;
+  }
+
+  .menu ul li {
+  background: white!important;
+
+  }
+  .menu ul li a {
+  color:#3d454b!important;
+  }
+
+  .dropit-submenu {
+  margin: 0!important;
+    text-align: left!important;
+  }
+  .dropit-submenu li {
+  margin: 0!important;
+      width: 138.5px;
+  }

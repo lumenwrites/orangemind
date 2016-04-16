@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="content">
+  
+  <div id="page"  class="blogPage">
+    <div class="row">
+      <div class="large-12 columns">
+
+	{% for article in articles | reverse %} <!-- articles _ page. object_list  -->
+	<a href="{{ SITEURL }}/{{ article.url }}">
+
+	<article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
+	  <div style="height:166px;width:296.5px;overflow:hidden;">
+	    <img src="{{article.image}}"/>
+	  </div>
+	  <!-- {# {{ article.summary }} #} -->
+	  <div style="padding:10px;//height:80px;">
+	      <h4 style="font-size:22px;font-weight:normal;color:black;">{{ article.title }}</h4>
+	  </div>
+	  
+	  <div style="padding:10px;padding-top:0;height: 161px;">
+	    {{ article.summary }}
+	  </div>
+	</article>
+
+	    </a>
+	
+	{% endfor %}
+      </div>
+
+	<div class="clearfix"></div>
+	{# {% include 'pagination.html' %} #}
+
+	
+    </div>
+</section>
+
+<!-- <style> -->
+<!--   .video { -->
+<!--   width:100%!important; -->
+<!--   } -->
+<!-- </style> -->
+
+{% endblock content %}
+
+
+http://img.youtube.com/vi/77QhyHAO3lY/mqdefault.jpg

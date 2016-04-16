@@ -6,7 +6,7 @@
     <div class="row">
       <div class="large-12 columns">
 
-	{% for article in articles | reverse  %} <!-- articles _ page. object_list  -->
+	{% for article in articles  | reverse  %} <!-- articles _ page. object_list  -->
 	<!-- | reverse -->
 	<a href="{{ SITEURL }}/{{ article.url }}">
 

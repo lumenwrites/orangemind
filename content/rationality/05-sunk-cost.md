@@ -2,6 +2,7 @@ Title: Sunk Cost Fallacy
 Date: 2016-04-03 00:05
 Status: Draft
 
+
 Let’s say you’ve been planning to go see a movie this Friday, and have already bought a ticket, but now that it’s time to go out you realize that you don’t want to go, and that you would rather enjoy spending your evening at home. Should you go or not?
 
 Most of the people say yes, after all, the ticket has already been paid for, and it’s nonrefundable, so you wouldn’t want it to be wasted, right?
