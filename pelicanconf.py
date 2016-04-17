@@ -84,7 +84,7 @@ TAG_URL = 'tag/{slug}/'
 #     (2, '{base_name}/posts/{number}/', '{base_name}/posts/{number}/index.html'),
 #)
 
-DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about','browse','browse-cards',) #'about',
+DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about','browse','browse-cards','projects') #'about',
 
 
 

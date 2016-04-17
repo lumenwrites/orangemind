@@ -481,3 +481,17 @@ blockquote strong {
   margin: 0!important;
       width: 138.5px;
   }
+
+
+  /* Images centered */
+
+  article img {
+    width: auto;
+    display: block;
+    margin: auto;  
+  }
+
+  blockquote {
+    font-style: italic;
+    font-size: 28px;
+  }
