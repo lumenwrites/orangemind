@@ -227,19 +227,22 @@ As a result we have a joke:
 ![](https://medium2.global.ssl.fastly.net/max/2000/1*bxGo3Q3AtQsO4Cvfsjwyig.png)
 
 Here’s a couple more examples I’ve made from the scene above:
-> **Element:** Will use clever tactics to defeat his opponent.
-**Association(Connector):** Clever tactics — Evil Machiavellian Plotting
-**Setup:** I’ve heard they used the game of Go to train emperors in war strategy. In go the person with smartest tactics wins.
-**Punch:** In my opinion, the best tactic for winning Go is to frame your opponent for murder and have him executed before the game begins.
-> **Element: **Play by placing stones on the board.
-**Association(Connector): **Stones — Testicles
-**Setup: **
-- I got thrown out of the Go club last Friday.
-- What happened?
-- They taught me that you play by placing stones on the board, and the player who has the best shape wins.
-**Punch:**
-- So?
-- I placed the wrong kind of stones.
+> **Element:** Will use clever tactics to defeat his opponent.  
+**Association(Connector):** Clever tactics — Evil Machiavellian Plotting  
+**Setup:** I’ve heard they used the game of Go to train emperors in war strategy. In go the person with smartest tactics wins.  
+**Punch:** In my opinion, the best tactic for winning Go is to frame your opponent for murder and have him executed before the game begins.  
+
+&nbsp;
+
+> **Element: **Play by placing stones on the board.  
+**Association(Connector):** Stones — Testicles  
+**Setup: **  
+- I got thrown out of the Go club last Friday.  
+- What happened?  
+- They taught me that you play by placing stones on the board, and the player who has the best shape wins.  
+**Punch:**  
+- So?  
+- I placed the wrong kind of stones.  
 
 ##Conclusion
 
