@@ -1,5 +1,6 @@
 Title: Sunk Cost Fallacy
 Date: 2016-04-03 00:05
+Summary: Let’s say you’ve been planning to go see a movie this Friday, and have already bought a ticket, but now that it’s time to go out you realize that you don’t want to go, and that you would rather enjoy spending your evening at home. Should you go or not?
 
 
 Let’s say you’ve been planning to go see a movie this Friday, and have already bought a ticket, but now that it’s time to go out you realize that you don’t want to go, and that you would rather enjoy spending your evening at home. Should you go or not?
