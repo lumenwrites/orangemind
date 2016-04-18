@@ -1,0 +1,22 @@
+{% if DEFAULT_PAGINATION %}
+
+<div class="paginator">
+  {% if articles_page.has_previous() %}
+  <div style="float:left;">  
+    <a href="{{ SITEURL }}/{{ articles_previous_page.url }}"
+       class="fi-rewind"
+       style="//float:left;"       
+       ><!-- &laquo; --></a>
+  </div>
+    {% endif %}
+      Page {{ articles_page.number }} <!-- / {{ articles_paginator.num_pages }} -->
+    {% if articles_page.has_next() %}
+    <div style="float:right;">
+      <a href="{{ SITEURL }}/{{ articles_next_page.url }}"
+	 class="fi-fast-forward"
+	 ><!-- &raquo; --></a>
+    </div>
+    {% endif %}
+    <div class="clearfix">	
+</div>
+{% endif %}
