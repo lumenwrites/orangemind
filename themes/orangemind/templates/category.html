@@ -12,7 +12,9 @@
 
 	  <article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
 	    {% if article.image %}
-	    <div style="height:166px;width:296.5px;float:right;overflow:hidden;">
+	    <div style="height:166px;width:296.5px;
+			height:186px;width:331px;			
+			float:right;overflow:hidden;">
 	      <img src="{{article.image}}"/>
 	    </div>
 	    {% endif %}
@@ -27,7 +29,12 @@
 
 	  
 	  <div style="padding:10px;padding-top:0; padding: 0px 20px 20px 20px;">
+	    {% if article.image %}
 	    {{ article.summary | truncate(220) }}
+	    {% else %}	    
+	    {{ article.summary | truncate(280) }}
+	    {% endif %}	    
+	    <div class="clearfix"></div>	    
 	  </div>
 	  
 	</article>
@@ -48,7 +55,13 @@
   .video {
   width:calc(100% - 40px)!important;
   height: 166px;
+  height: 186px;  
   margin:10px 20px;
+  }
+
+  .video img {
+    float: right;  
+  width:auto;
   }
 
   h4 {
