@@ -43,12 +43,12 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Menu should be fiction, articles, 
 MENUITEMS = [
+    # ('Videos', 'http://lumiverse.io/series/orangemind'),
     ('About', '/about'),
     # ('Store', '/store'),
     # ('Essays', '/category/articles'),    
     # ('Fiction', 'http://fictionhub.io/user/rayalez'),
     # ('Browse Articles', '/browse'),    
-    # ('Videos', 'http://lumiverse.io/series/orangemind'),
 ]
 #('Essays', '/essays'), ('Home', '/')
 # ('Stories', '/stories'),
