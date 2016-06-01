@@ -1,7 +1,6 @@
 Title: How Climax is connected to other Story Elements
 Slug: story-elements
 Date: 2016-02-04 00:03
-Status: Draft
 Image: 
 Summary: 
 
