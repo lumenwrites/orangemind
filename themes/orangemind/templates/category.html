@@ -12,10 +12,12 @@
 
 	  <article class="video" style="background:rgba(255, 255, 255, 0.95)!important;">
 	    {% if article.image %}
-	    <div style="height:166px;width:296.5px;
-			height:186px;width:331px;			
-			float:right;overflow:hidden;">
-	      <img src="{{article.image}}"/>
+	    <div style="height:166px;width:296.5px;float:right;overflow:hidden;
+			background-image: url('{{article.image}}');
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: 50% 50%;">
+	      <!-- <img src="{{article.image}}"/> -->
 	    </div>
 	    {% endif %}
 	  <!-- {# {{ article.summary }} #} -->
