@@ -3,7 +3,7 @@ Slug: story-elements
 Date: 2016-02-04 00:03
 Image: 
 Summary: 
-
+Status: Draft
 
 When you are writing a story, climax is the key element you are looking for. When you know the climax — you have a story, and until you know it — you don’t.
 
