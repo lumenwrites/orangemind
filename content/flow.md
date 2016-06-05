@@ -29,7 +29,7 @@ If what you want to do is a big and complicated task — break it down into mult
 
 Also notice that the goal should be at the right level for you, it should be simple enough for you to feel confident and competent, yet challenging enough to be interesting. Ideally, your task should be a *little* bit more challenging than you’re used to.
 
-And make sure that what you do really matters to you. Your brain won’t engage into taking steps towards goals you don’t care about, so make it clear how valuable the goal is to you, and how the steps you’re taking bring you closer to them.
+And make sure that what you do really matters to you. Your brain won’t engage into taking steps towards goals you don’t care about, so make it clear how valuable the goal is to you, and how the steps you’re taking bring you closer to it.
 
 ###Take your time. Don’t resist being out of state. Build momentum.
 
