@@ -23,13 +23,13 @@ So how do you achieve it? Here are the elements you need to make it work well:
 
 The first thing that you need is a simple, unambiguous goal that you value and know how to achieve, a challenge that you know how to solve.
 
-If what you want to do is a big and complicated task — break it down into multiple smaller ones, then breakdown the first of them into several parts again, and that until you have an easy first step that takes 20 minutes or less to accomplish. By the way this goal setting, breaking down, and planning often IS the first easy step to focus on.
+If what you want to do is a big and complicated task — break it down into multiple smaller ones, then breakdown the first of them into several parts again, and do that until you have an easy first step that takes 20 minutes or less to accomplish. By the way this goal setting, breaking down, and planning often IS the first easy step to focus on.
 
 ![](https://medium2.global.ssl.fastly.net/max/2000/0*rQBmbr9dfft3IE_0.png)
 
 Also notice that the goal should be at the right level for you, it should be simple enough for you to feel confident and competent, yet challenging enough to be interesting. Ideally, your task should be a *little* bit more challenging than you’re used to.
 
-And make sure that what you do really matters to you. Your brain won’t engage into taking steps towards goals you don’t care about, so make it clear how valuable goals you are, and how the steps you’re taking bring you closer to them.
+And make sure that what you do really matters to you. Your brain won’t engage into taking steps towards goals you don’t care about, so make it clear how valuable the goal is to you, and how the steps you’re taking bring you closer to them.
 
 ###Take your time. Don’t resist being out of state. Build momentum.
 
