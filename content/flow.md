@@ -47,7 +47,7 @@ Plug off. Remove distractions, both external and internal.
 
 When you start, your mind usually tends to wander away and get distracted from the task. Realize that it’s normal, don’t beat yourself up, just gently get your attention back to the question you’re thinking about.
 
-This kind of focus is similar to meditation, by learning to meditate you learn to you “turn off” all of the unrelated thoughts, and get into the present moment, focus on the process.
+This kind of focus is similar to meditation, by learning to meditate you learn to “turn off” all of the unrelated thoughts, and get into the present moment, focus on the process.
 
 Also — think ‘inside’ the process, don’t be ‘meta’. If you’re writing — write, if you’re painting — paint. Don’t get distracted on organizing your workspace or trying to figure out the best tools and techniques to do it. It feels productive, but it often isn’t. Don’t confuse being focused on the process itself with being focused on figuring out how it’s done.
 
