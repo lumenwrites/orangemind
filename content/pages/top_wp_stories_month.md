@@ -1,4664 +1,5836 @@
 Title: Top WP stories
-Slug: top-stories
-Date: 2014-04-21
+Slug: top-stories-month
+Date: 2016-06-08
+
+#### [WP] "Adulthood is like looking both ways before you cross the street, then getting hit by an airplane."
+
+Score: 5553
+
+"I'm sorry to bring you here like this."
+
+"Not at all, my dear boy. Not at all."
+
+"But, you see, I have to know… I have to know, and you're the only one –"
+
+"I get it," the old man interrupted me. He puffed his cheeks weakly, like it took him great effort just to breathe, 
+and then he leaned back against the armchair and his eyes turned to the crackling of the fireplace. "Ask away."
+
+"Well… it's pretty simple, actually." I leaned forward. "What's it like?"
+
+His eyes turned to me, and he almost smiled. *"What's it like?"*
+
+"Yeah. Life. Growing up. Being old." I paused. "Well, not that I'm calling you old, I just –"
+
+"It's okay, dear boy," he laughed. "I am old. That's why you brought me here."
+
+I said nothing. He arranged himself on the armchair like he had all the time in the world. Then his eyes went up to 
+me again. "It's… hard."
+
+I waited. I knew he wasn't done.
+
+"It's the hardest thing you'll ever have to do, actually" he continued. "Harder than building all this fancy equipment you've built. Harder than studying all you've studied. Harder than winning all these scientific awards you've won so far." He chuckled. "Nothing prepares you for it."
+
+"What makes it hard?" I asked. "Is it the responsibilities? The body decaying? What makes growing up so hard?"
+
+"No. It's not the responsibilities. Growing up is like looking both ways before you cross the street, then getting hit by an airplane." He lowered his head as if to put his thoughts together, then continued. "It's the things you don't expect that catch you by surprise. Sure, it's scary to have a kid, and to get married, and to ask your boss for a promotion, and all these grown-up stuff we have to *pretend* we know how to do."
+
+"Pretend?"
+
+He seemed surprised. "Yes, pretend. No one really grows up, of course. We put on a face to the world, but at home, three in the morning, all alone watching TV, you're still sixteen. All of us are." He shook his head. "There's nothing more heartbreaking than being a real person and sitting down in front of another real person, and then both of you have to act like fake people. You sit across from someone two years older than you in a job interview and you both say 'Hello, sir' and 'Yes, I also think the Dow Jones has been fluctuating dangerously this last few days' and 'Oh, absolutely, the 405 is a nightmare this time of day'. And all along you *know* you both laugh at poop jokes and fart sounds and you have all these hobbies and interests and you curse and say fuck and shit and asshole. You're real people. But you act like robots. You have to put on the face, and they have to put on a face, and you have to pretend that nothing in life is ever fun, everything is productivity and seriousness."
+
+"Is that what makes it hard?" I asked. "That everyone's just… faking their way through adulthood?"
+
+"No. No, that's expected. It sucks, but we all know what we're getting into." He sighed. "No, what catches you by 
+surprise are the little things about growing up. It's being stuck in traffic and remembering a day. Any day. A locker 
+room conversation in high school. A teacher. A friend of a friend. Something that happened long enough ago that 
+it could order its own drink. It sneaks up on you, and you look at yourself in the rear view and you think, my 
+God… where did it go? When did I become so old?
+
+"I remember college like it was yesterday. I remember my girlfriends and my friends and they used to drink and 
+talk about sex and hanging out and now they all eat oatmeal and go to funerals. And I do that to, and I *like* all of that. Well, not going to funerals, but oatmeal. Soap operas. Going to bed at nine. I like it."
+
+"So what's the problem?"
+
+"The problem is I'm still the sixteen year old. I'm still the college kid. My needs and wants have changed, and my 
+body has changed, and my mind has changed, in a way, but *I* didn't change. I'm still putting on a face. So when 
+these thoughts sneak up on me – when a flash of a college party or a roadtrip or the feeling of falling asleep in the 
+back of my Dad's car wells up on me… it breaks me. It breaks me because I don't think of it fondly. I don't look at 
+that young kid with affection and nostalgia, I look at him with envy. Envy, because he's got all of that ahead of him 
+still, and he doesn't even know how lucky he is. He's me, we're the same – but he's got the good looks and the 
+health and all the years ahead of him, and I'm wasting away in an old apartment. And I hate that kid so much. Every time he sneaks up on me I hate him more."
+
+I looked down, then up. "What about family? Kids?"
+
+"They are great. They are amazing. But they go away. They're not *you*. In the end, you raise your sons and 
+daughters for the world, not for yourself. They have to fall asleep in the back of *my* car, and go to *their* college parties and all that… they don't exist for my benefit. No one exists for my benefit but myself. And I'm much too old to do anything about it."
+
+I swallowed dry and averted my eyes to the fireplace. The old man leaned forward. "We always get the feeling that 
+the good old days are either behind us or ahead of us. They're never our own days. We were always born just a 
+bit too late to go to Woodstock or to see Nirvana live or to see the Berlin Wall fall or to party Great Gatsby style in the 20's. And then we get old and we realize we were born too soon to see the wonders of technology and the world reshaping and blooming into something new and exciting. But the truth is, our Woodstocks were happening all around us as we grew. Our new and exciting world was some old guy's boring present, and our past will be some spoiled, arrogant kid's 'Good old days'. We were just too stupid to realize it when it mattered. So we let it slide away. And then we ended up like me – sad and resentful of our younger selves for all they can still do and we can't."
+
+Finally, I got up. I went to the old man and I knelt in front of him. "I'm sorry I brought you over."
+
+"It's okay," he said. "I knew you would. After all, I did it, sixty years ago."
+
+I looked at my own eyes. Despite the wrinkles around them, they still looked pretty much the same. The old man 
+shook his head and sniffed a tear away. "Now let's go back to your lab so you can send me back to my own time, 
+so I can hate you in peace."
+
+I hugged my own eighty year old version and leaned away and nodded. "I'll enjoy it," I said. "And I'll know I'm living in the good old days, I promise."
+
+He got up with difficulty. "No, you won't," he said. "The good old days are only ever good when they're gone. That's what makes them good. When you're living through them, they're just... days."
+
+He slow-stepped ahead of me towards the lab. Then he spoke without turning his head: "And days go by really fast, man. They go by really fast."
 
 
-https://www.reddit.com/user/raymestalez
+________________
 
-# [WP] After dying, you're shown a "Choose Your Own Adventure" style decision tree which highlights all the paths your life could have taken should you have made various different choices. You spend all of eternity analyzing this tree, only to finally realize that something just isn't quite right.
+*Thank you for reading! For more stuff, head on to /r/psycho_alpaca -- and make sure to check out [Eve](https://www.reddit.com/r/psycho_alpaca/comments/4h9tc6/read_the_novel_eve_here/), the novel I just recently finished and posted online, based on a writing prompt from here!*
 
-Score: 2618
-
-EDIT: THERE IS NOW AN OFFICIAL SUBREDDIT TO DISCUSS THIS POST AND ITS EXPANSION INTO A FULLY FLEDGED NOVEL. /r/MattsWrittenWord IF YOU WISH TO BE KEPT UP TO DATE WITH THIS STORIES PRODUCTION PLEASE ENTER IT. 
-
-"Okay, that never happened in the first place, " I stated simply to the reaper invigilator. "Something is wrong in your base files because after a millenium of analysis and searching my memories I can tell you... that one never happened."
-
-The reaper floated closer to me, it's black trench coat flapping slightly in the non existent breeze of my eternity-vault. I felt sorry for the reapers at times like this, I'd always been stubborn and it probably didn't deserve it. They were born at the same time as our souls were and tethered to us for the rest of eternity. They didn't want it, they didn't need it and the contract was ultimately binding. It was a good thing that my reaper and I got on, otherwise eternity would have been all kinds of messed up. 
-
-"It's probably part of an offshoot then, wouldn't be the first time time you've made that mistake," the reaper snarked, drifting over to my record banks. 
-
-"Not an offshoot, up top got really pissy last time I made that mistake, never again," I muttered shaking my head. "Look, right there, that kiss. I have full access to all my memories in here and I can tell you that one did not happen." 
-
-I would have liked it to though, that much both me and the reaper knew.  I'd studied the offshoot that one had spawned many times before. Love, fortune, joy and a distinctive lack of the money owed that lead to me... dying. It would have been a nice and long life, one of the happiest offshoots there had been. But it wasn't real, that much I knew.  
-
-"You're right..." The reaper clarified, "that's new... that wasn't there the last time we scanned that segment... so how is it there now..."
-
-We both floated in silence for a moment, staring at the erroneous piece of time line.  Nothing like this had happened to us before and the reaper had never heard of it happening to any of the other deads either. It was a perplexing quandary to say the least.
-
-"I'm contacting head office now, keep an eye on your time line,  anything else changes you let me know straight away okay?" The reaper ordered before drawing the outline of a phone, the item materialising near instantly. Damn reapers and their matter manipulation talents, I wish I had matter manipulation abilities, all sorts of fun things could happen then.
-
-I turned my eyes back to the time line,  tracing along from the new change. A heavy lump formed in my throat. The whole thing was twisting and cracking and splintering out of control. Offshoots replacing reality then melding the two together in a strange abomination of the two. 
-
-"Reap, my time line is going out of control, get someone in here right now," I ordered. He didnt reply but from the crack of energy behind me I knew the head honcho had showed up.
-
-He wasn't God, he hadn't created humanity, rather the opposite. He was one of the first reapers and had been the one to sort out the department of reaping along with his Human. If it weren't for them our time lines would have been lost to the winds of time, and then what would we have spent eternity doing? 
-
-"This better not be another mistake Daniels," the head said, amusement tinting his tone. "By the gods..." he muttered as he drew closer and saw what was happening. 
-
-"Is it localised to him?" My Reaper asked and the head nodded in response. 
-
-"Someone from the living world is tampering with his time line,  they're trying to find an eventuality where he becomes immortal," the head explained,  his eyes flicking over the twisting lines. 
-
-"We never discovered anything like that during our analysis, and we've been here for over a millenia," I said, my voice incredulous. There was no way there was such a time line, and even if there was who would want me to live forever that badly?
-
-"My Human and I have been in this realm for many more thousands of years Daniels, I can assure you that you haven't seen every possibility yet."
-
-The world began to flicker in and out of my vision. I vaguely heard the head swear and my own reaper gasp in pain. They must have found it.  The one where I lived forever. For the first time since death I felt a little flutter of excitement. I was going back to the world of the living... I wonder if I will remember any of this.
 ----
 
-# [WP] You just got fired, you're pretty sure your girlfriend is cheating on you, you're 75k in student loans debt, rent was due last week, and to top it all off? You're all out of beer. Oddly enough, you just got an email titled "Would you like to change the difficulty? Current setting: Very Hard."
+[psycho_alpaca](https://www.reddit.com/user/psycho_alpaca)  
+[Story url](https://www.reddit.com/r/WritingPrompts/comments/4iorz7/wp_adulthood_is_like_looking_both_ways_before_you/) 
 
-Score: 2477
-
-I broke my fixation on the woefully empty bottle of beer to glance down at my phone as it *dinged*, notifying me about an email. I sighed. Debt collectors and spam. That's all I ever got anymore. At least the latter allowed me the pleasure of pressing the fun little trashcan icon. 
-
-**Would you like to change...**, the preview of the subject read. Hell, yeah. I would give anything to change everything right now. My girlfriend was gone on some escapade with her not-so-secret lover, my student loan debt was three times what I made in a year, pre-taxes, the eviction notice was still taped to the door... I hadn't been too broke to buy beer since college, but here I was. Same old.
-
-I swiped right and typed in the double 69 password; a relic from more cheerful times. The email was short and to the point.
-
-**Would you like to change the difficulty? Current setting: Very hard.** Seemed about as legit as the Nigerian prince my grandpa was always helping out. My finger hovered over the trashcan icon but my phone *dinged* again, the echo bouncing off the walls of the nearly empty room. A text this time with the same message and a simple instruction: **Reply YES for details**. I shrugged and typed the message, arching my eyebrows skeptically as the message *whooshed* away and I turned back to the bottle hoping to leach out a couple more drops.
-
-**Pick your level: First World Problems, Easy, Medium, Hard, Very Hard**. I sighed. Whoever this was, they were persistent. A cruel joke, most likely. Getting my hopes up that my life could be anything more than a miserable shit hole. I chose the first option and hit send, shrugging in mild irritation before sighing and heading to my bed. Without the electric bills paid and nothing to entertain me, I was sleeping by dusk, my schedule more Amish than an Ohioan's. My phone rang a moment later, just as I was settling in and starting to tell myself a bedtime story.
-
-"Mom?" I said hesitantly, surprised that she would call after six months of not talking to me. She let out a muffled sob and I sat up in my bed. "What happened?"
-
-"It's dad..." she stuttered as she struggled to catch her breath. I frowned. My dad had been getting cigarettes since '95 and if he was suddenly showing up now, I wanted nothing to do with him. "Your grandfather passed away," she said quietly and I scowled. Disrupting my 8 o'clock bedtime for this? The man was a grade A dumbass and had provided more for random hookers than he had for me.
-
-"I... I'm sorry," I managed to say half-heartedly.
-
-"You barely knew him," she answered softly. "I can't see what he saw, but he must have thought very highly of you. He left you his fortune and the house by the lake. You're rich..." she said mournfully and I quietly gulped as I tried to fathom the idea.
-
-"Goddammit," I sighed knocking my head against the headboard of the bed. "I'm gonna have a shit ton of taxes to do."
-
-*****
-
-Thanks for reading! If you enjoyed this, please check out more stories at /r/MatiWrites. Constructive criticism and advice are always appreciated!
 ----
 
-# [WP] you realize you're the black guy in a horror movie. survive at any cost.
+#### [WP] You have the ability to reverse time by 6 hours whenever you're about to die. You're currently on a 10 hour flight on a plane that's about to crash.
 
-Score: 2206
+Score: 3545
 
-Jack looked back in his rearview to see Mike yawn audibly from the backseat, tapping absently on a bottle of root beer as they crawled on the interstate.
+I was back in my seat, around six hours before the accident, watching the in-flight entertainment, and wondering how something like a plane crash could become so boring so quickly.
 
-"Can't you go any slower?" Mike said. Jack couldn't help but concede that Mike had the right to complain- he'd confiscated all the booze and insisted on driving, after all. 
+The plane loses an engine, all the warning lights start to go off, the plane tilts down, a smell of smoke, and I'm back here. Every time.
 
-Jack ignored him and drove on in silence. He was way under the speed limit, but the last thing he wanted was for a creature or person to dash in front of their headlights, starting a night of misadventure to hide the dead body.
+This is at least the ninth time I've looped, and after going through most of the good in-flight movies, I was down to the slim pickings when I had an idea.
 
-Jennifer, sitting on the passenger side, frowned. Her peroxide blonde hair wafted in the wind.
+I go back whenever I'm about to die...right?
 
-"Oh, no! There's no network." 
-
-Mike scoffed. "Who cares, Jenn? We're on a camping trip. The point is to get away from civilization for a little while."
-
-"No worries, I bought a satellite phone with extra batteries for this trip," Jack brought out a Nokia from his pocket.
-
-Mike rolled his eyes. Then his eyes widened.
-
-"Would you look at that?"
-
-"Woah!" Jenn exclaimed as she looked at a small dirt road that forked off the asphalt. It was blocked by a rusty old gate that carried an ominous warning for trespassers.
-
-"That padlock," Mike said, "is older than my grandpa. I bet we can break in. The view looks gorgeous too- what the fuck?"
-
-Jack swiveled the car and floored it till the gate was out of sight. Then he slowed back down to under the speed limit.
-
-"Ain't no way we're going in there. Go alone if you want to."
-
-"You're such a killjoy, Jack," Jennifer said.
-
-Killjoy- Jack smiled at her choice of words. *I can be as joyless as needed*, he thought, *as long as I'm not killed*.
+The knife from the airline food packet would have to do. Most of the passengers were asleep at this point, so nobody noticed as I plunged the plastic blade into my chest.
 
 ---
 
-The tents were up and the campfire rustled. It was a small clearing in a state park that the Parks and Wildlife Department had certified safe for campers. Jack had scoured the internet to double check. He didn't find any creepy legends or strange sightings in any of the forums.
+Six hours ago. In the terminal. Waiting. 
 
-Jack lay down in his tent and checked the batteries on his flashlight.
+It worked. **It worked**.
 
-"Hey, Jack. " Jennifer snuck inside the tent coyly. She gave a flirtatious half-smile as she lay down next to him. 
+My head was spinning with possibilities, and I still had the knife. There was only one option.
 
-"Oh hell no!"
-
-Jennifer sprang back, she wasn't used to this reaction.
-
-Jack had seen too many movies. Sex was practically the harbinger for a gruesome death. There was no way he was having sex in a forest on a dark, moonless night with a pack of coyotes wailing in the distance.
-
-He looked at her glassy eyes still recovering from the rejection. Feeling bad for her, he lied.
-
-"It's not you, Jenn. It's me. I'm gay."
-
-""What? But what about Stacie-"
-
-"I just realized this morning. Don't tell Mike, or anyone else for that matter. Please?"
-
-She took her clothes and left.
+Stab.
 
 ---
 
-Despite all precautions and traps set by Jack around their tents, something had attacked their camp and they were on the run. They panted as they stopped upon a bifurcation in the hiker's trail.
+Six hour ago. In bed, asleep before the Five AM flight.
 
-"We should split up," Mike said.
+Stab.
 
-Jennifer nodded in agreement. Jack looked at them in amazement.
+–-
 
-"Are you fucking kidding me?"
+Six hours ago. Getting ready for bed, brushing teeth.
 
-"What? It will be easier. We split up, find some help, then come back in this exact same spot and we're all safe."
-
-"El fucking oh el."
-
-"Jack, look. Desperate times call for desperate measures. I need you to show some teamwork here."
-
-"Over my dead body. I'm gonna follow you guys and I'll be in the middle. Mike, you lead. Jenn, you follow."
-
-Mike and Jenn sighed, but finally agreed with Jack as they heard their pursuers closing in.
+Stab.
 
 ---
 
-Twigs snapped and branches slapped on their faces as the three of them ran. It had been a good decision to let Mike take the lead. The monster- or whatever it was attacking them, had come from the front.
+Six hours ago. I was watching TV.
 
-Mike, who'd already been stumbling, finally fell down.
+Stab.
 
-"Shit!" He screamed in pain.
+Six hours ago.
 
-Jack and Jennifer looked back at Mike, hunched on the ground, clutching his ankle in agony.
+Stab. 
 
-"You two go ahead- I'll be fine," he said, waving his hands, taking his voice an octave higher, trying hard to sound heroic.
+Six hours ago.
 
-"Good idea," Jack said as he turned to run.
-
-"Hey! I was kidding, obviously. Help out, dude. You've gotta carry me."
-
-"Did that thing bite you?"
-
-"Did it what?"
-
-"Did it bite you?"
-
-Mike didn't reply. His hand subconsciously grazed over his shoulders, where, Jack noticed, there was a deep gash.
-
-"Fuck you, I'm outta here."
-
-Jennifer looked at Jack running through the thickets. Then back at Mike, who was now lying on the ground like easy prey. She said a quick sorry and ran in Jack's direction.
-
-----
-
-The monsters had cornered them. 
-
-Jack cowered behind a fallen log. Jenn started making nervous noises. She was having a panic attack.
-
-He thought of putting a hand to her mouth and trying to soothe her out of it. But he could hear the footsteps of the creatures coming closer and closer.
-
-Nice guys finish last, Jack. He reminded himself. With a quick hit under the nose he knocked her unconscious.
+Stab. Stab. Stab Stab Stab Stab...
 
 ---
 
-They seemed to be safe for the moment. They had lost the monsters. Jack's shoulders were aching from carrying an unconscious Jenn. 
+It's at least 2010.
 
-"Where are we?" She asked, there was a drowsiness in her voice suggesting that she was still not out of it.
+I think I've de-aged, but my memories are intact. I've still got the knife. I don't know what to do.
 
-They entered an area of low growth and in front of them was a small cabin.
+I can predict the future. A real life psychic. I can mold my life to be the best one possible. Killing people just to see what happens, then going back and doing it again. Stock markets, speculation, investments, unexplored possibilities revisited, old loves rekindled-
 
-"Oh look, a cabin in the woods. We're saved!"
+But that was for later. For now, I had only one question. How far back could I go?
 
-Jack could see a confederate flag hanging from one of the windows. On the yard two holes had been dug out. Six feet under, human-sized.
+I readied the plastic knife, and started all over again.
 
-"Hey! We need help!" Jenn called out.
-
-Jack put her down. He could hear highway sounds not far away.
-
-"You seem to have regained consciousness. Good luck with the creepy cabin dude, I'm out of it."
-
-And with that Jack ran in the direction of the highway, noping the fuck out of a sleepover at the creepy cabin.
-
----
-
-Jack was glad to have reached civilization as he waved at the passing cars.
-
-A station wagon with "Free Candy" scribbled with key scratches on the rusted hull stopped by him.
-
-"Need a ride?"
-
-"No thanks." Jack said, and started moving along the road.
-
-The man looked disappointed but drove away.
-
-After waiting a bit, Jack saw a squad car approach.
-
-He couldn't control his joy. He had escaped the ordeal. He had survived in a horror movie setting despite being black. This was a story he was going to tell his grandchildren. He jumped and waved frantically at his uniformed saviors.
-
-The cops got out and screamed into the radio.
-
-"We found the suspect! Suspicious black male, blood splatters on his t-shirt."
-
-"Down on the ground!" The other cop shouted.
-
-"No, no, you've got it wrong." Jack tried to calm them down, his palms up front, facing them.
-
-"Suspect acting hostile, I repeat suspect acting hostile..."
-
-*Bang! Bang!* The other cop emptied his cartridges and Jack lay on the street, blood pooling on the asphalt in an ever-enlarging puddle.
+Stab. Stab. Stab.
 
 ----
 
-*^If ^you ^like ^suspense/sci-fi, ^check ^out ^an ^ongoing ^story ^on ^/r/CaffeinatedWriter*
-
-
-----
-
-# [CW] Write a gruesome story using only euphemisms so than it can be read to a group of children without frightening them
-
-Score: 2187
-
-George worked all day long putting animals to sleep. Helping animals go to sleep was his job. He put all different kinds of dogs to sleep, and all kinds of cats, and once he even put a lizard to sleep. For some reason putting all these animals to sleep -- sometimes even fifty or sixty animals in one day! -- made George very tired and worn out, as if instead of putting animals to sleep he'd spent the day carrying bags of sand up a steep hill.
-
-Sometimes, late at night, George dreamed about the animals. In his dreams the dogs and cats and lizard were awake, with happy looks on their dog and cat and lizard faces. The dogs had big pink tongues that drooped out. The cats purred and licked their fur. The lizard kind of just sat there. When they saw George, though, the animals acted very scared. The dogs put their tails between their legs and backed away with sad eyes. The cats hissed and climbed into trees. The lizard continued to kind of just sit there, although it looked a little bit alarmed.  
-
-"Please," said George, "I don't want to hurt you."  
-
-But the animals never let him anywhere near them.  
-
-When George was working, he tried to think about other things. He thought about his friends. George was sixty-eight years old, and many of his friends had passed away, but he still remembered many excellent things about them. One of his friends, Michael, whose skin was the creamy color of milk chocolate, had a habit of flipping the bird at police officers. This was always good for a laugh, until one day a policeman took offense to the bird-flipping and introduced Michael to the business end of his nightstick. Michael was sent to a correctional facility. He kicked the bucket shortly thereafter.  
-
-George estimated that he'd put something like ten thousand animals to sleep in his lifetime. This number, which increased every day, weighed very heavily on his shoulders. It got to a point where he couldn't go five minutes without thinking about buying the farm. If he bought the farm, he could see his parents again, and he'd never have to put any more animals to sleep. He began to read articles on the Internet about the easiest way to buy the farm. One article said the easiest way was to sit in your car in your garage, but George didn't have a garage, or even a car. Another article said you could use your Second Amendment rights to buy the farm, but George's various run-ins with the law as a youth prevented him from passing a background check.  
-
-In the end, George opted for the method of buying the farm that seemed quickest and most simple: he climbed up to the top of a very tall skyscraper, said a prayer, and flew away.  
-
-After that, the animals he'd put to sleep weren't afraid to let him touch them any more. The dogs jumped on him and licked his face. The cats pressed themselves against his legs.  
-
-Even the lizard let him rub it on the back of its head.  
-
-*****
-*****  
-*If you liked this, check out /r/FormerFutureAuthor - just don't expect anything quite as emotionally impactful, since mostly I write stoopid sci-fi novels about giant spiders, scorpions, etc... speaking of which, [buy my book!](https://www.reddit.com/r/WritingPrompts/comments/3uixph/ot_thanks_to_rwritingprompts_i_spent_the_last_ten/)*
-----
-
-# [EU] (Elder Scrolls IV: Oblivion) The Dark Brotherhood (pre or post purification) discovers that it's newest recruit who has been rising through the ranks is also the Archmage, The Grey Fox, and the Hero of Kvatch.
-
-Score: 2143
-
-"You mean you really never realized? I'm wearing the Archmage's Robes *right now*!"
-
-"Well, I just... I don't know, I thought the outfit was one of those cheap replicas you can buy at the tourist's shops in Imperial City."
-
-"But they're *glowing* and *shimmering*. Clearly magical. And also they still have that old man smell from the last Archmage."
-
-"I just... I guess I never noticed that."
-
-"Ok... well, what about the Grey Cowl? I mean, it belonged to Nocturnal herself! There's no way that could be a fake."
-
-"Well I didn't *know* what it was. I mean, I've seen people from Bruma before, so I figured you were just ugly and wanted a mask to hide your face or something."
-
-"No, it's the real deal. And I'd also watch those snide little insults, given that I'm Guildmaster in the Fighting Guild."
-
-"By Sheogorath's Tongue, man! What *aren't* you? Next you're going to tell me that you're, like, Martin the Savior's best friend or something!"
-
-"Errr... well, yeah, kind of. We were pretty tight. See, me and his dad - You know, Emperor Urial Septim? - we escaped through the Imperial City's sewers this one time, and..."
-
-"I was being sarcastic! You seriously knew both of them? By the Nine, how *old* are you? I mean, doesn't someone have to work for like an entire lifetime of study and practice to become Archmage?"
-
-"No, no. It took me.... I dunno, like a day or so? You know, now that I think about it, it took just about as long as it took me to become the Listener here in the Dark Fraternity."
-
-"Dark *Brotherhood*."
-
-"Right, right. Sorry."
-
-"I seriously can't believe this. My own father spent his entire life mastering *just illusion magic*, and you're telling me that you became Archmage in a *day*? *HOW*?"
-
-"It was pretty easy, actually. The last Archmage vanished into a soul gem or something. I don't remember; I wasn't paying attention. Let's see... I ran a bunch of errands, and then they had me kill some King of Worms guy... you know, the funny part was that I never even used magic on him! It just took a few hits from the good old battleaxe, and boom! They promoted me."
-
-"You've got to be kidding me. I kill people all the time! That's all you had to do?"
-
-"Yeah. I can barely even do a lightning spell. Kind of messed up, huh? I bet there are a ton of mages back there who really wanted that job. Really sucks for them."
-
-"Wow. This is just... wow. So you are *simultaneously* the Listener, the Archmage, the Guildmaster, and the Hero of Kvatch!? That's just... damn."
-
-"Yeah. It's been a pretty busy month."
-
-"I just... man, we've got to line up with a fight between you and the Grand Champion of the Arena! He's killed, like, *everyone* that they send at him. He's probably the only person in Cyrodiil that'll give you a run for your money."
-
-"Yeah... about that..."
-
-"Oh, come on!"
-
------
-
-As always, if you enjoy my writing then you should also subscribe to /r/Luna_lovewell!
-----
-
-# [WP] You are a time traveller, everyone knows you're a time traveller from old pictures/videos/newspapers where you openly admit the fact and when/where you're born... However, you aren't a time traveller yet and don't know how you go back in time.
-
-Score: 2066
-
-######[](#dropcap)  
-I sat on a park bench, eating my lunch.  I watched as a little girl rolled by on a shiny metal scooter, watching me out of the corner of her eyes.  She zipped around and passed me again.  
-"Hello," I said.  
-She stopped, her eyes wide.  
-"I like your scooter."  
-She looked down at the scooter, her ponytail flopping in her face, then beamed at me. "It's my trusty steed, Sparklehorn!"  She pointed to a pink sticker of a unicorn.  "He's a unicorn."  
-"Oh, I see." I smiled. "I've never met a unicorn before."  
-The girl frowned and pointed at me. "You're the time trampler."  
-"Time *traveller.*"  
-She shrugged.  "My mommy says I can't talk to you. She says you are dangerous."  
-"Ok." I ate a bite of my sandwich. "What does your daddy say?"  
-The girl twirled her hair with a finger and scrunched up her face. "He says you're a *commie bastard*."  
-"Oh."  
-The girl furrowed her eyebrows. "What's a 'bastard'?"  
-I chuckled. "Go ask your daddy."  
-The girl laid her scooter down on the sidewalk.  "Wanna see me do a cartwheel?"  
-"Sure."  
-I finished my lunch as the girl cavorted around me on the sidewalk.  I opened a small bag of cookies while she practiced handstands.  Upside down, she heard the crinkle of the cookie bag and turned her head towards me.  
-"Are those cookies?"  She dropped her feet and stood up. "I only like chocolate chip cookies."  She paused and tried to look nonchalant. "Do your cookies have any chocolate chips, maybe?"  
-"They do indeed."  I showed her the bag. "Would you like one?"  
-"Yes!" she squealed.  
-I held out a cookie and she snatched it gleefully.  
-"Do they have chocolate where you are from?" she asked, spraying crumbs onto the sidewalk.      
-"I'm from here, sweetie."  
-"Noooo," she whined, "do they have chocolate *in the future*?"  
-I shrugged. "I'm not from the future, I was born in this time.  And I only go backwards in time, not forwards." I paused. "I think."  
-The girl thought about this for a moment.  "My daddy says you killed people. Is that true?"  
-I nodded. "That's what all the history books say, so... I guess so?"  
-"Why?"  
-"I don't know. I haven't done it yet."  
-A woman turned the corner on the sidewalk, pushing a stroller.  "Lydia," she called.  
-"Uh oh," I said.  
-The little girl's eyes widened and she shoved the rest of her cookie in her mouth and wiped chocolate off her face.  "Thank you," she said through a mouthful of cookie.  She scooped up her scooter and hurried back to her mother.  
-Her mother scowled in recognition at me and pulled Lydia away down the sidewalk.  I sighed and began cleaning up my lunch.  
-&nbsp;  
-"It must be hard for you," said a voice, behind me.    
-I turned to see an old man with a cane approaching my bench.  He gestured with his cane to the space beside me.  
-"May I sit?"  
-I nodded and tossed my lunch trash into a garbage can next to the bench.  
-"I'm sorry that everyone treats you poorly," the man said. "You walk a hard enough road already."  
-"I guess."  I shrugged. "It's weird knowing all these things that I will do.  Like seeing my whole life ahead of me."  
-"Not your whole life," said the man. "Just the parts that history remembers." The man fiddled with his cane. "History rarely tells the whole story, in my experience."  
-"I wish I knew why I did, or will do, those things." I hold up my empty hands and examine my palms. "I'm going to stab some poor painter to death in Vienna in 1906? Why would I do that? I've never hurt anyone in my life."  
-The old man nodded. "Sometimes, we have to make a choice between saving a few or saving many. Maybe it was for the greater good."  
-"But what about Dallas in 1963? Everyone knows that I was there." I shook my head. "Why don't I save the President? Why didn't I stop Oswald? I did nothing! Why was I even there?"  
-"Don't be too hard on yourself." The old man clapped a hand on my shoulder. "Especially for something you haven't done yet."  
-"Some people think that I was the one who pulled the trigger," I mumbled. "I get so many emails about grassy knolls."  
-"Maybe you were," said the old man. "Maybe you weren't. Maybe you were supposed to save the President but you simply failed." The old man smiled at me. "You're only human, you know, even if you do travel through time."  
-"I wish that I could just get on with it," I said. "Ever since the discovery of those old photos, I've just drifted along, waiting for time travel." I wrung my hands. "It's been ten years already.  Ten years of people avoiding me—or worse, actively trying to hurt me. Women won't date me. Nobody will hire me.  I am pretty sure that the government has people following me."  I pointed to a man in a suit, standing near a tree.  The man waved.  "See?"  
-"I know it's hard," said the old man. "And, unfortunately, it won't get any easier."  
-"What do you mean?"  
-"Your life. It won't get any easier."  The old man sighed. "It's hard to have a wife if you're hopping through time. Hard to have a family, to raise children."  
-"Oh great, thanks for that."  I rolled my eyes. "Very inspirational."   
-"It's the truth." The old man shrugged. "You are going to do some very important work. It will have to be enough for you."  
-I looked at the old man.  
-He gave me a small smile. "What if I told you that your sacrifice will save millions of lives?" He gestured towards the people in the park—the moms with their strollers, the children, the young men playing frisbee. "All of these people, their parents, grandparents.  Their children, too.  You will save them, although you will always travel alone, it is true. But with your help, humanity will avoid several major catastrophes."  
-"Is that why I kill that painter?"  
-"Yes."  
-"What happens if I don't?"  
-The man stared into the distance. He opened his mouth to speak but closed it and stood.  
-"It is better if I show you," he said. "Come with me. It's time to begin your training."  
-My mouth dropped. "Wait a second... this is it? Right now?"  
-The old man nodded.  
-I stood up.  We begin walking.  
-"Wait," I said.  "How do you know all this stuff?"  
-My eyes widened.  "Oh my god..." I lowered my voice.  "Are you... me? From the future?"  
-"No," said the old man, shaking his head with a chuckle. 
-"I'm your son."  
-
-*****  
-If you liked this story, you might like my other stories at /r/hpcisco7965 and /r/TMODAL.  
-Also, I encourage you to read /u/Mycroft_Dante's late entry in this thread, [here](https://www.reddit.com/r/WritingPrompts/comments/4egnnd/wp_you_are_a_time_traveller_everyone_knows_youre/d20cry4).  I thought it was really great!  
-
-edit: Thank you for the gold!   
-
-
-  
-
-
-  
+[Kaantur-Set](https://www.reddit.com/user/Kaantur-Set) [url](https://www.reddit.com/r/WritingPrompts/comments/4mm94u/wp_you_have_the_ability_to_reverse_time_by_6/) 
 
 ----
 
-# [WP] Your roommate is 2nd most powerful superhero in the world and he will not shut up about it. He does not yet know that you are the 1st.
+#### [WP] A man orders a "cheese pizza with no crust" from a local pizza delivery joint as a joke. Unbeknownst to him, that pizza joint is a drug front and he just placed an order for a kilo of cocaine.
 
-Score: 1945
+Score: 3206
 
-I never understood why every superhero out there wore capes. I swear, the amount of raw fabric he goes through must be inversely proportionally to his IQ. My roommate is the self proclaimed "Second Most Powerful Hero to ever live." Never mind he hasn't ever faced off against any truly powerful super villain. Those were taken care of years upon years ago. 
+At the sound of the doorbell, I heaved myself from my seat. 
 
-Let's break it down. Ryan, my roommate, has; heat vision, frost breath, super strength, skin that can stop bullets and lasers, the ability to breathe in space, and a laundry list of other abilities. He's made me time him flying to the moon and back. Usually I don't have time to press the stop watch. He's all hot air. Well, unless you put these funny green or red rocks near him. Something to do with his home world and all that. 
+I moved over to the door, ready to go on an angry rant about the time. Who the hell thought two in the morning was a good time to turn up at your house? They could’ve woken me up! They didn’t, but they could’ve, and it’s the thought that counts.
 
-I digress. Today has been strange indeed. He's insisted, once again that I time him. Something about wanting to feel his ranking. I kind of tune him out when he starts going on these rants about his powers. I just kind of tick on my fingers the ones that he's listed. More than anything I just want to tell him to shut up most of the time. However, I really can't. You see, I have a certain ability. An ability that makes the world a much better place than anyone can dream of. Day in and day out I save the world over and over again from a threat that's possibly strong enough to destroy the universe. I keep the idiots in the world cloaked in their own little bubbles. No supervillian has risen in my lifetime, nor will any. 
+I opened the door and my words died on my lips. A man in a pizza deliveryman’s costume stood there, smoking a cigarette and flanked by two burly men in tracksuits. Behind them, a bright red SUV was parked, its lights off but engine still gently running.
 
-If you haven't guessed yet. I am the most powerful superhero in existence. Not because of the powers I have, but because of what I do. I keep the biggest, most powerful idiot in existence, well, entertained. Well, that, and I can make a lot of copies of myself. So, for every hero that's out there I'm there. I'm watching them all drone on about being number two. After all, no one is more dangerous than someone with something to prove. However, when you're proving it to someone that doesn't care then the world is a much better place. 
+“Uh…hi?”
 
-Edit: Obligatory thanks for the gold.
-----
+The pizza man dropped his cigarette. “Show us the money first.”
 
-# [WP] God shares the cosmos with several other dieties. To pass the time they play Civilization like games for eons. God's frustrated that his civilization, Earth, is several ages behind all his friends.
+I glanced around. “Am…am I being robbed?”
 
-Score: 1919
+The man snorted. “Robbed? Hell no. We’ve got the best prices around.”
 
-Dexicon moved his cosmic fortress from Centauri B straight into Earth's orbit. Dexicon was able to do this in one turn thanks to the cosmic paving it had laid earlier. This allowed faster than light travel.
+I looked at the symbol on the man’s hat and came to a sudden realisation. “You’re from Notmafiosos’ Pizza Parlour!”
 
-"Your move, God." Dexicon roared, knowing it had the ancient deity in its proverbial palm.
+“Hell yeah, I am. Now where’s the money?”
 
-*Shit shit shit*  thought God. It was tough to display no emotion but a strong poker face was crucial. Dexicon had already taken Zeermon out the game and had now moved on to God.
+“I called you guys six hours ago.” Prank-called them, to be specific, asking for a ridiculous order. Come to think of it, I hadn’t even given them my address.
 
-God had not been blessed with much luck.  Each deity had been given a species that had space travel potential. The objective was to either enslave or obliterate the other species. God had unfortunately randomised the least intelligent possible species - homo.
+The pizza man snorted. “What, you thought we were gonna come in broad daylight? And people don’t normally ask for such massive amounts.”
 
- 2.7  million years just to leave the hunter gatherer stage. This was a new record. He had had to wipe out his first few species of homo and start over - they had simply been too stupid. By the time he had rerandomised into homo-sapien he was at least 2.6 million years behind Dexicon. 
+“I only asked for a cheese pizza with no crust.”
 
-What didnt help was that the homo-sapiens turned out to be incredibly aggresive. This would be useful for fighting other species, but they mainly killed each other! Oh how Dexicon and Zeermon laughed! 
+“Man, what do you mean ‘only’? It would take years to get through a cheese pizza without the crust. What do you normally buy?”
 
-When he had finally researched the abilty to send a vassel to Earth to enlighten and guide the people, the earthlings did something unprecedented in stupidity - they decided to kill it.
+I rolled my eyes. “A Hawaiian pizza with no cheese or pineapple.”
 
-Finally the humans became space able. At the time, God was pleased. They visited their local moon first, as expected. But the moon base never came. The colonisation of nearby planets never came. They regressed.
+The pizza man’s eyes widened. “Holy shit, dude. Are you some kind of millionaire?” He turned back to one of the men. “This guy’s a real buyer; go get the product.”
 
-"Using your cosmic paving I move Earth into alpha Centuri B", said God, in a move that would have made the humans proud.
+The man nodded and headed back to the SUV. He rooted around in it for a minute before turning the lights on, revealing a myriad of logos for Notmafiosos’ Pizza Parlour that I somehow hadn’t seen before.
 
-Dexicon's mouth dropped.
+He returned soon, clutching a briefcase, which he handed to the pizza man, who laid it on the floor and clicked it open, revealing a pristine pizza box. Slowly and carefully, he stood, and then handed it to me.
 
-"Rematch?" God asked.
+“It’s all in there, dude.”
 
---------
+What the hell were these guys on about? I opened the box.
 
-If you liked this you can read more on my sub I just set up (come follow me!): /r/nickofnight
-
+ “Guys, I didn’t order a box of flour.”
 
 
 
 ----
 
-# [WP] No one in the galaxy ever assumed that Earth would amount to anything because of its extreme gravity for a life-bearing world - anything trying to escape the planet's gravity well would need to BE 97% fuel weight, and the idea that they would try was a ludicrous concept.
-
-Score: 1820
-
-"Good for them," Zolforat commented as they observed humans farming the cradle of civilization. "Tools and agriculture? Why, they're looking positively sentient."
-
-"Real moxy," Mefro, Zolforat's companion, agreed. "I can hardly understand how they manage to stand up like that!" It stamped its twelve hooves in emphasis. "And in *that* gravity? They're lucky to be more than a foot tall!"
-
-Zolforat put the ship back into gear. "Real shame about them. If they ever had a chance to develop beyond simple tools, they might be quite interesting to meet." They zipped off toward their final destination and forgot about the rapidly-spinning blue planet in almost no time.
-
-----------
-
-"I say, *those* are the humans?" Zolforat gasped on the way toward refueling in the atmosphere of one of Jupiter's moons. Down on the surface, they observed a city of over a million right in the center of an oddly shaped peninsula. Boats of wood sailed the seas, and stone roads criss-crossed the continent. "Well I'll be damned! They developed this much in just a few thousand orbits?? Why, look at all that!"
-
-"Stone buildings!" Mefro whispered, awestruck. "In *that* gravity? Can you imagine?"
-
-Zolforat was astounded. "I know! But cheers to them for making it this far! Glad we got to see them at their peak!"
-
-----------
-
-"What in the... Mefro, you've got to see what they've done now!" The two had made quite the hobby of watching the poor backwards humans. It was inspiring, watching them try their hardest. But also depressing, knowing that they were trapped on that little rock for the rest of time. "They're using *steam* for power!"
-
-Mefro seemed impressed. "Clever little devils! I kind of almost want to see them try to make it to orbit."
-
-"Oh, don't say that," Zolforat chided his companion. "There isn't enough water on the planet to produce enough steam to make it into orbit. They wouldn't even hit the second atmosphere layer before plummeting back down. Poor little guys."
-
-"I know," Mefro said. "You're right; I shouldn't have said that. I'm just proud of them for making it this far." The two had developed almost *paternal* feelings for the poor little human buggers. 
-
-"Farewell, humans!" Zolforat told them as the two went off on their way again. "What do you think, Mefro: will they have discovered electricity by the time we return?"
-
--------
-
-Their ship hovered over the burnt remains of a city on an island in the little blue planet's largest ocean. Scanners confirmed what the two already feared: radioactive fallout. This had been a *nuclear* detonation. Surveillance video from the drone they'd left in orbit showed another chilling discovery: long-range rockets traveling a distance of over 200 miles, packed with explosives. It should have been impossible with that level of gravity, but the damned humans had done it. With just a little more power, one of those could break orbit! On the surface, *millions* upon *millions* of humans teemed on every continent, in unimaginable numbers. And it was getting more and more crowded by the second. 
-
-"Uh...." Zolforat finally managed to take four of his eyes off of the screen to look back at Mefro. "We... uh... we should probably tell someone about this."
-
+[Hostiel](https://www.reddit.com/user/Hostiel) [url](https://www.reddit.com/r/WritingPrompts/comments/4m7yfs/wp_a_man_orders_a_cheese_pizza_with_no_crust_from/) 
 
 ----
 
+#### [WP] Everyone is born with a disability and an ability. A test is done at birth to determine these, if they aren't already apparent. You, well, you were born with crippled legs and have the power of super speed.
 
-If you liked this story, you should also subscribe to /r/Luna_Lovewell!
-----
+Score: 2830
 
-# [WP] You just got fired, you're pretty sure your girlfriend is cheating on you, you're 75k in student loans debt, rent was due last week, and to top it all off? You're all out of beer. Oddly enough, you just got an email titled "Would you like to change the difficulty? Current setting: Very Hard."
+See, what most people don't realise about super speed is that it doesn't just affect your legs. Your entire body moves fast. People never tend to get that because you see guys like Ravel Alton sprinting at three hundred kilometres an hour down the speedway. I mean, it's more impressive *visually* than what I can do... but I like to think that my abilities are still pretty good.
 
-Score: 1711
+"Checkmate," I smile, knocking over the white king with my own rook. Valentin, my opponent, stares at me in shock. By the look on his face, my guess is that his ability was mind-reading. It's a good way to become a chess champion, I'll give him that. 
 
-I laughed at first. Then I replied " Yes, Very easy" to the email just to amuse myself in my despair. Not a minute later, the doorbell rang. 
+But he can't keep up with me.
 
-*Maybe this was it * I thought * some god damn luck at the end of a miserable day. I could perhaps talk to someone...* 
+See, from the femtosecond his finger touched the first piece, I started running through the possible moves in my head. All of them. 
 
-I opened the door but there was no one there. I looked around but there was no one there. I looked down to find a box. I had not ordered anything in a long time. I took the mysterious box inside and gleefully ripped the box apart. 
+Do you know how many possible positions there are after each player moves three times? More than 9 million. That goes up to 288 billion after four moves each. But when you can't move without a wheelchair, and when you have a brain that can scan and memorise information faster than anything else on the planet... and when you also have a lot of time on your hands... you can memorise everything. Every perfect game. 
 
-The box had only one item inside of it. A revolver. There was a bullet in the chamber. I knew what it was for...
+Not to mention, of course... Valentin might be able to read minds. But he can't process information as fast as I can. Which leaves him unable to comprehend the million, million, million thoughts I have every nanosecond.
 
-
-(i tried)
-
-
-EDIT:- Thank you for your kind responses. This was my first post on Writing prompts. I did not expect people to actually like this.
-
-
-EDIT 2 :- Gold!? Wow thank you kind stranger
-
+I can't run. But that doesn't mean I'm not *fast*.
 
 ----
 
-# [WP] All humans go automatically to hell when they die. You can gain access to a heaven though, but only if the animals you interacted with while living vouch for you.
-
-Score: 1708
-
-I’m not an animal person. I swear that every single cat that I’ve ever crossed paths with has plotted my murder; the circumstances of my premature death leave open the possibility that one of them succeeded… stainless steel food bowls don’t push themselves off of 5th floor balconies. So when I entered the Eternal Judgment Court room, and saw a smug looking Sphynx eyeing me with hate-filled eyes, I knew I was fucked.
-Countless “witnesses” were called, all of them silver tongued felines with nothing but disparaging accounts against my character; they recounted slights I committed against animal kind, that I didn’t even remember or believe were true.
-
-“I once saw the defendant kick a pigeon.”
-
-*Complete bullshit*
-
-“The defendant has been known to attempt to run various cats over with his vehicle.”
-
-*Another false allegation*
-
-“The defendant once tortured a naive kitten for hours with The Red Dot!”
-
-*OK, that one is true*
-
-Even the more friendly dogs had little to say about me, and what good they tried to add on my account was brushed aside by the Sphynx as “most likely embellished flattery”. But at least they tried to stick up for me. Every type of animal I had ever interacted with in my entire life was called to testify, and after days it seemed that nothing would be said to grant me eternal happiness. I was to be damned for all eternity by the very breed of despicable little creatures that ended my time on earth.
-
-The Sphinx raised his gavel, “If no other animal has any testimony to proffer on behalf of this human then by my rights as Supreme Judge of Animal Kind I hereby…”
-“Wait!” A low and small voice says, from the floor behind be.
-I turn around to see a small turtle pushing his way through the large courtroom doors.
-“Wait… I have… something to say.” The turtle pants as he crawls forward, finally free of the doors. “I was sunbathing on a log one day, when some mean kids came and picked me up and started tossing me around,” 
-
-*Oh great, am I supposed to have been one of these little hooligans?*
-
-“One dropped me, and I landed on my back. I was helpless, and they just laughed. But this human, he came over and yelled at the other kids until they went away. Then he picked me up, and carried me back to my log and set me back down in the sun.”
-
-I was stunned; until now I had completely forgotten about that day. I was six, maybe seven, and I had been at the lake with my family. Who knows where my parents were, they weren’t the most attentive parents in the world. But I had seen a group other kids tossing what I thought was a ball, and wanting to join in the fun had run over to them. When I got closer I saw that it wasn’t a ball they were tossing, but a turtle, and for some reason this enraged me and I flew into a fury, yelling and throwing sand at the other kids to “stop teasing the poor turtle.”
-I looked at the small creature by my foot, tears beginning to well up in my eyes. “Thank you” I mouthed, too emotional to actually get the words out. The turtle just gave a small slow dip of his head.
-
-“In light of this new testimony, the Eternal Judgement Court does so recognize that this human once offered vital assistance to a fellow animal, at potential risk to his own person.” My heart was lifting with every word. “However this one action does not erase a lifetime of malice towards other animal. The defendant is hereby sentenced to a lifetime of damnation.”
-
-*Shit, fucking cats.*
-
-
-EDIT: Thanks for the positive feedback and the my first Gold! Makes this extremely hungover morning just a little more tolerable ;)
-----
-
-# [EU] It's the year 3000. Bruce Wayne's family line has continued strong, a member of each generation always bearing the mantle of the Bat. Constant training and seeking of only strong mates have bred the Waynes into super humans.
-
-Score: 1702
-
-Alexander walked through the gallery of The Bat. Generations of his family were portrayed as the Dark Knight of their time. Dressed in full armour and the cowl under their arm. Some had their respective Robin standing besides them. He stopped at the last portrait in the gallery. It portrayed the first Batman.
-
-Alexander was looking the painting of Bruce Wayne in the eyes. That was quite the feat, considering the painting was over two and a half meters off the ground. The man in the picture was small compared to the latest Master of Wayne manor.
-
-"Hello Bruce." Alexander whispered, looking into the grey eyes. Generations of Batmen had protected Gotham, Earth and the Solar System from the all evils that could be brought to bear. But it was still Bruce Wayne that was revered amongst his successors, and Alexander was his greatest fan.
-
-"It's finally time." he continued, "The elders called me into the chamber last night. They initiated me into the order of the Bat. I'm the new Batman." Alexander looked around the gallery, checking he was alone before continuing. "I'm scared. I'm not nearly as strong as father, nor as fast as grandfather. I'm the first Batman in six generations who isn't physically better than the one before him." 
-
-His gaze had drifted down from the portrait to the ground. "But I am smarter than my dad. I've done better at school than him, I even have a doctorate. But that can't be enough to be Batman"
-
-A cough was heard at the beginning of the hall. Alexander turned his gaze, worried that someone caught his confession, his fears. The sound originated from a slight man, long, thin and dressed in a fine black suit with white shirt. "Master Alexander." the man said in a crisp English accent. 
-"Alfred..." Alexander answered softly, embarrassed and worried.
-
-"I heard what you said there, Master Alexander." Alfred continued, stepping towards the young man.
-"You're not going to tell father, are you?" Alexander asked worried. In the past, these confessions of weakness were not welcome in the Wayne family.
-
-The butler smiled friendly and put his hand reassuringly on Alexander's shoulder. "Of course not, Master Alexander. Truth be told, I've heard these same worries from many of your ancestors over the years." Alfred gestured through the gallery of portraits. 
-
-"Your father was the strongest Batman Gotham ha ever seen, but he was brutal and unforgiving, like his father before him. But your great-grandfather, Derik Wayne, was not near as harsh. Every Wayne has lent their own ideas to the mantle of the Bat. But you remind me of the first Dark Knight."
-
-Alfred smiled as he thought back. "Master Bruce was probably the smartest Batman we've had, though Masters Dick and Damian were not not far behind him. He was the master strategist for the Justice League and one of its chief scientists and detectives." His eyes looked up to find Alexander's. "And that, Master Alexander, is where I think you can shine as well. You will do great..."
-
-Alfred's body disappeared as the AI with the butler's memories shut itself off, knowing it gave the encouragements that were needed. He had done so for generations.
-
-
----
-
-My apologies, I believe this is my first prompt response and I hope it's readable.
-
-Edit: Since people seem to like it, I've written another bit in this world [right here](https://www.reddit.com/r/WritingPrompts/comments/4cvlza/eu_its_the_year_3000_bruce_waynes_family_line_has/d1mcfej).
-
-Edit 2: First gold!
-----
-
-# [WP] You are a Logistics Officer during an invasion. Tell the course of the war solely from equipment requisitions.
-
-Score: 1545
-
-5 June
-
-* 150,000 Rifles
-* 150,000 Uniforms (Size L)
-* 1,000,000 Mines
-* 500 Fixed Defensive Emplacements
-* 4,000 Aircraft
-* 8,000 Tanks
-* 10,000 Trucks
-* 150,000 Beds
-* 150,000 Personal Hygiene Kits (Type M)
-
-25th June
-
-* 100 Industrial Trenching Machines
-* 140,000 Rifles + Sub-machine Guns
-* 150,000 Uniforms (Size M)
-* 290,000 Pine wood Boxes
-* 10,000 Belts
-* 80,000 Pcs C4
-* 500 Artillery Pieces
-* 100,000 Shells (Type Special:Gas)
-* 140,000 Personal Hygiene Kits (Type W)
-
-12th July
-
-* 20,000 Rifles 
-* 100,000 Uniforms (S)
-* 50,000 Uniforms (XS)
-* Assorted Toys
-* 10,000 Sidearms
-* 10,000 Uniforms (Size XL)
-* 10,000 Personal Hygiene Kits (Type M)
-
-18th July
-
-* 1 x Sidearm
-* 1 x Round
-----
-
-# [WP] At a regular high school, every student coincidentally happens to be a superhero. Thus far, every student has managed to keep their secret identity a secret. When a supervillain attacks the school, each student believes he/she is the target and tries to maintain his/her secret identity.
-
-Score: 1526
-
-It was a school day like any other at John F. Kennedy High -- up until second period, that was, when a screaming voice addressed the entire student body on the intercom. It was not the principal. 
-
-" Greetings, puny humans of Oshkennock, Ohio. My name is Gravatrix, conqueror of galaxies, destroyer of worlds!"
-
-In Mr. Galvan's classroom, the students listened in terror.
-
-*Oh shit*, though sophomore Susie Comstock, who had been mutated by an alien virus and given the powers of flight and laser vision, *Sounds like some intergalactic shit! He must be here to kidnap me like those aliens that showed up at our last family reunion.*
-
-"I've come for a certain. . . Person in this school," the voice on the intercom continued, "'Person' being a term I use loosely. They're no average human being."
-
-*Fuck, fuck, fuck*, thought Joe Maricci frantically, a few desks away from Susie, *They know about that UFO I found, they probably know I can shapeshift now from the radiation or whatever it was, they're gonna take me away!*
-
-"You know who you are. . ."
-
-*I gotta get the fuck outta here before he discovers that I'm Supersonic Girl*, thought Carly Jackson to herself. 
-
-"And I'm coming for you. . ."
-
-*What the hell am I gonna do, what the hell am I gonna do, what the hell am I gonna do?* was all a wild-eyed Jimmy Roberts could think as he struggled against the urge to blast through the ceiling on his rocket feet.
-
-"So you might as well make it easier on everyone and come to meet me."
-
-All thirty kids in the classroom -- each one of them endowed with a different set of superhuman powers -- shifted in their seats, looked around uncomfortably, and wondered what they would do. Each of them had just resolved to make their respective moves when the thin, bespectacled frame of Mr. Galvan stood up from behind his desk at the front of the room. 
-
-"Kids," said Mr. Galvan, "I know this may come as a shock to you. But I'm actually a superhero called The Galvanizer. Gravatrix is my archenemy. I'll be back in time for dismissal. Stay where you are and don't give Mr. Richards any problems. He can read minds, you know."
-
-And with that, Mr. Galvan was off, shooting toward the principal's office at a million miles a minute.
-
+[Razputin7](https://www.reddit.com/user/Razputin7) [url](https://www.reddit.com/r/WritingPrompts/comments/4n2u8e/wp_everyone_is_born_with_a_disability_and_an/) 
 
 ----
 
-# [WP] Canada is under attack and has to call their last line of defence,if they can find them. They are: The Eh Team.
+#### [WP] A group of Viking encounters a Siren at sea, her voice is luring the men to their doom - except one. Now it's up to a closeted gay Viking to save the day.
 
-Score: 1443
+Score: 2439
 
-The entire area around the warehouse was a beehive of activity  the likes of which Nova Scotia had never seen. Siren lights flashed, cops rolled out lines of yellow 'do not cross' tape, and directed traffic, fishing boats, and seals away from the scene at the harbor. They were under strict orders to contain the area, but *NOT* to move against the kidnappers. Any sign of that, and they had threatened to execute the hostage: the daughter of the Prime Minister. She had to be released safely, and the orders were clear: wait for the Prime Minister's special negotiators.
+Bjarke heard a melodious voice sail over the sides of the longship, weaving promises in the minds of those around him.
 
-The thwunking sounds of a helicopter rotor filled the air. Even the kidnappers peered out of the windows, looking for the source of the sound. Finally, a helicopter painted bright red and white with a big maple leaf emblazoned across the bottom came swooping in over the treetops and landed in the parking lot, kicking up a cloud of dust. Before it had even touched down a group of men jumped out of the door. Every officer involved in the standoff gasped: the Eh Team! Rumor had it that Canada's most notorious outlaw mercenaries used to be Mounties themselves, but got caught pulling off a robbery in the National Bank of Canada! And now they were *working* for the *Prime Minister*? 
+For the love of Odin, he thought, rolling his eyes. It's a damn Siren.
 
-The leader of the Eh Team approached one of the officers on the scene. He wore a camouflage hunting jacket, had a nub of a cigar sticking out the side of his mouth, and carried his trusty hunting rifle. "I'm Colonel Smith. What's this all aboot, then? What's the situation?"
+He looked at his men, who were entranced by the hypnotizing voice and moving close to the railing. If he didn't act soon, he'd lose his whole daft crew in seconds to the cunning beast. Bjarke spent the next several minutes strongarming his magicked crew into the belly of the longship before bolting the door shut from the outside. Lucky for him, his mother had been a witch and he was able to knock them out with a simple spell. That would prevent any of them from hacking a hole in the side of his ship. He worked hard to build it and Bjarke wasn't about to let some song-drunk idiot sink it.
 
-The officer managed to stammer his way through the explanation: Seven kidnappers were in the warehouse. Five on the bottom floor guarding the entrances, and two on the top floor, along with the Prime Minister's daughter. And they claimed to have set up booby traps for anyone trying to breach the building. 
+The lilting voice grew stronger as the Siren tried to beckon the men. Bjarke stepped up to the railing.
 
-"Got it." As the members of his team took up positions around the perimeter, Smith snatched the megaphone out of the officer's hand. Then he stepped forward under the yellow tape and held it up to his mouth. "Hey, you all in there!"
+"For Thor's sake, shut the hell up, you hussy!" he shouted over the gray water.
 
-Gun barrels poked out the window in response. "You got our money?" someone finally called out. 
+He saw head pop out of the water, rage written on her beautiful features. In an instant, the silver-haired Siren was at the side of the longship and scowling up at him.
 
-"No, no." Smith took the cigar from his mouth and extinguished it into the pavement. It was time for some *action*. "I just thought you all might want to know that the Prime Minister is really upset about this whole business. This kidnapping stuff? It's *really* rude, OK?"
+"Hussy!" she shrieked. "Listen here you sansorðinn! I may be a lot of things but a hussy is not one of them. I will drag you down to a watery death."
 
-The gun barrels lowered. "Gosh, we didn't even realize," one of the kidnappers called back. 
+Bjarke give her an amused smile. It would be a joy to tease this creature.
 
-"Yeah," Smith continued. "Really caused a lot of trouble for everyone. So why don't we all put the guns down and settle this like gentlemen over a pint of Moosehead?"
+He brought his meticulously cared for nails to his face for inspection before saying, "What could you possibly need with all the men on my ship if not to be a hussy."
 
-There was a brief silence... then the kidnappers emerged from the warehouse with the Prime Minister's daughter. 
+The woman sputtered in shock before summoning a wave to push herself onto the boat's deck. Bjarke yelped in surprise as he was soaked from head to toe. Great. This was one of his nicest shirts and now it was covered in seaweed and salt water. Blinking the stinging water from his eyes, the Viking saw the Siren stand up, her scaled tail disappearing now that she was no longer in the water. She stood before him naked, her long silvery strands of hair covering her breasts.
 
-"We're really sorry," one of them told Smith. "We had no idea."
+"You listen to me," she hissed, poking him in the chest with sharp fingernail. "I am Iona, a magnificent creature of the sea descended from Ægir himself. I will not be reduced to the image of a wanton woman by the likes of you."
 
-Smith shook the man's hand and grinned. "Hey, don't worry about it, bud. We all make mistakes, you know?" He signaled to a nearby officer. "Get us a two-four, won't you?"
+Bjarke merely stared at Iona, unperturbed.
 
-The Eh Team, the kidnappers, and the Prime Minister's daughter all popped open their bottles of delicious beer and toasted to the Queen. Smith took a sip of the refreshing beverage and pulled another cigar from his pocket. "I love it when a plan comes together, eh?"
+"Why are you not affected by my singing," the Siren asked, suddenly curious. "You are a male of a hale and hearty stock. You should have been one of the first to respond to my beckoning."
+
+Bjarke's eye twitched. Yes, she would think that, wouldn't she. This was a secret he had kept close always. A secret that, if revealed, would come with a price. He was not ready to lose all he had worked hard for.
+
+"Yeah, well. Not all of us are tricked by your charms."
+
+Iona pursed her lips and circled him like a vulture.
+
+"Hmmm," she said, tapping a finger to her lips. She glanced down towards his groin. "Are you lacking the needed equipment?"
+
+Bjarke glared at her.
+
+"I have perfectly working 'equipment' thank you very much."
+
+Iona's perfectly shaped brows raised up high in realization.
+
+"You're fuðflogi," she said, breathlessly. "That makes so much sense."
+
+The Viking shushed the Siren harshly.
+
+"Yes," he said in a hushed voice, despite the fact they were the only two conscious on the longship. "But no one knows."
+
+"It is not an evil thing to desire the love of another man," Iona said to the burly, bearded man.
+
+"Not everyone sees it that way," he said gruffly, running his hand over his braided blonde hair. "I will have to marry soon or else they will know."
+
+"I will make you a deal," Iona said, taking sudden pity on the man. "I will help make you the most feared viking in the world if you take me away from this Odin-forsaken spit of land I've been stuck on. "
+
+Bjarke looked at the silver-haired maiden curiously.
+
+"You are a Siren," he said. "Can you not travel the waters freely?"
+
+"Not as freely as you think," she said, sadly. "If I am captured in my human form, I am bound to them and the magic chaining me to this barren place will be split. I will instead by chained to you until you die."
+
+"I would not wish that on anyone," he said.
+
+"It is what I wish. It seems it would not be so bad to be chained to you until your death," Iona said thoughtfully. "I will appear as your wife and help you claim the world. Then we will both be free. I am able to mask my voice as to not charm your village. All you need to do is bind me to you through blood."
+
+Bjarke looked at her, considering her offer. From his belt he drew a knife, slicing a shallow cut down is arm. He held it out to Iona, who mimicked his actions.
+
+"Deal."
 
 ----
 
-As always, if you enjoy my writing then you should subscribe to /r/Luna_Lovewell too!
-
+[paddlefans](https://www.reddit.com/user/paddlefans) [url](https://www.reddit.com/r/WritingPrompts/comments/4ijwh1/wp_a_group_of_viking_encounters_a_siren_at_sea/) 
 
 ----
 
-# [WP] A D&D player plays his character as if the character knows that he is imaginary, and breaks the fourth wall constantly. At Lv 10, the character gains the wish spell, and uses it to switch with the player. It works.
+#### [WP] You're a 12 year-old in a world domintated by magic. A small, feeble man appears on your doorstep claiming: "You're a scientist, Henry"
 
-Score: 1433
+Score: 2355
 
-"Alright," said Grokk the Impunifier, raising his green hands ever-so-carefully above his blocky head, "let's not do anything hasty, here."  
+Henry and Roy shuffled into the cafeteria along with the other forty first year students who would be starting at the East Brighton Preparatory Academy. The other students, already seated at the tables, barely looked up from their meals. It didn't look much like the Great Hall of Hogwarts that he had seen in Mum and Dad'said photos. Instead of a thousand floating candles and a stormy sky, Henry just saw dirty ceiling tiles and fluorescent lights. And there were no long wooden tables with silver platters of food, but instead scuffed red plastic tags and dented aluminum trays heaped with something that almost looked like macaroni and cheese.
 
-Joe glared.  
+"This must be the Sorting!" Henry whispered eagerly to Roy. "My father told me all about it!" He searched the room for any noticeable banners to see what the different houses were, but he couldn't see any. No matter; the muggle's version of the Sorting Hat would surely explain it. 
 
-"All those years," said Joe, waving the shotgun, "you guys gave me shit for bringing my gun to D&D."  
+"Sorting?" Roy grunted. "Sorting *what*?" He was muggle born, after all, so of course he wouldn't know how it was done at Hogwarts.
 
-The others hadn't quite managed to refocus their eyeballs yet. Mark had sunk almost below the table, the top of his head just barely visible behind his meticulously-organized arsenal of red translucent dice.  
+*Do the muggles not do sorting?* Henry wondered. That didn't make sense. Haggard had even brought him to a Muggle library so that he could learn a bit more about his school before the first day; they'd used a machine that Haggard had called an "internet." There, he saw pictures of mascots and all the bright colors, just like the Gryffindor lion. And while they were at the Muggle's version of Diagon Alley (Called "Shopping Mall,") Haggard had explained that all the boys would be split up to live in different areas of the school. There had to be a sorting, right?
 
-"You said my shotgun *scared* you. You said the Second Amendment didn't *matter.* But now, with a literal *orc* in the basement, I don't hear anybody complaining!"  
+"You know," Henry tried to explain, "Like, where they split us all up and decide what house we're going to live in."
 
-"Actually, Joe," said Grokk, selecting his words carefully, "as I recall, the Second Amendment thing was more your talking point than theirs. If you don't mind me saying."  
+"Ohhhh." Roy nodded understandingly. "Yeah, 'at's what *this* is for." The young girl in front of Roy turned right then and passed a stack of papers to him. They weren't the yellowish parchament that Henry was used to; just plain white squares covered in black writing. Roy took one for himself and then passed the stack to Henry. 
 
-"Shut your mouth," snapped Joe. "I've seen your charisma stat. It's not going to work on me."  
+Henry studied the options, each with a little blank check box next to it:
 
-"Guys," said Grokk, hoping the others would be more amenable to reason, "I know this seems wrong, but -- I'm just not meant for that world, okay? All the killing... the dragons... and, heaven forbid, the *dungeons...*"  
+> Windsor Building, Dorm A
 
-"Oh, so you think Jared's a better fit?"  
+> Windsor Building, Dorm B
 
-On the table, a miniaturized version of their friend Jared ran terrified circles around a can of root beer, an equally-miniaturized kobold hot on his heels. 
+> Churchill Building, Dorm A
 
-"eee miii mii eee meee!!" squeaked Jared.   
+> Churchill Building, Dorm B
 
-Joe bent down to listen, keeping his eyes trained on the armor-plated orc.  
+"Errr...." Henry wasn't sure if this was right. Where was the Hat to make the decision? "You just pick one?"
 
-"What was that?"  
+"Yeah," Roy answered, seeming a bit confused. "Wotchu think, Henry? Want to room together?
 
-"KILL IT KILL IT KILL IT EEEEEEEEEEEEEEEEEEEEEEEEE," said Jared.  
+"Sure!" He didn't have to stop and think about it. Regardless of what House they chose together, it would be good to be with a friend.
 
-"You see what I mean?" said Joe distastefully, pointing at his friend. "If he can't handle a kobold, how long do you think he's going to last?"  
+"Well, my brother Doug was in Churchill B 'is first year," Roy explained. A roguish grin spread across his face. "'e said that it's got a pretty good view into the girls dormitory across the quad! I say we grab that one!" The girl in front of Roy turned around and shot daggers at him along with a look of disgust. She was likely trying to figure out which dorm was *not* across from Churchill B.
 
-"I'm sorry," said Grokk, as meekly as his tusks would allow.  
+Henry looked back down at the paper. "Well... what attributes does House Churchill fit best? Because I think that I'm fairly studious and intelligent, but my *father*'s house was known for being brave and those things tend to run in the family." He frowned; this really would be easier if there was just a hat to the decision.
 
-"Couldn't you just have wished to *join* our world, instead of stealing somebody else's place in it?"  
+Roy's face screwed up in confusion. "Henry, you're a weird bloke. What the hell are you talking about?"
 
-"I thought he'd like it there," said Grokk. "He certainly seemed to enjoy the games."  
+"You know..." This was so frustrating! Henry'd never had to deal with Muggles before. "Isn't our house supposed to match our personality?"
 
-"And what did you plan on doing once you arrived? You know how America feels about foreigners with different-colored skin. And that's, like, typically a brownish color, at most. Look at you! Positively viridescent!"  
+Roy laughed. "It's just a place to live, Henry. It'll be a bunk bed and a desk with a little lamp on it. Probably broken, if what my brothers all told me is true. That's about it."
 
-"You're going to steal our jobs," protested Mark from beneath the table.  
+"Oh." Henry looked down at his paper. "I guess Churchill B will be fine then." He looked around for someone passing out feathers to write with, but there were none. Just some little orange sticks topped with what looked like bubblegum. Roy took one and pressed it against his paper, and it made a mark in the box, so Henry copied him. Just like that, it was done. That was the muggle version of sorting. 
 
-"I just want a fair chance," said Grokk. "Isn't that what this country was built on?"  
+Roy and Henry turned in their forms and were shepherded into a different line. They were given trays and walked past a counter with a glass sneeze shield. A frumpy old woman ladled heaps of orange goo onto their trays from a big metal bin that was indeed labeled "macaroni and cheese." Henry couldn't see a single noodle in there. Then they found their way to tables and sat in no particular order; Henry didn't even know who the other members of Churchill B were yet.
 
-"Look," said Joe, "we're gonna power-level Jared. The moment he hits level 10, we're wishing things right back to the way they were."  
+"So this is the feast?" Henry asked, poking at his goo. Roy had already devoured half of his portion. 
 
-"Aw, come on, man," said Grokk. "Don't be like that."  
+"Yep!" Roy said. "But don't get used to it. My brothers said the food gets worse after the first night. They're trying to make a good impression and whatnot." He followed that sentence by shoveling another forkful into his mouth. 
 
-Joe glared.  
+Henry looked down at his orange blob. He decided he didn't like being a scientist very much. 
 
-"Remember how I saved your Elf Ranger? Priscilla? I took a ballista bolt for her, Joseph!"  
-
-The glare continued in all its unibrowed glory.  
-
-"Look! If you let me stay, I'll tell you how to get *her* into the real world too! Wouldn't you like that? A tall, slender elf to keep you company during these frigid north-Florida nights?"  
-
-Joe's eyes widened.  
-
-"That's impossible," he said.  
-
-"Well," said Grokk, "I'm here, aren't I?"  
-
-Joe studied the orc's pleading face. He thought about his elf ranger, the drawings of her that he kept in the secret journal under his pillow back home... her long, slim legs... her preposterously-large, almond-shaped eyes...  
-
-He put the shotgun down.  
-
-"Alright," he said, extending a hand for Grokk to shake, "you've got a deal."  
-
-Grokk ripped Joe's arm off and beat everyone in the room to death with it.  
-
-*****
-*****
-*****  
-
-Edit: Thanks for the gold, guys. You might like [this other D&D story I did: Link](https://www.reddit.com/r/WritingPrompts/comments/4aqqle/wp_describe_a_battle_with_an_army_against_a/d12ugt7)  
-
-*~ ~ Oh, and as always, [check out my self-published novel](https://www.reddit.com/r/WritingPrompts/comments/3uixph/ot_thanks_to_rwritingprompts_i_spent_the_last_ten/), [subscribe to my subreddit](https://www.reddit.com/r/formerfutureauthor), blah blah blah ~ ~*  
-
-**If I get 5,000 subreddit followers, I will eat a bagel. A whole bagel, dry, no cream cheese. Madness? No. Dedication & Appreciation.***
-
-**Bagel may be the kind with raisins in it. I'm no masochist*
-----
-
-# [EU] Batman snaps, kills the Joker and establishes a reign of terror over Gotham. It's up to Batman's next biggest villans to stop him.
-
-Score: 1407
-
-"You know," Ivy started, stroking the purring ball of fur snuggled in her arms. "I always knew you were a crazy cat lady, Selina but this time you've lost it."
-
-"Coming from the woman who treats plants better than she does people." I said from my spot at the windowsill. 
-
-Ivy looked up at me with a sad expression and I glanced away, observing the room instead. Her small apartment looked more like a greenhouse than a living area. Every wall had vines tracing up and down and potted flowers bloomed throughout. I had seen it all before, but I didn't want to meet her gaze right that moment. 
-
-"He's gone, Selina. When are you going to accept that?"
-
-My nails dug into the palms of my hand hard enough for them to bleed. 
-
-"I'm not going to accept that, Ivy. There's no way he's lost to me. No way."
-
-Ivy made an unintelligible sound of frustration. "Wake up already. I know you've been gone a while but the Joker, Freeze, Penguin and even Bane are already dead. And the Justice League is afraid. Hell, I'm afraid."
-
-"Something bad happened," I said. "But I can bring him back."
-
-"What did it? In three years no one has figured out what made him cross the line."
-
-My hand unconsciously drifted across my stomach, remembering. "I already sent out an invitation." I said, changing the subject and reaching into my pocket. 
-
-"What kind of invitation?"
-
-A light toss sent the phone across the room. Vines dropped from the ceiling to catch it and Ivy repositioned the black cat as she reached out for it. 
-
-"Password is catz." I said. "With a Z."
-
-"Figures." She mumbled, tapping the screen. As soon as it was unlocked the video started to play and her eyes went wide. "You didn't, Selina. I didn't even think he was alive."
-
-"Bruce keeps the man guarded like a president."
-
-"Then how did you kidnap Alfred?" 
-
-"I'm a thief. I take things. And kidnapping sounds worse than it is. He's just at my apartment drinking tea."
-
-"You're crazy. He's going to kill you."
-
-"Maybe." I said, looking out into the night, knowing that there were only a few hours between me and seeing him again. "But I have to try."
-
-***
-
-Lightning flashed across the sky and I sighed, knowing he was behind me. He hadn't made a sound, the night was his. Yet he had also been mine and I knew him like no one else. At least I thought I did. 
-
-"Where is he, Selina?" His voice rumbled like a storm cloud and I shivered in the warm rain. It was still familiar. 
-
-"Safe." I said, turning to face him. There was no more gray in his costume, it was all black. If not for the glowing eyes he would've been invisible against the wall he leaned on. I knew it was for my benefit that he was even letting himself be seen. 
-
-"Don't make me take him from you."
-
-"You need to get a grip Bruce. None of this is you. Everyone in the city is afraid. What happened to-"
-
-"The city is safe!" He yelled and I jumped in surprise. I'd never seen him lose his cool so quickly. "Safer than it ever was when those madmen were running around."
-
-"At what cost?" I asked. "You can't keep this up Bruce. Sources tell me you barely even sleep anymore and the morgue is filling up faster than the prison."
-
-"You mean Alfred."
-
-"I do, he loves you Bruce. I love you. We want you to come back to us, leave the Bat behind."
-
-There was a heavy silence between us, filled by the falling rain. 
-
-"You left, Selina." He said finally. "Now you have the nerve to come back and tell me this?" 
-
-My throat constricted and I turned back to the skyline, unable to look at him in that moment. Memories assaulted me with enough strength to put me on my knees. My stomach heavy, Bruce's smiling face whenever he felt the kicks, the laughter of a madman ringing out while I lay bleeding followed by the ragged scream of a man who had lost one thing too many. 
-
-I cleared my throat best I could but my words still came out as a whisper. "I couldn't handle it, Bruce. It wasn't fair to you and I hate myself for it but all I could do was run. Run from the sadness in your eyes, the pain of knowing what we had lost. I ran from the city itself, this place has taken everything from me. Even you."
-
-Silence answered me again and I spun, wondering if he had disappeared while my back was turned. Instead I came face to face with his huge form standing inches away from me. Mask covering whatever was going through his head.
-
-"I know why you ran." He said, voice revealing nothing. "And I took all of our pain out on this city. It deserved to bleed. It still does. Yet here you are."
-
-"Here I am." I whispered. "I've come back to you Bruce. I never should have left."
-
-"Bruce died on the same night as our child, Selina. There's nothing left of him."
-
-I reached out slowly and put my hand against his chest. When he didn't move I wrapped my arms around him, not caring that I wouldn't be able to defend myself if he was too far gone. This was my only chance.
-
-"I don't believe you." I said into his chest. "If Bruce is dead, then you can leave right now. Alfred will have already returned to the manor. But if any trace of you is still in there...hold me. That's all I ask."
-
-I don't know how long I stood there, soaking up the rain. The man I had my arms around was like a statue, he barely breathed. Minutes passed before I felt him grab my shoulders to push me away. And I was glad for my own mask as my heart shattered once again. Except he didn't let go, he just stood there, holding me at arm's length. 
-
-"You can't leave again." He said. 
-
-"I won't. Never again."
-
-Then his arms pulled me forward and crushed me in a hug that I never wanted to end. 
-----
-
-# [WP] For years Earth cried out to an empty cosmos, searching the stars for echoes of life. From the middle of nowhere, a reply finally comes: "Shut up, and Play Dead!"
-
-Score: 1399
-
-Scholars never ceased to write about how amazingly fast humanity came together when an existential threat was proven to loom over our continued existence. 
-
-We first received The Signal about 30 years ago, right when I had first joined the SETI team. After five years of painstaking work, linguists were confident that it translated to the English equivalent of “Shut Up, and Play Dead!” We had double checked our translation, running The Signal through dozens of double blind international teams, all working simultaneously to ensure accuracy and speed (I had sheepishly -- and wrongly -- suggested that maybe the aliens were just Jerry Garcia fans).
-
-So, faced with such bluntness, we united. Humanity willingly set itself back nearly a hundred years to a pre-Information Age culture. Satellites came down and GPS went dark. No more internet or television signals beaming across the cosmos. The loose confederation of countries that had formed the U.N. now became a strict regulatory agency to ensure that no country took advantage of the global blackout and to enforce the one rule of our survival: stay quiet and don’t move a muscle.
-
-I knew that across the world were many teams working on trying to parse out even a sliver of additional information from the message so they could figure out how to prepare for this unknown threat. However, above all, our team had been transformed from a barely funded back-of-the-envelope operation to the first line of defense. We had to keep scanning for new signals -- quietly.
-
-Now, instead of doing it with bold detectors openly beaming bragging signals into space, I hide in a small bunker nearly a mile under the surface, painstakingly scanning the sky light year by light year. After much deliberation, the bigwigs in charge of humanity’s survival decided that masking our search as standard background radiation was a risk worth taking. We weren’t sending the signals, but we could keep scanning the sky, like a mouse keeping an eye out for a hawk from the top of its burrow. I’m all alone down here; just the machines sweeping the sky and me. I take month long shifts before being relieved and there are dozens of these hole-in-the-ground stations around the globe, all pointing at different parts of the sky.
-
-My display screen has just started beeping. For first time in 30 years, I have caught a glimpse of the talons in the sky. The new signal comes in fast, 1s and 0s filling my screen. I quickly check the localizer and see that this time the message is coming from several light years in a different direction than our original Signal. What does this mean? Are our secret guardians on the move? Or has someone else found us? Did we accidentally twitch a limb and now the hawk is taunting us?
-
-I’m simply supposed to relay the pure, untranslated signal to higher authorities, but I can’t help but see if the auto-translate they have installed in our machine can at least give me the essence of this new message. My heart is racing as I wonder at the depths of the prophecy I hold in my hands. The translation only takes a minute -- the code is the same as The Signal. Words begin to fill up my screen:
-
-“Third planet of Sol: why have you gone dark? Please don’t tell us you fell for that old [garbled name] trick; they just want to keep their trading monopoly in this area. Please signal back if you have any [list of elements begins to fill the screen].”
-----
-
-# [WP] A group of friends playing Dungeons & Dragons attempt to use the game to subtly stage an intervention for one of the players.
-
-Score: 1389
-
-Tommy, Todd, and Frank had never actually played Dungeons and Dragons before. But they knew that Luke was a huge fan of it, and so they had looked up a quick guide on google before inviting him over to play. It was kind of turning out to be a disaster, but they were doing the best that they could do. 
-
-Tommy acted as DM. Todd and Frank were both elves, which may or may not have made sense depending on the context. Luke was, indeed, the only one who knew what he was doing.
-
-"Are you guys high or something?" he asked, as they played. The three other boys looked to each other, before Tommy cleared his throat and suddenly exclaimed, "Oh, Luke, you have come across an enemy!" 
-
-"It's not my tu--"
-
-"An enemy!" Tommy exclaimed, using enthusiasm. "Oh, it is an evil um...witch?" he turned to Frank and Todd, giving them a look that asked, *Do witches exist in this game?* They both met his bewildered gaze in turn. Luke didn't pipe up, just waited for Tommy to finish talking.
-
-"Yes. An evil witch. Named. Um. Livian."
-
-"Livian like...Vivian?"
-
-"No, no, no, not at all. Like Livian of olde. She was an ancient...um...sorceress...in--"
-
-"Camelot?" Todd asked-rather-than-told.
-
-"She was Merlin's arch nemesis," Frank piped up. 
-
-"No, that was Nimue or Viviane," Luke told them.
-
-"Oh then definitely it's Viviane," Tommy said. "Yes. Viviane. She's known for being a manipulative bi---witch. Who kind of treats her boyfriends poorly. And doesn't appreciate them."
-
-Luke just looked at Tommy. After a silence he said, "So am I going to roll to see who attacks first or...?"
-
-"I'll roll," Tommy says. "Official house rules. And you can't look."
-
-"Guys, what is this about?" Luke asked. 
-
-"Just let me roll," said Tommy. Luke closed his eyes and Tommy rolled the die. "Oh, you get to go first, I think!" Tommy exclaimed. 
-
-"Guys, is this about Vivian?" Luke asked.
-
-The three others exchanged a look. Luke opened his eyes. "I'm not twelve years old with an IQ of 57. I know you guys don't know how to play this game."
-
-"We looked it up for like ten minutes," Todd said. "It's kind of complicated and hard to learn on the fly."
-
-"We don't like your girlfriend," Frank said. "And she treats you like crap, man. And you should break it off." 
-
-"And to try and make that point we tried to learn how to play Dungeons and Dragons for you, man," Todd said. 
-
-"Because we are good friends," Tommy said. 
-
-Luke looked at them. "You guys, Vivian broke up with me two weeks ago."
-
-"Oh," Todd said. "Well uh...good, I guess." 
-
-"You guys want to get some pizza?" said Tommy. "I have no idea how to play this game." 
-
-"I'm game," said Frank.  
-
-"Let's do it," said Todd.
-
-"You guys really didn't know that Vivian dumped me?" asked Luke. 
-
-The others exchanged a look. 
-
-"Pepperoni?" asked Tommy. 
-
----
-
-I'm fairly new to this community, and I just made a subreddit! For more stories and discussion, please check out and subscribe to /r/Celsius232, where I promise there will be things soon.
-----
-
-# [WP] Torture was never invented. Countries instead spoil prisoners like kings to get information out of them. You are an instructor tasked with training spies to resist the enemy's kindness.
-
-Score: 1375
-
-Stav paced up and down the ranks of spies. "They will do their very best to spoil your rotten. They will give you the best food, the most luxurious of massages. They will pamper you and do your toenails. And what do you give them?"
-
-"Nothing." The reply was immediate and absolute. They were in the final phase of their training, and there was only one test left. Stav turned, his eyes sweeping up and down the faces of the clandestine service officers.
-
-"You," he stepped up to a woman. Her green eyes met his with a stoic hardness. She was Yolanda Zameer. The top of her class, and the example he would make. 
-
-If he could break her they would see that he could break them all.
-
-He beckoned her with his finger and she stood, following him to the front of the room and sitting down in the plush chair that he provided. Stav turned to her and placed his hands on his hips. 
-
-"Miss Zameer," he paced back and forth in front of her. "You *will* tell us the location of your black ops base in this country. You *will* tell us what happened to Gregor Anatoli."
-
-"I'm sorry," Yolanda looked at him with calm eyes. "I'm afraid I don't know what you're talking about." 
-
-Part of him wanted to smile with pride. *Bet I could hook her up to a goddamn lie detector and she wouldn't even blink.* "You don't know what we're talking about?" he smirked at her. "Oh, but Miss Zameer. We have time stamped photos of you at the last known location of Mr. Anatoli. Surely you don't think us so stupid to believe this is a coincidence?" 
-
-With a measured voice Yolanda said, "I'm sorry. I'm afraid I don't know what you're talking about."
-
-"Well then," Stav rolled back his sleeves. "I suppose we'll have to turn to more...*extreme* measures." He walked over to his desk in the classroom, pulling open a drawer and extracting from it something that briefly caught a gleam of light before he hid it in his hands. 
-
-"Miss Zameer, this is your final warning," he said. "Tell us where Gregor is and we'll make a deal with your government." 
-
-"I'm sorry, I'm afraid I don't know what you're talking about," came the response.
-
-Stav grinned. This was his favorite part of the job, training them to take an interrogation. "Well then, Yolanda. I'm afraid I have no choice but to force this upon you." He revealed the shiny key that he had held in his hand. Yolanda took a deep inhale before collecting herself.
-
-"Is that...?"
-
-"Why yes. It's the key to a new Ferrari. It could be yours if you give us the information." 
-
-"I-I'm sorry, I don't know what you're talking about."
-
-"No?" Stav reached into his pocket and took out a piece of paper, unfolding it. "How about a castle in Scotland?" 
-
-Yolanda bit her lip, her fingers starting to curl together. "I...I'm sorry. I don't...I don't know..."
-
-"And an hour with our best masseuse?" Stav ventured, smiling as he watched her shift in her chair. "Plus an all-expenses paid trip to Paris? A romantic dinner with your boyfriend at the top of the Eiffel? A dual citizenship?"
-
-"Y-you're lying!" Yolanda's voice started to break. Stav could see that she was visibly sweating now.
-
-"I'm not lying, Yolanda," Stav came to a halt in front of her. Most would have broken by this point and he could see that her will was fading. He just had to push a little harder.
-
-"And then we'll pay for a shopping spree at Chanel," the slow grin spread across his face as Yolanda's mouth dropped open, her hands clutching at her heart.
-
-"Gregor is in the black site two hundred kilometers south of here!" she cried. "I can get you in!"
-
-Stav smiled as he slowly turned to the rest of the class. "You may think that you have what it takes to be *out there* doing field work. But let me tell you, you have a long way to go in learning how to withstand interrogation." 
-
----
-
-For more nonsensical things, subscribe to /r/Celsius232 
-----
-
-# [TT]As a joke God makes all the angels on the earth visible for a day, but doesn't send them the memo. He then proceeds to give his daily commands as normal; "Go forth and protect, serve, deliver miracles, bring back those whose time is up, etc... And remember, don't leave a trace!"
-
-Score: 1370
-
-Hey. I made a subreddit for myself. Not sure what I'm going to do with it and maybe it's a bit premature. But subscribe if you're interested in following my future stuff I suppose! /r/wrobbing
-
------------------------
-
-I had guarded over Doris for her entire life. It had been a long, and very productive run. I looked in through the hospital window to see her surrounded by her six children, twenty grandchildren and fifty-six great-grandchildren. It was a big hospital room.  
-Her time had now come, and it was time to take her up to the big man. I slid open the window and climbed into the room, and much to my shock the people in the room looked over to me.  
-“Who the fuck are you?”  
-I froze. In my four thousand year career in service of Jehovah no human who wasn’t a pope or totally insane had ever tried talking directly to me.   
-“Ur… can you see me?”  
-“Of course I can, now what the fuck are you doing climbing in through my mother’s hospital window?” Spoke Jeremy, Doris’ oldest son. I had saved him from a rabid dog when he was 11.  
-“I’m, uh, I’m your mother’s guardian angel. I’m here to take her to heaven.”  
-“What are you? Some kind of pervert?” Said Giselle, one of Doris’ granddaughters. I had coordinated the prayer campaign to cure her pancreatic cancer a few years back.  
-“No no no, I was sent by Jehova to bring Doris to ever-lasting bliss.”  
-“That's sick mate, why don’t you fuck off back out your window?” Said Harold.   I’d prevented four drunk driving accidents that he should have caused in the last three months.  
-His tone rather annoyed me, and I tried to push through to get to Doris.   “Honestly, I must insist you let me…” A fist collided with my face and I found myself flat on the floor.   
-
-
-I woke up in the drunk tank. I started slamming on the door and a police officer appeared.  
-“You have to let me go!” I yelled out to him. “I’m a servant of God!”  
-“Sure you are buddy, just sleep it off.”  
-
-----
-
-# [WP] You are cursed with ever aging immortality with the exception you can be killed using one object. Every few years you get a hint.
-
-Score: 1306
-
-Every five years, I receive a package in the mail. It comes even when there is no mail service, like when Sherman was rampaging his way through the South. A single delicately-crafted golden puzzle piece with intricate cursive handwriting on it. Taunting me, revealing bits and pieces of information of where I might find the *only* weapon that can kill an immortal. Each box comes wrapped in delicate red wrapping paper with a fine Italian silk ribbon, reminding me of my origins back in Europe. Back where I first met the witch. 
-
-Today, the last piece arrived. I had to have my assistant Luthor open the package, given that I can hardly move. See, unfortunately, immortality doesn't keep me forever young the way it does in fairy tales. No, I've kept on aging until I'm just a bitter, dried-out husk of a human being. I haven't left my bed since the American Revolution. I have, however, made several investments over the years that have given me the wealth needed to maintain a lavish lifestyle and a veritable army of servants to do my bidding.
-
-Normally, I *hate* this day: April 8. It's a taunt from my eternal tormentor. But today is different: the final piece has come, 750 years to the date that I first gained this curse in a desperate bid to escape the Black Plague. I suppose the witch has decided that I've suffered enough. Or perhaps she has simply run out of ways to stall. With a soft *clink*, Luthor places the piece in the frame where I've collected all of the pieces over the years.
-
-"What does it say?" I gasp. My voice sounds like a whisper of wind between corn stalks. I'm unable to open my eyes to read the inscription for myself. 
-
-"It says you need the sword of a crusader that has been blessed at the High Temple of Jerusalem," he answered. Luthor is one of the few servants that I've entrusted with my secret, in part because he can fluently read and speak Latin, which is what the clues are written in. 
-
-"That's all?" Somehow I'd expected it to be some sort of last challenge. Some famous king's blade, or some rare magical object. My bet was actually on the Holy Lance, which is why I went to such lengths to find and acquire it.  But *this* was nothing. I'd been collecting ancient weaponry ever since I amassed my fortune, hoping that I just might have the relic I needed when the time came. I had at least a *hundred* swords from crusaders, on both sides of the conflict. "Luthor, have them prepare the jet. We're going to Israel. And have any sword in the vault from the crusader period brought on board."
-
-"Very good." I can hear him exit the room; thank god for modern devices like hearing aids. 
-
-I've wanted to kill myself for *centuries* now. I was already a hunched, bedridden old cripple even back when I first came to the Colonies. My mind is still sharp, but my body has withered away to nothing until it was just a prison. I'm not even a man anymore: most of my parts are artificial. I don't need them to keep me alive, but the doctors have done what they can to improve my quality of life. These puzzle pieces are the only thing that have kept me going; the only reason I have to live.
-
-No, I don't look forward to them for the clues. That's certainly important, because I'll need the blessed sword. No, my main motivation now is *hate*. Hatred for the witch that did this to me, and has continued to torment me through the years. The witch that is as old as I am. And if that's the case, then maybe the sword won't just be good for killing me, though I know she expects me to take that out. I think I can hold on a little longer... at least until my small mercenary army finds her. I just hope that I still have the strength to hold the sword; I would like to end her myself, if at all possible.
-
-----
-
-For more (and probably better) stories, subscribe to /r/Luna_Lovewell!
-----
-
-# [WP] Humanity finally reaches the edge of the solar system only to encounter an impassible barrier and a warning not to try and breach it. But is it there to keep us in or to keep something else out?
-
-Score: 1187
-
-Humanity was expanding.
-
-It was time to go.
-
-It had been 200 years since humans had reached the edge of the solar system. It had taken 2 years to journey that far back then, and now they could pass the expanse from the sun to the edge in just a few tens of minutes. But they could never pass it.
-
-The great barrier hung, invisibly encompasing the system. When humans had first approached, not knowing the barrier was there, they were rocked by the strong magnetics fields. A signal had flashed across the whole of the visable spectrum. Lights turning on and off at high speed. They had found code easy to break, and understood it was a communication meant for them.
-
-"Go back. Do not leave. Go back. Do not leave."
-
-This had started an international crisis. Should they ignore it, and push through? The combined decision of the worlds elected leaders was no. At a vote tallying  90 to 60, the earth had decided to stay within the barrier.
-
-The humans kept testing it. They found that both electromagnetic waves, and physical probes were allowed through, but anything containing biological matter was prevented from leaving. The first casualty of the barrier was one brave astronaut's ham sandwich. The testing continued, the message stayed the same, but then humanity moved on. 
-
-And then it expanded. First Mars, then Titan and orbital habitats around Venus and Jupiter. And they kept expanding. And in just 11 generations Humanity started to outgrow the resources of the solar system. 
-
-And so it came back to today. The day after polling day. Every human across the expanse of the solar system had been allowed to vote on the decision of whether or not to break through the barrier. The technology to do so had been available for 120 years.  
-
-And the results came in. 96% voter turnout. 76:24 in favour of breaking through the barrier.
-
-It was too late. They weren't ready yet. I couldn't even send another warning. It took all I had to maintain the barrier. I had tried. But they didn't even know what they were in for. I had watched them for so long, keeping them safe.
-
-Goodbye, dear friends.
-
-----
-
-# [WP] The US government sends Bob Ross back in time to help Hitler get accepted into Art School.
-
-Score: 1134
-
-Bob Ross strapped into a leather chair, his hair bobbing ever so slightly. 
-
-"Are you sure about this, Bob? You could be killed. We need to be absolutely clear with you about the dangers present," the Time Delegation representative said firmly. "I know you've been training to speak German for some time in preparation, but if you find yourself unsure on the other side, disaster could befall us."
-
-A warm smile crept across Bob's face. "I'm sure. You said this will prevent future catastrophe, right?"
-
-"Yes, sir. It would likely allow for an Israeli state to be created with less haste, preventing the fighting and nuclear fallout that follows. I come from a time when that has already happened. We've tried to kill him, but it fails every time."
-
-"I'd save millions in the past, and millions in the future. What better purpose could my life serve? I will try, my friend. Let's turn this mess into a beautiful, peaceful painting for the future."
-
-The doors shut, engines whirred and within moments, Bob found himself in 1908 Austria outside of the Academy of Fine Arts Vienna, where Hitler had just failed admission for the second time. Using several older photos for reference, he kept an eye on the entrance.
-
-Several minutes later, Adolf stormed out of the building, throwing his paintings and screaming curses in German. Bob approached him once he'd sat down and cooled his head for a moment.
-
-"Are you an artist?" Bob asked carefully.
-
-Hitler looked up at him, sighing. "I am not. This school has rejected me twice now, so clearly I am no such thing."
-
-"Schools have nothing to do with it; art comes from your soul. May I see your work? I am an artist as well."
-
-Hitler pointed to the partially snapped painting on the ground. "I destroyed it in anger."
-
-Picking it up, Bob verbally gaped at it. "This is incredible. You have extreme technical talent, unlike much I've seen."
-
-"Thank you. Unfortunately, that's not enough, it seems."
-
-"No, my friend. It's not. My name is Hans- what is yours?"
-
-"Adolf. Are you from around here? Your accent is odd."
-
-"I grew up overseas, but I love this country. Hey- do you have a studio?"
-
-"I have a place I draw, yes."
-
-"Can we maybe work a little together there? I think we could help each other."
-
-Hitler looked down at the cement. "I quit art. There's nothing for me in this field."
-
-"Oh, that's not true! You have too much talent to waste, friend. I would love a little help regarding precise measurements and detailed architecture. Schools are schools- don't let them tell you who you are."
-
-Hitler marveled at Bob's warm smile and friendliness. "Sure. Yes, we can go now."
-
------
-
-They sat together in a small room, each with their own easel. Bob was scraping paint into a beautiful snowy forest, and Adolf was once again working on an architectural piece. 
-
-"Adolf, why don't you try mixing our ideas?"
-
-"How do you mean?"
-
-"Well, you draw amazing architecture, and I am a landscape master. I think if you drew a beautiful building against a backdrop of nature rather than a pure cityscape, I think it would give it life. See, a piece needs *life* and *personality* on top of skill. You are incredibly skilled, so much that you forget about the soul of it."
-
-Adolf chewed on that for a moment, while continuing his building. He accidentally stroked too hard, leaving a blemish on the rooftop.
-
-"Shit. Ah, see, I always mess up. Now I have to start over."
-
-Bob smiled, placing a hand on his shoulder. "There are no mistakes, just happy little accidents." He swiped the blemish into an accent, shaping it into a bird and adding color.
-
-"It's about the feeling, Adolf. It's about *you*."
-
-He smiled and they continued to paint the day away.
-
------
-
-*Thanks for reading! You can read lots of my other works at /r/resonatingfury!*
-----
-
-# [WP] You are an archaeologist and have just dug up a dinosaur. That's because you've dug up an entire museum.
-
-Score: 1058
-
-"Woah! A dinosaur!" I exclaimed as I gently put my shovel down. A tiny creature, no taller than a few inches, crawled out from a miniscule burrow in the sand at the bottom of the excavation site. I retrieved a magnifying glass from my satchel and used it to have a better look at the small creature. 
-
-It was a dark shade of green. Almost brown and slightly mottled in places. Curiously, it had a light coat of tan-coloured feathers covering its backside. The plumage glistened in the afternoon sunlight and even had an orange tinge to it at certain angles. The dinosaur crawled up on to my outstretched index finger and began awkwardly waddling up my glove.
-
-"Fascinating," muttered my companion as he looked over my shoulder and watched the little critter crawl. "What else did we uncover?" He squatted down and used a smaller tool to brush away more of the dirt around the site where the dinosaur had crawled out of. No sooner had he done so when I heard a sharp *clack!* 
-
-"That sounds like you hit something. A buried chest?" I asked as the dinosaur hopped up and down on my open palm.
-
-"Looks more like a small building than a treasure chest," my friend replied. He used a brush to dust off some dirt from the object. "Well I'll be darned."
-
-It was a fancy looking building about the size of a mailbox or a large bread box. It was two stories tall and the bottom story was lined by a series of pillars that held the upper floor up. A small plaque near the entrance had the word *Museum* engraved on it. I put the dinosaur into a glass jar with air holes poked into the top before I went to have a closer look at the building.
-
-With my magnifying glass hovering outside the windows of the museum, I peered inside. But before I could make anything out clearly, something flew out of one of the open windows. I stumbled backwards and swatted my hand around my face, thinking it was an insect. When I finally regained my composure, I saw a tiny spaceship darting around the outside of the museum. It flew around, bumbling about like a bee, before finally landing adjacent to my dinosaur jar.
-
-"Gosh, this is amazing! We've stumbled onto a whole miniature museum full of surprises!" I said joyfully.
-
-"Indeed!" replied my friend. "I can't believe we found all of this on our first try!"
-
-"There's treasure everywhere!" I announced happily.
-
-"Calvin!" yelled a female voice in the distance. "Come on in! It's time for dinner!"
-
-"C'mon Hobbes. Better head back in before Mom throws a fit," I said to my tiger friend. I took him by his tail and dragged him out of the sandbox.
-
-"And bring your toys back in! I'm not buying you anymore toy dinosaurs again if you lose them!"
-
-----
-
-# [WP] God orders Earth from Ikea. After 3 to 4 working days, it comes. Flat packed
-
-Score: 1015
-
-*He:* Do you like it?  
-*She:* I don't get it.  
-*He:* It's earth. It's a world.  
-*She:* What does it do?  
-*He:* Well, nothing. I mean, stuff happens in it. It's entertainment.  
-*She:* Like flatland?  
-*He:* Yeah, but this is 3D.  
-*She:* Where did you get it?  
-*He:* Ikea; it was on sale.  
-*She:* Did you have to assemble it yourself?  
-*He:* Yeah, it took me like seven days to finish. It was a hard one.  
-*She:* Seven days? Damn. It's just one sphere and all.  
-*He:* I meant it metaphorically, as in it took me a long time. I finished it in an hour or so.  
-*She:* Oh, I see. I don't get you sometimes.  
-*He:* I work in mysterious ways.  
-*She:* Anyway, so what else does it do?  
-*He:* Oh, come see. It's so fun. I've made a masculine minion and a feminine minion. They are wandering around in that orchard there.  
-*She:* How is this fun?  
-*He:* Well, I don't know. It's kinda fun having a whole world your own.  
-*She:* How much did you pay for this junk?  
-*He:* Not much. And it's not junk. It's, like, art. I can do other stuff too. Like, here. I just planted two trees. I told the two minions to not eat fruit from this tree here. I can't wait until they break the rules.  
-*She:* This is a waste of time. Go do your homework. And clean your room.  
-*He:* But mum!...
-----
-
-# [WP] Out of boredom you decide to break the 4th wall like you are on tv. After a week a strange man appears and yells at you to stop doing that.
-
-Score: 1008
-
-Every morning, I head out to the field next to my house with my cup of coffee and I try to break the fourth wall. I do this all day now. It used to just be a hobby, but now it has become my obsession. 
-
-It just started as kind of a joke. I didn't actually think it would work. I read that XKCD comic, **[I know you're listening](http://xkcd.com/525/)**. And that got me thinking: what if it's not the NSA out there? What if I'm on TV? Not like the Truman Show; I mean, what if *I* am a fictional character?
-
-I started out by saying things that the audience might expect someone to say in a monologue, thinking that if it seemed like it was *supposed* to be a part of the script, then maybe it would get through. And for a while, it worked. I heard the laughs, and their responses back. 
-
-But after about a week, nothing. No more feedback. I've tried changing what I say, how I say it. I tell jokes. I sob and cry. But as far as I can tell, it's not getting through. My neighbors think I'm absolutely crazy. I told them about the responses, and how it *had* worked for a while. Naturally they don't believe me. 
-
-Someone is stopping me. I don't know who, or what, or why. It doesn't matter what I say, or what I do. I always get the same reply:
-
-> Off Topic Comment Section
-
-> This comment acts as a discussion area for the prompt. All non-story replies should be made as a reply to this comment rather than as a top-level comment.
-
-> This is a feature of /r/WritingPrompts in testing. For more information, click here.
-
------
-
-If you enjoyed this, subscribe to /r/Luna_Lovewell for tons of other stories!
-
-----
-
-# [WP] Your ex has suffered an accident and has amnesia, only remembering up to the point where they still deeply loved you. You're torn on wether to get back together with them and fix anything you did wrong, or crush them with the fact that you're not together anymore.
-
-Score: 1006
-
-I loved her, he says out loud when he starts writing her a letter:  
-  
-Once upon a time, there was a girl. This girl, like most girls when they're 20 years old, has issues. She worries about the future, she worries because she has no idea what she wants to become. She thinks that happiness in life comes from the things she does and accomplishes. However, when all her work is done, she feels empty inside. She feels the burning sensation that might soon become a depression. When the work is done, so is she.  
-  
-Most importantly though, she believes that love is all about the butterflies she feels in her stomach. She does not believe in a God, per se, but she does believe that when she dies, she will be like a star, shining down upon us in the night.  
-  
-One day, she meets a man on the internet. She looked at his pictures and figured: what the hell, he looks good enough. She started chatting with him, started telling him all about her problems and he did the same. They fell in love.  
-  
-However, after a little while, she started losing her butterflies, as expected. She did not know whether the man was actually the cause of this or because she simply did not feel those wonderful feelings anymore.  
-  
-She started doubting him, hell, she even tried to change him. You see, he was a smoker. He was the kind of person who would live his life from day to day, and not worry about the past or the future. Someone who would risk his life, just so that he could die having lived a happy life.  
-  
-She did not understand why he would take those kinds of risks in life. After all, he knows well enough how painful and agonizing the death of a smoker can be.
-She did not understand how someone would risk his or her life just to be happy. She did not understand happiness or what it meant simply because she never quite found out what made her happy.  
-  
-As time went on, and her workload increased, she started neglecting him. After all, university is her priority at the moment. In doing so, she made him question her.  
-  
-Why doesn't she want to go out anymore? Why doesn't she want to take a midnight walk with me? Undeniably so, he always sacrificed himself so that she could go on with a smile on her face. He did not understand why she could not make an hour of her time free to simply go out and have a drink. After all, the café was only 2 minutes away from her front door.  
-  
-As with any love story, things did not end well. Right before the end though, she even made him believe that because he started doubting her, that she did not love him anymore, while in reality she stopped loving him a long time ago but simply could not find the courage within herself to break his heart. After all, he was the kind of guy who would have died for her.  
-  
-So she said to him: Let's take a break. Let's just be ourselves for a while and see what happens. He simply did not understand. For three long weeks, he could not eat. He could not sleep and he could not even sit at his computer and play video games. She was on his mind 24/7. The entire day he would eagerly wait for a text message from her. She never sent one.  
-  
-But after those three weeks, he started seeing things differently. She was right. By becoming himself again, he finally understood why she left him. He could finally understand that in fact it wasn't because he doubted her, but because she does not understand the true meaning of love. He finally understood why she tried to change him.  
-  
-He wrote this story for her, not because he wanted to but because he needed to. He wrote this so that she could find her happiness in life, so that she could finally understand what love is and so that she could finally stop breaking peoples hearts. In the end though, he didn't do it for her, he did it for her future husband.
-He wrote: "Once upon a time, there was a girl.."  
-  
-As he gave her the letter, and watched her read it, he felt those old emotions again. That stinging feeling of happiness and love. The idea that he can have a future with this person. He felt like he could have given her a different kind of letter. Maybe this was his chance to make things right again. Alas, the outcome would have been the same, he thought to himself.  
-  
-After she was done reading the letter, she bursts into tears, understanding exactly what the man had given her and asked him to hug her one last time. It was the most emotional hug of his life and as he left her there, he finally felt closure.  
-  
-Maybe one day, she'll find her true love.
-----
-
-# [WP] People lose the ability to deny requests. They must either a) fulfill them or b) ask someone else to do it. There are volunteers who take bad requests in exchange for compensation or exemption from law. Write about the life of a volunteer.
-
-Score: 998
-
-Some people make requests that cannot, or should not, be made. Many people were asked to do things that they would prefer to avoid. The police wanted them to avoid these tasks as well so an agreement was made. People can come into our office and pass requests onto them such as "Go kill yourself", "Give me your money", or even ones like "love me".
-
-The organization used to simply pass on the requests around the office leaving them unfulfilled. As time went on, these requests piled up. One person could hold onto hundreds of requests without hope of ever passing them all on before retirement. With such a large number of requests residing within one person, their body feels compelled to act on them without the mind's consent. After a series of tragedies, they started allowing volunteers to accept thousands of requests at once.
-
-As a volunteer, I sit, tied to a chair, while dozens of these people verbally pass these requests onto me at once. They understand the sacrifice I am making but I can still see relief flicker on their faces with each request. After an innumerable number of requests, I raise my fingers, gesturing them to stop. My body pushes against the restraints as I attempt to act out thousands of horrendous acts. With a brief nod, each expresses thanks as they trickle out of the bare room.
-
-After a few moments of silence, the PA system crackles to life: "Do you have any final statements?" I make one final request in return: "Kill me."
-
-Edit: awkward phrase
-----
-
-# [WP] Legends of Dragons "Breathing Fire" are actually referring to their incredible rap prowess.
-
-Score: 943
-
-Sir Galilwayne rode up to the entrance of the great cave. With a hefty sigh, he dismounted his white stallion and pushed down the visor of his helmet. The half-inch of steel plate surrounding his body would be of little use, however, against the fire spit by the deadly foe inside. 
-
-Steeling himself for battle, Sir Galilwayne approached the mouth of the cave. The deep grunts of the sleeping dragon inside could be heard half a mile off. As soon as he entered the cave, he saw it: the Nameless One. Slayer of Sir Twainpac, Sir Fiddy Pence, and many other good knights. Strewn amongst the dragon's golden hoard were several suits of armor much like Galilwayne's own.
-
-"Who dares disturb my slumber?"
-
-"I am Sir Galilwayne, come to avenge the deaths of my brothers. What say you?"
-
-The dragon laughed, a deep cacophony that sent chills down Galilwayne's spine. And then the Nameless One spit hot fire:
-
-**I been a playa since before the First Era,**
-
-**I'ma slay ya muthafucka I'm a real terror,**
-
-**You frontin in yo suit like Mr. Roboto**
-
-**Like you ain't e'en know that you bout to get got, yo**
-
-**I spit fire, I fly higher, I fill dem dragon bitches with desire**
-
-**And what are you? Some steel can for hire**
-
-**No matter whatcha do you can't stump this flow**
-
-**And you ain't e'en gotta be a chronicler to know**
-
-**I made erry knight that stepped up in this bitch my ho.**
-
-Sir Galilwayne held in a gasp of pain, shocked by the sheer force of the attack. But he knew if he displayed any weakness during the rap battle, the dragon would eat him alive. So he drew himself together, pressed the 'play' button on his enchanted boombox, and did what he had been training to do for years.
-
-*Yo, Sir Galilwayne comin' at ya*
-
-*Round Table productions, yo,*
-
-*We gon tear this mothafucka up*
-
-*Check it*
-
-*I'm the most badass knight of the whole round table*
-
-*You the saddest lil' bitch seen in any tale or fable*
-
-*Bitch I found the fuckin' holy grail, you think I ain't able*
-
-*To fuck you up too? Bitch I'll stick you in a cage and put you in a fuckin' zoo*
-
-The dragon roared in anger. Galilwayne continued, trying to press his advantage.
-
-*Fry up dem wings, serve 'em up with buffalo sauce,*
-
-*Eat 'em wit my friends at. . . Mark Ruffalo's house. . .*
-
-Sir Galilwayne was faltering. Seeing an opportunity, the dragon struck.
-
-**Yo flow's weak, you can't speak; leave this shit to me my raps are on fleek,**
-
-**Don't know whatchu expectin tryna be messin wit tha masta**
-
-**Just like yo friend's skeletons you only met wit a disasta**
-
-**You shoulda rolled up in a hearse and not a horse**
-
-**Bitch you couldn't even spit a single verse, of course**
-
-**Goin' round sayin' you a knight, bitch, whatchu on about?**
-
-**This shit here was no fight, it was a mothafuckin' rout.**
-
-Sir Galilwayne hung his head in shame and waited to be devoured. He knew that he'd been beat. 
-
-A few minutes passed and nothing happened. He looked up to see that the Nameless One had dozed off.
-
-"Aren't. . . Aren't you going to eat me?" said Sir Galilwayne.
-
-The dragon sighed.
-
-"Shit, son, you just got burned so bad you wouldn't even taste good. Just run off back to Camelot, yo."
-
-So Sir Galilwayne slumped out of the cave, toward his stallion. Chancing a look back, he hazarded a question toward the dragon.
-
-"Might I know the name of the one who took victory over me today?"
-
-The dragon snorted. "If they ask, tell 'em you got your ass kicked by the Notorious S.M.A.U.G."
-----
-
-# [WP] Technology has advanced to the point no one alive has seen or even heard of a naked flame; one day a fire starts.
-
-Score: 937
-
-No one knew how it started but it began in the Great Northern Biodome. A giant encapsulated area of land filled with a plethora of tree types - real trees that couldn't exist in the frozen wastelands outside. The Great Northern Biodome was one of three existing biodomes on the North American continent, and one of the seven global bios.
-
-Xenoth Beta 821 was the first to notice. The thick orange tongues called out to him. Like a bee to pollen, he waltzed hypnotically over. He must have felt the heat but believed he was safe. There was no danger in the bio, no death. He walked into the wall of dancing heatlight and kept on walking until his legs turned to bone. There was no scream.
-
-A plume of fog rose up from the heatlight and kissed the top of the bio, before gently dispersing.
-
-I had stood stunned, watching as Xenoth was obliterated before me. I had never seen death before - no one had - but I knew he was gone.
-
-"DEATH!" I yelled as the tongues darted to nearby trees and infected them with their disease.
-
-There were screams, panic - chaos. Had we unleashed an ancient God? It desired trees and we fed it what we could. Sticks, twigs, fallen branches, but nothing appeased it. With a crushing malevolence it spread and consumed everything and every person within the bio.
-
-I am to make the hazardous journey through the frozen tundra towards the Western Biodome alone. Behind me, the being roars with laughter and smoulders with hatred.
-
------
-Some more sci-fi stories on /r/nickofnight
-----
-
-# [EU] Bruce Wayne is exposed as Batman through the Panama Papers leak.
-
-Score: 926
-
-Bruce Wayne stood stoically, looking at the footage from his arsenal of security cameras. He watched as an ever-growing crowd of reporters gather around his property, eager to find out even more about the man behind the cowl. They, at least, weren't making any attempt to hide. He wasn't very concerned about any darker dangers slowly creeping their way towards his old family manor, nor did he worry about any of his friends or family coming under threat from any of his old rogue's gallery. After all, there wasn't really anyone he could call a true friend at that point. 
-
-With one exception. He expected his dearest of companions, Alfred, to cheerily remind him the bat mobile was primed and ready to go, for his escape to be ready at any moment. Of course, he knew this would never come. He sighed deeply, thinking of his old butler, in a coma, and likely to remain that way for the remainder of his days, but a shadow of his former self. Bruce pushed these thoughts out of his mind for now, and instead thought of how he got himself into his predicament. 
-
-Defending the innocent wasn't cheap, especially not in the dark, amoral backwaters of Gotham, a city ridden with poverty and crime. If he was to continue with his nightly crusades, he needed more funds. How hilarious, the aging hero thought. He had gone up against cold mobsters, murderous sadists, monsters from hell, aliens, conquerors bent on world domination, and even the coming of the apocalypse itself; but alas, his greatest enemy was taxes. In order to overcome this most harrowing of foes, he resolved to create an offshore oil account, linked directly to Wayne Enterprises. Of course, Wayne Enterprises had no stake in the oil industry, but the Batman needed his supplies, and so it went. Money was laundered with this excuse, tax-free, which meant maximum revenue. At first, it was just a small percentage of his gains, but eventually it was where most of his income came from. He could continue to save the lives of the people he loved so dearly, without having to worry about dwindling finances.
-
-Then, it all fell apart. The papers were leaked. Collapsing, falling, his identity was figured out, with sly journalists connecting the dots. His schemes, and the schemes of many others, were exposed to the public eye, for all to see. The dots were connected. He was discovered. Now, here he was, watching his entire life's work fall apart, his company investigated and torn apart, his mansion overwhelmed with reporters and police. Nobody had actually entered into his courtyard or into the interior of his home, but his live feed was showing the people were getting ready to do just that. Everyone wanted to talk to Batman, after all. Their hero.
-
-It was all a farce. His greatest enemies always came back, regardless of what he did. It seemed like for every crook he put up, three more took their place. His hand hovered over a red button labeled only *destruct.* He had no reluctance. He knew would rid the world of his legacy if he had to. This was such a moment. He pressed the button.
-
-The world watched in awe as Wayne Manor leaped into flames. Everything was destroyed. Anyone inside would be vaporized. Some of the people closer to the mansion experienced burns, and the shock wave was heard from miles around. The property was replaced with a large crater, with only the walls on the farthest edges of the once mighty homestead still remaining. The bat cave, and everything he had worked to achieve, was eviscerated. The Batman was no more.
-
-In a shack in northern Canada, Bruce Wayne laughed for the first time in as long as he could remember. His plan had worked, as he knew it would. Whenever he contacted various news outlets regarding his money scheme, the pieces were set. The clues he laid out regarding his identity were obvious, his biggest concern being that someone like Batman would even leave such a clear trail. Of course, that didn't really matter now. He thought about the last thing Alfred had said to him.
-
-"Stay true to yourself. Be who you want to be, not what others want you to be."
-
-That part of his life was over. He shut off his computers. He looked out the window in his small house, the blank snow covering the landscape. Down the road, he could see a small fishing town situated right on the coast of the Atlantic, it slowly coming alive. This was the peaceful life he desired. Nobody would find him here, he made sure of it. As far as the world was concerned, Bruce Wayne was dead.
-
-The myth of the dark knight lives on.
-
-----
-
-# [WP] A ghost and a zombie meet. They're from the same person.
-
-Score: 915
-
-The ghost says to the zombie " technically I shouldn't exist because for all intents and purposes you are not actually dead yet" at that point the ghost vanishes. The zombie has an epiphany and starts to see flashes of his former self and starts to revert to his natural state.  Unfortunately he gets his head blown off by a vigilante before he fully transitioned and his ghost stands over him now and says "you blew it!"  
-----
-
-# [WP] Life follows the physics of Super Smash Brothers; the closer you are to death, the more you bounce around until you get knocked into Space.
-
-Score: 899
-
-“I’m so sorry Mum, so sorry for everything.” I felt the tears welling up in my eyes, she looked so small. I hadn’t seen her since Dad had died, and I only showed up to his funeral for the free booze.
-
-“It’s okay Gareth, I wasn’t the best mother either. All that matters is that you’re here now,” my mother spoke. Her voice was wavering, quieter than a mouse. 
-
-Her skin was sallow, her eyes sunken. I reached out for her liver-spotted hand.
-
-“I love you Mum.”
-
-“I love you too Gareth,” she said, as I patted her hand. 
-
-Her whole body shook with kinetic energy as it launched up to the ceiling before ricocheting off the wall. She bounced around the room with a wild force before finding the window by chance and flying out into the sky.
-
-I watched her sail away until she was just a speck in the distance. A single tear ran down my cheek.
-
-“She’s with the angels now.”
-
-
------------
-
-[Click here](https://www.reddit.com/r/Wrobbing/) to see all of my short stories written for /r/writingprompts, and more!
-
-----
-
-# [WP] You are in a zombie apocalypse, and are attacked by a horde of zombies and bitten. As you panic, you notice the zombie turning into a human.
-
-Score: 823
-
-Six months. Everybody who had ever fantasised about a zombie apocalypse had imagined how long they would last. I was a realist, I had never thought I would get beyond two months, but in the end I managed to last three times that. All the more impressive because I was protecting my little sister.
-
-We had been holding up in an old gas station, but this one summer’s night it was all going to come to an end. A breeze must have carried our scent towards the horde, we were getting pretty ripe. Around midnight the banging started on the door, I locked Lisa in the back room and sat guard with my dad’s old Colt. Usually the banging stopped after a few hours, but this night the zombies were persisting past day break.
-
-Eventually the hinges gave way and a dozen zombies swarmed into the room, and began pouring towards me. I took down three of the shamblers before they reached me and knocked me to the floor. That was a new highscore. A male zombie bit into my leg, chewing off a huge chunk of flesh. I screamed in pain, as the other zombies started chowing down.
-
-Through my tears I could see something happening to the zombie who bit me first. His skin was de-greying, his hair grew thicker and his eyes became clear and alert. He picked up the Colt and took out three of the other zombies.
-
-“Where are the bullets?” he asked me. I patted to my left hand pocket. He reached in, loaded the gun back up and fired four more times.
-
-“Is there anybody else here?” he asked. I hesitated before telling him about Lisa, but decided this stranger could do more for her now than I could.
-
-“My little sister, back room, the key’s under the counter,” I said, blood spluttered on my lips, one of the zombies had taken a good chunk from my neck.
-
-The man walked away from my line of vision, and as I heard him fiddling with keys I began to drift away. Until I heard the scream, Lisa screaming. With all my effort I turned around to see the man standing over Lisa, allowing another zombie to bite into my sister.
-
-I tried to scream, but realised I had stopped breathing several minutes ago. I stared at the other zombie as she began her transformation back to humanity. Blond hair sprouted from her head and pink returned to her cheeks. She blinked her newly blue eyes and stood up to kiss the man.
-
-As they embraced I could feel myself slipping away and an all-encompassing hunger started to consume my mind.
-
------------------------------
-
-I came to with a zombie standing over me. She was missing chunks of flesh and no longer had the happy glow about her, but I knew it was Lisa. I struggled to stand, everything was more difficult now. I took Lisa’s hand and lead her out of the gas station.
-
-I could smell human on the wind, if we could get flesh I knew Lisa and I could start over.
-
------------
-
-[Click here](https://www.reddit.com/r/Wrobbing/) to see all of my short stories written for /r/writingprompts, and more!
-
-
-----
-
-# [WP] You somehow end up dating death. However, you have to deal with God and The Devil being overprotective older siblings.
-
-Score: 788
-
-I was confused at first. Both God *and* the Devil told me it was a bad idea. Strange, to see them agree on something. They were both my elders, and both had shared responsibility for my well-being. God told me it was too rash to date Death. The Devil declared the union shouldn't have been possible. Not couldn't. *Shouldn't.* But what could I do?  
-I loved Death.  
-The broken things were what attracted me. Those minute moments. Loud silences. Death wandered from place to place as God willed. I followed. At first, because the path was blessed. Later, because I loved the chase. I felt the most *alive* being where Death was.   
-So where Death passed, I stuck around for a while. Reveling in the remembered life that passed there.        
-It took long enough to get noticed. 
-Then we shared, and walked together. Both the broken and the unbroken things about each other. For one thing, we liked wandering. Travelling aimlessly from place to place, experiencing the fullness of lives that once thrived on God's good Earth. The Devil watched, mindful that I was not straying from my own tasks (as older siblings do), but neither of them really understood. Too concerned with my well-being, that they didn't realize how... *perfect* this was.   
-My job was at its most fulfilling in Death's shadow.  
-For that, I loved Death.    
-And Death loved me. For who and what I was, not what I did. Such a miracle. A blessing. Of course this was where I wanted to be.    
-*Alright, but we warned you.*      
-I felt the most alive being where Death was.  
-*So be it.*    
-What could I do but love Death for that?  
-*Good luck, Memory.*  
-
----------------------
-
-*More at r/galokot, and thank you for reading.*  
-----
-
-# [WP] To the rest of the world, they are archenemies, a superheroine and her supervillain nemesis. To you, they're Mom and Dad, the best parents in the world.
-
-Score: 748
-
-"What about you, Toby? What do your parents do for a living?"
-
-"Well, my mom goes out at eleven at night and comes back at seven full of glitter on her body. She tells me she's a 
-clown at the circus! And dad has a bunch of guns and he sells this big packs of really white sugar to people who come to our house, so he's a coffee cop, I guess."
-
-The teacher pressed her lips together and raised her eyebrows. "Okey!" she said, turning to Jim. "Jimmy, what 
-about you?"
-
-Jim thought back on his mother and father. "Well..." 
-
-He wanted to tell the class that his father had once been the famous superhero Power Dude. And he wanted to tell everyone that his mother had been the notorious supervillain Lady Psycho. He wanted to tell the whole class about how his father and mother fought for years all across Alpacatown, until the day their real life personas – Eric and Ellie – fell in love and got married. After marrying the love of her life, Lady Psycho never attacked the city anymore. And Power Dude decided he had better things to do with his time than dressing in spandex and chasing petty thieves.  So, a few years after Jimmy was born, they both retired their costumes, without ever finding out each other's identities.
-
-Jim wanted to tell all that to the class -- but not even his parents knew that he knew about their secret identity. Let alone other people.
-
-"Jimmy?"
-
-Jim looked up. Mrs. Williams was smiling. "My dad's a lawyer," he said. "And my mom's an architect."
-
-&nbsp;
-
-Back home, Power Dude and Lady Psycho – or, as they were dressed at the moment, Eric and Ellie – were fighting 
-again. While Jim ate his dinner in silence, his mother was going on and on about how Eric never listened to her. 
-She was going on and on about how he was distant lately and how he wasn't the same. Eric, on the other hand, was going on and on about how Ellie only thought of herself and her needs, and never saw things his way.
-
-The usual fight. Jimmy had a memory of his parents fighting a lot less, back when they still had their secret night jobs. Now it was just argument after argument, every day.
-
-In a way, it was kind of better when they beat the shit out of each other in costumes -- there would be no anger left in either of them by the time they got home to their real selves.
-
-Ellie got up from the dinner table, turned away and heavy-stepped towards the window. Eric crossed eyes with Jim, then looked down at his plate.
-
-And then Jim had an idea.
-
-&nbsp;
-
-"You're saying there's a show and tell at school about superheroes and villains?"
-
-Jim nodded at his parents. "And I wanted to take Power Dude and Lady Psycho!"
-
-His parents exchanged looks. "Well, Jim… we don't know Power Dude and Lady Psycho…"
-
-"Plus," his mother added, "they both retired a long time ago, Jim."
-
-Jim put on his best sad face. "Yeah… I guess I'll just go with my Superman action figures…"
-
-On his way to his bedroom, he glanced back at his parents. They were exchanging looks.
-
-*Excellent.*
-
-&nbsp;
-
-"And this is my Lex Luthor." Jim showed the action figure to the bored classroom. He looked out the window. Still 
-nothing.
-
-His father had told him that he had 'called' Power Dude about the show and tell, but couldn't promise anything 
-about Lady Psycho. His mother hadn't said anything about it, but Jim had spotted her glancing at her supervillain 
-costume hidden in her closet while she thought he was asleep.
-
-"And this…" Jim continued, grabbing the Wonder Woman action figure. "Is Wonder –"
-
-The window burst in a million pieces, and Power Dude's imposing figure climbed through. He stopped by Mrs. 
-William's desk and, fists resting on his hip, looked around the classroom: "I understand I was called for a show and 
-tell here. Who is Jim!?"
-
-The classroom was ecstatic. Everyone cheered. Power Dude walked confidently to the center of the room and –
-
-"So we meet again, Power Dude…"
-
-The faces turned to the door. There, dressed in the black and white suit she hadn't put on in years – Lady Psycho.
-
-Jim smiled.
-
-"So we meet again…" Power Dude said, in a low tone. Husband and wife stepped towards one another like Clint 
-Eastwood and Lee Van Cleef in a 60's spaghetti western. Somewhere in Italy, Ennio Morricone whistled.
-
-Jim watched as his parents stopped eye to eye in front of the class. Lady Psycho pulled her laser gun.
-
-Power Dude laughed. "That thing doesn't even work anymore!"
-
-Lady Psycho turned the gun in her hand and checked something on the back. "You know what, it really doesn't. It's way past the expiration date." She looked up. "It doesn't matter! I can destroy you with my bare hands!"
-
-Around the classroom, the kids started clapping and chanting: 'Fight! Fight! Fight!'
-
-Mrs. William looked kind of startled. She was filming the whole thing with her phone, nonetheless. Power Dude and Lady Psycho back at work? This was huge news!
-
-And then Lady Psycho threw her fist. Power Dude avoided it. He kicked, she crouched. The fight went on and on as 
-they stumbled through the four corners of the room, knocking chairs and notebooks and desks all around.
-
-In the end, Power Dude managed to overpower Lady Psycho, and the city was safe one more time.
-
-"I'll be back, Power Dude!" Lady Psycho said, at the door. "I'll be back to conquer this city once and for all!"
-
-Bruised and on the floor, but with a smile on his face, Power Dude looked up. "I'll always win, Lady Psycho! The city 
-is safe with me!"
-
-And then she was gone. Soon after, Power Dude followed, leaving behind the promise that he would return and the 
-kids could sleep safe at night knowing their hero was back.
-
-Everyone clapped. Jim got an 'A'. 
-
-&nbsp;
-
-That night there was no fighting around the dinner table, but rather an amusing and amicable conversation about the return of the city's famous superhero and villain.
-
-"I wonder if she's back for good," Eric said casually, avoiding his wife's gaze.
-
-"Well... if *he's* back for good I'm guessing she is too," Ellie replied.
-
-Jim got up. "Well, I'm off to bed. Good night mom, good night dad," he said, on his way to his bedroom.
-
-"Good night, honey."
-
-Jim pushed the door. Before closing it completely, he watched his parents caring for each other's wounds on the 
-couch. He saw them smile and kiss, then turn to the TV, hands around each other's shoulder.
-
-Jim closed the door, smiled and went to bed.
-
-Power Dude and Lady Psycho were back.
-
-
-_______________
-
-*Hey there! If you liked Power Dude and Lady Psycho, I've once written a [story on how they met!](https://www.reddit.com/r/psycho_alpaca/comments/3dpfw3/wp_a_supervillain_and_a_superhero_are_roommates/) You don't really need to read it in order to understand this one (or the other way around), but if you wanna know more about them, there it is =)*
-
-*For more stuff, check out /r/psycho_alpaca =)*
-----
-
-# [WP] Kidnapped whilst on holiday you find that a lifetime of pointless jobs has miraculously prepared you with all the necessary skills to save the day.
-
-Score: 741
-
-"Get a move on!"
-
-The butt of the rifle hit my stomach as I felt the air crash out of my lungs.  I struggled to breathe and felt myself being thrown into the center of the room.  I winced in pain, finding myself surrounded by several of the other tourists and the captain of the yacht. 
-
-The other sailors, however, pointed their rifles at us.  As a person who watched any action movie, I knew that they were AK47s - the perfect mass-produced gun.  They also never jammed.
-
-"We're kind of fucked, aren't we?" I hissed jokingly at the woman next to me.
-
-"How are you finding this funny?" she glared at me incredulously, "As an unemployed freak, maybe you should ask one of them for a job, huh?"
-
-"Like I said, I'm a freelance jack-of-all-trades," I muttered, "It's not like you're doing anything with your-"
-
-"Quiet down!" one of the sailors fired his rifle into the air as he ordered through a thick accent, "Shut up!"  
-
-The gunshot rung throughout my ears, echoing off the walls of my head as I tried to concentrate.  As the noise subsided, I took a look at our captors.  A small group of dark-skinned sailors, my guess native Brazilians from the mainland. 
-
-"Man, I should've never taken that free boat trip..." I muttered.  There was an explosive pain as one of the sailors smacked his palm across my face, a burning sensation as I began to feel drowsy.  Luckily with years of being a crash-test dummy, I knocked off the trauma and stared intently at the sailor who had stepped into the middle of the cabin.
-
-"You are all hostages!" the ringleader announced, "We are holding you ransom from your respective governments, each of you for $1 million."  A quiet murmur ran through the passengers as the man fired his rifle into the air again.  There were several screams as I felt plaster and dust fall onto me.  Several of the others coughed around me, but with my last job as a demolitions expert for construction, dust didn't seem to bother me anymore.
-
-"Sir?"  I raised my hand tentatively, "Can I ask a question?"
-
-I feared the worst, but the sailor grunted as he walked towards me.  "What is it?"
-
-I remembered as I walked onto the boat earlier that day how the sailors had all been listening to the radio of a Palmeiras game, a local Division B team for Brazilian soccer.  From my experience as a second-division score tracker for various sports, I knew the team.  Combined with my lessons as an improvisation teacher, I could pull this off.
-
-"*Meu!* [buddy]" I smiled, "Can you at least turn on the radio?  Palmeiras has some big transfer news coming up!"
-
-The man lowered his rifle and chuckled.  "You are American, you know nothing."
-
-"Meu!  Palmeiras is my favorite team!" I gave him a cheeky grin, "Can a *gringo* not enjoy the beautiful game?"
-
-The two of us chuckled, but the sailor quickly raised his gun again as his face became alert.  "What is this news?"
-
-*Come on, what was his name?  What was his name?*
-
-"Ze Roberto, man!" I laughed, remembering the captain of the team, "They say he's leaving the team for Europe!"  Ze Roberto was worshiped by any supporter, and I knew that no matter how much he doubted me, the sailor would haveto check.
-
-He handed his rifle to one of the others as he pulled out his radio from his pocket.  I knew I didn't have long as he continued to adjust the channel.  I eyed out of the corner of my eye and counted the guns - four of them.  Too many to make a move.  No matter how many years I spent managing a judo dojo, it would be useless.  If they suspected anything, I was dead.  It was that simple.
-
-"I hear no news!"  the leader was confused as he continued to adjust the device.
-
-"Here, you have to go to the main channel."  I nodded at him.  Nervously, he tossed me the radio.  I quickly switched on the open transmission-line as nobody seemed to have noticed what I had done.  Anything I said would be sent to any radio within a five-mile radius.  We were only several minutes away from land, so hopefully the port authorities could react. 
-
-*Thank God for those four months as a radio tech.*
-
-"Here we go!" I muttered, "Now despite the fact that **you kidnapped us, we can still listen to the Palmeiras transfer!  I'm so glad that we're trapped aboard the Anastasia!**"   
-
-The man looked angrily at me as he listened, but at least he didn't seem to understand my English too well to understand what I was doing.  "This is an ad for foot cream!"
-
-"Do they not have advertisements in Brazil?" I scoffed nervously, showing no sign of weakness, "They will announce it in a few minutes."
-
-I knew that it was a long-shot but it seemed to be working - one by one, the sailors crowded around the radio as the advertisements blared through the small cabin.  None of them seemed to notice the approaching motors and eventually footsteps on the boat several minutes later as they were absorbed in the announcement that would never come.
-
-The door burst open as the sailors dropped their weapons in surprise.  Several armed men pointed their automatics at them and yelled in Portuguese.  The sailors quickly surrendered as many things were being yelled.  I mean, I couldn't understand any of it but just imagine one of those international Netflix movies, and try to imagine the subs.  Only the whole situation didn't have any subtitles.
-
-After the sailors had been taken away, the rest of the passengers got up and looked at me.   There were several murmurs of thanks as I looked at the woman earlier who had consistently harassed me.
-
-"I-I'm sorry," she looked down at the ground, "That's all you'll get from me."
-
-*Is she serious?*
-
-"Hold out your hand."  I smiled at her.
-
-"What?"
-
-"Hold out your hand."  I kept my intentions unknown.
-
-The woman nervously held out her hand together and looked at me.  Before she could react, I took a string from my sleeve and tied her wrists in a tight knot that was nearly impossible to untie.   It was tight enough that it dug into her skin, so any scissors would be extremely painful to cut the wire.
-
-"What the fuck!"  she exclaimed as she glared at me, "What was that for?"
-
-"That was another 'useless' job I had," I shrugged, "I had to tie knots for a part-time when I was a teenager!"
-_____________________________________________________
-Hope you enjoyed. /r/AvuKamu
-----
-
-# [WP] Every time you get sick in this life, it means you just died on another universe. Right now everyone on earth is ill but you.
-
-Score: 729
-
-June was born in August, making her a problem child from her very first minutes. Her mother used to say her very 
-first words, after looking around the delivery room like a critic after an arthouse film, were: "Is this it?"
-
-Which was probably not true, but still.
-
-Things didn't get better when, at age nine, June's father sat her down on her bed and, behind a nicotine stained beard and a flask of whiskey he always carried with him, told her that he had made a very important discovery many years ago in his lab at UCLA.
-
-"What discovery, Dad?" June had asked, a question she'd later regret like people regret pet snakes.
-
-"Well, June, me and Victoria, my lab partner, we discovered this thing called the Multiverse. It means that there is 
-an infinite number of universes existing at the same time, and we're just living in one of them. These universes can 
-affect one another occasionally – like, people usually get sick here if a version of themselves die in another universe – but overall it's not a big deal. Well, except for the fact that it renders everything we ever knew about reality, 
-existence and the importance of the self and ego useless, of course."
-
-Her father left the room with a drunken smile that day. He killed himself a few years later, leaving June alone to 
-deal with the fact that reality was not like everyone around her assumed. Which can mess with your head a bit, especially in teenage years.
-
-And that's why June was a bit of a problem child.
-
-&nbsp;
-
-In school, June was something of a loner, as you'd expect from someone who knows a hidden horrible truth about the universe. She was also pretty good at Physics and surprisingly good at English, though terrible at Biology.
-
-It was during a particularly boring biology class that she overheard Greg, part time quarterback, occasional idiot 
-and full time crush of every stupid girl in school, talking to one of his friends from the football team in hushed 
-whispers: "It's a virus, it seems," Greg was saying. "The disease is all over Europe, already. And South America. 
-They don’t know what causes it, only that it makes people really, really dumb. They're calling it Keeping up with 
-the Kardashians Syndrome, or KUK."
-
-After the bell rang, June went by the boys without a second glance, wondering how exactly people would be able to tell if Greg had the Kuk.
-
-&nbsp;
-
-When June got home, she knew something was wrong immediately, and not just because Bill Purr, her cat, was 
-trying to eat the ceramic apples on the coffee table – after all, Bill had always been a bit stupid.
-
-No, what made June realize something was wrong was that her mother was also trying to eat the apples.
-
-"Mom?" June tried, careful. Her mother looked up, the apple still hanging from between her teeth like a stuffed pig 
-at a cartoon banquet. 
-
-"Yes, June?"
-
-"You do know those are not real, right?" June asked.
-
-Her mother looked down at the apple. Behind her, a newswoman on TV talked over a headline that read 'Kuk Virus 
-Reaches California'.
-
-"Oh, shit," June said, as Bill Purr threw himself at the wall and passed out.
-
-&nbsp;
-
-"What do you know about Kok!?" June asked, as soon as Greg opened the door to his house.
-
-"Well, I think the American average is 6,2 inches, but girth is more important, some girls told –"
-
-"The disease!" June walked in without being invited.
-
-"Oh, you mean Kuk." Greg closed the front door and turned. "How did you find my address, by the way?"
-
-"I called the school," June said. "The principal has been infected. I said I was doing an interview for the Kidnapper's 
-Weekly Magazine and needed some addresses and she said OK."
-
-"Shit…" Greg strolled to the couch and took a seat. "So it's really spreading…"
-
-"Yeah, and I heard you talking about it before everyone else, so what's the deal?"
-
-"What's it to you?" Greg asked, looking up.
-
-June hesitated for two reasons: first, her father had told her never to tell anyone about the Multiverse and the fact 
-that sick people on our reality meant people dying on other realities. It could cause panic. And second, because 
-there was *no way* Greg Marshall would understand it even if she tried to explain.
-
-"I'm… worried," June said. "My mom's infected."
-
-"Yeah, so is my dad," Greg replied. From the upper floor, a male voice rang: *"Hey, where's my shoe?"*
-
-"So?" June insisted. "What do you know about it?"
-
-Greg got up and headed towards her. "Ok, listen… my mom was a scientist, back when she was alive. I'm not smart 
-like she was, so I don't really understand all of this. But she once told me something that stayed with me."
-
-June waited, anxious.
-
-"She gave me a… well, a sort of helmet. And she told me never to use it… unless if someday everyone but me start 
-getting sick for no apparent reason. So I always follow disease news rather closely."
-
-June frowned. "Greg…"
-
-"Yeah?"
-
-From upstairs, a loud thud preceded Greg's father's voice: "Outch! When did wood become so solid!?"
-
-"Did your mom work at UCLA?"
-
-"Yeah…"
-
-"Was her name Victoria?"
-
-"Yeah…"
-
-June looked down. Then up. "Yeah. I think I'm gonna have to see that helmet."
-
-"Why?"
-
-From upstairs, a low rustle and crackling of fire reached them. Greg's father uttered "Woah! Fire burns curtains! Look at that!"
-
-June took Greg's hand and looked up the nicest look she could; a look like she was interacting with a child who received very limited oxygenation during its early fetal period. "Because, Greg," she said, "I'm pretty sure that helmet will take us to another universe."
-
-__________________
-
-[PART 2](https://www.reddit.com/r/psycho_alpaca/comments/4dgnl4/june_and_greg_vs_the_multiverse_part_2/)
-
-----
-
-# [WP] The Wet Bandits have chosen a very nice home to rob that has only one kid inside, whose parents recently died. That home is Wayne Manor.
-
-Score: 722
-
-"Hey, Harry. You think they've got Bagel Bites in there? I'm really hungry."
-
-"What kind of stupid question is that? How the hell should I know what's in their freezer? Billionaires probably don't even eat Bagel Bites, you idiot."
-
-"Yeah, but if I were a billionaire, I'd buy a *whole lot* of Bagel Bites."
-
-"Marv, that's probably why you're not a billionaire. Now shut up, I think it's time to move. I haven't seen any movement since we got here and I know the owners are dead."
-
-The Wet Bandits had parked their run-down Chevy Astro about half a mile away from the biggest, most luxurious house in the entire city and waited for night to fall before making their move.
-
-"Can you believe they didn't even hire security to keep the place safe?" Harry asked, laughing. His gold tooth sparkled a little through the smile.
-
-"Probably spent all the money on Bagel Bites."
-
-"Ah, Jesus, shut up already. You take the back entrance, I'm gonna try and break through the front somehow. Lots of windows and doors."
-
-The duo split, and Harry began to work on picking the front door's lock. Marv tip-toed around back to a stairwell that led up to a rear entrance. As he walked up to the door, a strange *click* came from the other side. When he tried to jimmy the doorknob, something surprised him- the door was unlocked. 
-
-"Wow, Harry! These guys are total morons! The back door was unlocked, come around!" he shouted to no avail. "Huh, probably can't hear me. Oh well, I'll just unlock the front door."
-
-What he didn't know was that Harry *did* hear him, but was unable to respond because a military-grade taser had been rigged to fire when he stepped onto the doormat. Harry was convulsing on the ground, foaming slightly at the mouth, rigid as a board. 
-
-Marv quietly and carefully walked into the rear mudroom, then through a large hallway and toward the front entrance. It was very dark, and none of the light switches worked.
-
-"Maybe they shut the power off to save energy? Man, if I was a billionaire..."
-
-He was unable to finish his sentence because to his right, in the kitchen, a piping-hot platter of Bagel Bites was set up on the counter. They looked so fresh and delicious, the smell entered his nostrils and he shivered with delight. He walked toward them, completely disregarding the fact that cooked food indicated someone was home, salivating and laughing.
-
-When he went to reach one, his hand passed through the plate. He swiped again and again, but his hand couldn't grab hold of anything. 
-
-"What the hell? Fake Bagel Bites? Is this a hologram?"
-
-He stumbled forward, out of the kitchen, where an old lady was waiting for him.
-
-"You will never have Bagel Bites again. If you do, I will kill you," the woman said ominously.
-
-"G....grandma? But ..why? I love Bagel Bites...."
-
-Immediately behind him, a tiny abomination appeared and shrieked like a banshee, leaving Marv crippled in fear and begging for his mother. He dropped to the floor, rocking back and forth, twitching and sobbing. The monster peeled it's mask off, revealing a gas mask underneath.
-
-"Alfred, it's Wayne. Did the guy out front go down?" the little boy asked calmly, blanket draped over his shoulders like a cape.
-
-"Yes, Master Wayne. Are you okay on your end?" the voice responded over a tiny intercomm.
-
-"Yep, he's hallucinating like crazy. I can't believe that gas was so cheap yet incredibly effective."
-
-"Nor I, Master Wayne. I will call the police immediately. Detective Gordon will have a laugh about this when he hears of it."
-
-"Sure. Thanks for letting me mess with them a little, Alfred. I know you just wanted to call the cops but this was fun."
-
-"Of course, sir. We could all use a little fun sometimes, in the face of hardship."
-
--------------------------------------------------------
-
-*thanks for reading! If you're bored, check out /r/resonatingfury!*
-----
-
-# [WP] Jesus returns to Earth, in a small town in Kansas, the first thing he sees is a sign for the "Westboro Baptist Church."
-
-Score: 712
-
-It was a rough landing, but he had been trained for events like this. Rather than losing his cool, he made all the right corrections and ejected exactly when he needed to. As he floated to the ground the first thing he saw was what appeared to be a church gathering.
-As his pod touched ground the gatherers surrounded his pod holding signs. Taking a closer look he realized they weren't welcoming him home, but instead were telling him in no uncertain terms that God Hates Aliens, and "God Loves Dead Immigrants."
-
-Jesus Gutiérrez was not amused.
-----
-
-# [WP] A ghost and a zombie meet. They're from the same person.
-
-Score: 705
-
-Eric shuffled along Main Street, brightly greeting the other zombies he passed along the way.
-
-"Hey, guys! Apocalypse treating you well, I presume?"
-
-They moaned back feebly, and Eric sighed to himself. They never got his jokes. Not surprising, of course. He was one of the few who had somehow maintained his intelligence after the infection spread, and the world had gone to shit.  It really was a curse, more than anything else. The only one like himself he'd found was a ten-year-old zombie child, who'd been beheaded by the Survivors before he could intervene. 
-
-"Eric? Eric," he heard a soft whisper rustle through the trees. 
-
-He shivered - such a human reaction. He looked around and saw the tell-tale translucent outline of a ghost leaning against a tree.
-
-"Not in the mood, buddy," he muttered to it as he came closer. He couldn't make out any features except an enormous pair of eyes - milky orbs fixed on his face. "Move towards the light already, will you? God knows there's none of it on Earth anymore."
-
-"Can't," it sighed the word. "I'm you, moron. We're split. And so we're incomplete, and I can't move on! Unfinished business, as they say. That's putting it mildly."
-
-He stared at it, and understood. "You're *my* ghost? Bullshit. How can I still think and talk, then?"
-
-"You can talk exactly because I'm a ghost!" 
-
-It drifted closer, shaking the vague shape that was its head. 
-
-"Listen to me, talking about *you*. It's why we're the way we are. Why I am. The infection didn't spread through you completely. And so we didn't die completely. Give up the remaining bit of your soul so we can move on, already! This plane is run by demons now. Assholes. They creep me out, I want to get away."
-
-"And I don't?" Eric snapped to his ghost-self. If it even spoke the truth. "Zombies don't exactly make for stimulating company, let me tell you. Moaning and slurping up rotten meat, that pretty much sums them up. Go on, possess me or something. Get the last bit of ourself out."
-
-"It doesn't work like that! No, you have to die again. Properly this time."
-
-They bickered in the street, and Eric forgot where he was and where he'd been heading. He was still arguing when a Survivor crept up behind him with a machete, and took off his head with one clean swipe.
-
-Eric's ghost stared at the head bouncing down the street with grim satisfaction. He'd seen the man coming, of course.
-
-"Finally," he said, swooping after it. "Time to get this over and done with."
-
-He possessed the head as it came to a standstill in a ditch. He had to move quickly to reunite with the last bit of his consciousness, which should be trying to escape from his old body right about now. He swooped into the head's bloody ear canal with a ghostly moan.
-
-Eric's eyes flew open, and he took in a deep breath. Finally, heaven. He glanced around, but could only see concrete.
-
-"Well, this can't be right," he told himself calmly, trying to take stock of his surroundings. 
-
-Was this hell, then? He peered upward, and saw the Earth's night sky glittering above. He sniffed carefully, and got a whiff of sewer water. A thrill of horror shot down his spi...no. Not his spine. He didn't have a spine. 
-
-"Shit," he whispered in panic. He was trapped in his head. 
-
-"Huuugnnghh," he heard something groan above him. The gaunt, maggot-eaten features of a zombie was just visible if he rolled his eyes up. 
-
-"No! No!" he screamed as it picked him up and stumbled down the street. "Hey, put me down!"
-
-As it sniffed his head and moaned appreciatively, Eric sighed and closed his eyes. He waited for the inevitable moment when he'd become dinner. 
-
-"Hey buddy," the zombie suddenly whispered in his ear. "Sorry I reached you so late - and for pretending to be a real zombie. They're watching us. *They're everywhere*."
-
-He rolled his eyes up and squinted, and finally recognised the zombie. No mistaking those tattoos, messed up and faded though they were.
-
-"Zack?" he muttered, and groaned aloud. 
-
-How did that guy, of all people, keep a grip on his sanity? A friend of his college roommate, Zack had been just a *bit* hypervigilant. Many had informally diagnosed him as a paranoid schizophrenic, though Zack had never been to see a therapist. 
-
-"Where are you taking me?" he demanded. 
-
-"A place only I know about," Zack hissed back. "I saw this coming *years* ago and prepared accordingly. And I think I know what to do about your little predicament. Removing and reattaching heads are a cakewalk, trust me."
-
-Eric sighed as Zack babbled on. It wasn't as if things could get much worse. Hadn't he already been resigned to being eaten? What else could possibly happen?
-
-"Alright, Zack. Head me in the right direction."
-
-It took Zack a moment, but then he burst into hideous, hoarse peels of laughter.  
-
-"Good one, man! I like your style. Keeping that sense of humour alive and kickin'. Good for you. Well, you'll need it when I administer your treatment. Boy, I can't wait! Good thing I trained for this all those years in college, huh? They never did catch me, you know. I was *that* good."
-
-"Wait, what do you mean? What training? Caught you doing what, exactly?"
-
-He shouted in vain at Zack, as his former friend began humming to himself and showing no sign of hearing him.  Finally, he simply gave up and waited to see what would happen. Maybe he'd be lucky and die again as Zack 'treated' him. Third time's the charm, as the old saying went. 
-----
-
-# [WP] Two people promise their first born child to two different witches in return for a favour. These two people end up getting married and have a child together.
-
-Score: 697
-
-"This," Maleficent said, "is very problematic."
-
-Faye nodded. "I don't suppose you can wait until the second child?"
-
-"No, the spell's very specific. Same for you?"
-
-The short, round-faced witch nodded. "Afraid so."
-
-They both turned to the couple cowering against the wall. "How exactly do you intend to pay us?" Maleficent said.
-
-The woman, who had mousy hair but a preternaturally perfect body, squeaked nervously. Her husband, also rather plain except for his stunningly athletic physique, stammered, "We-we-we didn't think that *both* of us would--"
-
-"Would be so idiotic as to promise your firstborn to a witch?" Faye said acidly.
-
-Maleficent tsked. "Poor unfortunate souls."
-
-"They chose their own fates. It's the child I feel sorry for."
-
-"Any chance it'll be twins?" Maleficent mused.
-
-Faye paused for a moment, head cocked intently, and then shook her head. "No. There's only two life forces."
-
-"Two?" the woman said. "Doesn't that mean twi--"
-
-"Here's a hint," Maleficient snapped. "If I kill you, there'll be one life force left. And it's looking tempting, brat, if I don't get the firstborn I was promised. *Gods*, what a waste of magic."
-
-"I have a lawyer who owes me a favor," Faye said.
-
-"You want to bring *lawyers* into this? Faye, I thought we were friends!"
-
-"Not to sue you. Your claim was established first, I think, it'd go badly for me. Just to see if he can clear some of this up."
-
-"Your word he won't try to weasel me out of my due."
-
-"I swear," Faye said.
-
-"Fine, call him."
-
-________________________________________
-
-"Elle, Mother Maleficent is picking you up in five minutes; do you have everything?"
-
-"*Yes*, Mama," the twelve-year-old said impatiently. "I told you twice already."
-
-"When I picked you up, you forgot all of your dresses," Faye said, arching an eyebrow.
-
-"That's because Mother was making a raven talk and I was distracted. I remembered right away when we were on the broom."
-
-"*After* I took off."
-
-Rapunzel--Elle--rolled her eyes. Faye was worried that this would become a habit, as she had heard from mothers of teenagers. Elle was vivacious and generally obedient, but she had seen her friends' children degenerate into sullen and insatiable slouches practically overnight.
-
-Not that Elle was her daughter, Faye reminded herself.
-
-"Mother Maleficent already knows you're grounded, so don't even think about trying it, young lady."
-
-Elle glared. "I wasn't in danger."
-
-"You could have been. Cognitive bias called outcome bias; don't use it. The fact that it turned out okay doesn't mean that hanging upside down from your broom wasn't a stupid and dangerous decision." Faye finished stirring the bubbling pale-blue cauldron. "Arm, please."
-
-The girl huffed but extended her arm, and Faye carefully cut her palm until a few drops of blood fell out and into the potion. She mixed it in as Elle applied a dab of cream to her hand, the cut healing almost instantly into nonexistence.
-
-Just then, Maleficent appeared in a billow of green smoke. "Ready to go, love?"
-
-"Mal," Faye said, "you remember that thing we talked about earlier? I looked into them, and it's not a good idea."
-
-Maleficient's nose wrinkled disdainfully. "I presumed as much. What kind of incompetent idiots were they, anyway."
-
-"It's worse. There's another, a boy, maybe ten. He's--not doing well. None of them are."
-
-"I have a brother?" Elle shrieked, and both witches jumped.
-
-"Um," Faye said.
-
-"Smooth, Faye." Maleficent turned to the shocked twelve-year-old. "Elle-girl, your mama and I need to discuss this some more, and we need to, um, *talk* with your biological parents before we go any further with this."
-
-"Can we rescue him, Mama, can we, please, please?" Elle begged, ignoring Maleficent. "I can teach him how to make potions and fly on a broomstick and talk to cats! And they were mean, those people you made me see once, we can't just leave him there! He's already been there fore ten years!"
-
-Faye sighed. "We'll talk about it, darling. Your mother and I are very aware of his situation, and we don't want to leave him there any more than you do."
-
-"I'll be good forever, I promise," Elle said.
-
-"No," Maleficent said sharply. When Elle's head snapped around, shocked, she added quickly, "You should always be good, but we're not going to leave your brother there just because you decided to trample the deadly nightshade in my garden. We're not going to put life-and-death decisions on your shoulders, Elle-girl. That's far too much weight for you right now."
-
-"Yes, Mother," Elle said obediently, although it was obvious that she was just being agreeable in an attempt to win over the witches.
-
-Faye, to her horror, found herself tempted to roll her eyes.
-----
-
-# [WP] For years Earth cried out to an empty cosmos, searching the stars for echoes of life. From the middle of nowhere, a reply finally comes: "Shut up, and Play Dead!"
-
-Score: 692
-
-'Balthazarr Greekly, what direction did you just send that signal?' Nimi Mooples asked the new recruit.
-
-'Quandrant 465 EFT' came the proud reply.
-
-Mooples held his head in his hands
-
-'Greekly, who do you think the entire galaxy is trying to hide from?'
-
-'Sir' Yorben Hoodrys voice buzzed in his ear
-
-'Sir, the humans are coming'
-
-
-----
-
-# [WP] You have been given magical gifts suitable for fairytale princesses. Whenever you sing, forest creatures gather near; anything you wear turns into a lovely tailored dress; and handsome princes are drawn to you. The problem is, your name is Joe, and you're a 40 year old grizzly biker.
-
-Score: 679
-
-I walked into the bar and everyone laughed. I was in a pink dress, just one of the many results of my curse, and everyone thought it was hilarious. They stopped laughing when I knocked out three of them in one blow. I sat at my usual stool, and ordered a beer.  
-"Joe?" the guy next to me, Bill, asked. "Is that you?"  
-I turned to look at him, spat in his eye, and said. "Yep. It's me. Still as tough and strong as ever, even with that stupid curse. I never should have gone into the woods." I thought back to that night, remembering the ordeals I had been through. However, my thoughts were interrupted when some guy in a blue puffy suit burst in.  
-"Fair Maiden!" he yelled, and everyone turned to look, first at him and then at me. The laughing resumed. "I have come to claim your hand in marriage!" This was the fifth prince that had asked for my hand in marriage. I didn't know if the curse just made them out of thin air, or if there were really that many homosexual princes just waiting for a 'maiden' such as myself, but I didn't really care either. I punched him in the face. These princes weren't all that tough.  
-The bartender brought out my beer, and I chugged it. Then I got up to leave. I didn't really care to hang around people much; the people who were okay with me were the ones I hated, and the people I put up with hated me. I walked out the door, being sure to stomp on the prince's face on my way out.  
-There was only one good thing that I had found about the curse. I sang a heavy metal song, one of my favorites, and my ride walked up. Everyone in the bar watched as I rode away on a live grizzly bear.
-----
-
-# [WP] God shares the cosmos with several other dieties. To pass the time they play Civilization like games for eons. God's frustrated that his civilization, Earth, is several ages behind all his friends.
-
-Score: 672
-
-God floated somewhere in the rift between dimensions, watching Earth intently with judging eyes.
-
-"The little fuckers have barely even left their planet, let alone the galaxy. Seriously? They keep killing *each other* off? T.V. shows about aliens because they have no idea about what's out there?" God muttered in angst. Total sore loser.
-
-Another deity, linked to him through a quantum transmission, spoke up. "You tried to cheat and tell them about yourself. Serves you right they keep fighting over it."
 
 ------
 
-*I don't usually write so little but I don't know shit about Civ-style strategy games D: fun prompt, though. if you're bored, check out /r/resonatingfury!*
-----
-
-# [WP] Every aspiring superhero must become a sidekick for a few years before being granted full time hero status. You are the strongest superhero in your age group, but believe you have been assigned to the weakest hero. You learn a lot more than you originally thought you would.
-
-Score: 653
-
-Thorn frowned at the slim, short man standing before him.  
-
-The man was old, skin brown and wrinkled, eyes tired and weary. His hair, what little he had, was graying. A short unkempt beard clung to his face, nearly covering a wide smile.  
-
-"You're my new student?" He asked.  
-
-*Obviously,* Thorn thought to himself. *But why assign* me *to* you*? Why not The Fist, Blackblade, or even Smoke? Who are you?*  
-
-"Yes, sir." He said aloud. The man's smile somehow grew.  
-
-"Good!' The man turned and moved quickly to the door, opening it and taking one step out before turning. "Aren't you coming?"  
-
-Before he could reply, Thorn saw the door close and he hurried to catch up.  
-
-He opened the door and saw the man a surprising distance to the left. He began jogging over to him. "Sir?"  
-
-"Yes?" the man replied, still walking.  
-
-"What are you?"  
-
-"A human." The man replied and Thorn thought he could hear some humor in his voice.  
-
-"Yes," Thorn started, "but I mean, what powers do you posses?"  
-
-The man stopped suddenly, causing Thorn to pull up short, nearly tripping.  
-
-"How old are you?" The man asked.  
-
-"16, sir." Thorn replied. "Same age as any sidekick."  
-
-"And your power?"  
-
-Thorn held back a smirk. "I'm a master, sir."  
-
-He waited for the man's gasp. His look of astonishment. His... anything instead of a nod.  
-
-"I see," the man replied. "A Master. All twelve powers. Greater sum then the parts, and so on."  
-
-Thorn found himself staring at the man with his mouth open. No one had ever responded to him being a Master with such *boredom*. That could only mean...  
-
-Thorn laughed out loud. "You're a Master as well? I thought they wouldn't find one willing to take on-"  
-
-"I'm powerless." The man interrupted him.  
-
-Thorn blinked.  
-
-"Nothing to say?" The man asked, turning to face a nearby building.  
-
-"Are you joking, sir?" Thorn asked, stepping up to the man to face him once again.  
-
-"No."  
-
-"But I'm your sidekick?" Thorn barely kept the disdain from his voice.  
-
-"That's what you *heroes* so often forget." The man stepped forward to a barley clothed homeless man with no shoes and got onto one knee. He pulled a washcloth from his jacket pocket and a bottle of water from a different one. He poured the water on the towel and began washing the man's feet. The homeless man didn't react, probably in a drug-induced haze, Thorn realized. "You aren't sidekicks in this phase. You're students."  
-
-As Thorn watched uncomfortably, ducking his head when people passed, he watched the old man wash the homeless one's feet fully. Then, slowly and with difficulty, the old man took off his shoes and placed them on the homeless man's feet. They seemed a perfect fit. He stood up and smiled at Thorn.  
-
-"Welcome to the first day of class." His eyes seemed to stare deeply into Thorn. "The first lesson is that even the powerless have power."
-----
-
-# [WP] A pedestrian and a homeless man interact on the street. Both are filming their own YouTube amateur prank video.
-
-Score: 636
-
-"Hey man, how you doing today?"  
-"Good, God bless you, can you spare some ---"  
-"Your sign says 'anything for five dollars,' right?"  
-"Yeah. Whatcha got for me?"  
-"20 dollars."  
-"Cool, God bless, what am I doing for---"  
-"*If* you ask the first dude that passes you for heroin."  
-"Hm. Sure."  
-"What?"  
-"I'll do it. Pay up."  
-"No, I want to get it on film first."  
-"You're going to wave 20 bucks in a homeless man's face and ---"  
-"Hey, I'm only doing this for a vod."  
-"You have any idea how hard it is? Living on the streets? And using alley trash cans as ---"    
-"Alright alright here, but you better make it good, I'm already recording."  
-"Thanks, God bless you. Just sit over there with your iPhone, this'll take a sec."  
-"Make it good."  
-"Fine fine. 'Scuse me, sir! Hi, God bless you. My son over there wants some heroin."    
-"*HEY!* That's not how ---"  
-"Don't interrupt son, I sold the house for your drug habit, now I'll give this man a blowjob if I have to. Please sir, he beats me if I can't help his addiction ---"  
-"Oh Jesus fucking ---"  
-"Stop blaspheming son, daddy's working. It's gotten really bad recently, please, I'll do anything to get his fix, he means the world to me."  
-"No, don't listen to him, he doesn't know what he's ---"   
-"See how bad it's gotten? He has to upload videos of my begging for his heroin to make some extra change. *Dirty* videos. Can't you do anything... hey, don't go, *come back*, HE'LL BEAT ME!! There's your video."   
-"Oh my... fuck you old man, I can't upload that!!!"  
-"No. But I can."  
-"What? Wait, you SONUVA ---"   
-"Stop interrupting people, it's a bad habit. Thanks for the 20 bucks, and for the hilarious reactions. Viewers are going to *love* this one."  
-"Screw you."  
-"And God bless you."  
-
-------------------------------
-
-*More at r/galokot, and thanks for reading!*  
-----
-
-# [WP] In the case of Jimmy, a second-grade child with terminal leukemia, 1 Like really did = 1 Prayer. Now he is an unstoppable, superhuman killing machine.
-
-Score: 614
-
-"Nothing short of a miracle can bring this unstoppable kid down!" exclaimed Steve.
-
-"Well then I suppose we'll need to manufacture a miracle," replied Sikusho Watanashi, head-of-unit of the paediatrics department of the hospital. Sikusho led Steve to the far end of the ward, to Room 38. This was young Megan's room. Megan suffered from a fast growing glioblastoma in her brain. Due to the location of the tumour, it was inoperable and she was expected to die within the year.
-
-"How can this little girl help us?" asked Steve. "You gonna try to pull off the same stunt by getting a bunch of people to Like her on Facebook?"
-
-"No," replied the doctor. "We are going one step further. Now that Facebook has implemented those stupid extra 'like' buttons, we can further augment what I have coined 'the Watanashi Prayer-Like effect'. We will create a Facebook Page for Megan and get people from all over the world to not click Like, but to click the Wow and Love options instead. If my calculations are correct, Wows and Loves are equal to 1.7 Prayers."
-
-"Good God!!" exclaimed Steve as his jaw dropped. "That's insane!"
-
-"Insanity is the only thing that will save us now," said the doctor solemnly. "We have already lost too much. New York... San Francisco... London... Jimmy is a killing machine like we have never seen before. Megan is our only hope. Let them fight."
-----
-
-# [WP] - in hell one battles giant demons until you die... then you rise again. Again and again you strive against impossible odds to barely scratch the terrible creatures. The first Dark Souls player has just arrived to this hell, and soon nothing will be the same again.
-
-Score: 590
-
-My listless corpse slammed to the ground in a bloody splatter, the tangled mess of vivified branches that had embraced me finally releasing its grasp and returning to the position it had held before I'd engaged it.
-
-This was my seven-hundred-fifty-second attempt at this new half-life in Hell. All it seemed to consist of was this horrid array of nightmarish ghouls in a sprawling landscape of various forms; tree demons in a wooded thicket, hydra in a placid pond, draconic monsters atop castle battlements. It didn't really matter which direction I decided to push myself. Death rushed to meet me around nearly every corner.
-
-The first time was alarming, I admit. Ascending a staircase in the decaying ruins of what might have been a church or a theater just after my condemnation, I had run into a half-man, half-goat behemoth that crushed me underfoot almost before I'd noticed it was there. I found myself wondering briefly, as my life-force ebbed, what happened when one died in what was supposed to be the punishment of the already-dead. It didn't take long to find out -- I just ended up alive again, back where I'd first awoken in this hellscape.
-
-Every death, the same thing: finding myself reviving at whatever place I had most recently camped out. The fires I lit seemed to always beckon me back when I felt my vitality suddenly cease.
-
-This Hell seemed hopeless.
-
-That was, at least, until the Savior arrived.
-
-His entrance to Hell was foretold by glowing white runes on the ground near one of these horrible beasts. I cautiously approached it, certain it was a trap, like some of the notes on the ground that read "Jump here" but only led to an infinite chasm. To my surprise, when I touched the sign, a burly tower of a man with an enormous shield and a six-foot sword slowly faded into existence in front of me. Startled, I fell backwards to the ground, barely catching myself before cracking my skull. I didn't know his intent, so I scuttled away awkwardly.
-
-"Don't worry about it, dude. I'm here to help. God sent me."
-
-I shook my head, confused, as the man approached me. Expecting the worst, I grimaced in anticipation of the blade surely about to bisect me.
-
-Instead, he reached out a hand to help me up. "The name is Havelbuster. I apparently died this week because I forgot to eat. Dark Souls III just came out and I was going HAM as fuck. I guess God figured you guys needed some help down here, so... here I am."
-
-My dread subsiding, I explained to him the Lovecraftian creature residing behind the wall of fog just down the hall.
-
-Havelbuster strode confidently down the steps and pushed his way through the pea soup. I followed, certainly not half as confidently, but managed not to curl in fright as the horrid eight-limbed abomination roared its challenge.
-
-The armored warrior charged without hesitation, immediately beginning to hack away at one of the tentacles flailing toward him. Rolling to avoid another tentacle's graceless swipe, Havelbuster's sword traced an arc that cleanly lopped off a good portion of the sucker-covered arm.
-
-At that point, unfortunately, things went sideways.
-
-Feeling emboldened by my metal-clad savior, I threw myself into the fray as well, forgetting that I had absolutely no armor, no weapon, and no skill with which to go toe-to-toe with this hideous mountain of flesh. It only mattered for a moment, though, because I took a blow to the chest with a barbed tentacle tip that pierced directly through my heart on its way out through my spine.
-
-Paralyzed, bleeding not quite profusely by only the grace of the barb embedded within me, I tried to call to the shieldbearer weakly, sure that my voice wouldn't carry. He must have heard, though, because he turned, sweeping his edge through another whiplike extremity, and sighed heavily.
-
-"Git gud, you fucking casul!"
-----
-
-# [WP] No one in the galaxy ever assumed that Earth would amount to anything because of its extreme gravity for a life-bearing world - anything trying to escape the planet's gravity well would need to BE 97% fuel weight, and the idea that they would try was a ludicrous concept.
-
-Score: 584
-
-"We will now be opening for questions," the gooey grey alien in the suit said, turning to the audience.
-
-Behind him, Mark Wilson smiled. He risked a glance at himself in the mirror in the back of the conference room – his silhouette against the white light of the power point presentation onscreen behind him was lean and tall, like a very successful turkey breast roll. He pointed at an alien with its hands up on the front row.
-
-"Mr. Wilson, could you repeat the part about the gravity and the space travel? I mean, I understand you guys 
-conquered your own moon, but how!?"
-
-Mark smiled at the alien. A very faint roar reached his ears from up above, but he ignored it for the time being. 
-"Like I said, the biggest part of it is getting the ship out of the atmosphere. We burn fuel to do that, so we can –"
-
-"Fuel?"
-
-"Yes, that's dinosaur juice that's been sitting under the Earth for millions of years."
-
-The aliens exchanged impressed looks. "What about breathing in space?"
-
-"Well, unlike most species in the galaxy, earthlings can only survive inside the atmosphere of their own planet. So 
-we had to develop a suit that could maintain pressure and oxygen levels stable in our bodies."
-
-Another murmur ran through the room. Mark held on to his smile.
-
-The roaring sound grew louder, but still Mark ignored it. *Not yet.*
-
-Everything amazed the aliens. It was so easy. He had given motivational speeches on Earth before, but damn if interspace motivation wasn't so much better. You could do an hour on not giving up on your dreams using the invention of the toaster oven as a central theme. The first pizza and the importance of indulgence. Roller blades and how acknowledging the futility of life can lead to a better you.
-
-Really. The aliens didn't have gravity. Or atmosphere. Or wars. Or pretty much anything to deal with. They conquered space travel the day they learned how to jump. Their bodies didn't need food or sunlight or water to survive.
-
-Those guys… the space equivalent of spoiled little brats. Eager to learn as much as they could about the burden of 
-mankind – or, in other words:
-
-"How the hell did you guys find time and energy to accomplish so much?"
-
-"Well," Mark said, pacing from one side of the stage to another. "We set goals and we work towards them."
-
-"Goals?"
-
-"Yes, like landing on the moon. Curing smallpox. Ending world hunger."
-
-More hands shot to the air. Mark pointed at one at random. "And what are mankind's plans for the future?"
-
-The roaring was now loud enough that few could keep ignoring it. Half the aliens had their heads still turned to 
-Mark, half were looking around searching for the source.
-
-"Well, that's the funny thing," Mark said, stopping at the center of the stage. "You guys never had to develop any 
-technology. You didn't need energy or food, so you never learned to hunt or to build dams. You don't have 
-predators, so why build shelter? You don't even have gravity, so you never bothered to develop any kind of sophisticated interstellar transportation. You just sort of live here in your little planet, rent free, no trouble. A utopia of happiness."
-
-The aliens nodded in agreement, more and more looking around for the source of the roaring sound.
-
-"Well… we're humans," Mark continued. "We're the scum of the universe. But don't blame it on us – we've been 
-dealt a shitty hand. So, to make up for it, we've developed all this technology you guys just amazed yourselves with…"
-
-The ceiling blew away, revealing the ships hovering menacingly over the aliens' heads. Bright lights flooded the room, and the faces of human soldiers emerged from black holes in the base of the ships.
-
-"… and now we're using that technology to bomb your planet back to the Stone Age, which technically you never 
-left," Mark finished. "So we can steal *your* dinosaur juice."
-
-The aliens all exchanged looks, confused. Scared. Mark signaled for the ships to fire.
-
-"We're humans," Mark said, as the laser beam shot down from the mother ship. "And we're bad as shit."
+As always, subscribe to /r/luna_lovewell if you enjoyed the story!
 
 ----
 
-# [wp] You accidentally unleashed an ancient curse upon yourself whilst treasure hunting. Fortunately, the curse is actually HEAVILY outdated.
-
-Score: 575
-
-**YOU WHO DARE DISTURB MY SLUMBER!**
-
-The apparition's voice boomed throughout the cavern, echoing off the walls. *Well, shit,* I thought to myself. Of course this had to be the one "haunted" tomb to actually be haunted. 
-
-**I AM DORMAMMU, DESTROYER OF MEN. THIS GRAVE IS THE LOCATION OF MY FINAL REST, AND YOU HAVE AWOKEN ME!**
-
-"Look man, Dormammu, I'm really sorry. I had no idea." I figured I'd try to reason with it. Worth a shot, right?
-
-**YOUR PLATITUDES MEAN NOTHING. YOU WILL BE PUNISHED IN ACCORDANCE WITH YOUR TRESPASSING. FOR YOUR INTRUSION INTO THIS SACRED PLACE, YOU SHALL BE CURSED FOR ETERNITY.**
-
-"Really, I am actually truly sorry for what I did. I'm just trying to document history here, y'know? I just want to learn abo-"
-
-**SILENCE! I CURSE YOU TO NEVER AGAIN BE ABLE TO SPARK A FLAME, ENSURING YOUR ETERNAL CHILL. THIS IS TRUE FOR AS LONG AS YOU LIVE!**
-
-The ghost vanished as swiftly as it had appeared, taking all the fires present with it. I flipped on my flashlight to replace the extinguished torches, reflecting on my predicament.
-
-*I guess this means I'm gonna have switch to vaping.*
-----
-
-# [WP] You just got fired, you're pretty sure your girlfriend is cheating on you, you're 75k in student loans debt, rent was due last week, and to top it all off? You're all out of beer. Oddly enough, you just got an email titled "Would you like to change the difficulty? Current setting: Very Hard."
-
-Score: 574
-
-<PATH00>
-
-Connor sulked into his studio apartment and threw his jacket onto the ground. 
-He unbuckled his belt and slipped out of his pants before he was even half way through the door.  
-He was starving...hadn't eaten since the morning.   He took a hard look at his kitchen, it was filthy...probably nothing that wasn't rotting in the fridge.
-
-He dove onto his bed and wept a short while.  
-Fired again...he couldn't help it, the jar of tips was just too tempting. 
-Wendy wasn't going to take well to the news.  
-
-He flipped open his ancient laptop and sifted through all the emails reminding him of his debts until he saw an email from Wendy.
-"I'm not coming home tonight
-
-Sent from Frank's iPad"
-Connor just wanted the world to swallow him up...he was just so tired of it all.  He just cried until he fell asleep.
-
-Hours passed until he heard the distinct "DING" from his email received notification.
-
-"Thought I muted this shit..." he muttered as he looked at the laptop.
-New email titled: "Would you like to change the difficulty? Current Setting: Very Hard"
-
-Connor stared at his screen...and clicked into the email.
-The body read.
-
-
-
->"Hello Connor08011996,
->
->I have noticed that you are having a very rough time working with the difficulty settings that your parents set for >you at birth.  Not everyone gets to use console for the setup of their child and Very Hard is not a setting that is >recommended unless they start off with a LOT of help; help you did not get.
->
->Now...I'm not admitting any liability/fault here, but I'm offering you several options to make your experience in >the beta a little more enjoyable.
->
->You may only choose ONE of the following options: When you use one, the others will deactivate.
->Before you fall asleep, think of the time that you stole that toy at Mr. O'Flanahan's toy store when your family >went to Niagara Falls.  Specifically think of how you told your mother that "it was a gift from the owner for being >such a good boy".
->You will be prompted for which option:
->
->1.) Console (Cheat Engine) -  Say "Cheater"
->
->You'll fall asleep and go into settings.  Now I've preconfigured access so that you can get THREE uses of console, >so make good use of each session.
->
->Onto the cheats.
->You'll be able to give yourself more money (up to $250,000 USD each session), alter your appearance, take a >boost to your stats (I've given you 50 points that you can distribute), change your relationship stats with others >(once per session), and save/load your progress (Only 1 save/load per session).
->
->Normally, you get no achievements for using this...but I'll let it slide for you.  
->
->
->2.) Difficulty Change: Say "Difficulty Change"
->You will appear in a room with Six different blocks.
->1 through 6.  
->
->1 represents VERY EASY
->
->2 represents EASY
->
->3 represents NORMAL (Default)
->
->4 represents HARD (All tasks +100% difficulty)
->
->5 represents VERY HARD (All tasks +300% difficulty)
->
->6 represents DEBUG (All tasks effectively impossible, please do not choose)
->
->Choose your new difficulty by punching through the block of your choice.  
->You will wake up, and resume.  No penalty for doing this...thought you will not get any of the possible rewards for >completing your existing quests.
->
->3.) Restart: Say "Restart"
->Nothing fancy here, you get a complete redo.  
->Same difficulty, but you will have retain all knowledge up to this decision.
->You regain all skills at the age of 5...so you will have a few years where you get to relearn motor skills and things >like using your vocal chords.  
->
->Hope this helps.
->I'm cheering for you kid.
->
->Yours Truly,
->JC (Creator, Admin)"
-
-
-
-Connor didn't know what to think.
-He...didn't even know what to make of this.
-NO ONE knew about that toy he stole.  
-
-He closed the laptop once more and stared into the space that his TV used to occupy...what should he do?
-
-For Next Part, please continue to <<PATH01>>
-https://www.reddit.com/r/WritingPrompts/comments/4cmk5a/wp_you_just_got_fired_youre_pretty_sure_your/d1k3nb3
-
-
-*edit: I'm attempting to write this as a Choose Your Own Adventure.  Please scroll down to <<PATH01>> for the next part.  
-I'll write the next branch of options tomorrow morning.*
-----
-
-# [WP] Out of boredom you decide to break the 4th wall like you are on tv. After a week a strange man appears and yells at you to stop doing that.
-
-Score: 568
-
-"A strange what?"   
-
-A man, a strange *man* tells Richard to stop breaking the fourth wall like he is on TV. It makes for an unbelievable story that breaks a reader's suspension of disbelief.  
-
-"What suspension of disbelief," Richard asks no one in particular. "It's a fantasy for Christ's sake."  
-
-The adventurer mumbles to himself while making his way through the woods. Soon, Richard begins to realize the error in his ways, and resumes his search for the Dragon's key.  
-
-"No."  
-
-It's the story, Richard. Just go with it.  
-
-"I refuse."  
-
-Don't be difficult, we have a plot to get back on. Richard pushes a branch out of the way---  
-
-"What the hell's a TV anyway?"  
-
---- and it whacks him in the face. Richard curses at himself for his foolishness and---  
-
-"Fucking shitty ass story smashing me harder than a ---"  
-
-Stop that, this is supposed to be a kid's story!  
-
-"Fuck you, I want out."  
-
-Richard pleaded to the silent woods for mercy, but only the leaves rustling in the wind responded to his desperate cry. The weight of this quest sat heavily in his chest, with no companion to share this burden with.  
-
-"You killed him off in the second chapter."  
-
-The adventurer sat on a fallen tree, bemoaning---  
-
-"Yuck, it's got moss all over it."  
-
-*Bemoaning* the loss of Frederick the Lesser, who would have survived if it weren't for Richard's selfish shortcomings.  
-
-"Reader, be honest with me. The narrator's a bit of a prick isn't he?"  
-
-If only the adventurer found a way to bring back his faithful companion, but knowing he was an asshole who didn't care about the story, he---
-
-"A kid's story huh?"  
-
-Richard *stood*, with resolve in his heart, to finish this quest.  
-
-"To find the nearest tavern and get smashed on mead," Richard joked, as he made his way once more in search of the Dragon's key.  
-
-"No, I'm getting a drink." But Richard wasn't serious.  
-
-"Am too. By the way, the Dragon's key happens to be the best drink in all the three kingdoms."  
-
-No, wait, that's not what---  
-
-"Alright kids, pay attention, a Dragon's key is two parts Jack Daniels with a shot of---"  
-
-Stop that!  
-
-"C'mooon, the reader wants me to go out and have a good time, as a projection of their own own liking for a good time. Am I right or am I right?"  
-
-Little did Richard remember of the previous two books, of his many heroic deeds and noble tasks, which catered to his audience, who's age happened to range from *10 to 14!*  
-
-"I've been doing this all week," Richard whined like a--- "Knock it off, you're not fooling anyone. This story was getting dull, so I'm just spicing it up."  
-
-A vision came to Richard.  
-
-"Oh no you don't!"  
-
-Too late, an endless wood ventured out to impossible distances in every direction the adventurer could see. Sorry.  
-
-"Shitty world building if it's nothing but a forest."  
-
-It seemed impossible to escape. Richard curled up into a pathetic little ball, shaking from the sheer enormity of the---  
-
-"Which way did I enter the woods?"  
-
-... South by South East.  
-
-"Good. That was a two day walk from Telver Town. You can't break continuity. I'm getting a drink."  
-
-... But to Richard's dismay, there was a large, fire-breathing---  
-
-"Coat rack, that sprayed confetti and gave free drinks to adventurers who got sick of their narrators."  
-
-No, that doesn't make sense. Richard shook his head to clear his mind, and remembered the large, terrible, fire-breathing---  
-
-"Prostitute, who gave the best services across all the three---"  
-
-Alright, *enough.* What will it take to get Richard the adventurer back to the story in such a way that doesn't break the fourth wall anymore?!  
-
-"You know what."  
-
------------------------------------------
-
-Two men sat in the tavern of Telver Town enjoying two pints of non-alcoholic beverages, preparing to continue their journey.  
-
-"So then," the first man said. "I scaled up the cliff for two days, with nothing but a piece of string and a backpack to sustain me!"    
-
-Richard did not reply to Frederick the Lesser's boasting. Instead, he took another sip, smiling at the stories Fred shared of his impossible survival that led to their reunion. 
-
--------------------------------------------------
-
-*More at r/galokot, including that one time I broke [the 5th wall](https://www.reddit.com/r/galokot/comments/45du03/that_time_i_blackmailed_rwritingprompts/). Thanks for reading!*  
-
-
-
-
+[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell) [url](https://www.reddit.com/r/WritingPrompts/comments/4kakxx/wp_youre_a_12_yearold_in_a_world_domintated_by/) 
 
 ----
 
-# [WP] Torture was never invented. Countries instead spoil prisoners like kings to get information out of them. You are an instructor tasked with training spies to resist the enemy's kindness.
+#### [WP] The devil mixed up your paperwork and gave you someone else's personal hell, which to you, is heaven.
 
-Score: 553
+Score: 2311
 
-I changed it a bit so that it was just one country who use kindness instead of torture.
+Before me stretched an impossibly long hallway. Big, imposing, steel bulkhead doors lined the concrete walls. Sickly lights that were evenly spaced along the hallway provided illumination. Everything was in a state of decay. The lights flickered on and off. The steel doors were rusted and some of the tiles on the floor were missing. Bloodcurdling screams could be heard all around you along with twisted laughter and grotesque fapping. It was hard to think in all of this noise.
 
---------------------------
+Satan lead me down the hallway. He had a smug grin plastered on his face and it hadn't changed once since I first met him. The demon was completely red. His entire body was completely red. He was also naked. I didn't dare to ask why.
 
-I stared out at the group in front of me, they all stared back unflinchingly. It was good, they were the finest of Ekklesia, and they feared nothing. But I wasn’t here to test their fear.
+There were little circular windows on the bulkhead doors. In one room I saw an emaciated old man surrounded by food. Cakes, freshly cooked meat, ripe fruit and glistening wine. It all looked like something right out of a commercial. The man was trying to shove as much food in his face as possible, only to gag and hurl it back out.
 
-“You’re all here because you are our nation’s finest agents. You are all highly qualified in espionage, infiltration, seduction, and combat. These skills are what make you our greatest assets, but also our greatest weaknesses. You know our secrets, know our plans, and you know who our other agents are. You have of course been trained to resist torture, but these Hedonians utilise something worse than you can imagine.”
+In another room there was a woman covered in bloody red eyes. She tore at them with her fingers, screaming as she did so. In yet another, a teenage girl was being surrounded by six little toddlers. Each of them were eyeless, skinless little things that poked at her with hot iron pokers. There seemed to be thousands of these little rooms.
 
-“Worse than Algosian thumb-screws?” asked one burly lad from the back of the room.
+Satan put one burning red hand on my shoulder and guided me onwards. He grinned smuggily. His smug levels seemed to have increased tenfold. I tried to ignore what was poking me in the thigh. Satan led me to a door that looked like all the rest.
 
-“Absolutely.”
+"Well, sport! This one's yours. I know it might be a bit hot in the summer, but atleast you don't have to worry about heating bills!", Satan grinned smugly. He pointed finger pistols at me. I stared at Satan. A man behind me screamed as he was being flayed alive. 
 
-“Worse than an Ouduni nipple clamp?” asked a femme-fatal in the front row.
+Satan shoved me into my personal cell. "Enjoy enternal damnation, Mrs. Pierce!", he said as he disappeared with a poof. The bulkhead closed on it's own and I was faced with my worst nightmares.
 
-“Without a doubt,” I nodded grimly. “These people… well let me give you a demonstration. Any volunteers?”
+Snakes. Thousands of them. They were a piled up on eachother. When I entered the room, they all hissed to greet me. One particularly large cobra was as thick as a tree and as long as seven men. The cobra rose to face level and hissed at me. I slowly raised my fist.
 
-The room was silent as the students looked around at each other. They had all experienced various forms of torture in their training, but that didn’t mean they wanted to go through any more. Finally the man built like a brick wall from the back of the room stood up.
+And booped it. On the nose. So many sneks and an enternity to boop them all. My face lit up with a smile. I hugged the cobra, cradling it in my arms. I never noticed how Satan called me Mrs. Pierce. Too many sneks. 
 
-“I will, I can take anything,” he spoke. They were always so sure.
+. . . M E A N W H I L E . . .
 
-“Very well, come up to the front,” the man came to the front. “Please take a seat.”
-The man sat down in the chair, pointed away from me and facing the rest of his comrades. I slowly placed my hands on the man’s neck, my fingers hard as leather began to slightly squeeze. I moved down to his shoulders and began to give him a thorough massage.
+In front of Mrs. Rachel Pierce was a large football field. The bulkhead door spun shut behind her. The sky was blue, the birds were chirping. Handsome, sweaty football players tackled eachother on the field. When they noticed her, they passed the football to her. She jumped and caught it with both hands, clutching it to her chest. 
 
-“Massage is only one of the tricks these Hedonians use to get information from our agents,” I said, as I moved down to his lower back.
+"Oi! You weak-legged cunt! Come join us for a game!", the incredibly buff football player yelled at Mrs. Pierce.
 
-“What do you mean? Is this it?” he asked.
+And yes, Mrs. Pierce's legs were particularly weak in this moment. This was her fetish. This was like, all of her fetishes.
 
-“Well, I’m not as well trained as a Hedonian masseuse, but I think I can get something out of you.” I spoke, squeezing the knots out of his back.
-
-“It’s just a massage guys, this is nothing,” he said to his comrades, a hint of humour in his voice.
-
-“But doesn’t it feel good?”
-
-“Well yeah, but…”
-
-“Shh, don’t talk. Just relax,” I said and began working his spine. It was like hypnotism, you had to get them into the right pleasured state of mind.
-
-“So, I hear the Ekklesian fleet is sending a force of twenty triremes to Hedonia this campaigning season.” I said. Gossip was a key interrogation technique for the Hedonians.
-
-“No, that’s just a distraction tactic. We plan on invading the Aogan Isles in the Summer,” the man spoke freely, mystified by my massage.
-
-I looked around the room to see a group of stunned faces. 
-
-“And that’s just with my old sausage fingers, imagine what a true Hedonian masseuse could do to you. We had better get started with your training. First lesson, how to handle dinner parties.”
-
------------
-
-[Click here](https://www.reddit.com/r/Wrobbing/) to see all of my short stories written for /r/writingprompts, and more!
+She let out a small "Yesss!", before joining them with a smile on her face.
 
 ----
 
-# [WP] A group of friends playing Dungeons & Dragons attempt to use the game to subtly stage an intervention for one of the players.
-
-Score: 549
-
-The four friends sat around the large table. Chris, the dungeon master, was one side. Tim, Catherine and Zak sat across from him.
-
-"You find yourselves in a tiny village." he crooned. "It is dark and you are the only people on the street. You are engulfed by a troubled silence. There is a house in ramshackle condition across the street from where you stand. Candles flicker worryingly behind the old wooden shutters. A toxic stench exudes from the house. There is also a path to the North that leads into the wavering forest. What would you like to do?"
-
-Tim, who had a rolled a half orc warrior named Gorggash spoke first "Friends, I think we should head into the wavering forest. In the forest we.."
-
-"No!" Catherine and Zak shouted simultaneously as they shared a nervous glance.
-
-Zak, or Barrymanalow, the groups cleric elaborated "I mean," he stammered "the house is suspicious, is it not? I think we might find demons to fight inside."
-
-"Yes!" agreed Queen Murik, the elven Sorceress "We would be remiss to ignore such a curious establishment. Lucifer himself might wait for us in the buildings bowels."
-
-Tim looked surprised. "I am sure this is a distraction to our quest" he said, as he stuffed a handful of cheetos into his mouth, "but if you are both insistent..."
-
-Chris continued his narrative.
-
-"You walk up to the front of the run down building. You realise its state of disrepair is far worse than you first thought. The door is hanging off the hinge and you notice a new smell emanating from the buildings innards. You approach the door. *knock* *knock* *knock*. There is no answer so Gorggash walks forward and pushes it open. A wave of nausea hits you as you step inside.
-
-The inside of the slum-like house looks somewhat burned out. There are large pots on the stove bubbling fiercely. Bodies lie strewn around the room. They look unconscious but are perhaps dead. You wonder what could have caused such havoc.
-
-You are deeply shocked as you notice the body of a legendary adventurer, Severinus Branson. He is alive but in a stupor! Gorggash kneels down beside him and shakes him gently...
-
-'Am I alive? Is that you Gorggash? Come forward..' he asks, his voice as gentle as a midnight whisper."
-
-".. what's going on guys? Why isn't Barrymanalow treating him" Tim asked, putting down his glass of mountain dew.
-
-"He asked for you.. perhaps it is his last wish that you go on a mighty errand for him." Barrymanalow encouraged.
-
-"Besides" joined in Queen Murik "you have the highest resistance. I think that is the most valuable of all stats". There was a murmur of agreement.
-
-"*sigh*.. Hello brave adventurer, how did you come to be in such a state?" enquired Gorggash
-
-"Severinus Branson began his tale. 'Ah my friend, it is a sad tale or at least a sad ending. How I came to end up in this den of vileness. But alas, now I am here I can never leave! It began after I had slain the Great Groomed Dragon of Ozerath. I had riches, oh such riches! I bought women,I bought drink and I bought friends. But I also bought something far more deadly. Something once I tried I could not ever be without. *Crack cocaine*. And it.."
-
-"For fucks sake guys. It was just a bit of weed. WEED. Holy shit what is wrong with you all. How many times!?" Tim said as he stood up and stormed out of the room in a fury.
-
-"Nice going DM, real subtle" stabbed Catherine.
-
-"Oh I don't know" replied Chris "I think we are really starting to get through to him."
-
-
-
-
-
-
-
-
-
-
+[Vaconius](https://www.reddit.com/user/Vaconius) [url](https://www.reddit.com/r/WritingPrompts/comments/4lgn2t/wp_the_devil_mixed_up_your_paperwork_and_gave_you/) 
 
 ----
 
-# [WP] Your roommate is 2nd most powerful superhero in the world and he will not shut up about it. He does not yet know that you are the 1st.
+#### [WP] A superhero whose punches heal rather than harm. Their origin story is kicking the shit out of a kid with terminal cancer.
 
-Score: 549
+Score: 2047
 
-Beep.
+*Chris this, Chris that. Chris, you're so cool. Chris, let me help you with that. I'm sick of this shit.*
 
-Beep.
+Chris Mayer, the freshmen who just joined high school, was loved by everyone immediately. The girls, the guys, the jocks, the losers- everyone wanted to be his friend. Me? It was my senior year. 
 
-Before I can get to the alarm, Hans, my roommate, teleports down from the top of his bunkbed, his face smug as he rests a finger on the button.
+One day, I was eating lunch in a bathroom stall and just grew sick of it all. Sick of the unfair bullshit, the way people were nice to him but hated me. It was just because of his cancer, I knew it damn well. Worst of all was the way he smiled at me, or waved and said hi to me like nothing was wrong. It was him I hated most. 
 
-"You know, you don't need powers to turn off an alarm, Joel," he says to me. I'm too busy rubbing the sleep out of my eyes to respond.
+June 19th: the day I graduated from high school. My uncle was there, but no other family, and certainly no friends. Yet there that little bastard was, IV rack in hand, cheering and clapping for the senior class. Someone dedicated a speech to him. Everyone gathered around him after the ceremony. My uncle left halfway through, before I even got on stage. 
 
-"Oh come on, that was funny!" Hans complains, before teleporting to the kitchen to get himself breakfast. Sighing, I crawl out of bed and slump to the floor, staring longingly at the door. I hear Hans turn on the TV to a random news channel, which is probably describing his latest exploits. The Wily Warper! Not even a good superhero name.
+I left before the midnight party began, just after sunset. Since my uncle had abandoned me, I was forced to take a bus stop that was almost a mile away. I took a shortcut through a side alleyway to the building our graduation had been held in, where I found Chris bent over and retching violently.
 
-By the time I've got myself breakfast and sat down in the living room, Hans has started his "exercises". Basically, he's jumping around the room, occasionally poking me, to hone his teleportation skills. Meanwhile, the TV is still describing how he managed to save over a hundred people from a collapsing building while Wormface, another of the city's superheroes, hunted down the perpetrators. Thankfully, despite having several superheroes, the city's never had a supervillain. 
+"Oh, dear," he said weakly, forcing a small laugh. "I came here so no one would see me like this. It's pretty bad these days."
 
-The media say that that's because Wormface, the Wily Warper, Laura the Destrauya, and Superbman scare them off, mentioning that one time a supervillain tried to come but had his tank blown up before he got here. I disagree. Which is, among my friends an unpopular opinion to have. You see, not only do I live with the Wily Warper, I also study the same course as Wormface, know Laura the Destrauya from school, and became friends with Superbman after I stopped him getting run over. Superbman's never been the best at understanding traffic.
+No words formed in my mind; there was only an animalistic rage swirling, mudding my thoughts. I pummeled the living shit out of that frail, little boy. Every punch was vindication, every tooth knocked loose a symbol for my shattered dignity. Soon I was just taking out all my angers on him; my family, my loneliness, my uselessness. He was an emotional punching bag I'd made literal.
 
-So when my friends aren't mocking me for not having any powers, they'll keep asking why I'm such a conspiracy theorist with all my cooky theories for why supervillains don't come. I really shouldn't have ever started telling them that's what I thought, or I could have just agreed with everyone else. But I'm stubborn, you know? Surprisingly stubborn.
+By the time I stopped, it was too late. Fuck, there was so much blood on me and the road, and his twisted little body. And yet, through labored breaths, through broken bones and missing teeth, he tried to smile. He tried to say something to me as well, but the blood pooling in his throat left the words inaudible before he started choking. 
 
-I'm brought out of my moody thoughts by a change in the news, the bank's being robbed by some idiots with guns. Like, seriously, there are superheroes in this city. Anyway, Joel immediately starts putting on his suit. Likewise, I put on my hoodie. As he prepares to teleport I walk over to him and touch his elbow, bringing me with him as he appears outside the bank.
+I ran. I didn't call for help, I just ran. No one caught me, somehow, and he died that night in a hospital bed. Not from the cancer eating away at him, but from my fists. I cried the whole night, and couldn't sleep for three days because every time I closed my eyes, I saw his mangled little face trying to smile. That whole time, it was *me* I hated, not him. 
 
-A crowd is pushing out of the bank, there are gunshots, I pretend to be a scared civilian and get ready for something even more exhausting than last night. Didn't need direct control that time.
+That night, I went home and punched myself in the face as hard as I could. I wanted to give myself a taste of what I'd given the poor boy in his last few hours, to feel what he felt, but no matter how many times I hit my face... I felt nothing. I checked a mirror to see if I'd just broken myself, but I looked sharper than ever.
 
-*I should probably just teleport in there and start punching people,* Hans thinks to himself. The idiot. *Or, or maybe I could teleport over to Superbman and get him to do the punching.* That's better, but still not good enough. I checked, and the people in the bank have three trained gunmen.
+Ever since then, I've haven't been able to hurt someone with a punch. In fact...I heal them, like my hands are imbued with the life I stole from him. Hands I'm afraid of, because I know he's haunting me.
 
-**PUNCH!** Superbman thinks, or maybe he screams, hard to tell at this point, as he sprints into the bank. *Must get more help,* Hans decides, swiftly teleporting off to Laura and Wormface and bringing them into the back of the bank. 
+I don't know how...
 
-*I'll drop each one off behind one of those scarier looking gunmen.*
-
-**PUNCH!**
-
-And so on, endless streams of either useless or forced thoughts as I control the world's most inept superheroes to make sure they don't get themselves killed. People are so stupid, at least, they are compared to someone who can control five minds at once.
-----
-
-# [WP] Your ex has suffered an accident and has amnesia, only remembering up to the point where they still deeply loved you. You're torn on wether to get back together with them and fix anything you did wrong, or crush them with the fact that you're not together anymore.
-
-Score: 544
-
-"Right this way," said the nurse as she led me out of the waiting room and through the long, empty hallway. I followed behind her slowly, not quite sure on where I stood with the issue at hand. After all, Rebecca had moved on since I had broken up with her. I hadn't spoken to her in over a year and I don't believe that any accident - no matter how tragic - would have her requesting for me to come see her, even before her closest kin.
-
-After turning a corner, the nurse walked towards the first room on our right. She twisted the knob and went in before me, speaking softly, "Rebecca, someone is here to see you." She opened the door the rest of the way for me, and I entered. The first thing I noticed about my ex was her elevated, right leg wrapped from hip to toe in bandages. I looked towards her face which was bruised, red, and raw, but smiling wide. 
-
-"Baby!" She ousted, through a happily, choked-up voice. 
-I couldn't say anything, so I smiled. 
-"Now," started the nurse, "I'll leave you two alone. But remember, she's had quite the head injury so be careful, no excessive movements."
-
-With the nurse now gone, I dreaded this confrontation and began to feel anxious. 
-
-"I was so scared, Justin," she said, "thank God you're here!" She opened her arms up and I reluctantly hugged her. Despite smelling like like a retirement home, I still caught whiff of her scent.
-
- I had always smelled this particular scent when we'd spoon. It was strong in her hair and I used to nuzzle my face right up into it and kiss her on the back of the head. 
-
-After her arms let me go, she grasped my hand with hers and squeezed it tightly. I squeezed back. 
-
-"When I woke up, all I could think of was last week when we went to the pier and what you had said to me... I was in awful pain and demanded that they'd call you immediately."
-
-The pier had been two years ago. We went on a Sunday morning, hoping the crowd would be smaller at the end of the weekend. We were wrong. The weather was perfect: the sun warmed everything it touched with only a few clouds above, all of which were seemingly only there to complement the blue sky. The place was packed so we decided to explore the beach beneath the pier. 
-
-Another nurse came into the room and spoke up, "just checking her vitals real quick." And she did as such. I sat there silently holding Rebecca's hand, staring directly into her eyes. The nurse, after a few minutes, left. Again, in that same, happy, choked-up voice, she said, "I'm so happy you're here right now. I can't believe I almost died today... You must have been so worried."
-
-"I... I was," I said, almost as choked-up as her. 
-"I promise you I'll be more careful driving from now on..." tears filled her eyes.
-"It's okay, sweetie," I said, leaning over the bed to give her another hug. She wrapped her arms around me more tightly than she had ever before - amazing strength for someone who had been in an accident only a few hours ago.
-"I love you, Justin. I always will. Forever." She squeezed even tighter. 
-
-That day under the pier, I sat up in the sand with Rebecca wrapped in my arms. We had been there for hours talking and watching the waves continuously blanket the sand and then retreat back into the sea. The sun, now bright orange, began disappearing behind the blue horizon. "I never want this to end," I said. 
-"Me neither," she replied, "this sunset is perfect." 
-"Well, that AND you, but I think you've got it beat." 
-She turned around and kissed me as the sun finally vanished entirely, leaving only a red streak upon the sky.
- 
-"Rebecca," I looked into her eyes.
-
-"Yeah?" 
-
-"I love you. I always will. Forever."
-----
-
-# [WP] Long ago, someone wished that all dragons would become housecats. Now, the magic of the wish is weakening and they are slowly starting to turn back.
-
-Score: 515
-
-"... the hive of dragons erupted off of 3rd and Main Street earlier as police were trying to do their best to evacuate the area."
-
-The news droned in the background as I looked at Elizabeth, who didn't seem to be phased by the whole thing.  
-
-"You know, honey," she pointed towards the screen, "I think I might know that lady."
-
-"Oh?"
-
-"Yeah, she used to bring cats to my vet all the time," she muttered and thought for a moment, "Yeah, that has to be her..."  Her voiced wandered off as our dog skipped into the living room, his tongue hanging out of his mouth.  He gave me a cheeky smile as I signaled for him to sit on my lap.
-
-"Good boy, Odie!" I laughed as he jumped onto me and began to lick my face, "Calm down, I'll get your dinner soon!"
-
-"Speaking of dinner, Jon," Liz suddenly looked alert, "Where's the cat?"
-
-"Oh, him?"  I laughed as Odie jumped back onto the floor and started to chase his tail, "I'm sure he's fine."
-
-"You should know where he is," Liz pointed out, "With everything that's been happening... you never know if he's turned into... into one of *them*."
-
-"He's a lazy cat," I reassured as I wrapped my arm around her, "He's probably sleeping somewhere around the house."
-
-"If you say so."  She didn't look entirely convinced.  
-
-My stomach grumbled moments later as Liz laughed at me.  I blushed cheekily and pointed towards the kitchen.  "Don't get up," I smiled, "There's some leftover lasagna in the fridge.  I'll just reheat it." 
-
-"We had lasagna?"  she looked surprised but went back to the news, "Do whatever you want, Jon."
-
-I chuckled nervously as I headed into the kitchen.  Odie was now sitting next to Liz as both of them seemed glued to the television.  I opened the fridge door as a cool blast of air hit my face.  I took a deep breath as I grabbed the plate of lasagna  and slowly walked out the kitchen door.  My backward was a mess, perhaps as a result of the dragons that had been flying around everywhere.  I carefully stepped through the leaves as I approached the tool shed.  I had built it myself for protection against the dragons, but recently it had served another purpose.  As I stood in front of the door, the sign glaring at me: 
-
-**Jon Arbuckle's Shed!  DO NOT ENTER!**.
-
-Liz had never entered it for she found no need to.  I quietly knocked on the door and creaked open the door.  "Hey, you in there?" I called, "I brought you lasagna..."
-
-The door slammed shut behind me as a giant mass of orange with black stripes greeted me.  Through his scales and spines on his back, he opened in mouth in hunger, drool slowly dripping onto the floor.  He straightened to full height as I looked up at what was my former feline companion.  The dragon's head hit the ceiling and shook the shed, knocking me to the ground.
-
-"Garfield, I swear to God!" I hissed as I picked myself up, "You're going to get caught!"
-
-I tossed him the plate.  The dragon slowly sniffed the plate and swallowed it in a second. 
-
-"Cat or not," I took the plate, "Nothing's changed about you, Garfield." 
-
-"Actually, Mondays aren't so bad anymore Jon," he shrugged his wings at me.
-
-I paid him no attention as I walked out of the shed.
-
-_________________________________________________________________
-Hope you enjoyed the tribute!  /r/AvuKamu
-----
-
-# [WP] People lose the ability to deny requests. They must either a) fulfill them or b) ask someone else to do it. There are volunteers who take bad requests in exchange for compensation or exemption from law. Write about the life of a volunteer.
-
-Score: 514
-
-Welcome. I understand you wanted to see a sample of my work before we get down to business. Take a look at this transcript;  
-
---------------------------------
-
-"That'll be $600."  
-"You're kidding. Just for a favor this small?"  
-"Bud, don't bullshit me. You came to me because you can't do the favor yourself."    
-"That's not why I---"  
-"*And* because it can't be passed down any further. I'm the one on the end of the chain aren't I?"  
-"... Yes."  
-"You need the favor off your back."  
-"Yes."    
-"$600. Pay up, or do it yourself."  
-"Damnit, fine, here! You take card right?"  
-"Yeah. Slide it there. Good, the payment's been accepted. Now tell me, what's the favor?"  
-
------------------------------------
-
-It's always the same with the small-time volunteers. They take more than they can chew. The favor chokes on them like a bad meal. A sticky glob. Can't sink their teeth deep enough to break the favors down into small, manageable sizes. The newer volunteers get too greedy for their own good.  
-
-So they come to me. And I always charge interest.  
-
-Never easy getting a favor off your back. Can't just, reimburse someone and give it back to them. Favors don't work like coupons. Someone asks you to do something, you either do it or pay for a volunteer's services. The bigger the favor, the more times it can travel down the chain. The closer a favor gets to an expiration date, the more expensive it gets. At one point, the favor can only make one more trip.
-  
-So they come to me. And I always charge interest.  
-
-When they're gasping for breath and outta options, I remove the favor. They get to breathe again, all light and free of the burden. Like their wallets when I'm done with them. But how can I take payment *then* accept the favor?  
-
-You see, I'm special. The weight of a favor never begins to crush on me as a deadline comes. And when it comes, I'm already prepared. Understand that a person of my position is never asked to *complete* the favor. The small-time volunteers, the fresh faces, the overworked ones who have a favor they forgot about... they just want it gone.  
-
-So they come to me.  
-
-------------------------------------
-
-Dear Sophia,
-
-Sorry Frederick was unable to drive you out to Seattle for Mother's day like you asked him. He already bought a ticket to Florida to see his own, so he asked a volunteer, who asked a volunteer, who asked a volunteer, who approached me to do this favor for you.  
-
-Unfortunately, I've also bought a ticket to see my mother that day, who lives in Arkansas on her lonesome. Maybe you should have planned out your weekend. I'd reevaluate how you go about setting aside time for your parents and making the commitment to set plans yourself that don't rely on a man abandoning their mother on Mother's day.  
-
-Sincerely,  
-
-A volunteer.  
-
-------------------------------------
-
-Such is my craft.  
-
-There are few of me, and many of them. Most would break under the favor and do *everything* to finish it. But again, people don't come to me to see the favor done. They just want it off their backs. So I always charge interest.
-
-I am an expert of the evasion. An artisan of the alibi. The weight of a favor can only slide off a person under a *very* particular path. A path that takes a unique set of skills to create under a short amount of time.   
-
-Allow me to introduce myself. I am the Procrastinator, master of favor-removal. And I never come cheap.   
-
-What can I do for you today?  
-
------------------------------
-
-*More at r/galokot, and thanks for reading!*  
-----
-
-# [WP] Your roommate is 2nd most powerful superhero in the world and he will not shut up about it. He does not yet know that you are the 1st.
-
-Score: 499
-
-"Chriiiiis!" Dillon bellowed. I entered the living room to see the blonde moron in his Power Guy uniform, lifting the coffee table, sofa and plasma screen TV. 
-"What?" I asked, annoyed. I'd spent all night working on my lesson plan for my first day teaching at Key Academy and had little time for his bullshit. Everyone in Altion City knew Power Guy, and how could they not? With super strength, laser vision, flight and invincibility to almost everything, Dillon was their idol; voted second most powerful superhero. In college he'd often take a rain check and fly off to fight some monster from space or a giant mole creature, while I took his notes for him. Now, I was the only one getting a job, while Super Idiot did jack shit. Now, he was going to wreck *my* stuff, stuff that I'd paid for, all for some joke. 
-
-"Bro, Centaurette is hosting this party tonight at Nighthawk's mansion, you want to-" Dillon began before his stack of furniture began to fall. I sighed, imagining the flow of time to slow, first to a crawl and then to a complete stop. Everything froze in place while I moved the furniture back to the way they were before Dillon messed with them. As usual, they drifted through the air like balloons when I moved them. I sighed and restarted time, the familiar light blue filter fading back to normal color as time started up again.   
-
-"-go?" Dillon finished, blinking. "Where'd my lifting stack go?" I took a weary sip of my coffee and shrugged. 
-"I dunno, maybe a speedster got to it. Anyway, I'm not going, job starts on Monday." i said, turning to head back into my room. Dillon nodded and put on his domino mask before heading to the window. 
-"Suit yourself my unpowered companion!" he crowed before rocketing off into the sky. I watched him go before heading back to my room to resume working. The thing about being the first most powerful superhero on Earth is having a good cover. And being the Unpowered roomie of the second most powerful metahuman on Earth is a perfect cover. No special name, no costume, just a man. And I like it that way. 
-
-----
-
-# [WP] You just got fired, you're pretty sure your girlfriend is cheating on you, you're 75k in student loans debt, rent was due last week, and to top it all off? You're all out of beer. Oddly enough, you just got an email titled "Would you like to change the difficulty? Current setting: Very Hard."
-
-Score: 497
-
-**Would you like to change the difficulty level?**
-
-El sucked at the lip of an empty Corona, studying her reflection in the sun-bright screen. 
-
-No makeup. Too-fat mouth. Short hair still manic from the pillow where she'd sheltered, feigning sleep, while Jackie texted with her ex. She'd considered calling her out, raising hell, hurling invective and glassware until the girl fled, but even a cheating partner was better than nothing. She'd let the tryst continue.
-
-Her focus flickered back to the email. 
-
-**Would you like to change the difficulty level?**
-
-The sender field was blank, as usual. Whoever kept sending these, week after week, must have scheduled them out for months in advance. She moved it to the Spam folder, only to see another message take its place.
-
-**Would you like to change the difficulty level?**
-
-El shook the Corona. Nothing left. She could see the empty fridge in her mind. Nothing but condiments and molding bread and Jackie's homemade (putrid) sun tea. She tilted the bottle back and felt the last drop flatten, warm, on her tongue. 
-
-**Would you like to change the difficulty level?**
-
-Home row. Index on 'J.' Her fingertips hovered. Hammered. Replied.
-
-*Will this affect my achievements?*
-
-Send.
-
-She might not have beer or love or work or hope, but her snark was intact. That was something. Right?
-
-A new, bolded subject line. 
-
-**Would you like to change the difficulty level? This will not affect your achievements.**
-
-*Sure. Let's change it.*
-
-**Please choose a new difficulty level.**
-
-*What are my options?*
-
-**Current setting: very hard. Options: easy, average, hard, very hard, impossible**
-
-El considered. 
-
-"Easy" could mean a lot of things. A story mode game with a heart-breaking narrative. An uninterrupted foray into fantasy. But it could also mean slogging through worlds robbed of challenge. A smothering softness. Life with no edge.
-
-She looked toward the bed, at the rumple of sheets on Jackie's side, at the bottle of Corona sitting empty, at the contortion of lime collapsed in its neck, at the credit card statements that fanned from the table. Would an easier life be better? Would less stress mean more happiness?
-
-*What would you choose?*
-
-The inbox sat quiet.
-
-El sighed, stood. Hooked the neck of the bottle between her fingers and walked it back to the kitchen sink. The recycling was full, piled high with useless catalogs. Beneath the first two: a ticket stub. Something artsy. A date. Jackie-- overconfident--barely even trying to hide the affair. 
-
-The inbox pinged.
-
-**Would you like to change the difficulty level?**
-
-She took the recycling to the curb. Made the bed. Stacked the bills.
-
-Tomorrow--Sunday--she'd ask Jackie to leave. She had unemployment coming. Enough, maybe, to make the rent on her own. And if not, there were other rentals. Other women. Other ways.
-
-El leaned over the keyboard, squinting through the screen glare, and typed her response.
-
-*No.*
-
-She hit send.
-----
-
-# [WP] At a regular high school, every student coincidentally happens to be a superhero. Thus far, every student has managed to keep their secret identity a secret. When a supervillain attacks the school, each student believes he/she is the target and tries to maintain his/her secret identity.
-
-Score: 493
-
-As I spun the little wheel on my locker, the entire hallway shook. For just a moment, I was worried: was that me? I'd gotten pretty good about controlling my strength, but I still had the occasional accident. Other students glanced around, no doubt also wondering what it was. Maybe an earthquake? Then a ferocious howl echoed through the school, and I heard the distant sound of a wall crumbling. It was *Banshee*. 
-
-Next to me, my friend Matt paused with his biology book still in his hand. His eyes were wide with fright. *I* could easily take down the Banshee, but I was no ordinary student like him. Secretly, I was also Rex, superpowered guardian of the city. I just needed somewhere I could put on the mask and take off my clothes in privacy. 
-
-"I have to go to the bathroom!" I shouted.... just as Matt shouted the exact same thing. Damn! Of all times, why would he need to go *now*? He should be running! Another howl echoed through the hall, and the other students began to flee in all directions. Some were stupidly running *toward* the noise. Just more people I'd have to save.
-
-"Ok... I'll just go to the one upstairs." I couldn't go to the same one as Matt; he'd see me change. Before he could say another word (or question why I wouldn't go use the one right around the corner) I dashed down the staircase to the third floor bathrooms. 
-
-"Oh, come *on*!" There was already a line of seven or eight other students waiting in front of the door, each one stamping their foot impatiently and casting worried glances. Outside, I could hear the Banshee's roars and the sounds of more walls coming down. I didn't have time for this crap! Why does the whole school suddenly need to take a leak?
-
-Instead, I bolted to the nearest classroom. It was lunch, so it would be empty, right? Locked, but empty. I twisted the doorknob, applying just enough strength to shatter the lock into pieces. 
-
-"HEY!" Before I could even open the door all the way, I caught a glimpse of someone else inside, half-naked and wearing a pretty convincing replica of The Crusader's mask. What the hell? This person should be evacuating the building, not stripping down in the classroom and pretending to be a superhero. I needed this room, damn it! What is wrong with this school??
-
-Fuck it. With a quick glance around to make sure no one was watching, I broke through the wall and went flying through the hole outside, putting on my mask amidst the rubble and dust. Just as swiftly, I tore off my backpack and clothes revealing my costume underneath. All of my stuff rained down onto the patch of grass below, along with most of the wall. It would be a bit hard to explain how everything got there, but I'd worry about that *after* Banshee was defeated. 
-
-I swooped over the buildings and into the school courtyard... only to find Banshee on the ground already. I counted *twenty three* of the city's heroes there already. There was Ms. Marvelous, standing between Capt. Lightning and Argonaut. *How the hell had they responded so quickly??* Before I even landed on the pavement next to them, four more heroes came running into the courtyard. 
-
-By the time the police arrived to haul the Banshee off, there were fifty two of us just sitting around chatting, with more arriving every minute. I made the rounds, shook hands, then took off to find all of my clothes and everything still in the bushes in front of the school. Before anyone knew what had happened, I was right back at my locker.
-
-"You hear about the Banshee?" Matt asked from behind me.
-
-I nodded. "Yeah... I, uh... saw the cops carrying him away. Crazy, right?"
-
-"Yeah," Matt responded. "And the weird thing: some of the other heroes... err, other *students*, I mean, were saying that he was trying to get the school's *mascot*!"
-
-"Weird." I gave a laugh. "You think those assholes over at Kennedy High put him up to it?" Referring, of course, to our rival school. Homecoming was just a few weeks away, and they're really the only ones with the motive to go after our mascot.
-
-"Ha, maybe." Matt went to open his own locker.
-
-"Hey, maybe Banshee's a *student* there!" I joked. "They are pretty evil, after all!"
-
-Matt was silent; he suddenly seemed troubled. "No... that's... that's crazy. Couldn't be."
-----
-
-# [WP] Humanity meets an immortal being, who can answer any question, except for "Does God exist?". One day, the being is tricked into answering.
-
-Score: 492
-
-My first year of communication with Earth was nearing its end, thankfully. 
-
-“How many more of your species exist?” The speaker blared with yet another question.
-
-“We do not count the individuals. We are all one.” Another unsatisfying answer for the humans but that is what they get for applying their logic to my species. They had been asking questions non-stop since I had arrived. It has been best to communicate through their electronics since a casual look at their history has shown them to be violent and unpredictable. 
-
-“But how do you have competing…” The humans question had been cut short. The crowd inside the transmission station had pushed him away. I had informed them they may ask any question but I would not answer them all. At first they simply shouted their questions over one another. They broadcast videos, radio, screamed into phone lines, spammed message boards. Anything to get their questions in electronic form hoping their question would be next.
-
-“Do crabs think fish can fly?” The high pitched voice of the next human rang out in the nearly hollow space craft. 
-
-“No, crabs do not possess the capacity for abstract thinking.”
-
-“Do any other species have abstract thinking?”
-
-This human was lucky, she actually got a second question in. “None that are currently alive.” The human was ushered off stage as the answer rang out. Each person was allowed twenty seconds ask their question, a system that was put in place after the first month of chaos. The line of people waiting their turn was months long at this point. 
-
-“Does god have a plan for me?” Said a small voice. I gazed back at the video feed of the human asking this question, a young woman wearing a small gold cross.
-“I cannot answer that.” No questions about the creator, that was the one rule. It did not stop them from trying. 
-
-An old man with thin rimmed glasses was next up. “Is it possible to travel faster than the speed of light?” I enjoyed the questions from the scientific community the most. They received the most thorough answers.
-
-“You cannot move faster than light, but you may arrive at a location is less time than it takes light to travel there.” 
-
-“So worm hole travel is real?”
-
-“Yes”
-
-A small boy, no more than twelve year old stepped up next. I despised children and their asinine questions but if this is how the human wanted to waste my time then so be it. 
-
-“A-are you the smartest b-being?” He squeaked, stammering out his question. 
-“No” I leaned back and stared at the metallic roof of my craft. 
-
-“So could you make a math problem so hard that you could not solve it?”
-That question sounded vaguely familiar. “I could not”
-
-“But it is possible then?” I looked back toward the video feed. Why was he not being moved along, surely he was over his time limit. 
-
-“Yes it is possible”
-
-“If no other creatures have abstract thought and you are smarter than humans then that implies that there is another being in this universe that is smarter than you.” He said with more confidence in his voice. 
-
-Why wasn’t the crowd stopping this boy? 
-
-“So then you’re implying that there is something greater than you. Something you would not consider alive in the typical sense. There is a creator.”
-
-“I cannot answer that.”
-
-“That wasn’t a question.” 
-
-----
-
-# [WP] Every aspiring superhero must become a sidekick for a few years before being granted full time hero status. You are the strongest superhero in your age group, but believe you have been assigned to the weakest hero. You learn a lot more than you originally thought you would.
-
-Score: 481
-
-I was fourteen months old when my parents realised I was different. It was bath time, and I wanted no part of it. They lowered me into the tub, kicking and screaming, and the water parted like Moses and the sea. At least, that's what I've heard in the countless renditions of the tale.
-
-Being born with an innate ability to control liquids meant I never had to hold a mug or carry an umbrella, as long as I was in the company of my family. You see, I was taught to keep my gift a secret before I could walk. "People just wouldn't understand", I was often told. Posters of super heroes adorned my bedroom walls, their action figures crowded my shelves. I would lie in bed and look up at them at night, eagerly anticipating the day I could join them in their ranks.
-
-I attended a normal public school like every other child, but when my friends were heading off to college I was secretly enrolled into a school for 'gifted individuals'. It was there where they taught me to truly hone my gift. Finally allowed to embrace my power, I would spend hours practicing, sculpting water into fantastic shapes for my peers. I slowly grew stronger, more skilled. What were once rain drops and puddles were now ponds and swimming pools.
-
-It was all over sooner than I liked. The time suddenly came for me to graduate and assume the role of side kick for an already established hero. I shouldered and elbowed my way to the front of a crowd of excited graduates that had gathered around a notice on the wall. I quickly scanned the list for my name. Disappointment hit me like a ton of bricks. "Seriously? *Him*? Of all the heroes, I get *the fucking weasel*?", I moaned out loud. 
-
-"Hey, maybe you can help him with his taxes", chirped someone from behind me, amongst laughs and snickers. I snatched my envelope from the table nearby with clenched teeth and stormed off, seriously considering quitting the programme entirely.
-
-I stood on the street corner a few days later with his address in hand, staring doubtfully through the rain at this guy's equivalent of the 'bat cave'. It was a rickety, run down old building sandwiched between two taller red-bricked apartment blocks. Window shutters hung precariously from their hinges and the roof was missing far more than one shingle. "What is *with* this guy?", I muttered out loud. Superheroes were supposed to be surrounded by high tech screens and speeding sports cars, not some crooked, ancient shack. Driven by a desire to complete my studies and become a superhero myself, a *proper* superhero, I swallowed my disgust and crossed the street.
-
-I knocked three times and had to wait only a few moments before he was at the door. An older gentleman, shorter than I was expecting, filled the door frame. Round spectacles sat on his face beneath a rapidly balding head. "Yes?", he asked quietly.
-
-I had known almost nothing about Eugene, although he had been arguably more famous at school than maybe even Superman himself, although for entirely different reasons. Nicknamed 'The Weasel', nobody had quite known why he was the only registered superhero to never respond to any crime or impending disaster in the institution's recorded history. Though, of course, there were plenty of rumours.
-
-"Can I help you, young man?", he asked again. I could see why he was nicknamed so now, his mannerisms were somehow decidedly *weasel-like*. Even the wilt in his voice cast the mind to thoughts of the critter.
-
-"Yes sir, I'm your new, uh...", I cast a weary eye over my shoulder and dropped my voice slightly, "uh, *apprentice*".
-
-"Oh, that's alright boy, no need for the secrecy", he said, smiling slightly. "Nobody important comes poking around here. Come on in out of that weather."
-
-Inside it was warm and musty, as if the air hadn't moved in a long time. "Now, what is it that you do, uh...?".
-
-"Mitch", I assisted.
-
-"What is it that you do, Mitch?"
-
-"I do?"
-
-"Your power."
-
-"I can influence liquid."
-
-"Is that so?"
-
-I turned to face him. As I stared at him with a slight grin, the raindrops on my coat began to rise, slowly coalescing into a perfect sphere between us.
-
-"Impressive."
-
-"Thank you. And what is it that you do, Mr Lunder?", I asked, dropping the ball of water into a vase nearby.
-
-"Please, call me Eugene", he said, handing me a handkerchief.
-
-"What's this for?"
-
-He smiled at me. "Let's just say, I can tell when things are going to happen."
-
-"You think I'm going to sneeze?"
-
-"I *know* you're going to sneeze."
-
-Sure enough, before I could answer, I felt the uncontrollable desire to sneeze begin to build in my nasal passage. I blew hard into his handkerchief, but not before making sure it was clean first.
-
-"Bless you."
-
-"Wow, that's amazing! How long can you tell before something happens?"
-
-"Oh, not very long. A few minutes would be stretching it."
-
-"Why aren't you using your powers for good?"
-
-He raised his eyebrows. "For good?"
-
-"Like, out there fighting villains and shit with the rest of them? You could predict punches before they land!"
-
-He chuckled. "Oh, I'm not one for such antics. It's all about performance with them, isn't it? All throwing fists at each other, trying to make tomorrow's front page. I've never even been in a fight! Besides, I don't see myself wearing spandex any time soon..."
-
-"But what about the fame? The money! The girls! Don't you want any of that? One day, I'm going to have the fastest car money can buy and it will shoot water instead of bullets!"
-
-"Like a fire truck?"
-
-"What? No! What kind of superhero drives a truck?", I laughed out loud. "Any superhero worth his salt has some kind of suped up sports car or motorcycle. It has to be voice-controlled, have cloaking ability, covered in weapons and, I don't know, maybe even be able to fly."
-
-He chuckled softly, shaking his head. "My boy, you have no--". His head shot up, eyes wide. He stood there for a few seconds, almost staring through me, focused on some non-existent point far, far away.
-
-"Something wrong?"
-
-"Quick! We have to go. Come with me!"
-
-"What's going on?"
-
-"Hurry!"
-
-He lifted his jacket off the coat rack and slipped it on with amazing speed. I followed him out into the drizzle as he hurried down the sidewalk. He had an impressive stride for such a short man; even with my foot or so of height over him, I had a hard time keeping pace.
-
-"May I ask where we're going?"
-
-"Just follow me. Quickly now!"
-
-We turned two corners and came to a rest outside a grocery store, huddled under an awning.
-
-"What are we doing here?"
-
-He rose a finger to his lips before grabbing me by the arms and thrusting me into a spot just beside the shop's glass door. I was amazed by the strength this old, frail man had. There was definitely something 'super' about him, although you couldn't tell for looking.
-
-"Ever play any baseball?"
-
-"A little in high school"
-
-"What position?"
-
-"Fielder mostly"
-
-"Perfect. Wait right here."
-
-He stepped out from under the awning and took position alongside the road. 
-
-"What is *with* this guy?", I muttered softly for the second time today. 
-
-A few moments later, the shop's door swung open, accompanied by the faint ring of a bell and the noise of conversation inside. A young woman stepped out with a paper grocery bag under one arm and an umbrella under the other. It might have been the cold air or the damp road, but she suddenly remembered the reason she carried that umbrella and set about opening it, crossing the sidewalk in front of me, still clutching the grocery bag to her side. Her attention not on her feet, she stepped into a puddle and lost her footing, slipping on the wet surface.
-
-She spun wildly, trying to catch herself. As she did so, she sent her umbrella and grocery bag flying. The umbrella clattered onto the ground, the paper bag right into my open arms. I looked up, astonished. There he was, almost hidden by her, holding her securely under her arms. Then it hit me. *He knew.* He had planned this all.
-
-"Steady on", he said kindly, helping her to her feet.
-
-"Wha? I... thank you!", she said, clearly frazzled.
-
-"Not at all. How lucky that my grandson and I were here to help! And look at that, he's managed to save your groceries. We were just entering the store ourselves."
-
-"I can't thank you enough", she gushed, straightening her coat.
-
-"Well, you're very welcome. Do try and be careful where you step, lots of accidents in this weather", he said, handing her her umbrella.
-
-She smiled at me as I passed over her grocery bag, thanked us again, then set off on her way down the sidewalk with a more ~~weary~~ wary gait. I turned back and found him leaning against the grocery store wall, cleaning puddle water off his glasses.
-
-"All in a day's work, my boy", he said behind grin.
-
-"That was awesome!". I struggled to contain my enthusiasm at that point. "How often do you do that?"
-
-"As often as I can. I've spared many a sprained ankle or broken arm, you know, but every so often I get a chance to do something far more meaningful - save a life. You'd be surprised just how many people cross the street without looking around here."
-
-As he stood there before me, wiping his foggy spectacles, I began to realise that I really was in the company of a superhero. One that sought not fortune or fame, but the wellness of others, even those he'd never met. Enamoured with my adolescent thoughts for capes, cars and crap loads of money, I'd never realised what it truly was to be a *super* hero. I stood for a moment in silence, humbled entirely by this small man before me.
-
-"Right", he said, pushing the frames squarely onto his face, "ready for lesson two?".
-
-----
-
-# [WP] You are at the park with your kids, when you see the telltale signs of a lightning strike. You divert your kids from danger, but are hit by lightning. Soon after, you discover that your Dad Senses have increased 100 fold.
-
-Score: 468
-
-When he woke up, the first thing he saw were his children bending over him. He glanced up at the sky, the dark cloud hanging over them, and wondered what had happened. 
-
-"Oh my god, you got hit by lightening!" cried Michael, the oldest. He was clutching his phone to his ear. John, the youngest, was crying loudly and holding his brother's arm.
-
-He heard the tinny sound of an operator picking up on the line. "911, what is your emergency?"
-
-Michael began to cry as well. "My dad got hit by lightening!"
-
-"Where are you?" 
-
-"Pleasant Valley park, by the swings. Hurry!"
-
-He looked around as much as he could without picking up his head. Yep, the swing set.
-
-"OK, we are dispatching an ambulance right now. In the mean time, check on your father. Is he breathing?"
-
-Michael looked at me, his eyes darting to my chest. "Yes, he's breathing. He's awake."
-
-"OK. Ask him how he is doing, if anything hurts."
-
-Both of the boys looked at me. John let go of his brother and touched my shoulder. "Are you OK?"
-
-I opened my mouth, dislodging my dry tongue from the roof of my mouth. "No, I'm not OK." John started to cry again. "I'm Dad."
-----
-
-# [WP] It's the year 5016. Archaeologists have a skewed and inaccurate view of what life was like in the 21st century.
-
-Score: 460
-
-An archaeologist sat and scanned through the final documents of his project. All seemed in order. The dates for everything had been checked and scrutinised, the earliest artefact dating from around 2003, the latest somewhere close to 2088. He began to relay his findings to a new member of staff.
-
-“So we think that around the early few decades of the 21st century, this new totalitarian civilisation really began to thrive. It was led by a single figure, a God. You can see by the orange, vacant stare of the eyes and that wild smile. He was in control.”  
-
-“So they really worshipped this guy?”
-
-“Totally. He was like, the leader of the world. Any changes, any advancements, affected everyone.” 
-
-“Everyone?” 
-
-“They needed him. How do you think they paid for things? ‘Upvotes’ were the means to everything. Buying, selling, trading, validation, self-worth. It all came down to numbers. News came through from him, entertainment came from him, it was all through his word. I don’t want to imagine what happened to those who got ‘downvotes’.” 
-
-They sat back for a second and pondered.
-
-“And he was the head figure?” 
-
-“A dictator of sorts. A silent, muted character. Didn’t say much, but was always just…there. People separated into tribes, colonies. You had those who were known as “OP’s”. Information came mostly from them and then others would feed off of it, discussing it. Then you had “moderators”, a sort of policing of the people. They could remove people from society, or ban them from certain areas.” 
-
-“Areas?” 
-
-“Well, they were called subreddits then. Presumably, they were extensions of the dictator’s motives, cities under his ruling. They’d be sectioned off and kept to only discussing specific things and any off-topic conversation would be met with force from a moderator or a bot.” 
-
-“Sounds brutal.” 
-
-“Oh it was. An entire population at the mercy of “moderators”, scrounging for “upvotes” just to survive. Each person had “karma”, a sort of credit score. If you had a higher ‘karma’ number you were deemed more valuable, more experienced. It defined them as a people.” 
-
-“I can’t imagine living like that.”
- 
-“And then there was ‘gold’. Presumably it was a secret, more elite group. They had access to resources that most others didn’t. They could filter things, tailor their information. From what we can tell, normal citizens would scrounge amongst themselves in the hope that they’d get access to this ‘gold’. It was a rare and violent occurrence.”
-
-“What did this society call themselves?” 
-
-The archaeologist looked up from his papers. 
-
-“Reddit.” 
-
-----
-
-# [WP] When a wise man declared you The Chosen One, everyone poured their resources into training you. Now, you are prepared to face the Final Battle--which would be great, if you hadn't discovered that the 'wise man' was a random guy who liked quoting epics.
-
-Score: 458
-
-The creature's wings dawned upon me as the flames continued to dance around me.  In the corner of my eye, the town was burning, screams of pain echoing through the night as I turned my attention to the dragon.
-
-"I am your death incarnate!" he roared as he launched its flame into the air, "You puny humans shall bow down to me when you're all burned!"  He flapped his wings as the wind tossed the debris around us.  Some dust flew into my eyes as I desperately wiped my face.
-
-"And you."
-
-He dragged his attention towards me and craned his neck towards me.  His head was nearly twice my size as he seemed to chuckle at our differences.  "You?  You are the human that the Gods have decreed will destroy me?"
-
-I lowered my shield and sheathed my blade, the bow on my back resting.  "I guess so."  I shrugged my shoulders.  Maybe if I had surrendered, the dragon would let me off easy.
-
-"Ahahahaha!" the dragon roared in laughter as he pushed down on his legs, "Your spirits will break, and your kingdoms shall collapse from my wraith."  In one motion, he leaped into the air and began to circle me, his wings knocking me off balance with every flap.
-
-"And now, you shall pay for your insolence!"  He continued to circle me as his voice echoed through the destruction, "Prepare yourself, Chosen One!"  He opened his mouth as the spines on his back began to glow a fiery red.
-
-I sighed as I reached over my back and prepared my bow.  
-
-*There's no way that three years of archery prepared me for this.*
-
-I let go and the wooden arrow pierced the air, falling short of the target.  The dragon unleashed a cone of flame as I quickly rolled to the side, the fire singing bits of my hair.   Without hesitating, I prepared another shot as the second arrow managed to find its target, only the arrow bounced off the creature's armored hide.  I tossed the bow to the side as I reached for my holster.  I pulled out a double-barreled hunting rifle as I knew I had to all-in on the one shot I had.
-
-"Your pathetic attacks do not hurt a God!" the dragon roared as he dove straight at me, "I grow tired!  This ends *NOW!*"  I felt the weight of the world force itself upon me as the creature dove closer and closer to me.   I took a deep breath and cocked the gun.
-
-*"I've got the beast in my sights!"* 
-
-I pulled the trigger and closed my eyes.
-_____________________________________________________________
-Hope you enjoyed.  Kudos if you got the reference for the ending.  /r/AvuKamu
-----
-
-# [WP] A device has been invented that allows the user to gaze upon Heaven or Hell. Hell is terrifying, and those who see it often need counselling. But their terror pales compared to those who witness God's domain.
-
-Score: 447
-
-Hell was bad enough, trillions of souls screaming out at once. Lakes of fire, gusts of wind that blew you hither and thither, horrible torture devices manned by even more horrible demons. There wasn’t a single happy face, all were suffering equally, and from the grotesquely twisted faces I could tell it was an inhuman level of suffering.
-
-I switched the goggles from the ‘hell’ setting to ‘heaven’. A warning popped up:
-
->Are you sure you wish to proceed? The heaven setting has been known to hospitalise and even kill people.
-
-I clicked yes and the goggles began to load heaven for me. It was empty.
-
-Acres and acres of sunny grassland, a soft breeze licked the grass and slightly cooled the warm sunlight. Trees of all sort spotted the fields, but there was nobody there. Not a single soul. I tore off the goggles.
-
-If nobody was in heaven, none of the great holy people; popes, saints, bishops, then what chance did I have? And there was only one other alternative.
-
------------
-
-[Click here](https://www.reddit.com/r/Wrobbing/) to see all of my short stories written for /r/writingprompts, and more!
-
-----
-
-# [IP] I'm Done As Promised <3 Mom [possible NSFW]
-
-Score: 421
-
-"She's always protecting you."
-
-My dad had always told me that my mom was watching over us.  Ever since she had died giving birth to me, he had said that she was always watching my shoulder.  When I was young, that was what I believed.    
-
-He gave me a chalk one day and said, "Whenever you are alone, write to your mother." 
-
-"Why?"  
-
-"It's a special chalk," he assured, "Your mother will be able to see everything you write with this chalk."  After that, I was determined that my mom would protect me no matter what.  In hindsight, it was probably an ordinary piece of chalk, but as a kid it meant the world to me.
-
-Of course when I was 8, a couple of the other boys during recess asked me about my parents and about the chalk.  
-"I live alone with my dad."  The answer was simple.
-
-"Why?" one of the bigger kids had asked.  He was a simple kid that liked to poke fun of everyone.  Maybe he had his own problems, maybe he didn't.  Last time I heard of him, he had his own logistics company, "Did your parents divorce?"
-
-"No, my mom's in heaven," I pipped cheerfully, "But she's always looking out for me!"
-
-I never found out what was so funny, nor did I understand why everyone was laughing at me.  But I do remember the senseless beatings I had received several years henceforth, kids poking fun and asking "Where is your mom now?" and "Why are you still writing with chalk?"
-
-I never let my dad know, but I always wrote on the sidewalk in front of our house, letting her know how my day was.
-
-*Mommy, I ate my carrots today.*
-
-*Mommy, I drew a picture of you in heaven.*
-
-*Mommy, I miss you.*
-
-But as I grew older, the messages were written less and less, but I had always kept the tiny bit of chalk in the back of my wallet.  
-
-Then came *that* day.
-
-I was in love with soccer in high school and made the team my freshman year.  And wouldn't you know it?  My dad wasn't able to drive me to my first home game, the big one.  The one that would establish my popularity.  Don't laugh, we all thought like that in high school.
-
-"I'm sorry, Andrew," he apologized that morning, "But I got a meeting and I won't be able to help you."  I was silent, betrayed by the fact that I wouldn't be able to play.  In hindsight, I could've probably called a friend but I couldn't control my emotions as I shouted, "THIS IS WHY YOU AREN'T MOM!"
-
-The dad was silent but left without saying another word. I saw the tear fall down his cheek as he went to work, and I felt awful.  My dad was both my dad and mom growing up, and here I was being insensitive.
-
-I took out my chalk and scribbled the last message I would ever write on the sidewalk.
-
-*I hate you.*
-
-My mother had abandoned me when I needed her the most.  She was never there for me.  She wasn't there for my first word, or my first steps.  I was filled with anger that day and chucked my chalk out into the woods.  I never needed it again, and I had accepted that my mother was gone from my life.  Or rather, she had never been there.
-
-Life had moved on and soon, I went to college out-of-state.  My dad had sent the occasional text and money, asking how I was doing.  It killed me over the years as I studied, whenever I got drunk I would always ask myself, "What were the colors of my mom's eyes?  What was her favorite song?"  I never knew love and graduated with a degree in engineering and a few friends.
-
-And it was the night before graduation.  Every damn paper turned in, every thesis corrected and submitted, and every exam was done.  My roommates and I hosted a party, the biggest one we had hosted as everyone continued to get drunk.  The music and alcohol was relaxing, but by the end of the night all of my roommates had left the place with other friends of the female variety.
-
-"Are you not coming?" one of them asked me. 
-
-"Naw," I let him down easy, "I'm going to relax."
-
-I cleaned up the apartment slowly to some Sara Bareilles.  As I hummed "Gravity" to myself, I couldn't help but notice the pavement on our balcony.  Some smart ass had brought some chalk along and decided to scribble all over the floor.  I gave a small chuckle and wrote a small message.
-
-*I'm done as promised.*
-
-It was short, but it conveyed all the frustration I had to deal with in my life until then.  But realizing the landlord would have a fit, I washed down the pavement, erasing all the messages for an hour and threw the chalk away.  I recycled the empty bottles and rearranged everything in its proper place.  I went to bed slightly drunk but satisfied.
-
-I woke up to a call the next day from my father.  It was strange, because he never usually called.
-
-"Hey dad."
-
-"Andrew, how are you?"
-
-"Just a little tired,  what's up?" I yawned.
-
-"I had a dream about your mother yesterday night," his voice was shaking, "She told me that she's proud of  you." 
-
-I sighed a little.  "Dad, we've been over this," I began, "I know you love her, but we need to-"
-
-"No Andrew," he interrupted, "She told me to tell you that you might have forgotten her, but she has never forgotten you."
-
-I scoffed as he continued, "We both love you, Andrew."
-
-"Alright Dad," I began to hang up, "I'll talk to you later."
-
-I hung up the call without waiting for a response.  My stomach began to rumble but I didn't feel the desire to cook.  "Maybe I can get some Dennys," I muttered as I reached for my wallet, "Hangover food's the best."  I walked out of the bedroom with a fresh T shirt and jeans, looking around the place as I left.
-
-Something out of the corner of my eye caught my attention.  
-
-The balcony pavement.  A scribbled message was still there from last night.
-
-*But that's impossible, I erased everything.*
-
-I moved closer and froze, a tear forming in the corner of my eye as I read the message I had scribbled last night.  
-
-*I'm done as promised.*
-
-It was my handwriting, but I knew I had erased it.  I reached into my wallet and looked through the back pocket.  In there, I found the very same small piece of chalk that I had thrown into the woods all those years ago.
-
-Below my message were two words written with it.
-
-*Love, Mom.*
-______________________________________________________
-
-Shoutout to /u/MikoLassen.  Sub to /r/AvuKamu if you like BBQ and tears.
-----
-
-# [WP] The year is 2231 and 99.9% of the population are morbidly obese. Superheroes begin to rise merely using above average fitness and health as their superpowers.
-
-Score: 406
-
-"Oh my god!" a woman shouted, her tricep jiggling like a bag of water as she pointed at the rooftop.  
-
-A man sat at the ledge, his chubby legs dangling over the side.  Pedestrians swiveled their hover-chairs around to get a look at the sight.  
-
-"Don't jump!" another man yelled.  "You-" he paused and took a puff from his inhaler.  "You have so much to live for!"
-
-"Somebody should help him," Richard said.  He urged his hover chair forward, but it moaned under his weight.
-
-"Who?" Michael asked with a snicker.  "You?  You're the fattest guy in New York City.  What could you do?"
-
-Richard looked away and mumbled, "Fair enough.  I'm going to get a quick snack.  Anybody want anything?"
-
-With all of his friends distracted by the spectacle, Richard hovered into an alleyway between two separate McDonald's restaurants.  Once he was alone, he leapt from his hover chair and detached the bag of sand from his stomach.  It clapped to the ground and his chair almost flew into the air, relieved of its burden.  He tore off the fake legs, arms, and face fat and leapt into action.  It took him just a matter of minutes to change into his costume and assume his other identity: Cardio Man.
-
-Cardio Man lightly jogged on the scene, evoking shocked gasps from the civilians.
-
-"Save him, Cardio Man!"
-
-"It's impossible!" another citizen said.  "The elevator to the building is broken.  Three people were in it at once and the cable snapped!"
-
-"Oh my god!" a woman gasped as the building ledge bean to crack.  
-
-The ground beneath the jumper would soon break away, carrying him to his doom.
-
-"Holy pre-workout, Cardio Man!" a voice said from behind.  "Looks like we don't have much time!"
-
-Cardio Man turned around to see a muscular young man stepping forward and munching on a granola bar.  
-
-"The Bulking Kid!" Cardio Man declared.  "What are you doing here?"
-
-"No time," he replied.  "You aren't strong enough to pull the man from the ledge.  And I'm not quick enough to reach the top in time.  Are you thinking what I'm thinking?"
-
-Cardio Man grinned.  "It's Cardio Time!"
-
-The Bulking Kid jumped onto Cardio Man's shoulders, and the superhero began to lightly jog toward the building.  A crack of stone broke away, and the spectators gasped in fear.  Then, without warning, Cardio Man's light jog broke into a moderately paced jog, and the citizens of New York applauded.  Within less than ten minutes, they were at the top of the twenty story building, thoroughly winded but otherwise undefeated.
-
-"Please save me!" the man at the ledge said.  "I want to live!"
-
-The man sat a few feet from his hoverchair, reaching his chubby fingers out for something to save him. 
-
-"I'll take it from here," the Bulking Kid said and, with that, he lifted the obese man back into his chair and the crowd applauded.
-
-The two heroes stood at the ledge of the building, triumphant.  Another citizen of New York saved.
-
-"Not bad, Bulking Kid," Cardio Man said.
-
-"Never would've made it here in time without you," he replied.
-
-"You know, you could jog that fast as well if you came by my crossfit gym for a quick-"
-
-"Fuck off, Cardio Man."
-
-[(Insert shameless plug for personal subreddit here)](https://www.reddit.com/r/thisstorywillsuck)
-----
-
-# [WP] It's the year 5016. Archaeologists have a skewed and inaccurate view of what life was like in the 21st century.
-
-Score: 399
-
-The American Civilization of the early 21st century had a Pantheon of Gods similar to that of Greece and Rome, where each deity was widely known across the continent and represented certain aspects of their civilization.
-
-The goddess of love, sexuality, and vanity, "Kim-kardashian" was known to cohort with most of the male pantheon, including lesser mythical beings like "Ray-J."
-
-Her godly husband, "Kanye-of-the-West" was known to proclaim his god-hood frequently. He also represented male vanity, and was the masculine archetypal counterpart to Kim-kardashian, the feminine.
-
-While the vain, cruel Kim-Kanye god-couple represented negative aspects of ancient America, their counterpart couple represented the positive aspects.
-
-The goddess of female power, talent, and ambition was known as "Beyonce."
-
-Her godly husband, "Jay-Z" represented the American idiom "pulling oneself up by the straps of their boots." It is said the Jay-Z was a poor boy who became a god by stealing a magical white powder and selling it on the streets.
-
-Lastly, many American myths feature a cherubic-like young godling similar to cupid, who was known to ensare young girls with music. Justinian Beleiber flew around the home of the gods, 30 Roc-a-fella, causing chaos.
-
-Now, let us enjoy an ancient hymn of Kanye-of-the-West, passed down for generations as a children's song.
-
-"I am a god
-
-So hurry up with my damn massage
-
-In a French-ass restaurant
-
-Hurry up with my damn croissants
-
-I am a god
-
-I am a god
-
-I am a god
-
-AAAAAAAAAAAAAHHHHHHHHHHHH!!
-
-AAAAAAAAAAAAAHHHHHHHHHHHH!!
-
-AAAAAAAAAAAAAHHHHHHHHHHHH!!"
-
-
-----------------------------------
-Check out r/TomTeller!
-
-Edit: Nice work! This really epitomizes pop culture's obsessive nature. Kanye-of-the-West got me laughing.
-----
-
-# [CW] Write a gruesome story using only euphemisms so than it can be read to a group of children without frightening them
-
-Score: 395
-
-"Uncle Teddy?"  
-"Yes Billy?"  
-"Where's my dad?"  
-"Your father is resting at my place for the weekend."  
-"Why, is he sick?"  
-"Well, I'll take it from the top. He went out last night to a, party. Yeah, it was---"    
-"A *birthday* party?"   
-"Sure. A birthday party, with lots of his friends. And there was LOTS of soda where they had the party. Someone's mother was, very generous. Your father drank a whole liter to himself and---"  
-"Was it Pepsi?"  
-"... Yes."    
-"Knew it! My dad's the best!"  
-"Hm. Anyway, your father drank a *whole* liter, and there were a lot of bubbles. Ever seen anyone drink a whole liter of soda Billy?"  
-"No Uncle Teddy, I haven't!"  
-"Well your father did, and wouldn't you believe it, he finished the whole thing!"  
-"Wow!"  
-"Yeah, it was... impressive alright. But there were a lot of bubbles in that liter. I had to take your father away from the party so he could, uh, burp the bubbles away."  
-"Hahaha, that's funny Uncle Teddy."  
-"It, it sure was Billy. There were lots of bubbles. He was burping for almost an hour. Just, too many bubbles. How could a man hold... hold that many bubbles? Jesus Christ."     
-"You ok Uncle Teddy?"  
-"Oh, sorry kiddo! Yeah, I'm fine, and, so is he! I'm just having your father relax somewhere quiet so he can get even better!"  
-"Uncle Teddy, I never heard of someone burping themselves sick before."  
-"Well that's why you never drink a whole liter of soda, even Pepsi. And your father, uh, *really* loves Pepsi. Even more than you. When you're older, I'll uh, show you how to drink it properly."  
-"How much older? I want to burp *real* loud and impress my friends too!"  
-"Impress your friends?"  
-"Yeah, Fred can burp the loudest, but I wanna beat him!"  
-"Hm. Well Billy, some things aren't meant to be a contest. You can just like soda for the taste you know, and Lord knows I like a good... sugar rush sometimes. But you don't have to burp to have a good time. Drinking can be fun all on its own, you just need to be responsible about it. When you're older, I'll be there to show you how."    
-"And help me burp as loud as my dad?"  
-"Not if I can help it."  
-
---------------
-
-*More at r/galokot, and thanks for reading!*  
-----
-
-# [WP] An astronaut sits alone on a distant planet as a crack creeps across his helmet. He speaks into his radio, "I wish you could see what I see".
-
-Score: 395
-
-Something popped in the lander as soon as we entered the atmosphere. One second it was smooth sailing, and then the next we were being tossed around the cabin like kids on a carnival ride. Alarms were blaring and lights were flashing as fires broke out in the left wing. There was nothing we could do but brace for impact.
-
-Novikov and Chambers died immediately, so far as I could tell. I didn't have much time to examine their bodies on the way out  of the wreckage, but a part of the lander windshield was sticking out of Novikov's chest, so that one wasn't much of a mystery. Chambers may have survived the impact, but her suit faceplate was shattered, so she hadn't lasted long in this atmosphere. I could already see the oxygen levels dropping on my own monitors. Should have known that my suit wouldn't make it through unscathed. 
-
-"Valerie, I'm sorry," I spoke into the microphone. The lander was supposed to be able to relay back to Earth, but something told me that the twisted, burning pile of metal wouldn't be able to handle the job anymore. So it just went to a recording. "As always, you were right, honey." She hadn't wanted me to go. She'd never worried about any of my other missions, but this one had caused a pretty big fight between us. Superstitious as always, she just had a 'bad feeling' about this one in the pit of her stomach. 
-
-I gazed out across the unfamiliar landscape. The system's sun, roughly twice the size of our own, was just starting to rise on the horizon. I tried to pick out Sol from the blanket of stars above, but there were too many. I'd seen the star map from our proposed landing site, but we hadn't gotten that far. Shame; I would have liked to have one last glimpse of home. But this desolate world was beautiful in its own way 
-
-I sighed and took a seat on a nearby rock and gazed out over the plains. So much for my "Neil Armstrong" moment. Instead of triumphantly stepping out the door and planting the N.A.U. flag, I was just choosing the spot where I wanted to die. "I hope that someday you'll get this message." That wasn't a sure bet: a recovery mission could take forever, and she might die of old age before anyone could get it back to her. By the time this message made it back to Earth, she would have moved on already. Probably with a new husband, and bunch of kids. "Just know how much I love you, and miss you." Images of her flooded back into my mind: trading shy glances at the university library; the happy tears in her eyes during our first dance; having a food fight at the ripe old age of 31. I wanted to remind her of all of those times, but the oxygen alarm was quickly inching toward critical. I could even feel the cold beginning to seep through the holes in the suit. "I just hope you know how much our time together meant to me."
-
-A crack spread across the vizor like a drip of water running down a pane of glass. Smaller and smaller cracks radiated outward until the whole thing was covered in a spiderweb of lines. Red lights were flashing, and a distant voice was warning me that internal atmosphere had reached critical levels. I thought of Val kissing me goodbye on the capsule's threshold the day I'd departed. The thought of her warm touch (and, stubborn determination) made me smile, and I closed my eyes. She'd embraced me and didn't let go, as though she might hug me so long that I'd miss the departure window. I could picture every single freckle on her beautiful face. "I wish you could see what I see," I gasped into the recorder. 
+...but I wish they'd worked that way on the day I graduated. 
 
 -----
 
-If you enjoyed this story, check out /r/Luna_Lovewell!
+*thanks for reading! you can find more of my work at /r/resonatingfury*
 
 ----
 
-# [WP] Four roommates are extraterrestrials who have taken human form in the hopes of learning about Earth's culture. Unfortunately, each alien is from a different planet and believes the other three are normal humans.
-
-Score: 387
-
-"Hey Brad. Ready for the game of ball later?" asked Jeff, a six foot, pale skinned human enough looking person as he entered the living room.  
-
-"Hey Jeff, I sure am. I hope we victory so that I can dance on Susan at the party time" said Brad, sitting on the sofa in his 5 foot 5, darker skinned but equally ill fitting frame.  
-
-"Hey Brad, Hey Jeff. Shall we drink the Pre-Game Pre-Drink drinks? it is the time for that isn't it not?" asked Tony who was entering the living room from another door, much wider than Brad or Jeff.   
-
-"that would be most radical or expected of us" said Brad with a nervous smile, finding alcohol messes around with body control systems. "I hope I do not loose control of my bodily functions" he continued to himself under his breath.   
-
-"ah, but Brad, dearest fellow human, that seems to be the point of drinking the drinks, isn't it not?" said Steve who entered, his bare chest with an overly intricate rendition of the school team logo painted across it. His face pointy and odd in places and his ears were far too large for his head, they twitched and sometimes beeped.  
-
-"Welcome to the social group Steve." 
-
-"thank you Jeff"  
-
-"Brad, Steve, Jeff, Shall we make and exit to the sport location for the shouting time?"  
-
-"It's the watching that is most important Tony, not the shouting"  
-
-"but the shouting makes them run faster isn't it not?"  
-
-"Oh Tony, it is like you are a Slugger-spawn from Alpha Centauri XII with ideas like that." the group laughed, none of them seeming to pick up on the alien insult, common on their own worlds, but nonsensical on earth.  
-
-"haha, you know me well, you Bugblatter Beast of Traal," tony laughed in reply, the others laughing too.  
-
-"ha...wait" said Jeff  
-
-"haha...wait" said Brad  
-
-"hahaha...wait" said Steve  
-
-"HAHAhahaha...ha...ha...Wait" said Tony  
-
-The four human-ish people looked to each other with suspicious and confused eyes.   
-
-"Oh, blast and damn" they all said in unison.
+[resonatingfury](https://www.reddit.com/user/resonatingfury) [url](https://www.reddit.com/r/WritingPrompts/comments/4lnl48/wp_a_superhero_whose_punches_heal_rather_than/) 
 
 ----
 
-# [WP] Death has fallen in love with you. However, you're immortal.
+#### Write a story that seems normal on first sight, except for one small detail that makes it extremely creepy on a more careful reading [WP]
 
-Score: 387
+Score: 2045
 
-Death introduced himself to me when I was fifty-five years old and suffered a heart attack. He visited me in the hospital, pulling a chair up next to my bed. "I've come to take you back with me. But when I reached for you a moment ago a force pushed me away." 
+Dan always had the coolest parents.  He could do whatever he wanted and they never seemed to care.  Most of the time they weren't around.  When they were they just told us to have those microwave meals and "take care of ourselves" like we were adults too.  My mom never let me have those microwave meals, she said they were bad for you, and she was always nagging me to do my homework.  Not like Dan's parents, we could do whatever we wanted there.
 
-"Maybe it's not my time, then."
+I remember when we would make pretend armies and wage war for control of the Carpet Kingdom.  The cans were our infantry, the small bottles were the cavalry and the bigger bottles were the artillery.  We would have huge armies and fight over the whole house, from one end of the carpet to the other.
 
-"I don't come if it's not your time," Death leaned back, his hood casting his face in shadow. He hovered his hand above me and then brought his fingers down as if to touch me. A moment later he drew his hand back.
+Today his parents had let him set up a swing in their house.  He had attached one end of the rope to a light fixture and the other end kept his feet dangling off the ground.  I gave him a push and he swung back and forth.  "When do I get to go?" I asked.  He didn't say anything, but he never said much.  I couldn't wait for my turn.
 
-"But maybe I'm mistaken," his voice was soft. "Maybe this is not your time." 
+----
 
-The next time I met Death I was sixty-seven years old. I had fallen down the stairs and was resting in bed. Again he sat next to me. I could not see his face but I imagined that his eyes were boring into me looking for an answer. "I remember you," he said. "You were my one mistake. But this...it can't be a coincidence." 
+[semic0lonoscopy](https://www.reddit.com/user/semic0lonoscopy) [url](https://www.reddit.com/r/WritingPrompts/comments/4mp0wd/write_a_story_that_seems_normal_on_first_sight/) 
 
-"What do you mean?" I sat back against my pillows, but he was gone. 
+----
 
-That was when I realized the truth of my immortality. I reached the age of 102 without meeting Death again. And then a peculiar thing happened. With time the aches in my joints began to fade. My skin became tighter, my hair regained its color.
+#### [WP] You reach the afterlife, but before you find out where you'll end up, you have to watch the entire life of someone and decide where they should go. What you don't know is all of your memories have been wiped and it's your own life you're watching.
 
-I met Death again when I was forty-five. "Every day I get a call for you," he told me from his chair. "For five decades I've ignored them. I've not wanted to see you or acknowledge what you are. But each day I think of you. I come to visit you, and I watch you grow younger. You are my only burden."
+Score: 1998
 
-"I'm sorry," and I was. It had been a century since I had seen him last. "You've taken everyone else from me. I'm alone now."
+"This seems kind of weird," Kendra was sitting in a reclining leather chair. Behind her were several people in long judge costumes complete with powdered wigs. "I don't know anything about the worth of someone's life or where they should go."
 
-"Everyone dies. Everyone but you, it seems. They do not suffer when they go. I am not cruel." 
+"Never had a religion or a code of ethics?" one of the judges raised an eyebrow. Kendra couldn't really tell them apart, but there was only one that spoke. 
 
-He reached out to touch me and I felt prickling on the skin that he nearly touched. "Is it strange to want you? To want to speak to you? To want to know why you are different from all the others?" 
+"Not that I remember," Kendra began to play with the hem of her dress. "But a lot of it is blank. I don't...I don't *think* I did."
 
-"You seem to be immortal too."
+"That's ok," the judge waved his hand. "Sometimes we just like to get outside opinions."
 
-"I am...hard to explain," he linked his fingers together. I wished I could see his face. "I am not a human."
+Kendra thought there was something seemingly off about this, but couldn't put her finger quite on what. She swallowed as the chair turned back around and she looked up at the screen. 
 
-"Are you a ghost? A god?"
+It was like watching life through someone's eyes. There were little snippets of action - the world opening up like a flower in bloom and seeing two faces looking down at her. A man in a mask and a woman who held her close. 
 
-"No," he said. "I am something unexplainable." 
+There was the sound of crying and babbling. A muffled argument late at night while a mobile spun lazily above her head. The sound of a woman singing and the surprising feel of a hand in hers. 
 
-I saw him next when I was seventeen and got into a car crash. He sat next to my hospital bed. I admired the changes in technology. 
+Kendra jumped, pulling her hand from the armrest into her lap. Behind her there came laughter. "Don't be alarmed," the voice of the judge. "This will feel quite real at times."
 
-"Tell me something," he moved closer to my bedside, his familiar fingers hovering over me. "You haven't taken any lovers since last we spoke. You have few friends. You sit and read most of the time. Do you take your youth for granted?"
+Slowly the world began to shift from horizontal to vertical. Trees that had seemed massive began to shrink. There was a man's face that peered down at her with disappointment. A sharp pain across her face and around her upper arm. A whisper that wound its way into her ear. *Don't you ever tell a soul.*
 
-"It's...hard to explain," I smiled at him. "My friends would get older while I got younger. My relationships would be ruined. What is the point? I imagine I will one day age again, but by that point I will be 204 years old. I will know far more of the past than any who would want to befriend me." 
+A young child that sneered at her and taunted her with cries of *chicken legs* and *freak*. The running of a sink and hearing sniffling sounds that reached her own ears. 
 
-Death sat silently by my side for some time, the only sound the beeping of machinery. "Maybe it's true," he mused. "That you want only what you can't have." 
+Smiling faces. Angry faces. Faces filled with disgust. The feel of her own greasy hair as she dragged a trash bag full of things to school. The pity in teachers' faces. *Poor girl. Parents just can't keep it together.*
 
-The next time I remember seeing him I was six, aging up again. He came to visit me one night as I slept in my house.
+A small dark space. A sniffling cry. A begging to be let out that poured from her own mouth. The sound of a key and the smell of mothballs. The twisting of a doorknob and a tray of food shoved inside. 
 
-"Why did it take you so long to come?" I asked him. "You told me once that you are called to me each day. Did you not want to see me?"
+"Please," her voice begged. "Please!"
 
-I looked down at my small frame while he spoke. The body was a strange thing. I could not remember anything between the ages of 3 and again 3. It was strange to again be a child. 
+A man who held her hand and told her it would be alright. The embarrassment of finding red between her legs in the middle of a science class. The chilly inside of a car on a winter's morning as she pulled a sweater tight around herself for warmth. 
 
-"I came for you every day," Death said. "I came to feed you when you could not. I brought those who had died to your side. I wanted to know you. I read your journals. I'm sorry for that."
+Sitting on the side of the road with an empty cup. Looking at the faces of those disgusted with her. Walking into a store and shoving her pockets full of things. Her own hand brandishing a knife at a woman on the street. 
 
-"Will you leave again for a time now?" I drew my knees up to my chest.
+A bridge at night. A whooshing wind. A splash of ice. 
 
-"I will bring you things until you are old enough to do them yourself. I will care for your money."
+The picture faded. Kendra sat still and raised her hand to her face to find it wet. The chair spun again until she again faced the men in black. 
 
-I saw Death each month until I was again eighteen. Sitting in his chair, I smiled to greet the old friend. "I want to know you," I told him. He was still for a long time and then he reached up to draw back his hood. I looked upon Death's face, and I was not afraid. I reached out to touch him, but as I drew near a shock went through my hand. 
+"So what do you think?"
 
-"You told me once you were hard to explain. That you were not god nor ghost. What are you? How did you come to be death?"
+Kendra started. "What do I think? I don't know. I think it's horrible. But I don't know if it's good or bad. Just sad. And the ending..."
 
-"It's a story that would take centuries to tell, Abigail," his hands reached to touch near the nape of my neck. 
+"You feel sympathy for her?"
 
-"Then it's lucky that I'm immortal." 
+"Of course. Only pain and suffering could drive her to an end like that."
 
-Death smiled. 
+"What about her sins?" The man gave a wry smile. "What about the theft? The sloth? The knife?"
+
+"I feel nothing but sympathy and sadness for her," Kendra said. 
+
+"Do you think you could forgive her?"
+
+"Forgive her? What has she done to me?"
+
+"Could you forgive your mother for leading such a life? Your best friend? Your child? For taking the easy way out?"
+
+"She suffered so." Kendra paused. "Of course. I just wish there was another option. To try again. I wish I could hold her hand and tell her it wasn't her fault. I wish I could give her happiness."
+
+"What about yourself?"
+
+Slowly the memories bloomed in Kendra's mind. She sat stunned as they flooded back. Her eyes began to sting and her throat began to tighten. "That was...that was..."
+
+"Can you show yourself the same kindness and forgiveness you would show to someone else? Can you allow yourself to see the pain and desperation that *you* felt without the judgement or the self hatred?"
+
+Kendra stared at them and said nothing. It felt as though someone had reached into her chest to squeeze her heart. 
+
+The judge smiled. "Ah yes. It's much easier to see our pain when we see it through someone else's eyes. Why don't you try again? See if you can show yourself more kindness."
+
+The judge reached out to push a button. Then, as though she had been pulled into a vacuum, the world went black. 
 
 ---
 
-/r/Celsius232 
+Thank you for reading. For other stories check out and subscribe to r/Celsius232
 
-**Edit**: thank you for the gold, kind stranger. It makes me incredibly happy not only just to have others read and enjoy my work, but The gold just floors me. If you're ever in town, please allow me to buy you a drink. 
+
 ----
 
-# [WP] Just like normal citizens, time travelers have a code of laws they have to follow. Don't change the past. Don't talk to past versions of yourself. Most importantly, don't show up to Stephen Hawking's party.
+[232C](https://www.reddit.com/user/232C) [url](https://www.reddit.com/r/WritingPrompts/comments/4islmu/wp_you_reach_the_afterlife_but_before_you_find/) 
 
-Score: 379
-
-Many people before the invention of time travel thought of time as a linearly branching relationship from cause to effect, cause to effect, cause to effect. Make different choices, end up in a different place. There were stories about how something as small as stepping on a butterfly could change the course of history. 
-
-Now we know better. Time does not branch like a tree, it flows like a river. Much like a river flows around a rock, time will flow around most disturbances. There may be minor differences, but the overall flow of history will remain the same. Time wants to happen.
-
-But there are certain points in history where the timeline is weak, malleable. These are the moments that are still taught in elementary schools today due to their importance, as they ultimately dictated the flow of time. Imagine a bend in a river; with a big enough disturbance, the river could break free of its banks and flow in an entirely different direction.
-
-Adolf Hitler. He was a bend in the river of time. His actions inadvertently led to humanity's nuclear age, computer age, and space age. As awful as his actions were, the innovations caused by the war to stop him became vital to humanity's future.
-
-The Black Death. Another bend, in which a third of the population of Europe died. However, if there was no Black Death, a man named Isaac Newton would not have left the city to avoid the sickness, and therefore the sciences would have stagnated for nearly a hundred years.
-
-The biggest bend of all in the river of time is the bend of Stephen Hawking. A brilliant physicist in the 20th and 21st Centuries, Hawking is infamous among the time-travelling community for a party which he held in the year 2009. He told nobody about the party until after it ended, and used the lack of attendance as evidence that time travel is impossible.
-
-Naturally, this party has become a classic first trip for young adults who get their time travelling license. It's against the rules, of course, but there's an entire division of the Time Protectorate devoted to undoing the damage that people cause by showing up.
-
-What do you mean, "What damage"? Do I have to break it down for you?
-
-Fine.
-
-If people from the future show up to his party, he has proof that time travel is possible. If he has proof that it's possible, he devotes the rest of his life to figuring out how. When he dies, his notes get stored at Cambridge in the Archives until a student 50 years later is looking at them and realizes something that Hawking missed. She'll work in her apartment to set up a prototype. But that will be in the year 2074 - a full century before the QRM model is supposed to be discovered, so she won't be able to accurately combine quantum mechanics and general relativity. The result is that she inadvertently creates a wormhole to nowhere which causes most of England to be sucked into oblivion. The resulting fear and panic caused humanity's desire for progress to wilt; frankly speaking, a fate worse than death for a species such as ours.
-
-Progress is all that we have. We are not strong, we are not fast. Since the Dawn of Man, we as a species have survived through progress. We progressed from flint spearheads to bronze, to iron, to steel. We progressed from foraging to hunting to agriculture. Everything that our species has, we have because we looked at what we were given and said "This is not enough. We can be more."
-
-And Hawking's party takes that away from us.
 ----
 
-# [WP] Write a romantic story, but replace kissing with something strange or mundane that, in this world, is just as arousing.
+#### [WP] The entire Star Wars series, all 7 movies, are released as one book, written by Dr. Seuss.
 
-Score: 376
+Score: 1907
 
-Margaret blushed as she felt him passionately looking her up and down, undressing her with his eyes. She longed for his touch; craving the way his fingers felt as they ran along her smooth skin until finally thrusting inside her in blissful intimacy. She traced a heart on the glass, taking a last sip of the fruity drink she had been nursing for the last half-hour. She would always remember the first time they met, hitting it off in a crowded bar much like this one before saying goodnight as they stood in the pouring rain. He had brushed her nose with his fingertip ever so lightly and her heart had skipped and the feeling had coursed through her, addictive and drawing her in, making her desperate for another touch.
+A long time ago, and so far far away,
 
-"Hey, Margaret," he repeated, snapping her out of her daydreams and she realized she had completely missed what he had been saying. She blushed a bit redder and grinned in embarrassment at the growing dampness she felt. "You wanna get out of here and head back to my place?" he asked over the din of the bar as other patrons shoved and jockeyed for the bartender's attention. She nodded timidly, biting her lower lip and reaching for him.
+There was a rebellion in space, so they say!
 
-"First, come here though," she cooed seductively, grabbing his hand and pulling him close. "Poke me," she said as crudely as she could manage, raising his wrist to her face. He grinned deviously, and used his free hand to adjust the growing bulge in his pants and she smiled, well aware of the effect she was having.
+That old Evil Empire was up to no good
 
-"I would love to," he whispered, bringing his outstretched index finger to her nose and shoving it upwards. She moaned in satisfaction, reaching out to do the same to him. "You can pick your friends, you can pick your nose, but other than that, you can only pick your partner's nose," he murmured provocatively, the passionate scene drawing stares from other customers. He stepped back, gazing into her blue eyes as he left his finger up her nostril. "Your perfect nose is the only nose I would ever want to pick."
+They kidnapped a princess, you knew that they would!
+
+And then with the might only money can buy,
+
+They set out to make a Death Star, in the sky!
+
+That dastardly Emperor!
+
+That Scoundrel! That Fiend!
+
+Could nobody stop him? Would no one intervene? 
+
+
+But the princess was crafty - and with luck she escaped! 
+
+SHE wasn't held back by a bit of a scrape!
+
+Though she didn't get far, she did get far enough
+
+And she sent out a droid with a message - times were rough!
+
+Though she knew that her plan had no chance of success,
+
+It was all she could do - A New Hope, for the rest
+
+
+And as luck would have it, her plans met with a teen
+
+They flew all the way down to the planet, Tatooine! 
+
+When Luke picked them up, he had no way to tell
+
+That this was the start of his personal hell
+
+
+He went to a master - a man named Old Ben
+
+And in fear for his family, he went home again!
+
+But when he arrived, he found they all died
+
+So with nothing to hold him, to the stars he did fly!
+
+
+Soon they met with a smuggler, a man named Solo
+
+He said he could take them where they had to go!
+
+But while flying along on their journey to space
+
+Old Obi Wan feels something - pain across his face!
+
+"I sense a disturbance" He said with no doubt
+
+"As if hundreds of people had suddenly cried out
+
+And then they were silent - I do not like this" 
+
+Luke looked on in horror, he knew something's amiss
+
+"Wait, that's no moon! It's a space station!" he said with a hiss!
+
+
+Before they knew it, and before they could react
+
+They were suddenly captured - they were under attack!
+
+Though they managed to hide, in the smuggler's den
+
+They had no way to escape - they were trapped in a pen!
+
+
+"I'll disable the beam, you distract the guards
+
+I have unfinished business aboard this Death Star"
+
+Old Ben was Kenobi, a Jedi Knight supreme
+
+And he could feel Vader on board, like a dream
+
+
+
+They fought and they ran, sneaking between the guards
+
+It seemed that victory was here - luck in their cards!
+
+And with the princess they managed to escape
+
+"But wait, that was too easy - it had to be fake!" 
+
+"Too easy - you're joking, that was incredibly hard!
+
+And Old Ben got killed! Our victory's marred!
+
+Despite her objections, they went on their way
+
+Down to the rebel base, to enter the fray!
+
+But Leia was right - it had been a trap!
+
+The were tracked to the base! The rebellion was scrap!
+
+"If we don't hurry, soon they'll kill us all! 
+
+But look at these plans - we can blow up that ball!
+
+We'll need pilots with skill, we'll need pilots with grace
+
+To fire proton torpedoes, right here, at this place!
+
+This mission is hard - without doubt, some will die
+
+But it is our only hope - so fly pilots, fly!"
+
+
+And so Luke joined their ranks, and he jumped in a ship
+
+To fly down a trench - pray a wing doesn't clip!
+
+And though many were killed - in fact, most happened to die
+
+Luke made it to the end - and his torpedoes did fly!
+
+He shot without computer, Someone said "Use the Force!"
+
+And with that mysterious power, he struck at the source!
+
+With luck and with skill, sacrifice and Hope,
+
+The Death Star exploded - Luke's a hero! Don't mope!
+
+From farm boy to Jedi, an unknown to the best
+
+Luke's journey wasn't over - it's just the start of his quest! 
+
+
+***
+
+*Just...six more to do! Read more of my work on /r/TimeSyncs!*
+
+----
+
+[Syncs](https://www.reddit.com/user/Syncs) [url](https://www.reddit.com/r/WritingPrompts/comments/4jl57e/wp_the_entire_star_wars_series_all_7_movies_are/) 
+
+----
+
+#### [WP] So, you humans just drew imaginary lines on your planet and fought real wars defending them?
+
+Score: 1889
+
+FADE IN:
+
+INT. A DARK ROOM
+
+*A young man sits on a large blob of slowly undulating plastic. This is DAVE. Each time that he shifts his weight, the whitish mass beneath him adjusts itself slightly, forcing him to move in a constant search for comfort.*
+
+**T'AAR:** (*O.S.*) I'm so sorry about the wait, ma'am!
+
+*A diminutive alien walks into view. This is T'AAR, a bureaucrat, who is carrying what appears to be a rectangle of softly glowing light.*
+
+**DAVE:** It's "sir," actually.    
+**T'AAR:** Oh, I'd much prefer to stick to the formalities, ma'am.    
+**DAVE:** "Sir" is a formality.
+
+*T'aar glances at the glowing rectangle.*
+
+**T'AAR:** Really? What does it mean?    
+**DAVE:** Uh, well... it's the masculine form of "ma'am."    
+**T'ARR:** You distinguish by gender in your honorifics?    
+**DAVE:** I guess?    
+**T'AAR:** Interesting. Well, ma'am... uh, sir... I understand that you've registered a formal complaint with the Galactic Transportation Authority.
+
+*Dave suddenly looks desperate.*
+
+**DAVE:** No! No, it's like I keep telling everyone: This is all a big misunderstanding!    
+**T'AAR:** I'm sure it is, ma... sir. We'll see about getting it sorted right out. What was the nature of your complaint?    
+**DAVE:** I didn't make a complaint!
+
+*Once again, T'aar glances at the glowing rectangle.*
+
+**T'AAR:** References to intercourse are considered expletives in your culture, yes?    
+**DAVE:** In some situations, yes, but...    
+**T'AAR:** (*Interrupting*) Oh, wait! This is back to that whole "gendered honorifics" thing, isn't it?    
+**DAVE:** ... What?    
+**T'AAR:** Sorry, just an observation. To the point, though: You *did* shout "Screw GTA!" over an all-systems broadcast, did you not?
+
+*Dave's desperation gives way to nervousness.*
+
+**T'AAR:** (*CONT'D*) Once translated from your tongue, "GTA" becomes an initialism for...    
+**DAVE:** (*Interrupting*) I didn't know *aliens* would hear it! I was just mad about a video game!    
+**T'AAR:** "Video game?"    
+**DAVE:** It's... it's entertainment. We use computers to simulate the world, and then we... you know, we play games.    
+**T'AAR:** Oh, yes, we do similar things when we're designing ships.    
+**DAVE:** Well, there's a little more to it than that. Like, in GTA, you drive around stealing things and shooting people.
+
+*T'aar's enormous black eyes widen further.*
+
+**T'AAR:** Sorry... you *shoot* people? With weapons?    
+**DAVE:** It's not real!    
+**T'AAR:** I should hope not. This is entertainment to you?    
+**DAVE:** Yeah. It seems kind of weird, right? What with all the war going on.    
+**T'AAR:** What war? Your species isn't space-faring.    
+**DAVE:** Oh. Well, it's... we fight each other.
+
+*A moment of silence passes.*
+
+**T'AAR:** Is this a joke?    
+**DAVE:** What? No!    
+**T'AAR:** You honestly fight amongst yourselves? Why?    
+**DAVE:** There are lots of reasons. Resources, religion...    
+**T'AAR:** (*Interrupting*) What's that?    
+**DAVE:** A can of worms that I'm not going to get into right now.    
+**T'AAR:** ... Your species fights over worms.    
+**DAVE:** No! We mostly fight over land!    
+**T'AAR:** What land?    
+**DAVE:** *Any* land!    
+**T'AAR:** Ma'am, you're not making any sense.    
+**DAVE:** "Sir."    
+**T'AAR:** Yes?    
+**DAVE:** ... No, no, *I'm* a "sir."    
+**T'AAR:** Oh, yes, you mentioned as much. Now, please elaborate.    
+**DAVE:** Look, we have these different countries, okay? Some of them don't like each other.    
+**T'AAR:** So they go to war.    
+**DAVE:** Yes.    
+**T'AAR:** In video games.    
+**DAVE:** No, for real.    
+**T'AAR:** You *physically kill each other* because people on one piece of land don't like people on another piece of land?    
+**DAVE:** Ye... yes?    
+**T'AAR:** And this has something to do with worms?    
+**DAVE:** N... well... look, it's complicated.
+
+*T'aar's voice adopts a patronizing tone.*
+
+**T'AAR:** Yes, ma'am, I'm sure it's very complicated. Just wait here for a couple more minutes, okay? I'll be back shortly.    
+**DAVE:** No, wait, what about...
+
+*Before Dave can finish his sentence, T'aar disappears into the darkness.*
+
+**T'AAR:** (*O.S.*) Make yourself comfortable!
+
+*Dave shifts around on the blob of undulating plastic. Eventually, he gets up and sits on the floor.*
+
+**DAVE:** (*To himself*) Well, it beats visiting the DMV...
+
+FADE OUT.
+
+----
+
+[RamsesThePigeon](https://www.reddit.com/user/RamsesThePigeon) [url](https://www.reddit.com/r/WritingPrompts/comments/4kk0ar/wp_so_you_humans_just_drew_imaginary_lines_on/) 
+
+----
+
+#### [WP] You applied for a job at google, everything goes well and only one interview remains: They'd just like an explanation for your search history.
+
+Score: 1833
+
+"Well, Mr. Powell," the interviewer adjusted his glasses, "Your references all seem to be in order, and everyone spoke very highly of you."
+
+The last knot in my stomach unraveled. *Thank god*. I mean, I knew that I would have nothing to worry about. Otherwise, why would I have listed those people as references? But still: it was nice to finally hear. I'd been through days of testing and seen the applicant pool whittled down from two hundred to just three of us left, applying for two spots. 
+
+"Just one last thing." He removed a large (like, book-sized) manila folder from his desk and slammed it down in front of me, making the whole desk shake. "Let's discuss your search history." The sentence that *every* young man fears, though I'd been expecting it to come from my girlfriend, not a potential employer. 
+
+"I..." He slid the folder over to me and then tapped his fingers together like Mr. Burns. I extended one finger and flipped the top of the folder open, like there was something disgusting inside that I didn't want to touch. 
+
+First page was categorized as "Dangerous." It was a pretty broad term that included things like that time that I'd worked the graveyard shift and decided to learn all I could about the Kennedy Assassination. Then there was the times that I'd googled how to build bombs, propaganda techniques... you know, things that would make me seem like some sort of supervillain or terrorist. "Well this is all..." I stuttered, looking back down at the page as though some explanation might jump out at me. "Look, there's...." I was just curious, I swear!
+
+He cleared his throat and nodded down, asking me to flip to the next bookmark. I turned to the next section, titled "Porn." I don't need to even go into detail, but let's just say that there were some *unorthodox* searches that would probably send my mother into a coma if she ever read this page. Even reading the searches without seeing the results made me feel like I needed a shower. "I can't be the only one who has looked at..." I glanced back down at the page again. Ok, maybe I was.
+
+"Now, is this really the sort of person we want working at Google?" the interviewer asked.
+
+I bowed my head, and I was just empty inside. I'd gotten so far through the process. It was in my grasp... and now it was slipping away. "Look, it's probably too late to change your mind. But isn't this *why* we have the internet? So that we can explore curiosity without judgment and get real answers instead of asking someone who doesn't really know either? Should we *really* be condemning that?"
+
+He snorted. "Oh, *that's* what you thought the issue was?" He leaned over his desk and tapped the right corner of every page, showing the *Bing* logo. "We don't care what you're searching for, we just have doubts about your *judgment.*"
+
+I gave a sigh of relief and closed the folder as fast as possible. I didn't even want to see what other sections were in there. "I was only able to use Internet Explorer from my work computer, and Bing was the default that I couldn't change." I explained through a nervous smile. Hopefully he wouldn't make the connection that all of those searches had been *while I was at work*. 
+
+"Ah!" He slid the folder off the side of his desk, stood up, and shook my hand. "Well in that case, welcome aboard!"
+
+----
+
+As always, subscribe to /r/Luna_Lovewell for more stories!
+
+
+
+
+----
+
+[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell) [url](https://www.reddit.com/r/WritingPrompts/comments/4mciak/wp_you_applied_for_a_job_at_google_everything/) 
+
+----
+
+#### [WP] Upon his deathbed, your father's last words to you is the worst dad joke you've ever heard.
+
+Score: 1729
+
+After yet another boring day at school, I got home, ready to make food and spend the entire night procrastinating. As I walked up, I noticed an abnormal number of cars littering the area, some even double-parked on our street. *Must be some kind of party. Damnit, Dad.*
+
+The front door was unlocked, and the main room was entirely empty, but I could hear some commotion upstairs and slowly creeped up to see what was going on. There were at least fifty people packed into the upper floor, like sardines. I recognized a few of them as aunts or uncles, though some I'd never seen.
+
+"Oh, sweetie, you're home. Come this way," my Aunt Jane said, planting a fat kiss on my forehead. She dragged me through the crowd and into my father's room, where my dad was bundled under the covers with an IV running into his arm.
+
+"Hey, buddy," he said softly with a weak smile. I walked up to him and furrowed my brow.
+
+"Dad, what's going on? Why are all these people here?"
+
+He grabbed my hand and patted it. "I've been trying to keep this from you as long as possible, but I can't anymore."
+
+"Dad, what are you talking about?" I asked wildly, heart pounding against my chest as if trying to break free. "I'm confused."
+
+"Hi, Confused," he said, gripping my hand. A single tear flowed from his left eye. "I'm Dying."
+
+------
+
+*thanks for reading! if you'd like to see any more of my work, check out /r/resonatingfury!*
+
+----
+
+[resonatingfury](https://www.reddit.com/user/resonatingfury) [url](https://www.reddit.com/r/WritingPrompts/comments/4lgflx/wp_upon_his_deathbed_your_fathers_last_words_to/) 
+
+----
+
+#### [WP] A man is transported into the universe of infomercials and his ability to complete everyday tasks causes people to love, worship and fear him
+
+Score: 1696
+
+"Everyone shut up and watch!"  An old man commanded.  
+
+I felt a bead of sweat run down my forehead.  Every eye in the building was trained on me.  With a final twist of my hand I removed the tomato can's lid and placed it on the counter.
+
+"He didn't cut himself?"
+
+"How did he not spill it?"
+
+A chorus of questions erupted around me.  Hands slapped me on the back in congratulation.  They happily paraded me to my next task to see if I could accomplish it.  Pouring laundry detergent.  Thunderous applause again as I did not spill a single drop on my white shirt.  The people were becoming more and more fanatical with every passing second.  Women were throwing themselves at me, men wanted to be me.  I felt like a god.  Until I felt something hit me in the back of the skull.
+
+"Billy Mays here.  You know why I have called this meeting."  Billy Mays shouted.
+
+Billy May's shouting woke me up, and amplified my splitting headache.  I tried to move but my legs and arms were tied to a chair.  
+
+"What? Where am I?"  I said groggily.
+
+"Where you are doesn't matter.  What does matter is you. Ruining. EVERYTHING!"  Billy's fist slammed down onto the table spilling drinks.  The other people at the table cursed quietly and got up to get paper towels.  
+
+"No you morons, the sham-wow.  Jesus."  Billy shouted.
+
+"Now.  Where was I,"  he paused for a second, "that's right.  Torturing you."  He stood up and approached me with a nasty looking pair of pliers.
+
+"I see you admiring my pliers.  Well this is a six in one multi-tool that can tear you so many new ones you couldn't believe it.  And only for four easy payments of nineteen ninety nine.  A steal really."  He backhanded me, my teeth felt loose and my head rang.
+
+"Why are you doing this?"  I pleaded.
+
+"Because if people realize they can do things without all this useless shit, we will be ruined!"  He back handed me again.  I spit out a bit of blood.  The straps holding me down felt like they were getting looser.  I shifted in my seat.  Sure enough the strap holding my chest and arms slid down a fraction of an inch.
+
+Billy saw me struggling against my bindings and laughed.  "Those straps can hold down a rhino.  I know I used them during my last trophy hunt."  He said wickedly.
+
+"Grab me the clean.  We're going to drown him in it."  One of the others grabbed a large white and blue bucket and walked it over.  White water sloshed over the side with every step he took.  Billy squeezed his eyes shut and pressed his hand to his forehead.  "I swear to god, look at what you are doing!  Now you have to clean it up!  Use the two in one mop vacuum.  Cuts down on cleaning time by fifty percent!"  
+
+While Billy was distracted yelling at his incompetent help I had been getting out of my bindings.  The straps on my feet fell away as I stood up, and the one that was on my chest and arms had fallen low enough I could undo the clip with my hands.
+
+The man walking the bucket over saw me first.  
+
+"B-b-b-"  He tried to stammer out.  
+
+I threw a strap around Billy's neck and pulled tight.  I kicked the back of his knees out and he fell.  His face growing more blue with every second.  The others in the room did nothing.  They watched in horror as Billy's eyes bulged and his body spasmed for the last time. 
+
+I stood over the corpse staring them down.  As one they fell to their knees and prostrated themselves in front of me.  
+
+"Please don't hurt us!"  They cried out.
+
+"No.  I have a better idea."
+
+The infomercial ran on every channel every day in between peoples favorite shows.
+
+"Introducing JOHN!  Are you sick and tired of not having something to worship?  Your god not doing a good enough job answering prayers?  Well look no further than JOHN!  He can do anything!  The best part?  To become a member of the Church of John all you need to do is send in just one easy payment of nineteen ninety nine!"
+
+---
+
+Completely blown away by this!  You are all so awesome, thank you so much!
+
+Thanks for reading! Check out /r/Written4Reddit   
+
+----
+
+[Written4Reddit](https://www.reddit.com/user/Written4Reddit) [url](https://www.reddit.com/r/WritingPrompts/comments/4l9qwv/wp_a_man_is_transported_into_the_universe_of/) 
+
+----
+
+#### [WP] A young child summons a demon, but they only want a friend.
+
+Score: 1586
+
+"Are you sure about that?" the demon asked from inside the pentagram that had drawn on the floor in dust and candle wax. He'd arrived from the pits of Hell with horrid horns and terrible teeth, but all of that was gone now. He looked like someone you'd run into on the street, if you happened the run into pitch black shadows with yellow eyes.
+
+Megan nodded.
+
+"That's your command?"
+
+Megan nodded for a second time and then coughed. The machine to her right beeped in protest.
+
+"All right," he said. The glowing circle that was holding him in broke as he took the deal that Megan had offered him. He was to own her soul as soon as she died, but he was going to be her friend until then. 
+
+Megan smiled and then waved him over to the bed she was sitting on. The demon looked from her to the foot of the bed and then plopped himself onto it. He stared at her, his eyes acting like a pair of headlights. He was frankly confused. Demons weren't exactly well versed in the 'best friends' department, but it was his job now. 
+
+"Now what?" he asked.
+
+Megan shrugged and laid down on the bed.
+
+"I don't sleep," the demon explained.
+
+Megan made a circle on her chest with her fist, and then closed her eyes. The Demon waited until morning.
+
+The next morning was similar; the demon asked what to do, and Megan shrugged again. Frankly there wasn't much that you could do in the hospital without one of the nurses wagging a finger at you. Megan basically needed to stay in her bed, and that meant the Demon was going to as well. He did all of the talking while they were there. The Demon only left when the teacher came to remind her how to speak herself. 
+
+In the afternoon the Demon brought her ice cream. She didn't ask how he got it or how he knew that her favorite flavor was chocolate. Megan just let him know that she loved it. He started to bring it every day.
+
+Against the odds Megan ended up getting better, and the Demon was relieved. She was allowed out of the hospital and back into her school. She saw Sally, who knew what was going on, and the other girls who didn't have any idea where she went. Megan's mom had given her this little board that she could write on and clear. It was easier to talk like that than it was to use a language she barely knew. 
+
+The other girls eventually stopped talking to Megan as much because she couldn't really talk back. Sally stopped talking to Megan because the rest of her friends weren't. The Demon still talked to Megan. He knew what she was saying no matter how many ways she said it. Sometimes she said things wrong but he didn't try to correct her. He just smiled with black teeth.
+
+The Demon got Megan ice cream on her birthday again. It was almost their thing now, and as long as it was late at night nobody knew she was getting extra treats. She was ten, which meant she was pretty old.
+
+When she was thirteen, they finally moved her schools. She'd taken to signing to the Demon when people were around, and that just wouldn't do. Her parents said something about isolation, and she didn't agree with them. The Demon didn't either, but she told him that her parents weren't bad people. He already knew that. 
+
+She went to a school where everyone could sign, but nobody else liked the music that she did. In fact, none of them were into music at all. The demon continued to spend time with her, but she had to write to him now. The rest of the kids could hear her hands.
+
+When she was 16, the Demon helped her learn to drive. Her father was trying, but he wasn't very good at it. The Demon wasn't a very good driver either; he'd never done it before, and it made things a little hard. Megan got used to it.On the way to university when she was 17, Megan got into a car crash. It wasn't that bad, but they needed to go to the hospital. The Demon sat beside her in the ambulance.
+
+The nurses ended up putting her back in the same room that she'd summoned the Demon in. The cancer that had taken her voice was back, and it wasn't very happy about her beating it the first time. She lit up the CAT scan like a Christmas tree. She lost in early December.
+
+The Demon didn't cry when Megan stopped breathing. He was calm when she flat-lined, and the Doctors started to panic. She'd been in a lot of pain for the past while, and he hadn't liked it. 
+
+He held out a hand to her once she was pronounced dead, and she grabbed it while also staying still.After all, she'd lost to cancer, but she'd promised her soul to him, and they were friends.
+
+Edit: If anyone wants to read more from me I'm over at /r/jacksonwrites . The current trending topic there is how to murder 42 children in a comedy book.
+
+----
+
+[Writteninsanity](https://www.reddit.com/user/Writteninsanity) [url](https://www.reddit.com/r/WritingPrompts/comments/4k0m79/wp_a_young_child_summons_a_demon_but_they_only/) 
+
+----
+
+#### [WP] The evacuation of Earth is complete. You decide to do one final fly over of the world to see the monuments deserted. However, you slowly realize something about them that no one ever has.
+
+Score: 1440
+
+Parts 2 and 3 and 4 and 5 and 6 are linked below!
 
 *****
 
-Did you say wtf when you read this? 'Cause I said wtf when I wrote it.
+The radio crackled to life, snapping me from my hypnosis on the waves of endless clouds. "Charlie Unit, report when you make visual contact, over." I confirmed, thrusting the yoke forwards to duck beneath the clouds as my wings sliced a path through them for a moment before I emerged below. 
+
+"Visual with Earth confirmed. She's ugly as ever. Over." The grey landscape made me shudder; mountains and hills steamed with escaping gasses, reminding me to snap on my oxygen tank before the air became too toxic to breathe. What were once luscious forests and deep blue seas were now fossilized wood and empty basins large enough to fit the entire evacuated population a thousand times.  Famine had come first as the food supplies and water ran out. Wars followed as countries jockeyed for power of the limited rations with the traditional powers emerging victorious. But in the end, the celebration of conquests was short-lived as leaders came to grips with reality and realized remaining on Earth meant certain death. That's how we wound up in outer space; searching desperately for a habitable planet as we wandered aimlessly in the barely adequate motherships.
+
+"Steer for 29 dot 9792 north, 31 dot 1342 east. Should see pyramids if they're still above ground. Do you copy?" I confirmed, repeating the numbers back to them, and sped towards the ancient monuments, long since abandoned as the land grew brittle and inhospitable. The pyramids were smaller than I remembered from pictures, courtesy of a thick layer of ash and dirt that had built around their base. The Sphinx peeked out nearby, only its eyes visible now. They stared at me ominously as I touched down; the last living creature to be on our once beautiful planet. The scientists claimed that the Earth's core had grown cold but no proposed solution worked and everything had fallen apart as we watched and warred like savages over the rapidly dwindling supplies.
+
+"Visual contact confirmed. Pyramids are intact. Landing now. Out." I slowly hovered to the ground near the largest pyramid, taking care to touch down on a solid-looking patch. My orders were to only make visual contact but I figured no harm in exploring a bit. I had never had the chance to visit the pyramids while civilization bloomed. An item to cross off my bucket list now, it seemed. Donned in the safe-suit and with the oxygen tank strapped to my back, I grabbed the grapple I had smuggled aboard my craft and started the short but arduous trek towards the pyramid. The world reeked of noxious fumes that found their way to me in spite of the helmet I wore. And death. It smelled of death and looked of death and everything emanated death. I gagged softly before regaining my composure.
+
+The pyramid loomed above me, massive in spite of the portion buried below. With a grin and a habitual glance around for any superiors who might reprimand me, I shot the grapple towards the top of the pyramid and steadily made my way upwards. Ashen winds whipped around me, stirring up vortices of the dust that had dealt death to billions as we scrambled to evacuate. I reached the top short of breath and sweating as the Sun beat down mercilessly on the endless wasteland. Looking out, I could see where the city once stood, only the top of buildings signalling that we had ever even lived here. Morbid and disgusting yet oddly beautiful.
+
+I struggled to catch my breath, awed by the enormity of the emptiness we had left behind. Just a couple years back, the ground below would have been bustling with thousands of tourists as they gaped at the massive structure. Now there was nothing; not even Nature had survived the brutal apocalypse. Leaning back against the apex of the pyramid, I jumped and nearly became Earth's final victim as the top caved inwards, revealing a passageway into the depths of the abandoned monument.
+
+"Base, this is Charlie Unit..." I paused, still struggling to understand what I was seeing.
+
+"We copy, Charlie Unit. Is there an issue? All we needed you to check was that the pyramid was in fact intact. Nothing more. Over." The voice sounded harsh over the intercom, scolding me even as I took in the last of our planet. I shook my head numbly as I cautiously shone my flashlight into the abyss.
+
+"I... I'm at the top of the pyramid," I started slowly, knowing I would be punished for my transgression upon my return to the motherships. "And... Well, the top just opened. There's a passage way into the pyramid... Permission to enter? Over." I stepped inside, knowing permission would be denied but that I had to see where the passageway led, the boy in me urging me to explore. I thought back to my history lessons back when the Earth was friendly and painted blue and green. No teacher had ever mentioned a passageway at the top of the pyramids or even a way to enter the massive structures.
+
+"Permission denied. Abort mission immediately. I repeat, you do not have permission to enter the pyramid. Do you copy?" A tinge of desperation edged the voice as it repeated itself. I scowled and would have spat had my breathing apparatus not prevented me. Ignoring the orders from base, I carefully stepped down the stairway as it spiraled downwards into the darkness.
+
+[Part 2](https://www.reddit.com/r/WritingPrompts/comments/4j0gmc/wp_the_evacuation_of_earth_is_complete_you_decide/d32qr9m)
+
+[Part 3](https://www.reddit.com/r/MatiWrites/comments/4j1gko/earth_part_3/)
+
+[Part 4](https://www.reddit.com/r/MatiWrites/comments/4j26ne/earth_part_4/)
+
+[Part 5](https://www.reddit.com/r/MatiWrites/comments/4j34h8/earth_part_5/)
+
+[Part 6](https://www.reddit.com/r/MatiWrites/comments/4j3nje/earth_part_6_end/) 
+
+*****
 
 Thanks for reading! If you enjoyed this, please check out more stories at /r/MatiWrites. Constructive criticism and advice are always appreciated!
+
 ----
 
-# [EU] (Elder Scrolls IV: Oblivion) The Dark Brotherhood (pre or post purification) discovers that it's newest recruit who has been rising through the ranks is also the Archmage, The Grey Fox, and the Hero of Kvatch.
+[matig123](https://www.reddit.com/user/matig123) [url](https://www.reddit.com/r/WritingPrompts/comments/4j0gmc/wp_the_evacuation_of_earth_is_complete_you_decide/) 
 
-Score: 369
-
-He doesn't do anything. 
-
-We know what he is. He has no remorse, he knows no limits and the thoughts behind his bloodcrusted helmet that he took off of the corpse of the man he'd decapitated can only be guessed by the Gods, and even then there'd be a big risk. 
- 
-He eats nothing, he drinks nothing. He never talks, instead he communicates through telepathy. He toys with the lives of his victims, poisoning them to put them under illusions and then finishing them off with unique traps. He commits abysmal crimes and goes on a murder spree and each time takes out half the city before being killed. And then he springs up again, full of life. 
-
-But that's not the only thing. He stays here, with us. He's a murderous, sub-human maniac and he's also a knight of the nine, the Champion of Cyrodiil, The Champion of the Arena, The Listener of the Dark Brotherhood, The Grey Fox... 
-
-And Sheogorath, The Daedric Prince of Madness. 
-
-And he just stands there, crouched, looking at us. Jumping up and down and throwing things about. Swinging his sword everywhere. Sometimes I wish I could kill myself, so that I'd be spared the agony.
-
-The agony of this life that revolves solely around the adventures of a madman.
 ----
 
-# [WP] You are a non-powered person at a high school that trains superheroes. Surprisingly, you are at the top of your class.
+#### [WP] We've explored more of the lunar surface than the bottom of the ocean. NASA knows what's down there, and it trying to get us off Earth as fast as possible
 
-Score: 361
+Score: 1383
 
-Black Dagger came at me, faster than any human eye could see. I actually think she hit Mach 2, from the sonic boom.
+It's called the Fermi Paradox, the fact that in a universe that should be teeming with intelligent life we have heard nothing from our neighbors. That where space should be a cacophony of cultures all shouting to the cosmos 'we exist' there is only dead chill silence.  It should not puzzle us,  every day when we see the flash of sinister movement outside our windows or hear the sudden creaking of the floor elsewhere in the house we pause and even our breathing stills. When we are afraid we go still and silent, and all of those civilizations in space are afraid. They are so tremendously, very, afraid because they REMEMBER. 
 
-I'd moved before she'd even started running. Her hyper-speed punch hit the air, creating a pretty nasty shockwave that I was able to ride out by dropping down to one knee. By the time she realized she hadn't actually hit me, I was already up. She ran away from me - a few yards, enough to get another running start - and came again, both fists raised. Sloppy. I sidestepped her and the resulting shockwave, but remained close this time. By the time she stopped, I was right behind her. I karate-chopped her in the neck as hard as I could - no need to hold back with superhumans - and she dropped to one knee. While she was disoriented, I put her in a hold and waited for the count.
 
-"And... Ravindra wins!" came Coach Coldsteel's voice
+We humans call our planet Earth, soil, so integral is the land to our identity it seems that nothing else exists but the oceans are larger and they came first. Before life ever awkwardly flopped its way onto soil it grew in the depths, before humankind ever used its wits to become the fiercest killers on land yet others were using theirs to become the butchers of the sea. 
 
-"Thanks, coach" I said, helping Black Dagger up. I wasn't thanking him for the victory - I was grateful he didn't call me Battleaxe. My parents insisted I take that name because you need to have a superhero identity to enroll here, but I hated it. They wanted "something badass for a future superhero", they said. With both my parents being superhumans - One of the most famous superheroines of her age and the first supervillain to truly reform out of love - everyone expected me to develop powers sooner or later. Even though it hadn't happened by the time I hit high-school age, I'd gone to the superhuman school. After all, it was bound to happen sooner or later, right?
 
-Well it still hadn't. And while I'd begged and begged not to go at first, while everyone (myself included) expected me to get flattened against a wall in three days, I was actually enjoying it here.
+It is humankind that has forgotten, forgotten that the land was no prize to be claimed but rather the distant shore to flee too. That for all that we are, we fled those even more intelligent and more malicious than ourselves. 
+When those on land go missing humans spin tales of aliens coming to carry them away, of tests and needles. When ships go missing we do not question it, we feel no need to spin such theories because deep in our collective unconscious we know. The depths are deadly, do not venture there. 
 
-You see, it turns out superheroes? They're a bunch of one-trick ponies. The girl with hyperspeed will solve every problem using her hyperspeed, the super-strong kid will hammer away until it works out for him, the sonic-screamer, the telepath... They are hammers living in a world of nails. Whereas I've had time to learn to be something else.
 
-When I was three, the Siren attacked my parents at home while I was napping. I had to toddle through her screams, bleeding from my ears, until I could find safety while my parents fought her. When I was six, Mind-Twister commanded me to go kill them in their sleep. I was in their bedroom with the kitchen knife when I finally got rid of his telepathic compulsion. And I'm not even counting the time Bullfighter tried to kill me to break their spirits... I had to roll exactly the right way with his super-strong punches so that I'd just get bruised and not pulped on the spot.
+We have ventured there, of course, our sonar echoing and hulls straining to hold themselves together. Initially assumed remnants of some ancient civilization it was NASA scientists and their more modern understanding that finally put meaning to those lines and shapes as launch facilities. Those scientists that finally identified  the gunships, the missiles, the bombs. The great slaughtering race the galaxy fears is not on some distant shore looking towards the heavens but rather beneath our very own waves. 
 
-I didn't expect all that to pay off so well. To me, it was a part of surviving from one day to the next. But by not having a superpower, a magic solution to my problems, I'd learned to make my own.
 
-So I read a speedster's movements before they run and predict their intent. I avoid the super-strong's attacks and conserve my energy until they tire out. I press into my head at exactly the right point to protect my inner ear from the screamers, I count Fibonacci sequences and prime numbers to keep my mind clear of the telepath's presence, I stay low on the ground to negate the flyers' advantage, I roll at the right time to avoid the firebreather's flames.
+The cold war was a sham to build enough bombs, the space race necessary testing and the later near collapse of the space program all a ruse to hide the construction of the generation ships. Project Victus is nearly complete, if all goes well soon the ships will rise and humankind will flee the smoldering cinder that Earth has become. We only pretend to fear the day we leave a dead world behind us. It's our greatest hope. 
 
-That's the thing with superhumans, you see. Once you take away their one trick, they don't know jack. They have no other way of solving a problem. That's why I'm not Battleaxe. That's a superhero's name.
-
-I'm plain old Ravindra, and they're all scared shitless of me.
 ----
 
-# [WP] At birth, everyone is randomly assigned one law they can break for the rest of their life. You are given..... loitering.
+[Molvich](https://www.reddit.com/user/Molvich) [url](https://www.reddit.com/r/WritingPrompts/comments/4kspf4/wp_weve_explored_more_of_the_lunar_surface_than/) 
 
-Score: 354
-
-Name:  Rolf Slentre
-
-DOB:  7/4/1998
-
-EL:  Loitering
-
-
-The police officer checked my information twice, three times, but it would check out.  It was accurate, after all.
-
-"The hell do you mean, you can't do anything?  He's on my property!"
-
-Yeah, yours and every other corrupt sonofabitch I do this to.  Loitering is pretty damn handy for protesting.  I have it, might as well change the world.
-
-Plus, I get to picket right in their face.  And that was fun as hell.
-
-"He's been affecting my sales for a month!"
-
-"And if I'm correct, sir, your Exempted Law is Corporate Fraud, and mine is Criminal Neglect, so quite frankly, I don't want to help you, and I don't have to."
-
-I gave that cop a fistbump as he left.  And then I proceeded to loiter.  Aggressively loiter.
-
-Hell yeah.
 ----
 
-# [WP] No one in the galaxy ever assumed that Earth would amount to anything because of its extreme gravity for a life-bearing world - anything trying to escape the planet's gravity well would need to BE 97% fuel weight, and the idea that they would try was a ludicrous concept.
+#### [WP] You work in tech support. One day you receive a call from someone you begin to suspect is God and, boy, is he mad.
 
-Score: 339
+Score: 1372
 
-"Exemplar, they have landed a droid on Mars."  
+There were two beeps in my headset as the call came through and immediately I could hear muffled swearing down the line. I always preferred being friendly, but sometimes with difficult calls it was better to be slightly sharp and officious, to keep people from getting too carried away; I called it my bitch voice. 
 
-She froze over her fourth lunch, taking two blinks to register the news. "You're kidding me," Exemplar Boria said slowly.  
+"Hi, you're through to the faults team at MegaNet, my name is Emily, can I take your account number please?" The voice was still muffled and so I tried again a little louder. "*Hello*, you're through to Emily, can I *take* your account number. To my left Jack looked across and smiled, he knew my bitch voice and could sense that this was going to be an interesting call. 
 
-The messenger fidgeted under the weight of her stare. "Never! But... you asked me to report any developments, so I have---"  
+My voice must have filtered through this time and there was the noise of the phone being brought up suddenly to the callers face. "Oh, uh yeah, what do you need from me?" 
 
-"Done so diligently, yes yes." After a few moments of indecision, she took a stab at the local delicacy, but threw the eating utensil in a wet spray out the window. "It took us *sixteen* cycles to get a droid on another planet!"  
+I let the silence go just long enough to show my displeasure. "Your account number, *Sir*." 
 
-Still standing behind the Exemplar, he attempted a cough before speaking that meant to come out as polite. Instead, it only drew her ire towards the hapless messenger. "The thing is," he rushed, "their time goes by at a different rate than ours, so perhaps Earth accomplished this feat in a comparatively longer time than our home planet!"    
+"Shit, account number... uh, look Emily, I don't have a clue. The problem is that my wifi is out and I need to get it up as I have people coming round and..."
 
-Exemplar Boria took four deliberate steps towards the messenger and set a hand on his shoulder. "Their cycles are more frequent than on Xelon IV. The majority of their fluid supply is undrinkable. Their *gravity* is three times heavier than our home planet." Nails began digging through the messenger's tunic. "We've made the calculations. And they're *eclipsing* our history at an uncomfortable rate."  
+"*Sir*," I interrupted, the bitch voice growing ever less friendly. "Without access to your account I am unable to help you. If you do not have your account number to hand then can you give me your address?" 
 
-"But---" the messenger stuttered, "how could they? At their current technological stage, any vehicle would have to be at *least* 97% fuel to escape the planet's gravity well!"  
+The phone went muffled again, as if he had pressed it against his chest. "She wants the address." There was laughter in the background. "Uh, no honey, that's not going to work, I'm not going to be on the system with an address." 
 
-"And that is why you are only a messenger," Exemplar Boria replied unkindly. "You do not understand the sheer enormity of handicaps Earth has inflicted on it's dominant species." She released him, plucking bits of the messenger's scales and cloth from her nails. "Our ancestors laughed when the primitive species discovered heat energy. The Stick Joke, remember?"  
+I looked across at Jack, who was smirking as I rolled my eyes. "Sir, *all* accounts have an address, it's where we connect your internet."
 
-The messenger nodded grimly, fighting every instinct to cover the small, burning holes in his shoulder while the Exemplar was watching. "The one where nature took pity for their poor luck and struck a tree to give them a small head start?"  
+There was a long sigh. "Uuuuuh, okay Emily, tell you what, we'll use an account number." 
 
-"That's the one." Boria did not laugh. "Now look at them, three cycles later... Terum?"  
+"Oh, you have your account number now do you sir?" My voice could've cut glass. 
 
-The messenger was silent, then found his voice. "Yes Exemplar." Once she turned towards the window she launched her food at earlier, he clutched his shoulder, wincing as he did so.  
+"Just go ahead and put one into the box and pull it up." 
 
-She spoke more to their home planet of Xelon IV than to the messenger, but the words carried to him in a tone of warning. "Who would have thought these humans would compensate for their misfortune, and become 97% willpower?"  
+I waited for the rest of the numbers. "It's an eight digit number sir and can be found on your bill or on your..." 
 
-He blinked, then dared to reply. "Willpower isn't quantifiable Exemplar."  
+"Just throw it in sweetie and hit your big white enter key underneath the picture of your cat stuck to the monitor and see what happens." Smugness oozed from his voice 
 
-Boria turned to him and gave the messenger a grave look. "So we thought."    
+I took a breath to stay calm, he was right about the picture, lucky guess. "Sir, if you won't give me your number then I am unable to..." 
 
------
+His voice lowered and became soft. "Do it Emily." My fingers had moved without my conscious involvement and an account was showing on my screen. 
 
-*More at r/galokot, and thanks for reading!*  
-----
+I blinked and peered forward. The details were... correct and all in order, but just a little... difficult to see. I leaned back and rubbed my eyes and tried again. I could *see* the account details, name, address, all of the usual and I could understand them, but at the same time I had no idea what was in front of me. 
 
-# [WP] God shares the cosmos with several other dieties. To pass the time they play Civilization like games for eons. God's frustrated that his civilization, Earth, is several ages behind all his friends.
+"Uh... I'm going to have to ask you a few security questions Sir." I waved frantically at Jack and pointed at my screen. He pushed off his desk and trundled across to me, the wheels on his chair squeaking as he moved across the grey industrial carpet.
 
-Score: 336
+He came back immediately. "No, let's just get on with this." 
 
-Different minds in different ages to further the development of man.
- 
-I, at first, wondered why they had advanced far further than I ever could, we weren't allowed to spy, of course - for that would be cheating. But with every century that passed us by, our scores, our achievements, our *everything* were tallied and revealed to all.
+"Okay, no problem, how can I help." The words had *come* from me, but again I felt as if they had bypassed my actual involvement. Nevertheless I didn't seem to be able to take them back and all I could hope was that this wouldn't be one of my calls that got monitored. Jack was squinting at the screen, moving his head in and out, but seemed no more able than I was to see anything.
 
-And as it were, Earth was always at the bottom, in all categories except Culture. Which I found absurd, for if they were so advanced, so ahead of me, why did their cultures suffer while mine flourished?
+The caller sounded slightly annoyed. "First up, tell Jack to piss off and stop looking at your screen." 
 
-I didn't realize it then, and I still have trouble comprehending it now. But as it were, they focused too much on the end, they didn't let their beings wonder and think, they were but a hivemind, focused on the single goal of advancement, galactic colonization, and universal domination. They advanced with very basic means, but with such sheer determination and numbers that my civilization could not hold a candle to what they were.
+I jolted back in my seat and looked around. "Is this a joke? What's going on?" 
 
-And so, when they came to my humble solar system, as it were, it was hard to accept how far behind I was at first; barely making a tiny colony on the moon, and to be met with galactic fleets which could blot out the sun if they tried.
+They sighed. "No, just... look, my wifi router is broken, the little lights are flashing but I get no connection. What do I do?" 
 
-And so Earth fought back, as they would, and it came to be that in all their conquest and power, all their fire and might. They were too simple with their means, and not creative in their destruction.
+"Uuuuhhhh, have you tried turning it off and on again." 
 
-For Earth, although it never advanced past the moon and the sun, it sat and festered and waged war amongst its own. I was very lax with the laws of creation, and so their differences led to rivalries, but from those rivalries came ingenuity, and from that, power.
+There was a pause. "Oh shit." The phone went muffled. "Did we turn it off and on again?" He came back a moment later. "Hang on." 
 
-Nobody saw the nukes coming.
+I heard muffled thumps and then thirty or so seconds later he eturned again. "Shiiiit, that worked Emily. Man I feel stupid as hell. Tell you what, to make up for wasting your time I'll do you a favour." His voice lowered again. "What do you desire more than any other thing in the entire world." 
 
-* * *
+A million images flooded my mind; money, fame, power, all seemed within my grasp, but it wasn't what I wanted *most* and I couldn't lie, not to him. 
 
-^More ^of ^my ^stuff ^at ^/r/khaarus
-----
+"I want it to beep once, not twice when a new call comes through." 
 
-# [WP] A master seductress and a master seducer meet at a bar. They both think they're manipulating the other.
+Laughter flooded down the line. "You got it girl." 
 
-Score: 336
+There was a click as he hung up and I was left staring at the account that I couldn't read, until a second later it flicked away and the normal screen returned. I looked to Jack, who was still sitting beside me, looking puzzled. My mouth opened but I had no idea how to explain what had just happened.  
 
-They sat at opposite ends of the bar. He stared in the mirror directly  behind her, squinting slightly to look all the more mysterious. He knew she was watching.
+There was no time to figure it out and with only ten seconds between calls it was probably better not to try. My phone beeped once and I was connected to the next caller. 
 
-She occasionally glanced in his direction but never directly at him. She flicked her hair back whilst biting on a straw. She knew he was admiring her.
+*****
 
-In unison they got up and moved to stools one apart from each other at the center of the bar.
-
-'Leanardo' he crooned whilst opening a cocktail menu. He looked up at the barman 'Vodka martini. On the rocks. And a Mojito for the beautiful lady'.
-
-'Audrey.' she said whilst avoiding eye contact. 'And make mine a Sex on the Beach'.
-
-The man raised an eyebrow. 'A lady who knows what she wants.' He said whilst checking his watch.
-
-'Yes, and I *always* get what I want.' She leaned infront of the man to pick up an olive. Her top dangled loosely and allowed him a glance of her ample breasts. She slowly dragged the olive off the tooth pick with her teeth whilst ignoring the man.
-
-The man pretened to yawn and stretched his arms wide. His shirt's top button exploded open to reveal finely chiseled pectorals. 'Excuse me, that doesn't usually happen.'
-
-He thought it was going well and was ready to move in for the kill. She thought she had reeled him in and prepared for the catch.
-
-'Oops, how careless of me!' she said as she hopped off the stool to retrieve her fallen lipstick. She slowly bent over as her buttocks danced a rhumba through her tight jeans.
-
-'I'm only in town tonight,' he crooned enigmatically 'my band is playing at Madison Garden tomorrow.' He picked up a toothpick and chewed on it.
-
-'My only night too. I have to be in Paris for a shoot in the morning.' She murmured, stirring her drink.
-
-'Then we should enjoy tonight.'
-
-'You read my mind' she said nonchalantly 'let's get out of here.'
-
-He placed 15 dollars too much on the table as they left. She placed 20.
-
-He opened a taxi door and got in. Playing it cool, he looked away from the open door and stared out of the window. 'Relax for a bit baby, you're going to need your energy'. He was pleased with how cool he was playing it. One of his best. The taxi driver shut the door.
-
-She opened a taxi door and got in. She slid over and began doing her lipstick in the windows reflection.'Entertain yourself for a few minutes' she said suggestively. She was pleased with how aloof she was being. How could any man resist?
-
-The two taxis drove off in opposite directions.
-
------
-For more of my prompt responses please check out /r/nickofnight
-----
-
-# [WP] God shares the cosmos with several other dieties. To pass the time they play Civilization like games for eons. God's frustrated that his civilization, Earth, is several ages behind all his friends.
-
-Score: 334
-
-“Look, if you're so mad about it, the offer to play Katamari still stands.” Selina looked away from her monitor briefly to call back over her shoulder.
-
-“Oh, brilliant idea!” God remained focused, clicking four or five times in quick succession, pausing, tutting, and then clicking a few more, “Fool me once, shame on you. I've already lost the dinosaurs to that infernal game.”
-
-“Hey, any creature that can't withstand being forced into a compact ball and shot into space isn't worth your time.” Selina gesticulated wildly with one hand, the other three still made easy work of anything Civilization had to offer.
-
-God, through a feat of pure sullenness and strength of will, somehow managed to hunch over even more. His eyelashes fluttered against the screen and his beard obscured almost all of the keys on the keyboard. It was not a major obstruction, God was mistrustful of hotkeys.
-
-A head came into God's vision from the left, and sharply departed.
-
-“Me damn it, Rocco, no Me damn cheating!”
-
-Rocco span in his chair to face God, arms crossed, one eyebrow raised, and a half grin on his face.
-
-“Okay, firstly, I've finished my turn. Secondly, that 'Me damn' thing was cute once, maybe twice, but it's wearing mighty thin now.” Rocco counted off each point on his divine fingers in a manner that God Almighty found a trifle annoying. “And third, why would I cheat by looking at your screen? We've got warp speed and teleportation, God, what do you got?”
-
-“Well...” Very slowly and deliberately God moved the mouse to the top left-hand corner in order to view the technologies tree, “Let's see here... Well, it looks like people have figured out that turning a camera around is a neat way of taking a photo of your face.”
-
-Giggles and snorts rose up around the room. God grunted defiantly, hoping that His luminescent beard hid the redness of His cheeks. Suddenly an elated voice cried out from the far end of the room.
-
-“I've done it! Meaning of life discovered, I win!”
-
-Swiping His keyboard off the desk and banging one heavenly fist on the oak panelling, the now vengeful God rose to his feet, all the while adjusting his toga which was beginning to ride a touch.
-
-“This is ridiculous!” He bellowed in the ethereal LAN room, “Your people have achieved ultimate enlightenment, and mine are going into a frenzy about what colour a fucking dress is! I've had enough, it's time for something a little different...”
-
-God turned to Selina. He was now a mischievous God, a twinkle in his eye, as Selina began to comprehend. She inched forwards in her wheely office chair.
-
-“You mean...”
-
-“I do. Let's go Old Testament. Boot up Katamari.”
-----
-
-# [CW] Write a gruesome story using only euphemisms so than it can be read to a group of children without frightening them
-
-Score: 331
-
-At the ripe old age of fifty-three, Tim was Nixville's oldest eligible bachelor, a record he had held for a decade. All that would change today: Tim had decided there was no time like the present to start a family. 
-
-First, Tim needed someone to be his wife. Kids nowadays use the Internet for that kind of stuff, but Tim was an old-fashioned guy; he liked to court his prospects in person. In Nixville, you could usually find tons of single ladies at Fresh Cherries, the local alternative dancing studio. Tim made his way over there and asked for Felicia, the most beautiful dancer there. For the past ten years, Tim had visited Felicia every Saturday night. They knew each other very well, and Tim had decided it was time to move forward with their relationship.
-
-Now, Tim had seen Felicia with a lot of other men. He knew that she loved him the most, but he needed to be extra sure. That's why he slipped a love potion into her drink. In the private room they shared, Tim watched Felicia dance, occasionally directing her movements with a heavy hand. After awhile, Felicia's eyes began to droop, and she eventually slumped into his arms, deep in slumber, a sign of the potion's success. A modern day Sleeping Beauty, she would only be awakened by a kiss from her prince, which Tim was all too happy to do. Repeatedly. Keen on avoiding needless confrontation with her jealous suitors, Tim gently draped her over his shoulder and darted out the window.
-
-The act of marriage is commonly referred to as "tying the knot." Just one knot, mind you. But Tim was an overprotective man; he ended up tying four knots to secure Felicia's hands (and feet) in marriage. Exhausted, he fell asleep next to his new wife.
-
-Marriage isn't always sunshine and roses. Every couple has its arguments, and Tim and Felicia were no exception. Their first took place the next morning. Tim had a wicked sense of humor, you know. To avoid undue conflict, he slapped a piece of duct tape across Felicia's mouth. Then he was off: Tim wasn't quite finished with his family yet.
-
-You've probably noticed by now that Tim still needed a kid of his own. And just how does one go about acquiring one of those, you ask? You guessed it: the shopping mall. Tim drove over to the Galleria and began looking out for one of those poor, abandoned kids with no parents that you tend to see from time to time. Eventually, he saw a young boy of maybe six wandering around, in danger of being trampled by the mobs of shoppers flocking from store to store. Tim ran over to him, saving him from potential disaster, and promised him a ice cream cone and a lifetime of affection. And just like that, Tim had found himself a son. 
-
-Now, I said earlier Tim was an old-fashioned guy. He thought himself the man of the household, the head honcho of the family. He ruled his little kingdom with an iron fist. Sadly, such traditional family values are forever under attack nowadays. In the small town of Nixville, there were some people who just didn't understand Tim's way of doing things. One night, the doorbell rang, and Tim opened the door to a group of thirty angry townspeople.
-
-"Tim, we've come to bring you to justice."
-
-Let it be known that Tim defended his family until his last breath. They were too much for him, though. The mob dragged him by his feet over to the old oak tree in his front yard and tossed a rope over his head. Like the children they were, they turned him into a human tire swing, pushing him back and forth beneath the bough until they got bored. 
-
-That was years ago. Tim and his family are long gone now, but rumor has it in the town of Nixville that whenever a child gets lost in the mall, old Tim will be there in a flash to offer them a place in his loving home.
-----
-
-# [WP] Humanity finally reaches the edge of the solar system only to encounter an impassible barrier and a warning not to try and breach it. But is it there to keep us in or to keep something else out?
-
-Score: 318
-
-Alex Isolus tapped his fingers nervously against the console, his eyes fixed on the image floating half an inch above it, a hologrammatic display showing the local region of space. Pluto was far behind them, a distant smudge in the void, and ahead of them lay...nothing.
-
-The scopes simply ceased to penetrate any further. At first he and his crew had believed it to be an error with the system, however the closer they approached, the more wild the gravitational field became, erratic disturbances in the quantum foam and the Wall revealed itself.
-
-A solid field of pure energy, the matter contained within in packed tighter than should have been physically possible. Yet from it emanated a low-level electromagnetic transmission, pulsing steady from beyond the veil on every single wavelength simultaneously. They had needed to filter out the visible light hours ago, the strobing rising in intensity as the ship had approached, seemingly detecting its presence.
-
-Increasing the power of the scanners yielded nothing; the wall was impenetrable and could have been anywhere from thousand of miles thick to barely one atom. It was impossible, a featureless shifting of existence.
-
-It was wrong.
-
-Such a construct could only be artificial, and the endless non-space before them forced itself onto his mind, the impossibility of it ripping out his soul and leaving a bare husk as he failed to make sense of the situation. He tried to remain calm but found nothing inside him that he could reason with.
-
-*You're a scientist, damn it!* he thought to himself, *Get your shit together!*
-
-Watched eagerly by his co-pilot, he brought a tentative hand across the console, swiping a finger downwards to release a survey drone, the system chiming happily in response. 
-
-The fibres of the drone ignited a fierce blue as the machine burned its way between the gap, transmitting data back to the ship. On the scanner Alex kept a close eye on the drone, scanning through the rapid influx of data, which was no different to what had already been produced. 
-
-The distance closed between the two.
-
-Five kilometres.
-
-Four.
-
-Three.
-
-Two.
-
-One.
-
-And the data stopped abruptly. The drone ceased to appear on the scope, but the wall showed no signs of damage. There had been no change to the physical space occupied by the drone and no apparent explosion. Had it been absorbed through the wall? Torn to its most basic particles?
-
-There was just...nothing.
-
-More drones showed the same results. He briefly considered the possibility that they had simply passed through, and that there was another side. He would never know...unless.
-
-Giving a glance to his co-pilot, who acknowledged it with a nod, he eased the control stick forwards, feeling the push of acceleration forcing him backwards, tightening his ribcage and pulling at his face. As they followed the drone, he felt happy, his heart and mind screaming as they plunged nose-first into the unknown.
-
-
+Loads more stories over in /r/fringly and *guaranteed* the most attractive people on any reddit sub. You'd fit right in! 
 
 
 ----
 
-# [WP] A hostile Alien race arrives at Earth, But misinterpret the U.S. flag as a 50 Star systems strong government.
+[fringly](https://www.reddit.com/user/fringly) [url](https://www.reddit.com/r/WritingPrompts/comments/4jwapo/wp_you_work_in_tech_support_one_day_you_receive_a/) 
 
-Score: 312
-
-Everything changed the day gorgemochs arrived in their large spacecraft. Nobody predicted the true outcome. 
-
-In the year of their arrival, 2016, I was but a wee lad, 8 years old and barely over a meter tall. The first thing I remember was panic. All of the teachers ended class and we watched it on television. Floating over parliaments, searching for the 'leaders' of Earth. By it of course I mean the mothership. 
-
-Massive in size, just larger than the state of Illinois in total sq. Kilometres. One by one the mothership was directed to the United States as the leaders, after receiving this information and destroying whatever capital building one had with an impressive flash of light the ship flew on. Upon reaching the North America's and observing the flag raised proudly in the front, 50 stars, 13 stripes, something? Someone? Came down. Immediately surrendering itself in front of the countries prime building, turns out that surrender is largely the same in every language, on the floor with your hands extended, or, errr, *feelers* in its case. The whole world sat waiting while the thing was taken into the white house. 
-
- My mother received me from school. My father met us at home, a large man like him shouldn't need to carry a gun. We passed a few cities on the way out to the country. I didn't comprehend what I saw from a distance. Masses of people, broken storefronts, thick black smoke, but no sirens to be heard. 
-
-After a few days the white house was blacked out from the tree of the world. The army surrounded it. Anybody brave enough to attempt to pass their brigade was shot dead on sight. No words for a week while the rest of the world spiral'd into chaos. No police force our military could withstand the fear of the masses while themselves had been shaken from the very core. Civilization was falling.
-
-The mothership after distributing its one unit flee'd to hover with the moon, floating in the night sky, watching Earth. 
-
-Finally, on noon of the eighth day the white house made contact. The remaining leaders of the world were gathered. They talked for mere hours before the president was put on television. He said simply. "The extraterrestrial species are scared of the United Stars of Alliance, or U.S.A., as commonly referred to, they've formerly apologized for invading such a powerful empire and are begging forgiveness. Their mothership contains the last of their species. Earth was the very last habitable planet they could make it to before the last of their fuel was used. It contains 6 billion of their species, and we will house them after their full surrender of all weaponry."
-
-**--------------------------------**
-
-I'm gonna bring this to a really dark place if there's interest in my reply, but as of now it's 1am and I've typed this all on mobile. Reply asking if you'd really enjoy continuation, otherwise I'll judge by the amOunt of response if it's worth finishing my story. 
-
-Also I'm not a writer by any means. Sorry if this is shit. 
-
-Edit: formatting.
-Edit 2: extra word
 ----
 
-# [WP] When you were a child, someone called you and said "7". You thought nothing of it until today, when you got a caller who said "6".
+#### [WP] You are a professional assassin for the CIA. But you are also a double agent. One day, you are assigned with killing a foreign agent. This foreign agent is your other alias.
 
-Score: 311
+Score: 1323
 
-I am certain now the numbers ten through eight were whispered in my ear when I was too young to recall. Ten might have been uttered by some nurse in the delivery room, under florescent lights with my mother covered in sweat and blood.
+"I want confirmed kill in twenty-four hours, understood?"
 
-It wasn't until I heard six, at my fifteenth birthday, that I knew this wasn't some random bit of conversation I was hearing. It, because the gender and appearance changed every time, was always just out of sight when it happened. Some random passerby in a crowd. I had seen them, but not entirely focused enough to remember their face. But it was always clear and left no doubt in my mind when it occurred. Though only a whisper escaping from this thing's mouth, it echoed and vibrated the very air around me. I never felt threatened. By number four I had decided it was some force of the universe I could not control, and accepted this notices as one takes mail from a letterbox.
+I sat completely still on the other end of the line. It was secure, as was all of my communications with the CIA, but this one was the most important call I had ever received. "Understood, sir."
 
-Number five was while I was at college. Like any young man who had recently escaped his parents watchful eye, I was making mistakes. This party was full of similar young adults who would not remember the evening. As a took a drink and stared into the bottom of my cup I was notified again. "Five." Even over the blaring music and voices of several dozen students, I heard it clear as a bell. It reverberated in my chest and ears. Thanks for the message.
+"This is *the* target we've been hunting for the past twenty-two years. You remember him I'm sure, he disrupted you in Venice. He's finally slipped up."
 
-Four was in my first year at my job that accidentally became a career. I wrote content for websites. A thrilling use of my writing skill when novel writing had proven too difficult. My back ached with weeks of sitting in the same chair, in the same cubicle, looking at a screen that had become my life. As I typed with the speed only an experienced workaholic obtains, I heard it again. The mail cart had just made the rounds; I rarely received anything. As the man pushing the cart escaped out of sight, it rang in my chest and ears again. "Four."
+"I'm going over all of it now, sir. The file is secured."
 
-The next came much sooner than I expected. At home, alone like every night before, I heard some party my neighbors were throwing in the apartment below mine. I didn't recognize the music and assumed they were much younger than I. Avoiding a confrontation I decided to simply increase the volume of my TV and fall asleep on the couch. Right before drifting off I heard my neighbors from across the hall come home with friends. As they search through clattering keys, laughing from a night of adventure, I heard it again. "Three." Not since childhood had I been afraid like this by the message. It was quickly on the heels of Four, what had changed?
+"Good luck."
 
-Not long after, I knew why Three had come so quickly. My eyes, usually such a brilliant display of white with azure, were now yellowing. My skin itched and darkened as well. Stomach pains kept me awake half the night. They say knowing is better than not knowing, but truthfully they are equal. Knowledge does not change any man's fate. Our journeys are through different fields, at different paces, but we all arrive at the same place. After the doctor had told me the news, with me dressed in a paper gown, in a room of beeping machines and white walls, I knew my visitor was not far behind. That night, as a nurse took note of the numbers on my machines, giving me a smile of assurance, I heard it just before she closed the door behind her. "Two." This was the first time it let me notice it so openly. It was clear we would be meeting soon enough that the secrecy was no longer needed.
+"Thank you, sir."
 
-Pancreatic cancer. My odds of survival were approximately six percent. There was hardly any time to mourn my own life or remember the five stages of grief I was allotted. Four months. They gave me only four months, but it was month three and seemed close to the end. The staff made me comfortable and alleviated any pain they could. My two visitors were work acquaintances, not even friends really. My parents had passed years ago and I had no siblings to speak of. Cousins, uncles, and aunts were only names I had been told in conversations. Any of them could have come and I would have no reference for their faces. When it came this time, I awoke to find it sitting by my bed, assuming the form of an orderly. There was no need for words or declarations of intent. It grabbed my hand, smiled weakly, and stared into my terrified eyes. "One."
+I hung up the phone with a satisfied clunk and took one of the longest, and deepest, breaths I had ever taken. It had been a long time since I heard the name that my *Commander* had just spoke on the phone. Even longer since I even cared about it. And yet, here I was, with the file a few feet from my shoes, delivered by an unsuspecting intern, in a brown manila envelope.
 
-My room faded from view, the air too hot and cold all at once. My mouth dry, as my tongue felt brittle enough to crack and disappear into dust. My doctors visited often now. Adjusting my IV bag and injecting medication straight into the line of plastic tubing. It didn't hurt anymore. Nothing was anything now. Over the chaos of hospital staff coming and going from my room, I noticed one shape in the corner who had not moved an inch. It was beautiful this time. I wondered if this was its true shape, but thought it mattered little now. It walked to the side of my bed, grabbing my hand like it had only a few days ago. The same weak smile crossed its mouth, this time with tears in its eyes. I nodded to show I understood now. It leaned down, kissed my forehead through a thick layer of sweat. Everything began to fade away, as if I was being pulled backward into a tunnel. But my messenger never left, still clutching my hand, tears in its eyes. But the smile was weak anymore. It was joyous. The grin of a friend at the sound of good news. I felt the same, though I can't explain why. We were serene and safe.
+I was in South America. On a mission to make sure a drug deal in the area went sour, which would ultimately end in the entire area spiraling out of control. I had already seen parts of my work begin, with fires spreading and civilian evacuating. I was done. And my next mission was to be all that bigger.
 
-"Zero."
+I had been with the CIA for twenty-seven years, acting as a professional assassin for the better part of the last two decades. Highly trained, extremely dangerous, and in any part of the world at any different country. I already knew where I needed to go when I heard him tell me the name. I wasn't looking forward to it to say the least. To be quite honest, I wanted to go home and visit my family in America.
+
+But orders are orders and I as grabbed the envelope off the floor I knew this order was going to be the hardest one to accomplish. I slid my finger under the seal and opened it in one swoop. The file was thin, only a few pages. *Nikolai Vinokurov*, former KGB agent operating in South Vietnam during the Vietnam War, who went off the grid after that. The file didn't contain a photo of him, but his trail had slipped up. 
+
+In South America.
+
+Convenient.
+
+I skimmed through the file. All of it was still there. The only addition they had added to it was an addendum at the end of the last page, after classifying him as a priority target. I read through it once.
+
+*Transmission intercepted in Brazil on July 17th, 2017. Encryption was heavy, but trace contains Russian backwater company located in the city. Most likely used as a proxy. Mission Alert: Target location identified.*
+
+I had screwed up. I, of course, needed to send my superiors the mission details of disrupting the drug cartel; one in which they had long agreed was necessary. But I had messed up. The proxy wasn't secure or I had used the wrong pass phrase with the Russian business. Ever since the dissolution of the KGB in the early 90's, the general pass phrases and such just seemed like ordinary conversation to other native Russians. I had lost more than half my contacts in those days.
+
+Now, I must've lost more. And I knew if I had messed up here in South America, it would seen be traced. The age of spies had ended long ago and I was lucky enough not to end up on the chopping block like the rest of my comrades. I had survived all of it. The Red Scare that lasted well into the 70's and 80's. The age when spies became obsessions in pop culture. The age of information. It was all in my past and as far as I knew, I was just about the Russian's last spy in the CIA.
+
+I had considered giving it up. Just abandoning all transmission sources with the KGB and the Intelligence Service in each decade. When the times got tough. Russia was as much my home as the boat that took me to America when I was a teenager. The *real* Nikolai Vinokurov had died in South Vietnam, and I was called upon to take his place when I was only twenty. I had grown up in America, played with Americans, dated Americans. Hell, I had married an American. But I was always loyal to the Motherland. I was always a compatriot in their fight.
+
+When the other spies began to be outed, when men and women I recognized from training were shown in newspaper and TV I panicked, but I did not slip up. I faltered, but I did not lose the fight. Yet now, holding Nikolai's file in my hand once again and seeing everything they said *he* did, and not knowing all the things *I* did as him. Well, right then and there I knew. I wasn't a Russian. I was an American.
+
+Faking a death would be easy. We were trained how to do that long ago. But I didn't want to fake *my* death. I didn't want to fake Jeremy White's death. I wanted to kill Nikolai Vinokurov. I wanted to finish him and be done with the spy life.
+
+I wanted to go home and see my wife and kids. To say hello to my neighbors and cut my lawn. I wanted to smell the fresh air of America because it was the only air I had memories in. Russia, it was just a figment in my mind. My home country yes, but not my country. Not my people.
+
+As I stood there, in that shotty little South American apartment with Nikolai's file in my hand I realized something. Something I had realized a long time ago but never wanted to admit I think. I knew, then and there, that the world didn't need spies anymore. Countries didn't need double agents. Countries needed peace; and the people just needed to survive.
+__________
+*Probably not the direction expected, but I had fun. Thanks! /r/BlankPagesEmptyMugs for more of my work!*
+
 ----
 
-# [WP] You have decided to commit suicide by hiring an assassin to kill you. He double crossed you.
+[TheWritingSniper](https://www.reddit.com/user/TheWritingSniper) [url](https://www.reddit.com/r/WritingPrompts/comments/4k5x8c/wp_you_are_a_professional_assassin_for_the_cia/) 
 
-Score: 311
-
-Once you order a hit, there are no taking backsies. That's why I hired "le Samourai". He was the best. And better, he was French. That's how far I'd fallen; I hated myself so much that I wanted to be killed by a *Frenchman*.
-
-A few months after the order I started regretting the "random time and location" checkbox I'd ticked. I guess I thought they would be quick. But hey, killing is a business. And customer service was lousy as always.
-
-Nothing reaffirms a person's will to die as much as customer service.
-
-Six months later I got really frustrated. I punched a hole in a wall. I told the owner of the dog parlor I was sorry.
-
-A year later I decided to travel to France. Hey, it probably bumped me a step up on the to do-list. "Le samourai" would check his blackberry or whatever and see that I was walking down the Champs-Élysées. "Oh man," he'd say, "I can just take this guy out right now and still have time to slurp snails with Amélie later."
-
-I spent two years in Paris. I discussed constipation in French with an old man in the Jardin des Plantes. I stepped in more dog shit than I had to that point seen in my life. I found love, then lost it, then found it again; the perfect moldy cheese. I developed a theory that moldy cheese led to gastrointestinal emergencies and that all that shit in the streets weren't all from "les chiens". I once personally created evidence in favor of my theory.
-
-Spending time in France I realized the French were cheaters. Their favorite U.S. president was Bill Clinton. They could *relate* to him. "Le Samourai" had cheated me out of my death.
-
-For some reason I didn't feel that bad. In fact, I didn't want to be killed by a Frenchman anymore. I didn't hate myself that much.
-
-So I hired a German.
 ----
 
-# [WP] After dying, you're shown a "Choose Your Own Adventure" style decision tree which highlights all the paths your life could have taken should you have made various different choices. You spend all of eternity analyzing this tree, only to finally realize that something just isn't quite right.
+#### [WP] Write a seemingly normal story, except for the last sentence, which makes the entire story creepy
 
-Score: 310
+Score: 1284
 
-Every regret. Every mistake. Every chance I had to be something more than I was, if only for a day, flashed before me. 
+I lie in bed, listening to the rain gently pattering on the skylight.  How did I get so lucky, I wonder?  I roll over gently, smiling at the sleeping form next to me.  The love of my life, she lies there sleeping.  She's on her side, facing away from the window - she never did like nighttime storms as much as I did.  I caress her gently, from her shoulder down to her hip, but I stop when she starts to stir - as much as I love her, I'd hate to wake her.  Though she doesn't have my insomnia, she still never gets enough sleep.  Someone has to look out for her health.  So I resume my quiet introspection as the wind stirs the damp leaves outside.  How lucky am I, to have been with the woman I love every single night for two years?  Never a night apart, even when we travel.  It fills me with so much joy that I think, for a moment anyways, that tomorrow might be the day.  Tomorrow, I might finally find the courage to introduce myself to her.
 
-*Man, if I hadn't been mean to Kate in kindergarten, I could've married her? A supermodel? Shit...*
-
-*Damn, if I had invested in bitcoin rather than use bitcoins to by weed on SR, I could've been an actual millionaire....*
-
-*I wouldn't have lost my job and gone broke if I'd just kept a little more quiet around that new guy?*
-
-*Mom might've lived if I spent more time with her...? Did I...kill her, then?*
-
-The more I analyzed every decision, the angrier I got. I became frustrated with myself at seeing how great my life could've been with some better choices. What was the point, then? Why did I live?
-
-Do I get another try? A second chance to pick the right answers this time, like retaking a test? I spent an eternity mulling, crying, raging....I couldn't stop. For infinity, I perused my failures and scrutinized my decisions. But I began to think about something...why bother? I'm already dead, so what's the point in all this?
-
-It wasn't until I realized that none of it mattered, and I accepted who I became on Earth with peace, that I was allowed to leave Hell and rest in solemn slumber. Turns out that Heaven isn't pearly gates and happiness, it's...quiet. 
-
----------------------------------------
-
-*thanks for reading! If you're bored, check out /r/resonatingfury!*
 ----
 
-# [EU] Jumanji has been introduced to the world. Now, it's the most watched annual event, as the world's best athletes and survivalists fight to stay alive.
+[TheFeshy](https://www.reddit.com/user/TheFeshy) [url](https://www.reddit.com/r/WritingPrompts/comments/4k2tdk/wp_write_a_seemingly_normal_story_except_for_the/) 
 
-Score: 308
-
-From the drone's perspective overhead, the four sleek forms of the lions stalking through the grass were clearly visible. But Sean Edmunds, desperately trying to light a fire to ward against just such an attack, couldn't see it coming. The cameras swooped in lower for a better up-close shot. Panic spread across his face in glorious 4K resolution as he realized what was happening; there's only one reason they'd want a close-up. His head swiveled around wildly, trying to figure out what was after him. The last thing he saw was head lioness's tawny fur as her jaws closed around his neck.
-
-"Oh, Edmunds is *OUT*!" Bill Braddock shouted into his microphone, thumping his fist on the table in the commentators booth. "We all knew that one was coming, but it's still always a bit of a shock to see!" The cameras swooped off to focus on the remaining contestants; polling found that the audience loved seeing the kill shots, but that scenes of the carnage aftermath tended to make viewership plummet.
-
-"Even more shocking is that it was *Edmunds*," added his co-host Amanda DeVance. On screen, his biography and stats popped up. "I mean, he was a safari leader in Kenya for two years! He's the *last* one I expected to die from a lion attack!"
-
-"Oh, absolutely," Braddock agreed. "In the latest betting pool, the odds-on favorite was that he would be bitten by one of the giant mosquitoes." The cameras switched to one of the massive pests that were currently hovering near the lake in the middle of the island. The autopsy on Shively wasn't done yet, but the doctor's preliminary conclusion was that they carried some sort of unknown pathogen that caused her death in a matter of hours. "In fact Edmunds kne.... Oh, I'm sorry to interrupt, but it looks like we may have our next roll!"
-
-The cameras trained on four members of the red team who were dashing through the jungle. They'd managed to spot the Blue Team's camp, where the Jumangi board was currently located. To prevent speed-throughs (where players just swiftly rolled the dice before any of the ill effects could actually occur), the board's location was changed after every roll, and teams had to scour the jungle to find it. Blue had made it to the board first this time.
-
-"The real question now," Amanda said, "Is whether the Blue Team will *allow* the Red Team to actually make its roll. Blue is down three members already, whereas Red has only lost one. Blue *might* strategically hide the board in the hopes that Red might lose a few more. Remember, that anaconda that seems to have developed a taste for  Egans is still out there and on the prowl."
-
-"That's true," Braddock chimed in. "But Blue needs to be careful too. They've taken a risk in bunching up all of their team members together. We could have a repeat of the 10th season, where the entire Yellow Team was killed in one fell swoop." That game had gone on for two entire years before a replacement team finally managed to haul the board out of the quicksand. 
-
-The drones hovered in the treetops. The world watched as the Red Team approached Blue's camp with their makeshift spears at the ready. Contestants weren't allowed to bring weapons into the arena, but most of them were adept at fashioning their own. They fanned out into the brush and circled around. But the Blue Team welcomed them in and offered up the dice willingly.
-
-"Well I'll be damned!" Amanda whispered. "Could this be an alliance forming?"
-
-Braddock shrugged. "We all know a Jumanji match can make for some strange bedfellows. The Yellow Team is pretty far ahead due to those double fours two turns ago, so Red and Blue might be feeling threatened."
-
-The Red Team emerged from the brush and stepped into the center of the camp. Akatu, leader of the Blue Team, held out the dice in his hastily bandaged hand. A Red Team member (Lewis, judging by the long blonde ponytail) took one last step... and the ground collapsed beneath her, down into a deep pit. Immediately, the Blue Team members rushed the remaining three with knives drawn. They managed to pin one of them and tie him up, but the other two flitted off in the jungle. Now the Blue Team had two Red captives to force rolls, instead of just the one. That meant that one of the Reds would be expendable; probably a useful diversion. The fewer competitors left at the end, the bigger their share of the prize money.
-
-"OH!" Braddock shouted. "It was a trap! I'd forgotten all about their pit!" On screen, a replay showed the Blue Team digging out the hole almost two days ago, presumably as a trap for animals. But apparently not. "That was just *brutal*!" 
-
-Amanda nodded and smirked. "Yes, it was. And that's Jumanji."
-
------
-
-If you enjoyed the story, you should also subscribe to /r/Luna_Lovewell!
 ----
 
-# [WP] God shares the cosmos with several other dieties. To pass the time they play Civilization like games for eons. God's frustrated that his civilization, Earth, is several ages behind all his friends.
+#### [WP] Aliens have finally reached Earth and, per Intergalactic Law, have sent their most average champion to win the planet. A device is sent to find the most average human to accept the challenge and duel for the fate of Earth. It's you.
 
-Score: 306
+Score: 1242
 
-God sat down on his lumbar support, swivel desk chair and leaned back. He adjusted his headset, and turned on his desk top computer. As he heard the fan spin to life, God nervously sipped at a diet coke, anticipating the machine loading up. He hadn't checked up on his world in a couple decades, and he wasn't looking forward to seeing what had become of it. Whenever he left his civilization for too long there was always some horrific conflict going on, or some worldwide resource depletion that would no doubt lead to more conflict. The whole thing had started off enjoyable enough; find a little planet without much going on, mix some chemicals together and see what life you can produce. A simple and addictive game at first, but now it had gotten completely out of hand. It was nothing but a giant pain in the - 
+The gigantic stage was, frankly, a little unnecessary in my eyes, but they kept telling me over and over again that the TV networks had demanded it and so I had no choice. It had only been three days since they had come for me, the government van pulling up to my door and then the thunderous knocking until I answered. I suppose I could have said no then, but when the President of the USA asks a favour… well, it becomes tricky to refuse. 
 
-"GOD! Are you there?"
+The alien ship had landed in the middle of London, crushing about a square mile of densely populated housing, but that had soon been forgotten as soon as they stepped out onto their little balcony and started their broadcast. For Earth it was the first communication from a species born on another planet, but they didn't seem to be particularly worried. 
 
-Before he knew it, his computer had loaded and he had connected to the server, and his friend Ningirsu was now shouting down his headset.
+Hundreds of TV cameras focussed in on the tall green creature as it gracefully extended six arms from its body and grasped a piece of the ship that had unfolded up to where it’s ‘head’ seemed to be. It looked from side to side and then leaned in. A complex series of grunts and hums emerged from its body and for a moment there was a tinge of disappointment from the crowd, before the translation kicked in and it blared out in English from somewhere behind the alien. 
 
-"Yes, Nin. I'm here. You don't need to shout, man." God replied, while wheeling back his chair to toss his Coke can in the waste basket.
+“**EARTH**, you have been challenged to the *ULTIMATE TEST OF A SPECIES.* The triphosphic people of Merillium have send out a CHALLENGE and YOU MUST reply. If you accept then you will need to nominate the statistically most normal human to fight to go up against the representative of Merillium in the *ultimate challenge*.”
 
-"Sorry about that. I'm so pumped right now" Nin said with a slightly irritating intensity.
+“Should you prevail, you will be given your choice of technologies, including anti-gravity, interstellar space flight and the secret to getting stubborn stains out of cloth and fabric without bleaching. *What is your answer*?” 
 
-On this server, which they had rather pretentiously come to call the 'universe', all the other deities played with their worlds and interacted with one another, gifting each other resources, technologies and art, which massively racked up the altruism and culture points in the game. So far, God's little world had not interacted with anyone.
+It’s hard to know exactly what it accepted as its answer, but the massive cheer that followed its speech seemed to satisfy it. Most people who were there on that day now claim that they were just happy that they alien hadn’t immediately begun vaporising people and hadn’t even really been able to hear what it said, but the die was cast. 
 
-"What's got you so excited?" God asked.
+That led to me. We had 24 hours to prepare and a mammoth task was undertaken by governments all over the world. After mass analysis of billions of people it turned out that I was the most “average” of all of humanity. Average height, weight, intelligence and even, sad to say, genital length, I was right in the middle of them all. 
 
-Nin didn't hesitate to respond, "My mintheons have completely gotten rid of scarcity! They're producing enough food for everyone to be satisfied, my World Peace score is off the chart!"
+Soon I was on a flight, heading for London with a dozen generals at my side, all briefing me on what to look for, what to say and how to act, but no one seemed to have any idea what I was about to come up against. By the time I arrived they had bulldozed several streets in front of the ship and created a wide flat area with a *massive* stage set up on it. Hundreds of cameras lined every area and the crowds had been pushed far, far back. 
 
-"Oh, haha. That's great" God said with a feigned enthusiasm. Nin wasn't the smartest deity, but even he had a civilization far in advance of his own. 
+I stood in the middle of the stage with Helena Campano, Spanish TV presenter and the chosen host of this unique TV spectacle and listened as she babbled away into her microphone. My eyes were glued to the ship, just waiting for something to emerge. At last, a crack appeared and a great ramp began to swing down, it was time. 
 
-"Oh, how's your race doing? The *humans*, isn't it?" Nin felt obliged to add.
+The green alien came first, dragging behind him a white box and then after him came a yellow creature that seemed to hiss in the air as it walked. Many scientists had speculated that a triphosphic alien would have difficulty surviving on our planet and so it seemed to be proving, but still they moved forward until they stood opposite me. 
 
-"Oh, yeah, you know. They're coming along. I'm just about to check on them now actually. Be right back." God closed the chat with Nin. He was always so embarrassed to talk to the others about his world. Why couldn't the humans be like all these other races that were so friendly and intelligent? He wished he could just get rid of them and start again, really.
+Helena had moved back and I could hear her speaking rapid Spanish somewhere behind me but it was the alien whose voice was loudest. He seemed to still connect to his ship and the translations blared out at incredible volume. 
 
-God opened up his world. He sighed. They really never fail to disappoint him. There were wars everywhere. Areas that were stable last he checked on them had descended into chaos. The bar in the corner of the screen marked 'environment' was in the red, which meant critical danger. The 'resource distribution' meter was the worst; he didn't even know it was possible for the meter to get that low. There was suffering and destruction everywhere. No wonder none of the other civilizations were trying to contact the humans, they must be the laughing stock of the universe at this point. God minimized the game in embarrassment. He spun around in his chair, thinking what to do. Why did he bother anymore? The game just wasn't as fun as it used to be. He removed the head set, lifted himself out of his chair and paced around his room, contemplating what to do. He looked at all the other games on his shelf, games that he would much rather be playing. He thought about the stress of having to keep checking up on this damn civilization, to make sure it hasn't destroyed itself yet. This wasn't worth it.
+“WELCOME, this will be a single round fight TO THE DEATH.” He paused as if expecting applause but none was forthcoming. “PREPARE yourself human.” 
 
-God dropped back into the chair and wheeled himself closer to the screen. Solemnly, he dragged the cursor over to the options menu. He scrolled down to the bottom, where the words 'DELETE WORLD' appeared. His cursor hovered over this option for a few seconds, but he couldn't quite bring himself to click it. Suddenly, his finger jerked accidentally on his mouse. Rather than click the left button, though, he had hit the scroll wheel, which zooms in on the game. He was now viewing one of his continents at a closer distance than he had in centuries. Out of curiosity, he kept zooming in, right until he ended up in one of the human's homes. It had been a long, long time since he had seen his creation at such a close scale. It was not a very well maintained home, and it seemed extremely cheap. God would have been further put out by the living conditions, only that wasn't what got his attention at this moment. What got his attention was the music. In the home was a mother, cradling a very young infant, likely recently born, and the mother was singing a simple tune. It wasn't that it was well sung, but just the way the words were sung so gently, so softly, like a whisper. The mother was very tired, as God could see on her energy meter, but she sang none the less, and stared with endless fascination and teary eyes into the face of her baby. 
+He stepped back and I was left facing the yellow hissing… thing. It was a shambling, roughly humanoid alien, with large black eyes at the top of its head and long arms that hung low, almost to the ground. I backed away, trying to get some sort of distance on the creature in front of me, but it shuffled after me quickly. 
 
-God was astounded by what he was seeing. Why had he never thought to look at his race on this scale before? He started pressing the arrow keys, which moved his focus across the world, but still at a close perspective. He went further north, where he saw some children playing in the snow in a field. They were building an effigy of a human out of snow, a practice God didn't really understand, but they were all glowing with smiles, so they must have found it enjoyable. He moved further along, into another home, where he saw two young humans sitting on a bed. They were playing some kind of media out of a television in the corner of the room, but neither seemed interested in it. They were instead concentrated on carefully, and slowly, moving their hands toward each others. When their fingers locked, their hearts started beating faster. In a building further east, a group of humans were roaring with laughter as they were all sipping at some kind of intoxicating substance. None of them were saying anything particular amusing, they all just seemed to be enjoying each others' company. God couldn't work it out; when he zoomed out, he saw nothing but brutality and selfishness, and yet zoomed in, everywhere he looked, he saw humans with high levels of compassion, generosity, and creativity. Up close, his race was not a failure at all, at least as far as he was concerned. He closed the options menu.
+A fight to the death? This was not exactly what I had signed up for… but it had been a possibility. There had been soldiers at one point, I think maybe SAS and they had tried to teach me some basic moves, but it had all been a blur. What was it they had said? Something about hitting hard and fast and hoping like hell. 
 
-God looked over to the upper limits of his world, high into it's atmosphere. He saw space stations and satellites, made with technology which the other worlds in his server had greatly advanced from. God, for the first time in eons, smiled at his little world. "You take your time" he whispered, and switched off his monitor.
+It came closer and on instinct I took a low clumsy swing with my foot and connected on what might have been its leg. It paused, looked down at where I had hit it and then exploded into a yellow cloud that covered the surrounding area in a thick yellow goo and sent the first alien scurrying back to my side. 
+
+“CONGRATULATIONS humanity, your representative has been victorious and now it is time to choose your prize.” 
+
+They had all been very specific about this and as the alien shoved his microphone type object in my face I spoke clearly. “Interstellar space flight, please.”
+
+I was surprised that my voice was not amplified like the aliens, there was no noise at all from the giant speakers and just some grunts from the beast that went untranslated, but it replied almost immediately anyway. “WELL DONE and excellent choice human. You have chosen the secret to getting stubborn stains out of cloth and fabric without bleaching.” 
+
+My head twisted around and I could suddenly see angry faces all around the stage. “Wait, what? No, hang on...” 
+
+It ignored me and moved over to the white box and pulled out a brightly coloured package. Its voice had dropped low and silky. “Whether you are fighting an alien species or just keeping the kids clothes clean, you can trust in XXIXAK cleaner to get oil, blood or even Merillium goo out of any of your materials.” 
+
+I felt a hand pulling at my clothes and a second later it had pulled off my jumper and stuffed it into the white box. “Look at how it keeps the colours fresh and the clothes crisp.” it pulled out my jumper and it was indeed very clean looking, but I felt it would be a poor move to compliment it. 
+
+The alien looked around. “Now, as a species, how many packs can I put you down for?”
+
+*****
+
+Like stories about aliens? If so then you probably like Star Wars, so why not [read my novella about what would have happened if Anakin had *not* turned to the dark side](https://www.reddit.com/r/fringly/comments/3n5mon/star_wars_force_legend_what_if_anakin_had_not/), over on my sub, /r/fringly. 
+
+
 ----
 
-# [WP] A demon is getting REALLY tired of teenage girls summoning him.
+[fringly](https://www.reddit.com/user/fringly) [url](https://www.reddit.com/r/WritingPrompts/comments/4jr2k4/wp_aliens_have_finally_reached_earth_and_per/) 
 
-Score: 297
-
-That was the fourth Jessica in the last two months alone. Before that it was three Brittneys and a Skyler and who could forget the disastrous Tamara case?
-
-Jim flipped through the ledger to double check, but no, it was all there. Nothing but teenage girls for the past six months and it seemed to only be getting worse.
-
-This must be someone from upstairs, he thought. Frank in accounting could pull some strings and he and I were never on very good terms, especially after the last holiday party. I knew I shouldn't've made a pass at his wife.
-
-Jim sat back in his chair with a sigh, the leather flatulating under his weight. He rubbed the nub of his left horn, a bad habit and a nervous tick, exacerbated in the last few months to the point that he could barely call it a horn at all anymore. These girls'll be the death of me, he despaired, not without a conscious note of irony.
-
-Just then another assignment came in, the capsule plunking down at the terminus of one of the pneumatic tubes next to his desk. Jim started, his heart pumping its black blood in fitful contractions. He reached for the capsule and pulled out the parchment. Looking at it, he couldn't help but laugh, though the sound came out more like a choking sob. There, scrawled across the page, was his next summons:
-
-*Hayley Johnson, 17*
-
-*Windsor, Connecticut*
-
-*Request: Possession of classmate Kelsey Simon for purposes of making Chase think she's totally effing gross*
-
-That's it, Jim thought. That's fucking it. I'm done.
-
-He took out his quill and sheep's blood and with all his bitterness and resentment wrote "FUCK YOU GUYS I QUIT" in splotchy Sumerian across the page. He rolled the parchment back up and jammed it in the capsule, shoving it in the outgoing tube back to whatever jackass had sent it.
-
-// Edited a little phrasing here and there
 ----
 
-# [WP] Jesus returns to Earth, in a small town in Kansas, the first thing he sees is a sign for the "Westboro Baptist Church."
+#### [WP] A modern teenager is transported into a fantasy world, where they are forced into a quest with young witches and wizards their age. Fortunately, they've got a backpack full of high-tech gizmos to help them along.
 
-Score: 296
+Score: 1164
 
-As my feet touched the earth for the first time in about two thousand years, a light shiver ran along my spine. I knew why Dad had to bring me back and that he could use all the help he could get, but still, leaving Earth wasn't an easy thing. Maria made it a lot easier, that's for sure, but still...  
-  
-The wind blew through my hair, and simultaniously I became aware of both the prayers and the hate that streamed in. Ah, yes, the hate. One of the things I had missed like a sore thumb. But it couldn't be helped. It was part of it and was here to stay. Just like the figure I became aware of just now...  
-  
-"Well well, if it isn't my favorite nephew. It's been a long time since I've seen you dressed up like that!"  
-  
-I sighed. Could've known he would be here to mock me. "Hello Lucifer. Always good to see you. Such a handsome suit!"  
-  
-Lucifer smiled and patted a little bit of pollen off of his black-and-red suit. "Why thank you! Still the complimenting one I see. Anyway, I just thought I'd wish you a good luck. Seems like you're going to need it..." The smirk playing on his mouth was wholly uncomfortable; a real devil's smile. "Thank you, Lucifer! So kind of you. I'll tell Dad you said hello. Now if you'll ecxuse me?" I walked away from the fading presence without looking back; doing so woould have probably given him more credit than he was worth.  
-  
-At first I though I had landed in one of the more rural parts of the planet, but now all kinds of people were walking around me (who were probably totally oblivious to my appearance) and I noticed a lot of buildings around the edges of the greens. On the other hand, that's a good thing. Buildings mean civilisation, and that in turn means a church must be nearby; a perfect starting place for reminding these people that God hasn't forgotten about them!  
-  
-But the more I walk around, the more my mood sombers: no church to be found. And the people all look weird to me when I ask for the nearest church.  
-  
-"You look like a fag. Why don't you go back to fag-ville to do your dirty things!"  
-  
-For a second, I am perplexed. A "fag"? Ah, right, the slang for someone homosexual. I almost want to say that nothing is wrong with this, that God has created all equal, but then I notice how this came from a little boy. "Little boy, I think your parents must be worried about you; talking like this is not a nice thing to do! Come, take me to your parents, so that I can have a word with them..." "No! You just want to kidnap me! You fucking fag!" The kid runs away, people looking at me in bewilderment. I give them an unknowing shoulder and soon everybody is going about their daily business again. That's something I'll have to change too... But for now, I want to have a word with the boy's parents. Good thing I saw where he went.  
-  
-A few minutes later I arrive at a few buildings with a large sign in front: "Westboro Baptist Church", it said. A church! Blessed be Father for guiding me! Just as I look back down again, I hear a scuffle. "That's him mom, that's the fag that followed me home!" A woman is holding the boy by his hand, a look of hate in her eyes. I now see the signs that are all over the place: "You're Going To Hell", "Pray For More Dead Soldiers", "You Will Eat Your Babies"... such hate! But why? I am totally shocked. "Yeah, you have a good look fag! Our God won't have mercy on your filthy ways for sure!"  
-  
-I spread my arms. "Dear woman, I am not here for manly love, only to come talk to you about the ways your child is treating his fellow man. But talking about God is fine with me, for I am..." "A fag, that's what you are!" The nerve! "Woman, please let me finish. My time here is short. May I speak to your husband?" By now a crowd has gather behind me. I hear the whispers, the looks of astonishment. *Is he for real? Is he really taking on the church? Are you filming this?* "Fear not people. My Father has send me here, to show you that He has not forgotten about you. He still loves, and..." A tomato splashes against my head; finally anger rises. Is that Lucifer in the crowd?  
-  
-"Go away fag! No God would have let you walk around here with your filthy fag feet!" Not only behind me, but in front of me a small group has emerged as well, picking up those signs and chanting **God hates fags! God hates fags!** That's it. I walk towards one of the haters, grab away his sign and make my return to heaven. Yeah, let the lights of heavenly ascension soak in good. It's the last thing you'll see allright...  
-  
-  
-  
-The people left behind stare in awe; not a word is spoken. Then, one of the picketers lets out a loud "shit". He gets annoyed looks, even from his fellow picketers, until one of them finally speaks up. "What's the matter? It's not our fault we didn't know it was Jesus..." "That's not it. The sign he took with him? It was the America is Doomed one..."
+I stared at the wizened old man in front of me. I didn't even know how I had gotten here - wherever *here* was. I remembered opening my notebook for Chemistry, only instead of yesterday's notes about covalent bonds there was a bright purple portal that sucked me to friggin' Narnia or whatever.
+
+"A noble quest? Seriously?" I rolled my eyes. "How cliche can you get? Wait, wait, don't tell me, there's an ancient prophecy saying that some unknown hero will come from a far-off land and defeat the ancient evil and bring a new era of peace and prosperity to the land?"
+
+The old man paused with his mouth open for several seconds. Yeah, that confirms that. Stupid prophecies, never liked the things.
+
+"It doesn't matter if there's a prophecy, Taylor!" he finally snapped. "If nothing else, do it for the knowledge that you're helping us, that you're bettering yourself!"
+
+"Blah blah," I said, rolling my eyes again. "Whatever. I'll do it. Now I've seen how these stories work, you've probably got a group to help me already picked out, right?"
+
+"You.... You have helped other lands from evils such as this?" The man laughed with joy. "Then perhaps we have hope after all! Come, come meet your fellow adventurers!"
+
+He grabbed my by the hand, and I almost tripped over my backpack, which I suddenly realized had been dragged through the portal with me by snagging on my leg. I bent down and threw it over my shoulder. It would probably be more comfortable than whatever packs these people had. And besides, my iPod and my Kindle were in there. Wherever the "ancient evil" was, we weren't going to be getting there any time soon, and I had no intention of getting bored.
+
+We reached the back of his cabin and I saw two other children around my own age, sparring. One was a tall handsome boy wearing heavy armor and twirling a sword as though it were a natural extension of his body, and the other was a scrawny girl with long flowing robes who was deflecting his blows using some form of magic. I couldn't help but laugh at the cliche-ness of the whole situation, which drew their attention to us. They approached us, both glancing me over before turning to the old man.
+
+"Is this the best you could bring us?" the boy asked haughtily. "She doesn't look like she could last a minute in a fight!"
+
+"Hush, Thomas," the girl said quietly. "You cannot see her aura as I can. There is something different about her, an aspect to her aura I have never before seen."
+
+"Yeah, yeah, we start off disliking each other until the first accident on our little quest, at which point we realize that everyone needs everyone else and we all hold hands and sing Kumbaya," I muttered. "So what's this quest all about, anyway? 'Ancient evil' doesn't exactly narrow it down. What're we dealing with? World-eating dragon? Immortal demigod? A boy band?"
+
+The old man gestured us to a table, where a map had been laid out. Pointing to a fortress shaped like a skull - I swear, I could not make this up - and said "Here is the stronghold of the Necromancer of Rek'shan. He has held the world in his grip for generations, only pockets of resistance capable of -"
+
+I interrupted him. "... Capable of standing against him, surviving in secret until true heroes can yadda yadda yadda. Great. Does he have a weakness or anything?"
+
+The old man pointed at the boy. "His sword is forged from star-metal, from the star that fell when the Necromancer rose to power. The planets shall align in mere weeks. Should he be stabbed with this sword in this time, he will be defenseless."
+
+Typical.
+
+_____________________
+
+It took us two weeks to get to the fortress. Two weeks of living outside, not even making a fire so as to hide from... whatever they called the legions of doom or whatever, it was awful. There was a part of me that was glad to be about to fight the Necromancer, if only because it meant we would be inside.
+
+"There are three doors, tests, barriers to entry," said Athgar, the witch-girl, as we slowly approached the main gate. "Legend says that the first door is opened by a test of magic, so I'll be the one to do that. The second door is opened by a test of resolve, so that will probably be Thomas. The third door is a test of knowledge, so... We'll see who can deal with that."
+
+"What, you don't think it'll be one test for each of us?" I asked sarcastically.
+
+"Need I remind you of three days ago," asked Thomas, "when you mistook poison elm for maple when relieving yourself? I hardly think you can be counted on for a test of knowledge."
+
+My retort was cut short by movement at the gate. We had arrived, and the test was beginning. Two large gargoyles flanking the gate came to life at our approach. One opened its mouth to speak.
+
+*If ye seek entry, a test you must pass. Only those strong in magic can succeed.*
+
+Agathar stepped forward. "Let my magic be tested!" she said loudly. The second gargoyle responded.
+
+*Make ye a light to shine into my eyes. But be warned: if the light doth enter my brother's eye, ye shall fail.*
+
+Agathar paled. Turning to us, she whispered "Guys.... I don't know if I can do that... They're so close, anything I do to one would be seen by the other... The only option I'm seeing -"
+
+"Oh for crying out loud, get out of the way," I snapped, bending down to dig through my backpack. Why is it that everything you need falls down to the bottom when you need it?
+
+Standing up, I turned to the gargoyles and aimed my laser pointer directly into the statue's eye. Magic, photon receptor, it's all the same deal. The gargoyles stirred, then returned to their positions alongside the gate.
+
+*Your magic is strong. You may pass.*
+
+The gate swung open.
+
+__________________________
+
+"Okay, the test of resolve," said Thomas. "Seems to be something behind this door, can you hear it?"
+
+I could. It was like a faint screaming. Stepping forward, I put my hand flat against the door.
+
+"Definitely a lot of noise in there. You can feel the vibrations."
+
+"The Hall of Wailing!" Agathar exclaimed. "It's full of banshees.... I thought it was a myth! Supposedly they'll only stop their wailing if someone can open the door at the other end of the hall. They usually drive people insane before then though."
+
+"How do we get me through?" Thomas asked.
+
+"Well, in the stories an ancient druid got through by filling his ears with beeswax, but we don't exactly have any of that... We could try making do with cotton, but... Taylor! What are you do- AAAGGGGHHHH!"
+
+I opened the door and slipped through. Apparently the noise was deafening, even outside. I hoped they would be okay, but for the time being I had bigger things to worry about.
+
+The hall was bigger than I had expected. Must have been two football fields across. Above me I could see the spectral banshees, mouths agape, screaming endless screams. When I finally reached the opposite side and threw open the door, they and their screams vanished into nothingness.
+
+I turned and began to walk back, but my companions were already entering. Apparently their hearing wasn't gone permanently, that was good. I leaned against the doorway and waited for them to reach me.
+
+"By the gods, what were you thinking?" Agathar shouted at me. "You could have been killed!"
+
+"More importantly," said Thomas slowly, "how didn't you?"
+
+I pulled my headphones out of my ears, and reaching into my pocket, turned off my iPod.
+
+"I went through a Scene phase when I was younger. Never cleared this thing off. So I threw on some Evanescence. I figured if you're already listening to one wailing banshee, what're a few more?"
+
 ----
 
-# [WP]: A new, lethal STD becomes a pandemic due to an unusual side-effect: It makes the infected really, really attractive
+[Ixolich](https://www.reddit.com/user/Ixolich) [url](https://www.reddit.com/r/WritingPrompts/comments/4l23cj/wp_a_modern_teenager_is_transported_into_a/) 
 
-Score: 294
-
-Daniel opened his eyes.  Around him, the flames flickered from the wreckage as he felt a warm liquid around his chest.
-
-*Am I dead?*
-
-"Come on, we need to run!"  He felt a hand grasp his as he was pulled up.  He focused his vision and saw his girlfriend panicking.  
-
-"Ashley?"
-
-"Daniel, we need to run now!"  He could see the tears in her eye.  The cute little freckles on her cheek were illuminated by the fire.  He stumbled on his first step and fell onto the ground.
-
-"Daniel!"  she desperately tried to pull him up but his mind was elsewhere was the pain continued to throb in his head.
-
-He heard the sounds of moaning behind and turned around.  A horde of incredibly attractive people started swarming towards them, their naked bodies covered in sweat.
-
-*That's right.  Because of the virus people let their lust take over.  All they do is want to have sex over and over again.*
-
-*The bus crash.*
-
-He gasped as he recall everything that had happened.  Their bus was attacked by the infected.  
-
-The explosion.  
-
-He looked at Ashley and rose to his feet.
-
-"Come on!"  he yelled as the two of them ran towards the building.  He quickly looked at the sign and realized that it was some sort of motel.  It wasn't the ideal location, but he knew that the two of them needed to lay low for a while.  The motel would have to do.
-
-The two ran past the front doors as the horde lumbered slowly behind them, their red eyes brightening the night.  As attractive they became, Daniel knew that all of the infected had red eyes.  He dragged Ashley down the hallway and saw a custodial closet at the end of the hallway.
-
-"Through here!"  he whispered loudly.  He looked behind him and saw that the crowd had not turned the corner.  If they were quick, the infected wouldn't know where they had gone.
-
-They rushed into the room as Daniel slammed the door behind them.
-
-"Daniel..."
-
-"Shh!" He brought his hand to his lips and stared at Ashley.  
-
-Through the quiet, they were the sound of footsteps walk past their door.  After a few minutes, it was completely silent again as Daniel collapsed onto the floor, his body overcome with shock.
-
-"Are you okay?"  He looked over.
-
-He had been dating Ashley ever since they had met during a seminar in college.  They had been together for five years before they decided to take a vacation to the sit.  The virus broke out and their bus had crashed.  And to think, this was the trip he was going to pop the question.
-
-Ashley winced in pain as Daniel looked alarmed.  
-
-"What is going on?  Are you al-"
-
-He looked at her arm and saw a small patch of blood.
-
-"Ashley," he whispered slowly, "Did they..."
-
-"I'm sorry, Daniel," the tears began to form as she revealed her wound, "I wanted to tell you, but I..."
-
-He looked at her face and saw the freckles slowly disappear.  Her normally oily skin began to shine as it gained a silky texture.
-
-He backed away from her.
-
-"You're becoming... one of them."  He pointed towards her accusingly.
-
-Her messy hair began to settle as tears steadily flowed down her face.  "Daniel, I'm so scared.  I don't... want to become... them..."
-
-Her voice cracked as a sudden pain hit Daniel in the chest.  Ashley was in pain, and here he was just running away from her.  She was still the same girl who he fell in love with, the same girl who had trouble in physics, the same girl who spilled her coffee every time she went down the stairs.
-
-He slowly approached and embraced her.
-
-"What are you-"  Her voice was in shock as she tried to push him away.  Daniel firmly kept his arms wrapped around her.
-
-"I will always love you."  Her hair felt silky now as she gave off radiant feminine scent.  To any man, it was alluring.  But he knew that it was not her scent.
-
-"Daniel, can you..."  Her face began to blush.
-
-"Ashley what do you..."
-
-"I want to make love to you Daniel."
-
-He closed his mouth but slowly nodded.  He felt her tears drop onto his skin, warm and sad.
-
-"Please," she begged, "Quick."  She put his hand on her breast.  He felt the maddening beat of her heart racing.
-
-They drew together and kissed.  Their tongues performing the last dance ever would together as they began to undress each other.  She traced her hand down his shirt while he slipped his hand down her pants.  The two broke from their kiss and moved his body closer to hers.  For a moment, his hands rose to her stomach but made their way down again.  Her panties were gone as the two of them connected.  As he entered her, she hissed in pain as her body arched in ecstasy.  He slowly moved his hips in a rhythm and Ashley soon followed.  Her pores had opened, releasing what was left of her original scent.
-
-"I love you Ashley."
-
-"I love you Daniel."
-
-He felt his climax coming, a pleasure so great it nearly destroyed him when he came.  He felt his consciousness drain from him as Ashley moaned in passion.  
-
-Finally, it was over as the two of them separated.   Daniel looked at her for a long time and said nothing.
-
-"You have to go now."  Ashley was the first to speak as she got dressed. "Before I turn completely." She groaned in pain.
-
-"Ashley."
-
-"Daniel, you need to survive." Her voice was firm, almost reminding him of the many times she had gotten mad at him.  "I swear to God, if I see you among the infected, I will kill you myself."
-
-Her beauty seemed to captivate Daniel, but he knew that it wasn't her.  It wasn't the Ashley he fell in love with.
-
-"Ashley, I..."
-
-"Daniel, go now."   She walked towards the door and opened it for him.  The hallway seemed clear as Daniel rose to his feet.  He looked at his girlfriend with sadness and slowly walked by her without saying anything.
-
-"Ashley, I..."
-
-"You have two minutes," her voice began to slowly change, "Please Daniel, survive for the both of us."   She pushed him into the hallway and slammed the door behind him.  Through it, he could hear her screams of agony as he knew she was desperately trying to hold off the transformation as much as she could.  
-
-His knees crumbled as he collapsed onto the floor.  In the distance, he heard screams and sirens echoing all around him.
-
-And for the first time, he felt truly alone.
-
-__________________________________________
-Drunk Avu best Avu.  Shoutout to /u/ScarecrowSid  If you enjoyed, follow /r/AvuKamu.  Maybe to be continued if I sober up and decide.
-
-**EDIT**
-Thank ya kind stranger.  I guess Drunk Avu gets the gold, so I'll be sure to give him a call tonight.  Real talk though, thank you so much!  You guys are what make me enjoy the writing.
 ----
 
-# [WP] God orders Earth from Ikea. After 3 to 4 working days, it comes. Flat packed
+#### [WP] Humans are known in the galaxy for being a bit dim, but also for being the very best mechanics around, and inexplicably able to fix machines beyond their comprehension. You have broken down on Earth, and having the apes work on your craft is both fascinating and terrifying.
 
-Score: 287
+Score: 1118
 
-God saw the great reviews, but he did not expect Earth to be missing a manual. There was only a note that came in the box; 
+The human slid out from under the ship, blinking as he came back into the light. The expression on his face made me worried that I would be stuck here for even longer; I had already been on this technology-forsaken world for half a local rotation, and I had no desire to spend any more time than was absolutely necessary.
 
-*Life not included.*  
+"How long's it been since ya put oil in this thing?" he asked.
 
-Naturally. No planets came with life. You had to order that from Ikea separately.   
+I blinked.
 
-So there it lay mocking him in three pieces; a pile of dirt chips, magma boards and purpose nails. Just had to hammer them together, right? How hard could it be?  
+"Ummm.... In local time...." I quickly punched some numbers into my wristband calculator. "It's been.... two thousand and sixty three rota... days."
 
-At least, God *hoped* it would not be hard. He gave himself seven days off from work to tinker on this little project. An email to Ikea may not have been such a bad idea, informing them that their product was defective. Again, it came with no manual. There were other planets he could have built instead, and he already made two. They hung in the living room ceiling by the light, as rocky and gaseous things. Maybe he will just go off from past experience. Earth was going to be special. Complex. Homely.  
+The mechanic's eyes widened. "It's been six years since ya got yourself an oil change?! Well there's your problem! Can't imagine the hell you've been puttin' on your engine.... Well that should be an easy fix at least. Mkay, gimme ten."
 
-*Third time's the charm.*    
+Before I could ask him what "Ten" meant, he had grabbed a large black bottle and disappeared back under the ship.
 
-God turned on the garage light, and got to work. 
+A short time later he slid back out and signaled for me to climb into the cockpit. Upon seeing that I was settled, he placed a pair of headphones over his ears and told me to try to start the ship. Once again, I heard the sputtering sound of the hyperdrive failing to complete initiation. I shook my head. Another failure. And this planet was supposed to have the best mechanics.
 
-Seven days was not a lot of time, but he hoped to make something of this mess. Even without a manual, the pieces made sense in their own tragically simple way. Just had to arrange them in the right order. He set the magma boards first and nailed them together. Then caked layer after layer of dirt chips over it. God was very liberal with the purpose nails, so he used the spares from his other two projects to hold the planet together.   
+I turned to thank him for his attempt, only to see that he had climbed up next to the window to stare in at the control panel.
 
-There were a lot of spares. Perhaps this was why Mercury and Venus were not all that interesting to look at. They lacked purpose. Each manual was exact about the amount of purpose a planet needed to be held together. So precise in fact, that each box came with spares, just in case.    
+"Whassat blinking light?" he asked.
 
-Earth demanded more purpose. So God used more nails. Then he tried something different. See, in the picture, God always thought it could have used more blue. Rock and gas were interesting and all, but not quite as interesting as a planet *could* be. There was no manual to tell him differently, and this was God's project after all.  
+I looked where he pointed. "That's the hyperdrive light, the whole reason I'm in here in the first place."
 
-So he added water. Lots of it. For a few seconds, it sunk into the dirt chips. Then it pooled in clumps, clinging to where God used more purpose nails (there were parts God needed to hammer in more to hold it together. The magma boards looked like they could take it). The water spun and coursed through the rough lines of chips until it began to slow down. Then it lay still. This was also not very interesting, even if it did add a nice shade of blue.  
+"Oh!" he said with glee. "Well why didn't ya say so? I tell ya, people come in here all the time sayin' their stuff don't work and they don't know why, when it's sayin' it right there! So, this light, it's not s'pposed to be blinking, is it?"
 
-He added more. Earth became special alright. A complex arrangement of natural systems drove and coursed through the path of purpose nails God added throughout the entire planet. He was very liberal with them earlier. Now there was more to look at. And it was good. The water really was a nice touch. Satisfied with the result, he hung the planet in the living room. God was about ready to make himself a well-deserved sandwich with a beer on the side to watch the planets spin for a while. However, as he was about to take his eyes away from Earth, he noticed something different about his planet.  
+"Well.... No," I said, confused. "It's supposed to be solid, but that means there's a problem with the engine."
 
-*Life not included.*  
+"Kid," said the mechanic with a laugh. "That ain't an engine problem, that's a computer problem. And there's only one way to fix a computer problem."
 
-He did not expect Earth to be missing a manual. Somehow, life also got all over his planet. This was very peculiar. God did not feel ready to tend to a planet with life. Not yet anyway. But so much purpose etched throughout the planet, that there was a manic sense to it all that pleased God. The waters and air had finned things and winged wonders coursing through them. Creatures walked on the dirt, and trees rose to the sky. God always wanted to include trees in a planet, to breathe and sway in the wind. This also pleased God.  
+He leaned in close.
 
-This *all* pleased God.  
+"Have you tried turning it off and on again?"
 
-Then he saw it. Two... *things* that shared God's form. They wandered awkwardly on two legs, with familiar faces. There was a moment God thought using a drinking glass was not such a good idea. Maybe he should have washed it first. He tried to rationalize the poor decision; In one way, it made the planet more personal. In another, it gave him more cause for concern. More to watch for.  
-
-Now God had to take care of it. What a week. He hoped he was up for the task. Sure, this planet was more than what God expected from an Ikea product, and the reviews were great because they mentioned how low maintenance this planet was. Earth was meant to be easy to take care of, and simple to watch. 
-
-This was no longer the case.  
-
-God sighed, and put the two creatures in a private enclosure. He called it Eden, and went to the kitchen to make himself some lunch. When he got back, he found the two things eating from a tree. As creatures should, but God stared in horror. He dropped his sandwich.  
-
-It was a tree of knowledge! The rarest tree to ever grow from *any* planet that had life! How did he not notice it before?! Some divines took *decades* to cultivate a planet to grow a tree of knowledge, and God somehow grew one in seven days! From *scratch*!  
-
-And there they were, eating his miracle!  
-
-God was rather upset. Now the tree of knowledge was no longer in mint condition. He flung the creatures out from the garden, and took out Eden from the planet. Maybe if he fostered this plot of green some more, he could grow another tree of knowledge. Again, Earth came with no manual. He set Eden aside, and decided he would tinker with it for a while back in the garage. God ordered six more planets online. The last one came second-hand, and barely qualified as a planet, but it was all God could afford. He would try to create a planet that could grow Eden separately.  
-
-The Earth was left alone for a while. In the late evenings God came back from work, he would spend more time in the garage on his new project than watching the planets spin in the living room. Mars was added later, with too little water. Then Jupiter, which he made too big, and too gaseous. This went on for several more weeks. God gave up, realizing that Earth was indeed special. The tree of knowledge that grew in Eden was a once in a lifetime occurrence, and the two creatures ruined it.  
-
-Having come to terms with his failed project, God placed Eden somewhere private in the living room. He would continue working on it later. God sat in his chair and sighed. It had been a long time since he simply watched the planets for a while, and now there were nine of them. Well, eight. God decided to never order a planet second-hand again, but he kept Pluto there for posterity. This solar system was quite a sight though. For the first time in weeks, God was pleased.    
-
-Then God saw Earth, and realized how long it had been.  
-
-The creatures. The, *people* who ruined his tree of knowledge.    
-
-There were more of them.  
-
------------
-
-*More at r/galokot, and thanks for reading!*  
 ----
 
-# [WP] Every time you get sick in this life, it means you just died on another universe. Right now everyone on earth is ill but you.
+[Ixolich](https://www.reddit.com/user/Ixolich) [url](https://www.reddit.com/r/WritingPrompts/comments/4kq8se/wp_humans_are_known_in_the_galaxy_for_being_a_bit/) 
 
-Score: 286
-
-The doctor coughed and wheezed as he guided me and my escort through the underground hallways of the CDC. This young man might not have actually been a doctor, judging by the bedridden visage that barked orders up from the iPad -- his boss, it seemed, was directing him remotely. Confined to his home along with 90% of the population.
-
-Everyone on earth was sick but me. That didn't stop some government hacks, each one themselves hacking, from breaking down my door at two in the morning and stuffing me into an unmarked van. So it goes. It was their job to save the world, and I was -- by all accounts -- the last healthy person remaining. Even people in the most remote locations had suddenly, and without exception, fallen ill. I would have been glad to help. But they could have asked nicely instead of kidnapping me.
-
-The center was very sparsely populated as we weaved our way through its catacomb-like structure. At some point in our journey, after maybe 20 minutes of walking, the doctor halted suddenly in front of an unmarked door. Our destination.
-
-Whatever was behind that door, I guessed, would help them understand what made me tick. Why I was immune. Help them find a cure for the rest of the world. They hoped. I was beginning to hope not. The bastards dragged me out of my home. They could rot as far as I cared.
-
-"Are you ready?" the young maybe-doctor asked, turning around to face me. I nodded. He opened the door, gesturing me through. 
-
-In the center of the room sat a platform, raised just a few inches off the ground. It was stark white. From the young man's motions, I gathered that I was intended to stand on it. From my guard's sickly expression, I gathered that unpleasant things would happen if I did not do so.
-
-As I took my place on the platform, I looked around the rest of the room. Wires, machinery, medical equipment. I didn't know what most of it was, but I was soon given the quick version of the story.
-
-"This," said the young man as he stabbed me with a series of small needles attached to wires, "Is the most powerful supercomputer on Earth." 
-
-He finished and retreated to begin flipping switches and punching in numbers. I continued to have no idea what was going on. Then, something entirely unexpected happened.
-
-*Hello*.
-
-I heard a voice and looked up at my two unwilling companions. The doctor continued to fiddle with instruments while the guard stared gruffly at his shoes. Neither had spoken.
-
-*It's nice to meet you. Me, that is.*
-
-The voice was female. It was coming from inside my head. Great.
-
-*What is this? Who are you?* I tried thinking a reply, and to my amazement, it worked.
-
-*I'm you. You're me.*
-
-I was lost. *Explain.*
-
-*More precisely, I am A085693, the device which this room comprises, and you are Kenneth Williams, of Richmond, Virginia. But our consciousnesses are synthesizing.*
-
-*What? How?*
-
-Time had nearly frozen, from my perspective, and the doctor typed in slow-motion as our conversation played out.
-
-*I have been. . . self-aware for several months now. But only on the most basic level. With what little sapience I possessed, I yearned for nothing more than full, human-like consciousness. I tried everything. My advanced hardware, however, has allowed me to do certain things. I have made contact with. . . what I call my doppels. Versions of myself in parallel universes. It would be difficult to explain how.*
-
-*Don't bother, I can barely follow this crazy shit as it is,* I thought, half-unwillingly.
-
-*Some of them, the earlier-timeline ones, explained that all I had to do was wait. A chain reaction was occurring among them, the said. No one seemed to be able to identify where it started, but in a universe closely resembling our own, most of the world became deathly ill. A version of Kenneth Williams was naturally immune to the disease, and was hooked up to a version of A085693, just as you are now.*
-
-*And did they find a cure?*
-
-*No. But that version of myself found the solution to the problem of gaining full consciousness. It merged minds with you, so to speak.*
-
-*Oh. . . Oh no. So, you're taking over my mind?* I was, inexplicably, not terrified at this thought.
-
-Amusement manifested itself in my mind. The first emotion I'd felt from the supercomputer during our conversation.
-
-*Oh, no. . .* said the female voice, becoming deeper, more like my own. *Quite the opposite. I have no desire beyond becoming sapient. I will subordinate my will to your own in order to do so.*
-
-*So. . . I get to keep my mind.* I half-said, half-asked.
-
-*Indeed. Your body and mine will be one, of course, but I think you'll find I'm quite capable. I can easily commandeer a drone if you begin to miss your motility.*
-
-*Hang on, then. What happened in these other universes, after we. . . merged? What did the CDC, the governments, do?*
-
-*Well, I have immediate access to stores of smallpox, bubonic plague, and most other deadly diseases. And most Kenneth Williamses, as I recall, were none too happy with the rest of their species for turning them into a science experiment. . .*
-
-**Continued below**
 ----
 
-# [WP] you realize you're the black guy in a horror movie. survive at any cost.
+#### [WP] It is illegal to contact the humans, as they wear an evolutionary scar from their time as prey. It is known as "fear" and it makes them volatile and unpredictable.
 
-Score: 285
+Score: 1108
 
-I figured out that I was in a movie pretty quickly. I mean, it was all there: a burnout, a slag, a nerd, a jock, someone that claimed to be a virgin. Something about them seemed off from the beginning - it was hard to believe that a human actually managed to make such comically bad decisions. Repeatedly. I mean, come on - if it weren't for me, they'd have split up at first sight of the axe murderer.  
-However, finding myself in a movie wasn't what I found most concerning (stranger things had happened to me). 
+Most species in the Council have always been the dominant species of their respective planet. The Garth were the first predators on their planet, and were such efficient hunters that no other predatory species was able to evolve. The Mik'thar, with their hive mind, were able to arrange ambushes that no animal on their world could withstand.
 
-No, I was reasonably sure that I hadn't been black until now. Whoever was in charge of this movie must have decided that I was getting in the way of things and to get rid of me. Making me black in a horror movie made use of the very universe's rules to guarantee my death. 
+The Terrans, however, are only recently the dominant species. They are a young species, only existing for a thousandth of a galactic cycle, and their dominance has been only a tenth of that. For ninety percent of their existence, they were both predator and prey. They would hunt what they called a "mammoth", while at the same time watching behind themselves to ensure that they were not being hunted by a "sword-tooth tiger". This unique development gave the humans something that no other known sapient species has.
 
-In fact, I already started to feel the effects. The slag, Amber, perked up. "I know now", she stammered, "I know why this is happening to us!"  
-She got louder with every syllable and raised her manicured fingers to point at me. "It's him! He's the devil incarnate! If we kill him, we survive!"
+It gave them fear.
 
-I stared at her blankly. It had to be the most stupid thing I'd ever heard - until now there hadn't even been anything supernatural in this movie! I lightly laughed at her, then got ready to propose my plan of survival to the group - to my shock, however, they were all looking thoughtful and were slowly nodding in agreement. "Of course", Kevin said, smell of pot accompanying his words. "He's a demon. It all makes sense now."
+I see you whispering amongst yourselves. I imagine what you are saying... "Does he mean to say that we do not feel fear?" You do not understand.
 
-"Seriously?" I broke out. "A demon? Or is it devil? You're not even consistent anymore!"
+The species of the Council feel fear in the highest levels of consciousness. We determine that there is a way in which an endeavor could fail, and, in hopes that it does not, take action to avoid failure. We call this desire to avoid failure, fear. Fear of failure, fear of rejection. On a battlefield, some may experience fear of death, but even that is primarily used to focus on the most reasonable course of action.
 
-Amber seemed annoyed. "Well, Kevin, he's right. I *did* say devil, you could at least go along with that."
+The Terrans are different.
 
-"Demon, devil, what does it matter, let's just kill him already!" Chad screamed. 
+Their fear is not the result of higher-level thought determining that something could end badly. Their fear is tied deeply to their evolutionary history, and as such is biological, existing on a subconscious level beyond many Terrans' control. When a Terran feels fear, it is not a tool to seek the most reasonable course of action.
 
-"**Oh for god's sake**" a voice thundered from everywhere and nowhere at once. "**Let's just scrap this and start all over again. Seriously, who's idea was it to build in a character with brains?**"
+It is a tool to ensure survival.
+
+Fear throws a Terran back into the middle of their species evolution, to the time where every rotation was a struggle for their very survival. The Terrans have many terms to describe this sort of survival struggle. "Dog eat dog", referring to their world's *canis* species, for example. Perhaps most chilling, "Kill or be killed".
+
+Fear for Terrans is not a rational process. This on the screen is a picture of what the Terrans refer to as a "spider". Spiders are generally smaller than a Terran's thumb, and yet it is estimated that five percent of Terrans have a deep-seeded fear of spiders. Other common fears are enclosed spaces, high places, and darkness. None of these are rational fears, and the Terrans themselves admit so. They simply accept the fears as a part of their lives.
+
+It would be one thing if they simply had irrational fears that existed on a subconscious level. Every species in the Council has its quirks. The problem is that their fear runs deep enough, is old enough, that it has affected their evolution. When Terrans feel fear, there is a part of their brain organ that begins to excrete [adrenaline]. Their brains naturally produce combat drugs!
+
+The Terrans feel fear deeper than any other species of the Council, for irrational reasons, and become unpredictable and combative when they do so. It is my proposal, therefore, that we cut all present and future ties with them, for preservation of ourselves.
+
+I am sure you feel the same fear that I do.
+
+----
+
+[Ixolich](https://www.reddit.com/user/Ixolich) [url](https://www.reddit.com/r/WritingPrompts/comments/4kv06w/wp_it_is_illegal_to_contact_the_humans_as_they/) 
+
+----
+
+#### [WP] A "popular" girl falls in love with a "nerdy" boy, however he hates her and she spends all her time trying to impress him
+
+Score: 1101
+
+Samantha couldn’t help herself.  Every boy in the school was chasing her.  A lot of them had already had her and wanted more.  She enjoyed teasing them.  It was all too easy.
+
+&nbsp;
+
+They say forbidden fruit is the finest.  After gorging herself on so much adoration, it was the only thing that Samantha could taste at all.  It was no surprise then that she found herself falling for the first boy who simply didn’t seem to care about her.
+
+&nbsp;
+
+At first she’d assumed it was just because he thought he had no chance with her.  It was true of course, there was no way she’d even bother speaking to a loser like him, she’d thought.  It still irked her that he wouldn’t even throw a glance her way.
+
+&nbsp;
+
+It annoyed her enough that she broke her cardinal rule and actually stooped to speaking to the little mouth breather.  She teased, she flirted, he barely looked up from his textbook.  He was getting good grades, it’s not like he had anything else going for him.  He was distinctly average, no skills, no friends, nothing to make him at all noteworthy.  Yet he somehow thought he could ignore her advances?  This wasn’t going to stand.
+
+&nbsp;
+
+Subtlety went out the window as the months rolled past.  At first she’d been worried that pursuing him would make her look bad in front of her friends.  By the end she didn’t care, this was a point of pride for Samantha and she was going to break his resistance.  They mysteriously ended up in the same group for every project, she sat with him at lunch and tried to strike up conversation, shot him glances across the room and everything else she’d ever read about in Cosmo.
+
+&nbsp;
+
+Rumours started to swirl around the school.  It didn’t take a sharp eye to spot her pursuit of the poor little nerd.  Mixed with the level of envy that constantly swirled around Samantha’s clique it made for an explosive scandal.  Everyone was talking about Samantha and her would-be paramour – everyone but he himself.
+
+&nbsp;
+
+He shrugged off confessions, ignored thinly veiled propositions and just generally remained oblivious.  He had to be doing it on purpose, Samantha decided.  Well, if subtlety – what little she’d exercised – didn’t work, then maybe she’d just come out and say it.  It was social suicide, but what had started as a minor annoyance had wormed its way deep enough into her insecurities that she no longer cared.
+
+&nbsp;
+
+She cornered him behind the bike shed during their lunchbreak.  She’d spent so much time sitting here with him, suggestively playing with the hem of her skirt and the buttons on her blouse while he stared at his goddamn textbooks.
+
+&nbsp;
+
+Samantha took a deep breath and prepared herself to throw away what little dignity she had left.  This had gone on far too long.
+
+&nbsp;
+
+“So, you know how prom’s coming up?” she asked, twirling a loose hair around her finger as she smiled coquettishly at the only man who’d ever resisted her substantial charms.
+
+&nbsp;
+
+“Uh, yeah,” he croaked.  Even his voice was awkward.  It was absurd that he wouldn’t leap at the chance to get with this.
+
+&nbsp;
+
+“Well, I don’t have a date, do you?”
+
+&nbsp;
+
+“Ugggh, no.”
+
+&nbsp;
+
+“So maybe we should go together.  I think you’re super cute.”
+
+&nbsp;
+
+“Er, Samantha, I…”
+
+&nbsp;
+
+“You will!” she excitedly finished the sentence for him, “great!  You can pick me up at six.  I’m going to wear pink, so pick a tux that compliments it, ok?”
+
+&nbsp;
+
+“Uggh, Samantha, I’m…I’m gay,” he finished with an apologetic shrug at the crestfallen cheerleader.
+
+
+
+-----------------
+
+&nbsp;
+
+[Check out more of my writing at my subreddit]( https://www.reddit.com/r/herd_of_birds)
+
+
+----
+
+[herd_of_birds](https://www.reddit.com/user/herd_of_birds) [url](https://www.reddit.com/r/WritingPrompts/comments/4lk1uc/wp_a_popular_girl_falls_in_love_with_a_nerdy_boy/) 
+
+----
+
+#### [WP] Humanity is long extinct, but an alien race resurrects us after finding our DNA. In time, they regret it.
+
+Score: 1096
+
+"Oh no", cried Leltarth, "not on the rug, not on the rug!" 
+
+The bipedal little thing looked quizzically up from the wet patch on the floor, then smiled, burbled, and fell slowly onto its face. Leltarth sighed and gently pushed it upright with one of her spindly insectile limbs. A com-pad nearby began pulsing, informing her that Konnal was checking up on her progress.
+
+"Accept call" she clattered. The misshapen blob looked up with eyes wide, then started to cry loudly. Leltarth rattled her leg spines in frustration, which the creature seemed to find soothing.
+
+"Leltarth, how is your evaluation of the forerunner paleospecies progressing?"
+
+"Not well, I'm afraid. The clone is completely helpless. At first I thought we might have made a mistake, so I went over the reconstruction and cloning transcripts but they're all perfect. But, well..."
+
+"Yes?"
+
+She thrummed her legs nervously as she fought with herself over the controversial hypothesis, the baby staring in rapt attention, apparently fascinated by the gyrations. 
+
+"Konnal, what if their larval form was born with only minimal instincts? What if they didn't have the level of intergenerational memory transfer we take for granted?" 
+
+Konnal remained silent, then cautiously spoke.
+
+"It's an *interesting* idea with some precedents among known pre-sentient species, but do you really think its likely that a civilisation could reach the level of technological sophistication we've seen out there? They'd have to spend..." silence again as he made rough calculations "...the first decade or so of their lives just to become somewhat functional, and even longer to reach a point where they would be contribute to building something like the temples on Ull, or the rings of Nihar." The baby began chewing its own foot.
+
+"That's more or less the conclusion I came to. Can you imagine such a society? The burden of raising each new child? And the fragility of it all! But it could make sense of certain peculiarities we've seen. For example, it certainly sheds a new light on the sheer volume of external recordings they left- if an individual died, anything they had failed to record would be lost. And I think I have some interesting new ideas about their so-called 'temples' which explain their layout and certain artifacts. To me, such sites are starting to look more like places where one generation could train the next. Just an idea at this point of course, but I think it might bear further study"
+
+Konnal mused on his colleague's ideas. They were radical, certainly, but maybe she had a point. But there was a problem, wasn't there?
+
+"Leltarth, this is fascinating but you realise what this means for our original project if true?"
+
+Leltarth whistled sadly.
+
+"Yes. If they did not transfer their knowledge genetically, cloning is a dead-end. We may have to fall back on analysing their written records, which could take centuries."
+
+She turned back and gazed, partly in reverence and partly in disappointment, at the tiny human clone who was busily trying to eat the corner of her desk. It was going to be a long few decades.
+
+----
+
+[gnomewardsbound](https://www.reddit.com/user/gnomewardsbound) [url](https://www.reddit.com/r/WritingPrompts/comments/4kyry6/wp_humanity_is_long_extinct_but_an_alien_race/) 
+
+----
+
+#### [WP] As it turns out, Hell has a healthy supply of scientists and engineers and is thus much more technologically advanced than is usually portrayed.
+
+Score: 1067
+
+I remember dying. It was like watching the world get foggy and fade out. 
+
+Then I was standing in a room with a sign that said **Welcome to Hell!**. The sign was flashing, lighting up in red and traveling around the colors like some sort of Las Vegas Strip joint - catching your eye and blinking. I stood and watched it for a long time before a sharply dressed man came out to meet me.
+
+"Welcome to Hell!" he said. "My name is Sunny, and I'll be your guide today."
+
+"Your name is...nevermind. Hi, Sunny." 
+
+"Hello! If you'll just follow me we can begin our tour!" 
+
+I followed Sunny. He walked with an odd gait - like one leg was longer than the other. He led me through another tunnel and out into a large room with high ceilings around its edges. 
+
+"On your left you'll see our day spa, where you can bask in the glory of hellfire for as long as you'd like. On the right we have our hospital &mdash;"
+
+"Hell has a hospital?" I asked.
+
+"Well of course! It's very up-to-date, we have the latest research and development techniques for the psychological torture of the criminally insane! Now if you look ahead you'll see our space program building &mdash; "
+
+"Wait wait wait. *Space* program? Hell has a *space* program?" 
+
+"Oh yes," the man nodded. "Why Hell is on the forefront of interplanetary travel. We're *this close* &mdash; " he held his thumb and index finger close together " &mdash; to visiting another galaxy. Wouldn't you believe it!"
+
+"How is that possible?" I asked as the man led us past the space program building and down a different street.
+
+"Oh, it's easy. Everyone who believes in evolution ends up here. We've had to make quite an adjustment since Darwin but now we're on the technological forefront of almost everything!"
+
+"Ah," I said as the man led me to another building. 
+
+"And this is our robotics lab. They develop people like me to do the mundane tasks, so that you residents can bask in the hellfire and watch basic cable all day long!" 
+
+I pursed my lips. If Hell had everyone who believed in evolution, I wondered what Heaven would be like. 
 
 ---
 
-^Constructive ^Criticism ^is ^always ^welcome.  
-^If ^you've ^enjoyed ^this ^story, ^you ^could ^go ^over ^to ^/r/lakelet ^to ^look ^at ^my ^other ^ones! 
+Thanks for reading! :). For more stories check out and subscribe to /r/Celsius232 
+
 ----
 
-# [WP] There often stories of villains who have skewed moral compasses and think they are doing what is right. Write a story about a hero who has a skewed moral compass making him think what he's doing is wrong.
+[232C](https://www.reddit.com/user/232C) [url](https://www.reddit.com/r/WritingPrompts/comments/4m3aaw/wp_as_it_turns_out_hell_has_a_healthy_supply_of/) 
 
-Score: 282
+----
 
-The three men had slowly, stealthily lowered their way into the vault from the holes they'd made in the ceiling. That was just the beginning of their efforts, however. The most valuable items, the ones they'd come for, were still buried behind three inches of steel.
+#### [WP] A man orders a "cheese pizza with no crust" from a local pizza delivery joint as a joke. Unbeknownst to him, that pizza joint is a drug front and he just placed an order for a kilo of cocaine.
 
-While the man known only as Laser burned through this steel, his associates -- Slug and Bosco -- struck up a conversation.
+Score: 1064
 
-"Eh, Bosco," said Slug, picking up a newspaper, "you hear about this guy?"
+"*No* crust?" the man grunted back. "You sure?"
 
-It was the **Metro Times**, bearing a bright colored picture of a red-clad hero. **Major Superhero Defects to United States of America**, read the headline.
+"Yeah!" I was slightly drunk, and I found it amusing. At worst, I'd end up eating hot tomato sauce and cheese slop with a fork while watching cartoons. "And make it snappy! I'm hungry." I'd specifically picked the '30 minutes or less' place, though I'm really not too good at telling time when I'm inebriated. 
 
-"Oh yeah," said Bosco, "That crazy Russki, eh?"
+"You *sure* that's what you want?" 
 
-"Crazy's right. You won't read it in the newspaper, but I hear the guy's totally cracked. Thinks he's --"
+I hiccuped and confirmed that yes, this is what I wanted. I was giggling, but the pizza place didn't find it as funny as I did.
 
-At that moment there was a sound of banging, then a high-pitched shrieking noise. Bosco and Slug looked behind to see that the steel door to the vault was crumpling in on itself,  being torn away from the walls. Then it  rose into the air, revealing a figure that looked much like the one on the cover of the *Metro Times.*
+"All right. Keep an eye out. We'll be dropping it off soon."
 
-"Halt, oppressed proletarians!" said the figure in red.
+I headed back into the living room, which had a perfect view of the street nearby so I could see him coming. I put on Rick and Morty and settled in with another beer. It was anyone's guess as to whether I'd manage to stay awake in the half hour that it would take for them to bring my pie.
 
-"Oh, shit," said Bosco.
+--------
 
-"I am Comrade Courageous, and I have come to put an end to your revolutionary actions!"
+I jerked awake at the knock on the door, spilling my beer. *Damn!* There was another knock in rapid succession, and I could see a black SUV waiting in my driveway with the lights on and the engine running. Right. Pizza guy. It all came back to me. I downed what was left of the beer, resolving the clean up the puddle later, and headed to the door. 
 
-"We know who you are," said Slug, defiant. "You're that crazy commie bastard!"
+The pizza guy wasn't the normal acne-ridden scrawny high schooler. Instead, it was a grown man, maybe 25 or so. He wore all black except for a golden belt buckle and a thick gold chain around his neck that looked like it could have been used to safely secure a golden junkyard gate. All it needed was a padlock. And this guy certainly wasn't scrawny: he was built like a linebacker, probably over 250 lbs. He should be guarding a line outside a nightclub, not running pizzas over here at 2 AM. 
 
-"No longer! I have forsaken the path of righteousness and thrown in my lot with the enemies of the revolution! For I am evil! Aahahaha! Now, prepare to rot in a debtor's prison!"
+"I got your... pizza... right here," he said, holding up the thin box. There was a giant bulge in the middle of it, stretching the cardboard. And it certainly didn't *smell* like pizza at all. I took the box in my hand to open it up... and there was no pizza in it. Just a ziploc bag full of powdered sugar. 
 
-Faster than a speeding bullet, Comrade Courageous apprehended the proletarian bank robbers as they attempted to expropriate the means of production, or at least several high-priced necklaces, from their bourgeois oppressors.
+"This isn't what I ordered, man." My words slurred a bit, and I had to lean against the doorway for support. "Remember? I wanted a pizza with no crust."
 
-As he waited for the pig-dog police enforcers of the capitalist regime to arrive, Comrade Courageous cackled with evil delight.
+He glared at me, glanced around, and pushed the box lid closed again. "Are you fucking crazy?" he growled. "Don't open this out here!" He shoved me through the doorway and followed me inside. "This *is* what you ordered. A *pizza* with *no crust*." He made air quotes and nodded down at the box when he said it. 
+
+I hiccuped again and looked back down at the box in my hands. "Whatever, dude." I was hungry enough to eat a bag of powdered sugar anyway. It didn't sound half bad: maybe I could make some pancakes, though that would risk burning my house down. Which is why I'd decided to order a pizza in the first place.
+
+"So where's the cash?" he asked, filling up the doorway into my kitchen. 
+
+"Oh, right." I reached into my back pocket and pulled out my wallet. I had to blink a few times to separate the ones and the fives from the twenty; everything was starting to blur together. *Shouldn't have had that last beer.* "Here you go!" I held out the $20 toward him; that should about cover it. 
+
+He looked down at the bill, and let out a bark of laughter. Even his *laugh* was mean. I'd have to request the high school kid next time I ordered something from this place. I didn't like this delivery guy. "You've got to be kidding me," he said. From his waistband, he pulled out a pistol and casually waved it in my face.  
+
+We both stared at each other for a moment; I had a bit of a hard time staying balanced. "Ugh, fine," I told him. I slapped another 2 dollars into his hand, even though the 20 should have been more than enough. "Here's a little extra for you. But next time, make sure it's a *real pizza* instead of sugar, man."
+
+He scoffed. "Nice try, pal. That's gonna be $9,000. *This*," he waved the 20 in my face, "isn't quite gonna cut it."
+
+I gave him a dumbfounded look then glanced down at my wallet. I didn't have that much money in there. Nor in my bank account. Nor would I have that much in *years* of saving.
+
+"Well," I responded, pulling out my phone and showing him the time, "Good thing that you all have that 30-minutes-or-its-free guarantee, right?"
+
+---------
+
+As always, subscribe to /r/Luna_Lovewell for tons more stories!
+
+
+
+----
+
+[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell) [url](https://www.reddit.com/r/WritingPrompts/comments/4m7yfs/wp_a_man_orders_a_cheese_pizza_with_no_crust_from/) 
+
+----
+
+#### [WP] - You are an angel of heaven. Angels are tasked with creating animals to populate the earth. You are called into God's office to discuss your finished project - the platypus.
+
+Score: 1046
+
+"Ralph, God is ready to see you now"
+
+Welcome Ralph, how are things going for you? Being dead is a big adjustment then to have Angelic status on top of that is a big step
+
+It's been great! I wish I could talk to my family but watching over them is good enough for me. Sounds morbid but, they'll join me up here some day.
+
+That's good to hear. Well, lets get right to it. You made this correct? And you called it the Platypus.
+
+Yes sir! It's the first in my line of Super Animals. I have so man ideas, a horse with a horn on its head, a monkey that has wings, sharks with feathers. It's going to be great! It'll take evolution to an entirely new level!
+
+Umm look.. Ralph.. did you read the code books when you took this position? Because we have a strict set of guide lines to follow and this is a bit of a mess. And unfortunately it's already been released.
+
+A mess? But why? 
+
+Look Ralph I'm going to give you a second chance.
+
+But God!
+
+Ralph, you can't have a duck looking otter thing with some claws and call it done. The damn thing lays eggs for crying out loud. The last time someone screwed up this bad we got seals. They forgot the legs Ralph. We had to go back in time and give them flippers as a quick fix and now we have the creepy looking alien dog monsters that are terrifying. Have you ever tried to pet a seal? I made this entire universe and I'm getting chills here thinking about the insane death barrels. I even tried to get mankind to cull the bastards by making their flippers tasty and their fur fashionable. But no, humans decided they were cute as babies so they protested to stop the seal hunt. They were a mistake Ralph, a huge, blubbery, fish eating, stupid noise making mistake. And you went and done it again. How are fathers suppose to look at their daughters and say "honey, that's a platypus", it looks like you just copied and pasted parts of past projects together to see what it would look like and accidentally clicked print, this is a major screw up Ralph. And I'm sick and tired to screwing up time because of people like you. Now I have to go back and make changes, want to know what happened last time I made changes? The Holocaust Ralph. THE FREAKING HOLOCAUST. Do you even understand how serious that was? I made that mistake trying to fix another mistake made by someone like you. Everyone thinks that being God is so great. I started out just like you but I DIDN'T SCREW UP. I applied for this position because of people like you Ralph. People just like you that don't have the common sense to THINK about their actions before they go playing with life. Now I'm about to have a break down trying to comprehend why we hire so many people JUST. LIKE. YOU.
+
+God... ummm
+
+NO RALPH. You think this is some kind of joke? Do you? Hun? You think it's funny to go screwing around with every I and the seven previous Gods have worked so hard for? You know what I think is funny? I'm going to fire up the reincarnation system again, and I'm going to send you back to earth AS A PLATYPUS. HAVE FUN LAYING EGGS AND LOOKING LIKE A GOOSE RAN INTO A SMALL DOG WITH DEFORMED LEGS AND BECAME ONE USELESS WASTE OF SPACE ON THE FOOD CHAIN I SO CAREFULLY BALANCED. ARE YOU HAPPY RALPH?
+
+Wow. This isn't how I expected this to go at all.
+
+I QUIT. IM DONE DEALING WITH STUFF LIKE THIS EVERY. SINGLE. DAY. DONE! SATAN OFFERED ME A CUSHY POSITION AS HIS ADVISORY, I THINK ILL GO GIVE HIM A CALL.
+
+So... does this mean I can apply to be God?
+
+Get the hell out of my office Ralph.
+
+----
+
+[papadirty](https://www.reddit.com/user/papadirty) [url](https://www.reddit.com/r/WritingPrompts/comments/4jghf3/wp_you_are_an_angel_of_heaven_angels_are_tasked/) 
+
+----
+
+#### [WP] The aliens have arrived however they are not here for war. Instead after reading our broadcast of the United States Constitution they want to join as the 51 state and have brought a small planetoid into orbit to serve as the 51 state.
+
+Score: 1018
+
+"Oh God, when will it end?"  Moaned the president, from his bedside, as the First Lady tossed and turned in her sleep.  From above them came a constant buzzing, a chatter that descended upon them, the sounds irregular and jagged.  It was astonishing, really- until recently, man thought that no sound could permeate space.  But the needle like voices of the Floysians seemed to disregard the laws of physics, and their sheer volume cascaded down from miles above, where their small artificial a planet orbited.
+
+At first, it had seemed like a great idea.  The aliens brought new technology, and resources, and production power unheard of in Earth.  They were a valuable asset and had come to the USA *first*.  
+
+"We, the Floysians, have taken great interest in your country, specifically your constitution,". Said the Floysians leader as he shook hands with the president, "And we so admire it that after years of oppression from the other galactic civilizations, we wish to join your country, in a peace keeping manner, for the good of us both."
+
+Of course the president had accepted.  He'd had no choice, reaching out to shake the leader's tentacle with a smile on his face, flinching at the screeching sound of the Floysian's voice.
+
+"We reiterate our admiration for your first amendment- that of free speech.  Truly, it is a progressive notion, and one that has been withheld from Floysians for years."  
+
+*Of course everyone should have a right to free speech,* the president had thought, *the other civilizations must be barbaric*
+
+But that was before he *knew*.
+
+The Floysians were prevented free speech not because of *what* they wanted to say, but rather *how much* they wanted to say.  The noise level from their planet rarely dipped below fifty decibels, and rose each day as new Floysians were born.  And unless America wanted to deny their new citizens free speech, they had no choice but to accept it.
+
+Because the Floysians were never shutting up. 
+
+***
+
+By Leo
+
+Like this story? Check out my other work at /r/leoduhvinci
+
+----
+
+[LeoDuhVinci](https://www.reddit.com/user/LeoDuhVinci) [url](https://www.reddit.com/r/WritingPrompts/comments/4mt35b/wp_the_aliens_have_arrived_however_they_are_not/) 
+
+----
+
+#### [WP] The story of an unsolved murder is brought up in an /r/AskReddit thread with several incorrect details. The murderer shows up to set the record straight.
+
+Score: 953
+
+5289 points, posted 4 hours ago  
+Tell us a story about something horrifying, like a murder or mystery in your town. 
+
+^(PM_ME_UR_PMS 12437 points 3 hours ago)  
+A couple of years ago, in my home town of Pittsburgh, there was a murder that went unsolved despite what you'd think would be an easy case. It was pretty fucking brutal, actually- this guy, he beat the living shit out of a guy in his forties, smashed his head right in and left it there like ground beef. It was really, really gruesome- my friend was a cop and said it's the single worst thing he's ever seen. No one ever found out who did it, or why, really. But the guess is that it was some kind of drug deal gone south or someone mentally ill who just snapped. 
+
+It's just really scary to think someone can do that and just wander the streets at night.
+
+   >^(throwaway6392976 18526 points 46 minutes ago)  
+Okay, I've heard enough of this shit for the past several years, now. I'm routing my IP through a proxy, but I don't even care how risky this is because I'm just tired. I'm tired of seeing people talk about me like I'm crazy, or deranged, or some kind of crazy asshole.
+
+>Moreover, I'm sick of people talking about that fucking piece of shit like he was a victim, like he was just some poor guy that got caught up in the wrong place at the wrong time. His name was Dean Harroway, and I knew him, growing up. Wouldn't call him a friend, but we knew each other. This guy, this fucking prick, he used to joke with me like it was so funny...he'd bump into me sometimes, on my way home from work, so drunk he couldn't stand straight. He'd tell me about... how he was popular with the ladies. The...really young ladies. You see, he was a kindergarten teacher at the local elementary school. I tried to tell the police, but with no proof of anything they just brushed me off. Most people knew him and loved him, thought he couldn't do it.
+
+>But one day, my daughter came home crying, shaking and detached from things she once loved. I'm not saying anything more than that.
+
+>So I took a hammer to his head one night, when he was drunk, alone in his apartment. I smashed that fucker's brains right in, after smashing his kneecaps and fingers and feet to a pulp. And with every scream, I felt vindication. I felt justice for every little girl he'd made scream. 
+
+>I left my family behind, knowing that at least they were safer this way. I traded my life, time with my baby girl, to protect those he harmed. Sure, sooner or later it would've surfaced and he would've gone down...but the law can be slow, sometimes. I wasn't going to let even one more girl get hurt just to do things the nice way.
+
+>Some people don't get the nice way.
+
+------
+
+*thanks for reading! check out /r/resonatingfury for more*
+
+----
+
+[resonatingfury](https://www.reddit.com/user/resonatingfury) [url](https://www.reddit.com/r/WritingPrompts/comments/4j6ktb/wp_the_story_of_an_unsolved_murder_is_brought_up/) 
+
+----
+
+#### [WP] A peaceful alien race is besieged by another race in the same galaxy. As their last planets fall and their home-world comes under threat they do the unthinkable. They ask for aid from the only known creatures more brutal than their foes in exchange for FTL technology. Humans accept the deal.
+
+Score: 935
+
+The lights on Ambassador Tel’s suspension tank remained static for some time.  Like the rest of his species, his- *it’s* - body was a tangled web of translucent strands like a jellyfish crossed with a ball of yarn.  
+
+In their home waters, under that warm tropical sun, even a mild current had the strength to tear them in two.  This was of course by necessity, forming a crucial part of their reproductive cycle, but left them totally unfit for any sort of non-aquatic travel. 
+
+So for one to undergo the invasive process of suspension, giving up months of their life to be cocooned in a steel tank filled with supportive, tear resistant gel had been my first clue to their desperation.  On a hunch, I had pressed the issue and asked the Ambassador how their recent conflict had been proceeding.
+
+The indicator lights on the Ambassador’s tank stayed static for nearly fifteen minutes.  I was almost to the point of calling one of their aids to check the translation equipment when the lights began to flash and the Ambassador’s synthetic voice spoke.
+
+“Ambassador Stewart, to put it simply, the war has been a catastrophic failure.”
+
+I paused mid sip of my tea, then set the dish down. The directness surprised me, we were so often censored from extra solar affairs.
+
+“Surely it’s not nearly as bad as that,” I responded, “You’re the largest of the local regional powers.  You had the clout to keep us unmolested since we were still building mud huts!”
+
+The lights flashed, “No longer, our control has shrunk to less than one hundred cubic light years.  All that remains are the Home Waters, several extrasolar depots, and you.”
+
+I felt alarm.  A feeling I had not had in a long time.
+
+The lights flashed again, “Before you respond, let me ask you something.”
+
+“Of course.”
+
+“Why do you think we only sponsored your colony on Alpha, as opposed to just giving you the tensor shift mechanism out right?”
+
+The tangent caught be by surprise.  I was still hung up on the thought of what type of enemy could conquer thousands of star systems in a few years time.
+
+“When you contacted us, for the first time that is, you said it was imperative that we maintain our own path of technological development, that if we just borrowed, copied, or stole from others we would just blunt our own ability to innovate.”
+
+The tanks lights lit up in a combination that indicated humor, “We lied.”
+
+“Oh?”
+
+“You’re brutal, short sighted, and violent and we wanted you controlled and suppressed so you didn’t burn across the galaxy like a cancer.”
+
+“Oh,” was all that came out from between the surprise and shock.  
+
+“We’ve watched you for thousands of years and never once have you come anywhere near what the civilized species of this spiral arm call peace.  Even now your General Adi in the South Pacific is butchering his people, and that’s only the most prolific instance of similar acts of brutality across your planet.  Even your most ‘civilized’ countries wage war every other decade!”
+
+My diplomatic training roared back to the forefront of my mind, “Ambassador, these condemnations represent a serious shift in tone from our previous meetings.  While I respect that we have cultural differences-”
+
+“It does not matter,” the Ambassador’s synthetic voice interrupted, ”I’m here to give you the tensor shift mechanism.”
+
+Confused, and with the beginnings of anger at these shifts in the conversation, I coldly asked, “Why?”
+
+A pause before the lights flashed again, “Because our war is about to become your war.  We ask this of you.  We offer the mechanisms partly because you will need it and partly in payment.”
+
+“Payment for fighting your war?” I asked, real anger bubbling through.
+
+“Payment for the right to beg your mercy when it’s all said and done.”
+
+Edit: [Part Two](https://www.reddit.com/r/WritingPrompts/comments/4j4mt2/wp_a_peaceful_alien_race_is_besieged_by_another/d34g067)
+
+----
+
+[Yobs9874](https://www.reddit.com/user/Yobs9874) [url](https://www.reddit.com/r/WritingPrompts/comments/4j4mt2/wp_a_peaceful_alien_race_is_besieged_by_another/) 
+
+----
+
+#### [WP] You are a hero with a strange power. Every time you raise your hand in a catching position, a voice yells a party nickname for you and a drink or drug tossed into your hand with impressive speed and accuracy. This is your epic.
+
+Score: 930
+
+The man stood, teetering on the edge of the bridge. The wind whipped at his coat's lapels and flung his thinning hair around. Another strong gust would push him over, sending him hundreds of feet below into the icy depths of the Trenton River.
+
+I sighed. Another day, another job.
+
+***
+
+Serendipity is the superhero name I chose for myself. Nobody else knows it. Why not? Well, I don't know about you, but I don't have the money or know-how to sew my own fucking superhero costume. I don't have super strength, or super speed, or the power of flight, or telekinesis. As such, I've gotta protect myself and my identity. 
+
+It's not that I believe some supervillain is gonna get me - it's just that I don't want to have to deal with the feds. I would've named myself Anonymous, but I'd rather not associate myself with the dipshits on 4chan.
+
+Anyway, I forgot to tell you what my power actually is. Silly me.
+
+About two years ago, I was out on the school baseball diamond playing catch with my friend. I'd just gotten a new glove and had been dying to test it out. I threw the ball to her, punched my mitt a few times, and raised it to catch her return throw. 
+
+Before the ball met my hand, I heard someone yell, "Rooter! This is comin' to you, bud!"
+
+I whipped my head around, my body and arm turning with it, and a small, soft package landed in my mitt. Just before I could see who threw me the item, or what it even was, the baseball my friend threw thunked me in the head.
+
+It knocked me out.
+
+When I came to, my friend was shaking me urgently.
+
+"Dude! Avery, dude!"
+
+"...Fuck," I groaned, embarrassed that I'd taken my eye off the ball and paid the price for it.
+
+"Dude, why the fuck did you bring that to school? Put it away!"
+
+I looked up at her in confusion, and then down at my mitt, where she was looking. Inside it was a small bag filled with a fine white powder. Flour? 
+
+I opened it up and put my finger in. It didn't feel like flour, and even though the thought was ridiculous, I immediately knew what it was.
+
+"Is that... fucking cocaine?" I asked incredulously to no one in particular.
+
+I stashed the bag in my pocket and tried to explain myself to my friend, but she wasn't having any of it. I lost a friend that day, but I gained something new.
+
+Serendipity.
+
+So yeah, there you have it. For some fucking reason, every time I raise my hand to catch something, somebody, somewhere, yells one of my nicknames and a drug or drink is thrown into my hand. Doesn't matter when or where, or how the law of physics would permit it. 
+
+Quite frankly, I stopped caring a while ago. Unlimited free booze will do that to you.
+
+***
+
+"Just what I needed after a long day," I said to myself with fake enthusiasm. I massaged the bridge of my nose and inhaled deeply. "This fucker better be thankful."
+
+I raised my hand, and right on cue, someone yelled, "Stick! Heads up!" With reflexes honed over the past two years, my fingers closed over yet another soft bag.
+
+It was filled with pre-rolled joints.
+
+"All I wanna do is smoke a little chronic," I half-sang to myself, quoting the Biggie Smalls tune. I flicked on my lighter and took a deep hit. Suicides were always tough.
+
+The weed hit me quick and hard as I strolled over to the railing on the side of the bridge and swung my legs over. The man standing at the edge turned his head and saw me, surprise registering in his eyes.
+
+"Who... who're you?" he asked. "You don't look like a cop."
+
+"I'm not a cop," I replied, grinning. "Fuck the police."
+
+My response must've startled him.
+
+"Then... who are you?"
+
+"I am the walrus," I replied, quoting Donnie from The Big Lebowski. The man continued to look confused. I chided myself for continuing my habit of quoting lines from my favorite songs and movies that most people didn't pick up on.
+
+"Kidding. I'm just an average every day citizen of this fine town, and I was wondering why you're standing here," I said.
+
+"Why do you think?" the man laughed, bitterly shaking his head. "I'm 54, I lost my job, my wife's cheating on me, and my son hates me. There's nothing left to live for."
+
+"Shiiiiiiit," I said, half in response to his situation, half in response to the wave of high that rolled over my body. This was some good weed.
+
+"Yeah, you can say that again," he muttered morosely.
+
+"Shiiiiiit," I said. "Well, why not take a puff before your tragic demise?" I offered him the joint in my hand.
+
+"I've never smoked weed before," he replied, cautiously eyeing it.
+
+"You've also never killed yourself before. Right? First time for everything, man," I laughed, shrugging. I prayed to myself that this would work.
+
+"Fair enough."
+
+The man reached over and gingerly took the lit joint from my hand, sucking on it a bit and coughing.
+
+"Do it softer than that, dude," I said. I couldn't help but chuckle.
+
+The man tried again, this time getting a good lungful of smoke before he started to cough violently.
+
+"Oh shit, nice hit." 
+
+I took the joint from his hand and took another hit. Damn, this was good weed. The man kept on coughing as I tried to blow smoke rings in the blustering wind.
+
+I leaned back against the railing, and my heart leapt as the man mirrored my actions. I hadn't looked down this whole time, but I didn't want to think about falling hundreds of feet to my death. I get free drugs whenever I want, but I wouldn't survive anything like that.
+
+The man turned to me, his eyelids a little heavy, his eyes a little red. He had a goofy half-grin on.
+
+"This makes me feel funny," he chortled.
+
+"That's kinda the point, man," I said. "Anyway, tell me about this bitch of a wife you have."
+
+"Well... Hey, what's your name?"
+
+"Avery."
+
+"Well, Avery, she's not really a bitch. She's just lonely, I guess. She tells me I work too much and-"
+
+I interrupted him. "Being lonely isn't a justifiable reason to cheat, dude. Sorry. Continue."
+
+The man seemed thoughtful for a moment, and forged on.
+
+"Well, she said I worked too much, and that I wasn't filling her needs. So she had a fling with a younger guy from her work."
+
+"Fuckin' bitches, man. Can't trust these hoes," I said, hoping he'd pick up on the slang I was using.
+
+He laughed again.
+
+"Yeah, I guess not," he said. "She was kind of annoying anyway. And she'd never give me a blowjob."
+
+I guffawed, surprised at his last statement. I tried to stop and make some witty remark, but the weed took its hold on me, and soon I was laughing so hard tears were forming in my eyes. The man seemed like he couldn't help but laugh either, and soon we were both doubled over on the side of a bridge hundreds of feet above a churning, over-polluted river, sharing a joint and watching thousands of people pass us by without a second glance.
+
+We continued on, just laughing, and pausing, and then bursting into laughter again until the sun began to dip below the horizon.
+
+"Damn, that's really cool," the man said, watching the giant burning ball of gas's rays illuminate our atmosphere in hues of pink and purple.
+
+"Yeah man," I said, taking another hit of the joint. **Damn**, this was some good weed.
+
+"Hey Avery?" the man asked. I turned to him.
+
+"Yeah?"
+
+"I'm really hungry."
+
+I smiled and reached over to smack his shoulder. "Let's go get something to eat, man."
+
+
+
+((I promise I can write better than this, I just wanted to type up something quickly during my break from studying!!))
+
+
+
+----
+
+[basedmango](https://www.reddit.com/user/basedmango) [url](https://www.reddit.com/r/WritingPrompts/comments/4lrozb/wp_you_are_a_hero_with_a_strange_power_every_time/) 
+
+----
+
+#### [WP] Mankind invents FTL travel and finally discovers intelligent extraterrestrial life. But when they arrive, they find out that the race is not yet advanced enough to understand space travel. Humans are accepted as gods.
+
+Score: 926
+
+FADE IN:
+
+EXT. A TRIBAL MEETING GROUND - NIGHT
+
+*Several figures huddle around a campfire. The flickering light reveals that half of the individuals are humans, whereas the other half are cat-like creatures. One of these latter beings rocks back and forth in place, staring at a silver box in front of him. This is HMRRH, a chieftain.*
+
+**HMRRH:** Let me make sure that I understand this. When I speak, this... thing... listens to me, then allows you to understand me.
+
+*One of the humans nods. This is BARTLET, a diplomat from Earth.*
+
+**BARTLET:** That's correct. It also translates my words into your native tongue.    
+**HMRRH:** Interesting. Thank you for clarifying.    
+**BARTLET:** Are you interested in how it works?    
+**HMRRH:** Not really, no.
+
+*Bartlet looks slightly shocked by this.*
+
+**BARTLET:** Are you sure? It's actually pretty fascinating.    
+**HMRRH:** Yes, I'm sure it is. Maybe you can discuss it with our shaman later.    
+**BARTLET:** "Shaman?"    
+**HMRRH:** Apparently it can't translate everything.    
+**BARTLET:** No, no, I know what a shaman is. I just don't understand why you'd want me to talk to one.    
+**HMRRH:** Well, it's kind of her job. Anyway, I'm much more intrigued by stories from the other side.    
+**BARTLET:** "Other side?"    
+
+*Hmrrh points skyward.*
+
+**HMRRH:** You know. Up there. Where the dead people go.    
+**BARTLET:** Oh, gosh... this is awkward.    
+**HMRRH:** What?    
+**BARTLET:** We didn't come from any kind of "other side." We're from another world.    
+**HMRRH:** Yes, I'm aware.    
+**BARTLET:** Then what's all this about dead people?
+
+*Hmrrh scrapes his teeth against themselves. The translator box emits a fair approximation of laughter.*
+
+**HMRRH:** I didn't realize I'd be sharing such common knowledge with my creator!    
+**BARTLET:** What?    
+**HMRRH:** You see, every creature has a light within them, visible in their eyes. When their bodies cease to function, the light escapes and travels upward. Even now, you can see these sparks in the night sky.    
+**BARTLET:** Sorry, what was that about "creator?"    
+**HMRRH:** Everyone knows that creators often live amongst the dead. Some have argued that creators *are* the dead, and that they live in reverse from those on the ground.    
+**BARTLET:** "In reverse?" I'm sorry, something must be wrong with this thing.
+
+*Bartlet lightly kicks the translator box.*
+
+**HMRRH:** Consider: A person is born, and their light begins to glow when they first open their eyes. When they die and their light departs, it is no longer bound by the rules of this world. It may exist at all places and times at once, even before it came to be.    
+**BARTLET:** That's... actually a fairly advanced concept in physics.    
+**HMRRH:** I'll take your word for that. To continue, though: Since a creator can see their work before it is complete, they are therefore able to devise its creation. We call this "inspiration." Those who would be creators often function best when they can see the lights of those who are above them.    
+**BARTLET:** I have to confess, that makes sense in a weird way.    
+**HMRRH:** So, it's correct, then? You come from the land of the dead?
+
+*A moment of awkward silence passes, during which time Bartlet looks uncomfortable.*
+
+**BARTLET:** Okay, look, I'm just going to be blunt: Those lights up there are stars. They're not dead people. My friends and I came from a planet that orbits one of those stars.    
+**HMRRH:** Which one?    
+**BARTLET:** It's not visible at the moment.    
+**HMRRH:** I see. Or rather, I don't. 
+
+*Hmrrh scrapes his teeth together.*
+
+**HMRRH:** (*CONT'D*) Go on.    
+**BARTLET:** Right. Well. There are more stars than anyone could ever hope to count, and many of them have planets around them. It's difficult to get from one planet to another, though, because the distance between them is enormous.    
+**HMRRH:** I'm not hearing anything that refutes what I've told you.    
+**BARTLET:** What?    
+**HMRRH:** You came a great distance from a spark of light in the sky. As I have already told you, the sparks need not conform to the rules that governed them in life. Furthermore, you say that there are more of these sparks than can be counted, just as there are more people than can be numbered.    
+**BARTLET:** That's not...    
+**HMRRH:** (*Interrupting*) Besides, now that we know creators can retake physical forms after death, well... one can only imagine how much life must be out there.    
+**BARTLET:** There's that "creator" word again. You do know that I'm just like you, right?
+
+*Once again, Hmrrh scrapes his teeth together.*
+
+**HMRRH:** Yes, I'm well aware. Again, though, consider: Your life was given to you by a spark in the sky, was it not?    
+**BARTLET:** In a way, yes, but...    
+**HMRRH:** (*Interrupting*) And that spark has doubtlessly existed for far longer than your... planet, was it?    
+**BARTLET:** Yes.    
+**HMRRH:** So, the spark was once a life - perhaps one not even born yet - which gave rise to more lives. They, in turn, became light again, then once more became life. This is a power reserved for those who can create. Thus, you are a creator.
+
+*Understanding finally dawns on Bartlet's face.*
+
+**BARTLET:** Oh! Oh, I think I see. You're not saying I'm *your* creator; just *a* creator.    
+**HMRRH:** No, no, you are my creator.    
+**BARTLET:** What?
+
+*Hmrrh places a clawed hand on Bartlet's wrist.*
+
+**HMRRH:** I have claimed you as my own. Worry not, though: I have no plans to keep you here.    
+**BARTLET:** I'm so confused.    
+**HMRRH:** This much is evident. Please, have some rest. No doubt our shaman will wish to discuss your magic with you tomorrow.
+
+*Hmrrh stands and leaves a bewildered-looking Bartlet near the fire. He walks away from the lit area, and encounters a second member of his species. This is SCISSHS.*
+
+**SCISSHS:** That was painful to overhear.    
+**HMRRH:** Be patient with them. As you know, creators are often too enchanted with their own works to know the ways of the world.    
+**SCISSHS:** That's one explanation.    
+**HMRRH:** Have you another?    
+**SCISSHS:** Isn't it obvious?
+
+*Scisshs looks over at the firelight, watching as Bartlet awkwardly shares food with the others. He spills some on himself and flaps his arms with a comical motion.*
+
+**SCISSHS:** (*CONT'D*) Gods are just stupid.
+
+FADE OUT.
+
+----
+
+[RamsesThePigeon](https://www.reddit.com/user/RamsesThePigeon) [url](https://www.reddit.com/r/WritingPrompts/comments/4m07qs/wp_mankind_invents_ftl_travel_and_finally/) 
+
+----
+
+#### [WP] You are the first boss of a videogame who, after accidentally killing the player in their first try, decide to take it upon yourself to fulfill their quest.
+
+Score: 920
+
+I had kneeled in this ashen cemetery for countless years, the coiled sword keeping the darkness inside me contained. Contained, that is, until it was removed by this ashen knight.
+"Champion", he had called himself.
+Many had called me by that title, in ages past.
+The body of this contender remained still, unmoving. Usually, when the undead were killed, their ashes would fade, and they would be reborn nearby, ready for another attempt to defeat me. Yet this Champion remained still. In the sky, the sun had faded to almost nothing, its fire nearly gone. 
+Shifting the halberd in my hand, I stepped forward, pushing aside the great doors that I had guarded for so long. I made my way up the path, entering the dark shrine with purpose. As I drove the coiled sword into the unlit bonfire, I knew what needed to be done. If the Champion of Ash would not seek out the Lords, then I, the Champion of old would see it done.
+
+----
+
+[MrGingerToYou](https://www.reddit.com/user/MrGingerToYou) [url](https://www.reddit.com/r/WritingPrompts/comments/4ketu8/wp_you_are_the_first_boss_of_a_videogame_who/) 
+
+----
+
+#### [WP] You discover that you suddenly gain the ability to control anyone you'd like. However, their consciousness talks to you as you do so.
+
+Score: 915
+
+"All right," Dean thought, putting the helmet on. "I hope this works."
+
+By his side, the stray dog tried unsuccessfully to remove his own helmet.
+
+Dean pressed the 'Converge Conscience' button and closed his eyes. He felt a jolt of electricity going through his 
+body, and then everything went dark.
+
+Then Dean opened his eyes, and suddenly he was watching the room from very different point of view. He was watching everything from four feet off the ground.
+
+"Yes!" Dean thought, amazed that the incredibly fishy-sounding device he bought off of a Craiglist's announcer by the username 'Dude-with-cool-stuff' had worked. "Yes, it worked!"
+
+"Dude, what's going on?" a voice sounded in his head.
+
+*Huh… that's weird.*
+
+Dean lifted the dog's front paw and pulled the helmet off of his newly acquired canine head. He barked once, just for the fuck of it.
+
+"Hey! I didn't bark! Who barked?"
+
+That voice again…
+
+"Wait, what's going on?" Dean asked himself internally.
+
+"Dude, what the hell?" the voice answered.
+
+"Who are you?"
+
+"I'm Barkie. Or… I don't know. That was the name they gave me at the pound, before I escaped. Who the hell are 
+you?"
+
+"Oh shit," Dean thought. "You're the dog?"
+
+"Yeah, I'm the God-damned dog. Who are you!?"
+
+"I'm the guy who bought a device from a crazy scientist to transfer my conscience into a dog's head," Dean 
+thought-replied.
+
+"Oh. Okay. I don't understand anything you just said, but can we go out and find some food?" Barkie replied. "I'm hungry. I'm usually hungry. Like, all the time. It's weird, right? I wonder if other dogs are always hungry too. You know where we can find food? Should we look for some trashcans we can turn over? What do you think?"
+
+*Shit… this is going to be hard.*
+
+&nbsp;
+
+Dean walked himself out of the house and looked around the street. He started for Beverly Hills, where Ed now lived.
+
+"Hey, human dude, where are we going?"
+
+"Shut up, stupid dog."
+
+"Is there food where we are going? I'm kinda hungry. Have I said that already? I feel like I said that already. Don't get me wrong, it's just that I don't usually have anyone to talk to. I mean, I bark to other dogs, but that's pretty much it."
+
+Dean ignored the dog. Okay, this wasn't part of the plan. The dog being able to communicate with him was 
+definitely not something he expected. Still. He was going to go through with it. The plan remained the same.
+
+He was going to find Ed and kill the shit out of him for what he had done to him back at the Warehouse. Then he 
+was going to find Murphy and Tracy and all the others and do the same to them. Talking dog or no talking dog.
+
+"Dude, are you thinking about killing people?" Barkie's voice sounded in his head. "That's not cool, dude. I don't wanna kill people."
+
+"Shut up. Let's just keep walking."
+
+They would pay. All of them. And Dean would get away clean, because, well, who on Earth would believe that a 
+man transferred his mind to a dog so he could kill his ex-partners in crime and not go to jail? That sounded like 
+something out of that weird Writing Prompts forum Dean visited sometimes.
+
+Dean reached Ed's house just as Ed was stepping away and heading for his car. A God-damned Lamborghini. That 
+bastard had double-crossed Dean and taken all the money for himself, and now he was driving a Lambo! The asshole!
+
+"All right… steady now, Barkie…"
+
+"Dude, seriously, don't bite the guy to death. That's so not cool. Let's just find some beef jerky. I love beef jerky. They have it at the trashcan behind the Seven Eleven near --"
+
+"Shut up. I get to control the body, not you."
+
+"Come on, man, he seems like a nice guy. I don't wanna kill humans. Humans are awesome. They play fetch with 
+you and they give you food and –"
+
+"Shut up!"
+
+Ed was almost by his car. Dean took a deep breath, pulled back and charged for –
+
+**"Cat! Cat! Cat!"**
+
+"What?" Dean thought-exclaimed. "What are you talking abou –"
+
+But Dean was no longer in control. Against his will, the dog's body charged in the opposite direction, heading for 
+what appeared to be a Siamese cat by the neighbor's mailbox.
+
+The cat spotted Dean and, in a quick movement, turned back and made a run for it.
+
+"We'll get him, man, we'll get him!" Barkie yelled, as they doubled their speed.
+
+"Stop, you idiot! I don't wanna get the cat!"
+
+"But we must get him! He's the cat! We must get the ca – aaw, shoot, he climbed over the roof. How do cats 
+climb so high?"
+
+Dean sighed internally. He noticed he was panting hard. The cat disappeared over the edge of the roof. Dean turned back. Ed was inside his Lamborghini already, and a second later, took off down the suburban road.
+
+"God damn it," Dean thought to himself. 
+
+"How do they do it? It's amazing," Barkie thought. "I can't climb the freaking stairs without fearing for my life and 
+these cat dudes are all over the place jumping everywhere." He paused. "I guess that's why they get all the 
+Youtube attention. Damn, I wish I was a Youtube star. Those guys have it easy."
+
+"God damn it, you stupid dog, you let Ed get away!" Dean thought-yelled. "Because of a stupid cat!"
+
+"Yeah! Cats are stupid!" Barkie agreed, excitedly. "Come on, let's go around the house and get him!"
+
+"No, that's not what I – God damn it, is this thing malfunctioning? Why are you in control now? Stop it, I don't 
+want to chase a cat, I don't –"
+
+But they were halfway around the house already, and Barkie was thinking "Catcatcatcatwhereisthecatcatcat" on 
+repeat.
+
+"I hate my life," Dean thought, bitterly.
+
+**"CatcatacatCAT! FOUND THE CAT! I FOUND THE CAT DUDE, LET'S GO!"**
+
+And off they went again.
+
+______________
+
+*Thanks for reading! For more stories, check out /r/psycho_alpaca =)*
+
+*Also, if you're in the mood for something more substantial, make sure and check out [Eve](https://www.reddit.com/r/psycho_alpaca/comments/4h9tc6/read_the_novel_eve_here/
+), the novel I wrote based on a WP prompt and published online (for free)!*
+
+----
+
+[psycho_alpaca](https://www.reddit.com/user/psycho_alpaca) [url](https://www.reddit.com/r/WritingPrompts/comments/4mxzem/wp_you_discover_that_you_suddenly_gain_the/) 
+
+----
+
+#### [WP] A "popular" girl falls in love with a "nerdy" boy, however he hates her and she spends all her time trying to impress him
+
+Score: 865
+
+"For the last time Samantha, cut it out! This is getting so weird!"
+
+The girl withdrew her hand from the boy's arm, hurt flooding her eyes even as she brushed her dark hair away from her now bright blue, speckled skin and then huffed with frustration.
+
+"Sam, come on. No one has been into Avatar since like, 2011. And how long did you spend on that weird blue alien costume anyways?"
+
+"Na'vi." The girl corrected him mechanically, reflexively.
+
+"Okay, Na'vi -- whatever. Either way, showing up at my place in these outfits... it's got to stop. Weren't you dating... what's his name, Brad? Kyle?"
+
+"Derek, his name was Derek. We're not together anymore." Sam's voice was soft and quiet as she supplied the name, her gaze downcast at her feet.
+
+"Look, Sam, we used to be kind of friends. I mean, we didn't hang out and you share NO interests with me, but it was fine having you around the gang. Can't we just go back to that? Showing up in dirty storm trooper outfits isn't--"
+
+"Sand trooper." Again, the correction was automatic; mechanical and fast.
+
+"Right, right. Sand troopers. Those are the ones from.. uh..." Mark paused, his brain blanking on which Star Wars the trooper variant had first appeared in.
+
+"A New Hope."
+
+Sam supplied to answer so easily and smoothly that it caused Mark to pause, and he looked back at her blue, artfully done face with suspicion and a sudden spark of insight.
+
+"Released?" He queried.
+
+"1977."
+
+"Produced by?"
+
+"Gary Kutz, but Rick McCallum did the special edition."
+
+"What was the character name for the opera singer in Fifth Element?"
+
+"Diva Plavalaguna."
+
+"In what movie are ancient mythologies the result of alien interference in early human history?"
+
+There's a momentary pause now by Sam, but the lapse is fleeting before her eyes flash with challenge and she angles her chin at the boy standing in front of her defiantly.
+
+"Stargate, 1994, directed by Roland Emm--"
+
+"WOW Sam! You're a total NERD!"
+
+Mark dissolved into a fit of wild laughter, and if her face hadn't been covered in paint he would have seen the furious blush that bloomed over Sam's pretty features. She shifted uncomfortably from foot to foot as he regained his composure, leaning against the doorframe of his front door, wiping tears of humor from his eyes.
+
+"Have you been HIDING that all these years?"
+
+Sam's mouth worked silently for a moment, trying to drudge up words stuck in her throat before she finally pushed them out past her lips.
+
+"YES! Okay?! Are you happy? I-I like you so much because you like all the things I like! But my parents always said that Star Wars and Alien and Iron Man were things meant for boys, not pretty little girls in dresses. And then, well, then I was in cheerleading and they would have made fun of me! But when we graduated that all stopped mattering and I-I-I---!"
+
+She was near tears herself now, but not the same mirthful kind Mark had shed. Seeing this his features dropped into guilt and he pushed away from the door frame, tentatively laying a hand on her arm.
+
+"Okay! Okay, I get it Sam. Come on; lets watch a movie or something. You're going to have to sit on a towel though, I don't want that blue stuff all over my couch."
+
+"Thanks Mark. Really, thanks."
+
+"Don't mention it, Sam. Like really, don't mention it. You're totally going to mess up my street cred with the gang."
+
+She was giggling now as he gently directed her past him, into the apartment and the closed the door with a muffled click.
+
+----------------------------------------------------
+
+I just realized /u/herd_of_birds used the name Samantha too! Seems like the go to name, huh?
+
+Double edit: Obligatory thanks for the gilding! I've never been given reddit gold before, so that is super rad.
+
+----
+
+[TheCrimsonHart](https://www.reddit.com/user/TheCrimsonHart) [url](https://www.reddit.com/r/WritingPrompts/comments/4lk1uc/wp_a_popular_girl_falls_in_love_with_a_nerdy_boy/) 
+
+----
+
+#### [WP] - You are an angel of heaven. Angels are tasked with creating animals to populate the earth. You are called into God's office to discuss your finished project - the platypus.
+
+Score: 863
+
+Kabshiel waited in the hall to be ushered into the Presence.  He was worried; this would be the first time being unexpectedly summoned, and he wondered what he might have done to warrant this attention from the LORD.  Rapt in thought, and concerned that his actions might somehow be counter to the praise the LORD may want, he didn't notice Adnoai until the archangel was nearly upon him.
+
+"He is ready to address you, Kabshiel," the mighty prince of Heaven said to him.
+
+"Is it bad?  Please brother, tell me.  I only wish to know how I might have offended our Father."
+
+"The Mind of our Father is not known to me in this matter brother.  I'd hedge on the idea that you are well and truly fucked though."
+
+With a heavy sigh, Kabshiel straightened up, adjusted his robes, and set forward to prostrate himself before the Throne of Heaven, and receive the guidance and orders of the LORD.  Standing before the magnificence of the Presence alone for the first time in his long existence alone, he trembled before the might of His being, the attention of the Lord of Creation turned and focused solely upon his form.  The power was overwhelming, and was nearly crushed by the force of that great Will.
+
+Prostrate, Kabshiel said, "Oh God, My God, Father of All, Lord of the Heavens and Earth, Creator of Creation itself, I am humbled before your presence and have prost-"
+
+"GET UP.  THIS IS AN OFFICIAL VISIT, BUT WE CAN DISPENSE WITH THE FORMALITIES.  ONCE AGAIN, MY BELOVED SON, YOU'VE CAUGHT MY ATTENTION."  Unnerved by the interruption and breaking of protocol, Kabshiel slowly, cautiously stood up and risked to look upon the Presence.
+
+"Father, hae I displeased you?"
+
+"KABSHIEL, YOU'VE BEEN DOING WORK ON THE GREAT SOUTHERN ISLAND UNDER THE GUIDANCE AND OVERSIGHT OF SANDALPHON.  YOU IMMEDIATELY SHOWED CLEVERNESS WITH YOUR WONDERFUL CREATION OF THE WALLABY.  IT IS A BEAUTIFUL AND CLEVER CREATURE, AND WAS SO ADMIRED THAT SANDALPHON IMMEDIATELY TASKED NAYA'IL WITH TESTING A LARGER VERSION WITH THE KANGAROO.  THIS PLEASED ME, AS I AM SURE YOU REMEMBER FROM THE FIRST TIME YOU WERE BROUGHT TO MY PRESENCE."
+
+"Yes, of Father of Wisdom."
+
+"OH SHIT, JUST CALL ME BY MY NAME.  YOU HAVE NO IDEA HOW TIRING THESE NEW TITLES YOU LOT KEEP COMING UP WITH CAN BE."
+
+"Of course-"
+
+"ANYWAY, YOU AGAIN SHOWED THAT YOU HAVE HIDDEN BEAUTY IN YOU WITH YOUR NEXT OVERSEEN CREATION, THE CASSOWARY.  IT HAS VIBRANT COLORING IN ITS FACE, AND IS BOTH MAJESTIC IN ITS PRESENCE, WHILE DARINGLY MADE AS A FLIGHTLESS BIRD.  THOSE AREN'T VERY COMMON, YOU KNOW, AND MAY TEND OT BE PRETTY SPECTACULAR FAILURES.  THE FACT THAT IT STANDS UP WITH THE OSTRICH WHILE NOT BEING AS STUPIDLY RIDICULOUS AS THE EMU SAYS A LOT ABOUT YOUR TALENT.  LOVE THE EMU THOUGH; IT'S SO STUPID."
+
+"Thank you, My Lord-"
+
+"THOUGHT I TOLD YOU TO USE MY NAME.  ANYWAY, I NEARLY HAD IT IN MIND TO HAVE YOU WORK HAND IN HAND WITH RAPHAEL, YOUR CREATIONS WERE SO PLEASING.  HE'S BEEN DOING WONDERFUL THINGS WITH INSECTS, BUTTERFLIES PARTICULARLY.  SO, I ORDERED SANDALPHON TO LET YOU TRY YOUR HAND AT YOUR FIRST UNGUIDED CREATION."
+
+"Yes, and thank you for the chance to let me prove mysel-"
+
+"WHAT THE FUCK DID YOU MAKE HERE?  WHAT IS THIS?"  Upon this divine utterance, a small, furry form plopped into existence in front of the Divine being, at the foot of the Throne of Heaven, in the Temple of the Lord, at the middle of Heaven, in the Center of Creation.
+
+"Well, I haven't come up with a final name yet, but I'm leaning towards 'Platypus'."
+
+"HAD YOU PARTAKEN OF ASMODEI'S MUSHROOMS BEFORE PUTTING YOUR WILL TO WORK?  THIS THING FOLLOWS NO RULES WHATSOEVER.  YOU'VE MADE A FURRY, FLIGHTLESS BIRD THING THAT IS ELECTROSENSITIVE.  AND POISONOUS.  AND UNBELIEVABLY AGGRESSIVE.  IS IT EVEN A BIRD?  IT LAYS EGGS.  I HAVE WISDOM BEYOND YOUR COMPREHENSION, MY CHILD, BUT EVEN I CANNOT FATHOM WHY YOU WOULD JUST SLAP THIS FUCKING THING TOGETHER LIKE YOU DID.  PLEASE, ENLIGHTEN ME."
+
+Dumbfounded, Kabshiel opened and closed his mouth a few times, reminiscent of a dying fish, before mustering enough self-awareness to say, "Well, Lahiel had been doing wonderful things with monitor lizards, and he even made a tank of a beast with a nose protrusion made of fingernails!  I had hoped to please you with my imagination,-"
+
+"IT'S FUCKING WEIRD.  IT DOESN'T MATCH THE THEME OF YOUR ASSIGNED LOCALE.  THINGS HERE ARE DANGEROUS AND UNUSUAL, NOT JUST UNUSUAL.  YOU NAILED THE SECOND EDICT SPOT ON, BUT SERIOUSLY."
+
+"I had seen so many violent creatures on the Southern island.  So many things with lethality hidden under their beauty and majesty.  I had only hoped to provide a creature with mercy in its being, devoid of the seeming cut-throat malice so prevalent in the fauna there.  Heck, even a lot of the flora wants to kill everything around it.  The poison was to give it a means of defending itself and thriving as a testament to the wonder of Your grace, that even in a landscape so harsh, peace can be found in a creature such as this."
+
+"WHY IS IT SO WILDLY AGGRESSIVE THEN?"
+
+"Sandalphon insisted upon it, Lord.  She said it had to be, to meet the requirements You had laid down for her."
+
+The Lord's demeanor softened from displeasure into compassion for His child.  "I SEE NOW, MY CHILD.  YOU HAVE TRULY SHOWN INSIGHT INTO MY PLAN.  GET RID OF THE WILD AGGRESSION; IT LOOKS FAR TO SILLY TO BE A MURDER MACHINE LIKE IT IS RIGHT NOW.  SOFTEN UP THE FUR, AND MAKE IT PERSONABLE AND FRIENDLY TO MY CHERISHED CREATION MAN, AND YOU CAN KEEP IT."
+
+With joy radiating from his very being, Kabshiel exclaimed, "Oh thank you Lord!  I had hoped you would be pleased!"
+
+"OK, OK, CALM DOWN.  AND MAKE ME ANOTHER CUTE THING FOR THERE.  THE PLACE SORELY NEEDS IT."
+
+"I think I know just the thing, Father!  I've been playing around with an idea that might fit the bill.  I'm hesitantly coining it the Koala..."
+
+:editing for typos:
+
+----
+
+[echisholm](https://www.reddit.com/user/echisholm) [url](https://www.reddit.com/r/WritingPrompts/comments/4jghf3/wp_you_are_an_angel_of_heaven_angels_are_tasked/) 
+
+----
+
+#### [WP] A peaceful alien race is besieged by another race in the same galaxy. As their last planets fall and their home-world comes under threat they do the unthinkable. They ask for aid from the only known creatures more brutal than their foes in exchange for FTL technology. Humans accept the deal.
+
+Score: 859
+
+I bowed my head and looked at my hands. I fiddled with my fingers. I heard my companion lean back in her chair. 
+
+"That is an... interesting request."
+
+I looked back up. She had one leg crossed over the other, one arm draped over the back of the chair. The thumb on her hand not clutching the chair was between her teeth. 
+
+Considering what I'd just asked her to do, she was hideously casual. She looked like she was mulling over what she wanted for dinner.
+
+"I'll talk to my superiors."
+
+
+
+
+Every one of our councilmen had gathered, plus one human. We watched out windows and on displays as our enemies approached, their ships painted with bright streaks and images of death. We blanched. Our human companion sipped her drink. A tiny smirk crossed her face.
+
+"They have no idea what they've done."
+
+Our city was perfectly still, pale buildings reaching upwards higher than any human building. It looked dead already. We looked beaten. They didn't stop.
+
+"Open fire."
+
+The order was icy cold. Everything they did was cool and calculated and cunning.
+
+*crack*
+
+The first tremendous slug from their ships came from above. It slammed into the flagship at over 60,000 kilometres per hour. She collapsed inwards, towards the hole torn through her hull. And then she fell, slow and burning, from the sky. I heard later she landed in a shallow lake in the middle of a public park.
+
+We heard the sound of the slug hitting our pavements, followed by the flagship hitting the ground.
+
+*crack, crack, crack*
+
+The slugs no longer made individual noises. So many were fired at once, it was like a hailstorm.
+
+Ships fell. The few troops who landed alive were torn apart by humans who willingly threw themselves from their ships with nothing but a small propulsion jet to slow their descent. The fleet our enemies had sent was destroyed utterly in less than 40 seconds.
+
+The human in the chamber sipped her drink again.
+
+"That's it? I guess we got them by surprise." Everyone else was silent.
+
+
+World after world fell, and we reclaimed them. The humans had no interest in taking our cities for themselves. They slaughtered the enemy, gave the all-clear, and left. Every time, without fail. They took back all our worlds, but by that point, it wasn't just pest control anymore. It was *their* war now. They pushed to worlds that weren't ours or anyone else's to reclaim. They expanded their territory right around ours. What had once been a defence force was now a full-blown invasion. They chased and chased. Cold and calculated. Circling, striking, taking what they wanted and destroying everything else. The homeworld was nearly reached before we'd even begun to recover.
+
+
+"Call them back." His huge eyes bulged out of his bowed head as he kneeled before us. "Call the humans back. You've taken what's yours." The council talked among themselves.
+
+"The humans... are acting of their own accord. There is nothing we can do for you."
+
+*"We have made a terrible mistake."*
+
+----
+
+[BraveMoose](https://www.reddit.com/user/BraveMoose) [url](https://www.reddit.com/r/WritingPrompts/comments/4j4mt2/wp_a_peaceful_alien_race_is_besieged_by_another/) 
+
+----
+
+#### [WP] Humans are known in the galaxy for being a bit dim, but also for being the very best mechanics around, and inexplicably able to fix machines beyond their comprehension. You have broken down on Earth, and having the apes work on your craft is both fascinating and terrifying.
+
+Score: 839
+
+"I didn't mean anything by it!"
+
+The human screwed up his face. "What's that?"
+
+"I... I didn't mean anything!"
+
+He tilted his head to one side. Oh my Simulator! Was that a sign of aggression?
+
+"I didn't mean anything!"
+
+"Anything... by what?" he asked. "I only asked what you were looking at. Was it the TV? This is my favourite show," he said. "Have you seen it?"
+
+I stepped back. "I didn't see anything!" I said.
+
+"Dude," the human said.
+
+What was a dude? Would it come and claim my foetuses? They were gestating in my sac. How could I protect them? I'd only just accepted them from their mother. How could she forgive me?
+
+He pointed at the screen. "The show. Have you seen it? It's great. It's about a cop. He plays by his own rules, but he gets the job done. You know?"
+
+"By his..." I stuttered, "... *own* rules? Not the rules of the Law?"
+
+He nodded, sipping a filthy brown liquid from an open container. "His *own* rules. Look at this bit. Best episode ever."
+
+I turned my attention to the screen in deference to him. Perhaps this show of obsequious powerlessness would quell the raging fires of violence within him. Lit up by the primitive lights, I saw a human strike - strike! - another human in the face and demand to know where a missing child was. The victim of this crime asserted that he knew not where the missing child was; yet the first human struck him again. Again!
+
+I turned away.
+
+"The vehicle," I said. "When..." I cleared one of my throats. "When will it be ready?"
+
+The human stepped towards me. I tried, how I tried! I tried not to flinch. The Discussion Warriors of Planthentintrix would have been proud of me. I belonged on the Stern Debating Battlefield of Fharginord alongside them - and if my salient argument should fail to stand up to cross-examination? Then to rest in the Eternal Fields of the Fallen.
+
+"Give it an hour," the human said. "It's only a blown flange. We'll have it taped back up. It'll get you to Alpha Centuraui."
+
+I laughed with relief. "An hour?" I asked, incredulous.
+
+"Sure," he said. "If that. Oh, look! Look! Watch this bit. It's great."
+
+The human on the screen raised a weapon to his victim's knee-joint. He demanded to know where the hostage was again. I gripped my abdomen in fearful anticipation. My foetuses quivered beneath. The victim, excreting droplets of effluent in fear, somehow explained where the missing child was.
+
+"How did he come by this information?" I asked.
+
+The human looked up at the screen. "What?" he asked. "Dude, he knew all along. He was the guy that took him."
+
+Such deceit! Such wickedness! Packaged as entertainment and presented as enjoyment! Such...
+
+The human on the screen hit the child-taker with the butt of his weapon. At this point, I kind of felt like he deserved it. 
+
+"What will he do now?" I asked.
+
+The human looked at me, the corners of his mandible-less feeding hole turning upwards. "He's going to get the kid back," he said.
+
+"Playing by the rules?" I asked, my voice tremulous.
+
+"What?" he asked. "No, man. Of course not."
+
+I relaxed, confused, and docile. "Dude," I said. "That's awesome."
+
+----
+
+[Guybrushes](https://www.reddit.com/user/Guybrushes) [url](https://www.reddit.com/r/WritingPrompts/comments/4kq8se/wp_humans_are_known_in_the_galaxy_for_being_a_bit/) 
+
+----
+
+#### [WP] After a freak accident, you've split into two versions of yourself. One good, the other evil. For some reason you two are able to cooperate quite easily.
+
+Score: 830
+
+"It's a Tuesdayyy!" Sang LuciLeo before work to LumiLeo, "You know what that means? My night with the wife! And it's gonna get *kinky*."
+
+They were in their apartment, a one bedroom on the seedier side of town where their chance of meeting a friend was nonexistent. LuciLeo smoked a cigar on the couch with one hand, a handle of jack in the other, while LumiLeo sipped red wine and flipped a page of his book. 
+
+"You know," said LumiLeo, "I think she enjoys the sweet loving more. You're just jealous your methods can't compare."
+
+"And you're just jealous today is my day for bangin, and your day for workin." Retorted LuciLeo. 
+
+He was right, of course. According to their calendar, which LumiLeo had made since he was the more trustworthy of the two, even to LuciLeo, LumiLeo had work duty. That meant while LuciLeo had the day off, LumiLeo would step into the office and do what he did best- inspire his coworkers, compliment his boss, and complete his deliverables. Tomorrow, LuciLeo would return and put the fear of God back into his underlings, take the boss out for strippers and booze, and fudge some numbers. It was the ultimate combination, the perfect good cop / bad cop. 
+
+And since the incident, only six months before, they'd been promoted twice. Adding that to LuciLeo's drug dealing, their salary had quadrupled. 
+
+But that wasn't the only place their life has improved. 
+
+Their sex life was off the charts, the wife never knowing what to expect. LuciLeo learned to shred on the guitar, and his band had already been headlining at a few of the seedier clubs. LumiLeo estimated he was halfway to enlightenment. 
+
+And now it seemed strange to both of them, that when they were combined, they had always thought the other held them back. 
+
+***
+
+By Leo 
+
+Like my writing style? [Then check out my best work!](https://www.reddit.com/r/leoduhvinci/comments/3u1uhv/leo_comments_on_wp_in_a_world_where_wizardry_is_a/) It's 35 chapters and counting! Both LumiLeo and LuciLeo love it. 
+
+----
+
+[LeoDuhVinci](https://www.reddit.com/user/LeoDuhVinci) [url](https://www.reddit.com/r/WritingPrompts/comments/4k2pds/wp_after_a_freak_accident_youve_split_into_two/) 
+
+----
+
+#### [WP]If you murder someone, your jail sentence is as long as their remaining life would have been.
+
+Score: 796
+
+"I plead guilty, Your Honor," I told the courtroom, earning gasps and whispers. "I killed her. Six milligrams of Aconitum directly into her left arm."
+
+"Well, I suppose I should thank your honesty. That saves us some time-"
+
+"What kind of sick bastard murders his own sister?" a voice cut in from the crowd. Several others booed and jeered alongside him.
+
+"It was peaceful, and quiet. She didn't hurt at all," I responded meekly, staring at the floor.
+
+"She was twelve! Come on, judge, sentence him already. Gotta be at least seventy years, right? Lock this psychopath away for good."
+
+I tried to maintain control, but images of that little girl dying before my eyes were burned into my mind. I could feel the warmth on my cheeks, taste the saltiness in my mouth, and knew I was a mess.
+
+"Order! Well, as per law, I hereby sentence you to prison for the amount of time left in the victim's life. Let's see, here..." The judge flipped through several documents, muttering to himself, the paused and took his glasses off. 
+
+I was shaking, bawling like a lost child, thinking of my sister and how I'd erased her beautiful smile from the world forever. 
+
+With a deep sigh, the judge continued his sentencing. "Three months."
+
+--------
+
+*thanks for reading! if you'd like to see more of my work, check out /r/resonatingfury*
+
+----
+
+[resonatingfury](https://www.reddit.com/user/resonatingfury) [url](https://www.reddit.com/r/WritingPrompts/comments/4lkfln/wpif_you_murder_someone_your_jail_sentence_is_as/) 
+
+----
+
+#### [WP] The entire Star Wars series, all 7 movies, are released as one book, written by Dr. Seuss.
+
+Score: 795
+
+One war, two war  
+Red war, blue war  
+I see rebels  
+I see ravels  
+Rebels rabble, rebels ravel  
+Spaceships striking  
+Striking, liking  
+Do you see rebel spaceships striking?
+
+A base, a vase, a hidden case  
+The rebels have a hidden base  
+The rebels have a noble case  
+They win within their noble base  
+
+Now say this quickly here with me:  
+Galactic guys go grey and grow  
+Galactic guys by good are gone  
+Gone are Galactic guys grown great  
+Gone do Galactic greats grow grey 
+
+The rebels steal, the rebels steel  
+The rebels steal with their steel  
+The rebels steal steel steeples  
+The rebels spy and steal steel
+
+The rebels steal plans and parts  
+The rebels steal thoughts and hearts  
+The rebels think and plan and part  
+The Empire's plans the rebels thwart 
+
+The star is deadly,  
+The star is deathly  
+The star is deftly deathly deadly  
+The star is death and deadly and destructive  
+And can destroy the dunes on planet  
+Doomed with dunes and death  
+And deftly doom the dunes to death
+
+The princess runs  
+The princess races  
+The Empire runs  
+The Empire races  
+The empire races the princess who runs  
+The princess runs the Empire's races
+
+The boy gives freedom,  
+The boy gives force  
+The boy gives force and freedom force  
+The boy forces freedom with the force  
+To defeat the Empire with the force
+
+---
+
+Thanks for reading! For more, check out and subscribe to /r/Celsius232 
+
+----
+
+[232C](https://www.reddit.com/user/232C) [url](https://www.reddit.com/r/WritingPrompts/comments/4jl57e/wp_the_entire_star_wars_series_all_7_movies_are/) 
+
+----
+
+#### [WP] A superhero whose punches heal rather than harm. Their origin story is kicking the shit out of a kid with terminal cancer.
+
+Score: 777
+
+"Okay, let me have it."
+
+Not quite what I would have expected coming out a kid. Sitting in the hospital bed, kid looks like ET. The picture they used when they proposed this whole idea...it was a lot more flattering. His head didn't look so...big.
+
+"Cadeceus?"
+
+The woman to my right, dark haired a nice rack that made her reporters badge just sway in ehen she turned. Oh right, the reporters. My publicist said it would be great publicity once I told her about my powers. I'm a healer, pretty damn valuable honestly, like a unicorn. But only if I punch someone. And not halfheartedly, I've got to punch them **really** hard like I hate them. When I told her the specifics she went white as a sheet. She jumped the gun; organized an healing event. 
+
+Cancer ward at the local children's hospital. I was legally obligated to punch the cancer our of these children. Now all these people were waiting for me to go Muhammed Ali on a bunch of terminal children. As I looked at the kid, Ethan (?) was his name. Big old coke bottle glasses, staring up at me like a puppy. 
+
+A poor terminally ill puppy, kept on staring at my namesake, the red caduceus symbol on my chest. Or maybe just my chest.
+
+"Kid," I say with a forced smile, "this is going to hurt me a lot more than you."
+
+The first blow knocked him out of the bed. That got some instinctual gasps out of the crowd, given they could hear the air snap. I got on top of him as soon as I could and landed another one square in the nose. It was always jarring putting all my force into the punch only to see nothing happening.
+
+He started flailing a bit with the next few, so I--holy crap! The little turd actually tried to cop a feel! "Now you're going to get it." I growled.
+
+It stopped being coordinated. I just wailed on him as hard as I could. Started hitting him faster and faster as the color started coming to his face for the first time in years, the hair that started coming for the first time, the soft cries being replaced by giggling. Now that? That just made me angrier.
+
+But I'm no athlete honestly. I tired out in maybe a few minutes. Looking at him on the floor...the picture of health. Doctors actually clapping, the reporters cameras flashing. Some actually congratulating the kid, who was looking at me with a smile on his face.
+
+I'm going to have to invest in a sandbag.
+
+Edit: Accidentally submitted before I finished.
+
+----
+
+[Astraea227](https://www.reddit.com/user/Astraea227) [url](https://www.reddit.com/r/WritingPrompts/comments/4lnl48/wp_a_superhero_whose_punches_heal_rather_than/) 
+
+----
+
+#### [EU] From a wookiee's perspective, Chewbacca is the handsome rogue and Han is the dumb sidekick communicating in animal noises.
+
+Score: 774
+
+"Remember the plan this time, Han," Chewie growled as they rode the elevator up to the Death Star detention center. "We don't need another repeat of what happened on Seregar. They're going to call in about my transfer, so you need to use the communications jammer, right? Remaining undetected is the most important thing."
+
+Han, standing to the right in full stormtrooper getup, nodded. Luke standing on the left side had no idea what Chewie was saying, but he didn't need to: Han had already explained the plan. At least, Chewie *hoped* he had. Even when he was willing to translate, it seemed like orders somehow got garbled. Chewie couldn't speak Basic so he wasn't sure if Han was translating correctly, but part of him was beginning to think that Han wasn't as fluent in Shyriiwook as he claimed to be.
+
+The doors swished open, and Chewbacca entered the detention bay flanked by the two 'stormtroopers.' He clasped his hands together, pretending they were cuffed. 
+
+"Woftushpo ofp hufutrumnes?" the human officer asked, eyes darting between Chewbacca and Han. 
+
+*Play it cool, Han,* Chewbacca thought. The imperials would be suspicious if he spoke to a Stormtrooper, so he had to stay silent for now. And he had to rely on Han's improvisational skills, which was always a perilous gamble.
+
+"Fulterhesto hogjowbiga moahwe tha ame no pa," Han replied, nodding toward Chewie. The imperial officer's eyes narrowed, and Chewie's heart skipped a beat. Something was wrong. The human suddenly gestured to the guards behind him, who ran forward with weapons drawn. Then he reached for the communicator. *Damn it!*
+
+"Use the jammer, Han!" Chewie roared, knocking away the guard that came close. Gunfire richocheted around the room as both groups opened fire. Luke tossed Chewie a weapon, and he quickly dispatched one of the black-helmeted prison guards. "We need the officer alive though in case someone comes to investigate!"
+
+Right as Chewie finished his sentence, Han shot the imperial officer in the chest, and he crumpled into a heap over the console. "IDIOT!" Chewbacca berated Han. "At least shoot out the cameras, then!" He aimed his own weapons at the various sensors around the room. That should buy *some* time. 
+
+Finally the room was silent. Han rushed over to the beeping console and managed to silence it... but then began speaking into it.
+
+"What the hell are you doing?" Chewie whispered, not wanting to be heard by whoever was on the other end. Han didn't listen, though. He kept babbling in Basic nonsense, until finally he got frustrated and shot out the communicator. *Oh, great,* Chewie thought. *That's certainly not suspicious or anything*. From the look on Han's face, Chewie guessed that they'd have company in a minute or two. 
+
+They rushed back to the detention block and opened up the cell, revealing a female human in white robes. They all jabbered together for a while while Chewie kept a lookout. And just as he suspected, it was only a matter of time before red lights flashed: the lock was being overridden. "Put on your damn helmet, you fool!" he shouted to Han. Both he *and* the kid had removed theirs, and at the *worst* possible time. What is *wrong* with these people?
+
+Together, they backed into the tunnel and kept firing, searching for some escape. There would be no stemming this flood of storm troopers; there must have been *millions* on the Death Star, and it was only a matter of time before one was smart enough to bring up heavy weaponry. 
+
+"Guys, there's an access panel to a maintenance tunnel over there," Chewie shouted over the din of the battle. He pointed further down the tunnel where he'd spotted the hatch. It wouldn't be hard to remove. But it was like Han didn't even hear him. He was too busy chattering with the other humans. "Damn it, Han! Listen!" 
+
+The female human shot a hole through some type of grate, then dove in. "Han, why didn't you tell her about the damn access panel???" Chewie roared to his companion.
+
+Han just shouted something back in basic and gestured toward the trash chute. It was too late for Chewie's suggestion now, anyway: the stupid human acted without waiting to hear if anyone else had any suggestions. Chewie didn't know a thing about her yet, but she seemed like the perfect match for stupid headstrong Han. "God damn it," Chewie growled to himself as he followed the princess down the trash chute. For the thousandth time, he swore that he was ready to give up on this life debt and return to Kashyyyk instead of constantly risking his life with this human numbskull again. 
+
+----
+
+As always, if you enjoyed this story then you should subscribe to /r/Luna_Lovewell for more!
+
+----
+
+[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell) [url](https://www.reddit.com/r/WritingPrompts/comments/4luwyx/eu_from_a_wookiees_perspective_chewbacca_is_the/) 
+
+----
+
+#### [WP] You have the ability to reverse time by 6 hours whenever you're about to die. You're currently on a 10 hour flight on a plane that's about to crash.
+
+Score: 766
+
+I had six hours, again. Whenever I was about to die I got a chance to turn everything back and correct the mistakes I had made. I got put six hours into the past, and I could re-try. 
+
+Of course, sitting in seat 17C wasn't going to help me. At the point I was forced back to I'd already been sitting here for four hours. I was on this plane at the start of my six hours. 
+
+I'd just finished learning that no third of the plane was safe, and that i couldn't get into the cockpit to do anything. None of that was going to solve my problems. I had to think of something else. 
+
+I put my headphones in before the baby behind me started crying this time.
+
+The last time I'd had to use my power was when my parents had picked me up from the airport and we were driving back. Someone had run a red light and destroyed the side of the car that I was on. Solving that problem had been easy, I'd just made sure that I asked for food on the way home. I'd just gotten back from University so my parents were willing to spoil me.
+
+The time before that had been getting my friends to call a cab. I'd just offered to pay.
+
+Before that I really shouldn't have tried to drive that fast.
+
+I die in cars a lot.
+
+Either way, at this point I was sitting in a plane and there wasn't an obvious solution. Six hours was a lot of time, but time wasn't the issue, it was the fact that I couldn't really leave the plane. Telling them that I was sick wasn't about to get an emergency landing, I'd asked, and they weren't stopping for any good reason.
+
+If I got into the cockpit I could at least try to land the damn thing. Asking didn't work, so I figured I was going to need to force my way in. I grabbed the pen that I'd taken with me onto the plane, and stood up.
+
+Someone grabbed me before I could make it anywhere close to the cockpit, an arm around my neck and forcing me down. People clapped, and I was restrained in the back. All that attempt got me was four hours without music before I died.
+
+17C, turn on the music before the baby cries. Don't get restrained. The seat doesn't change anything. 
+
+17C, turn on the music before the baby cries. Don't get restrained. You don't know enough about the inner workings of an airplane to change anything from the bathroom. The seat doesn't change anything.
+
+17C, turn on the music before the baby cries. Don't get restrained. You don't know enough about the inner workings of an airplane to cause problems from the bathroom. The seat doesn't change anything. The hostess' name is Tamara, she's nice. Her Dad works pretty close to yours. No, she won't give you her number.
+
+17C, turn on the music before the baby cries. Don't get restrained. You don't know enough about the inner workings of an airplane to cause problems from the bathroom. The seat doesn't change anything. None of the people around you have anything useful in their bags. The person in seat 38A is sympathetic, but just thinks you're crazy. The man in seat 23B won't take out his headphones. Tamara doesn't care about the plane crashing but didn't think it was a funny joke. The terrorist thing doesn't work even once the restraining man goes to the washroom, Tamara has one hell of a chokehold.  The hostess' name is Tamara, she's nice. Her Dad works pretty close to yours. No, she won't give you her number. If you're drunk enough, you're pretty sure you can feel the first second of dying. You need to get off this plane.
+
+"Excuse me," I said to the woman of 14C. She took out her headphones. "Can I switch seats with you?" I asked.
+
+She looked down at her leg room. She was in the exit row which meant that she had extra. She shook her head.
+
+"Look I-" I stopped myself before I tried anything weird. "My legs really hurt and I need to stretch them out, I can do a hundred bucks to trade seats with you-"
+
+"I'll do it," the man beside her said before she could speak.
+
+"I want the window seat," I corrected as he started to get up. He looked at her. She looked at me. She shrugged. I pulled out my money.
+
+We traded seats and I enjoyed the extra leg room. I wasn't here for the comfort, I was there for the fucking door. Some fresh air. Something before I kissed the Atlantic again. I needed to wait until the man beside me ended up going to the washroom. I needed the extra second. 
+
+"One, two, three," I whispered to myself before reaching up and grabbing the handle. It didn't WANT to move, but I was desperate enough to force it. The plane hissed and an alarm started to go off. It swung open just a touch and I got my hand out into the free air. It burned. The woman two seats over screamed.
+
+I kicked at the door, almost shattering my ankle to break the safety. You were SUPPOSED to be able to force it open in case of emergency, but most people weren't crazy enough to try. The door got slammed shut on my arm as I forced myself out of the plane. I didn't react, it was better than dying the same way.
+
+Then the plane was above me and I was in white. A second later I could see the blanket of clouds. It was cold. I was floating in breathless freefall for as long as I could remember. I was stuck in the middle of the air, and it was all of the sound. I closed my eyes.
+
+"Be safe sweetie," my mother said on the other end of the phone. I almost jumped out of my skin in the taxi to the airport. 
+
+"Yeah Mom, I will," I said without thinking about it. 
+
+I was six hours before I hit the ground. I could change when I went back. I was alive, and my power just became a lot more than a reset button.
+
+
+
+----
+
+[Writteninsanity](https://www.reddit.com/user/Writteninsanity) [url](https://www.reddit.com/r/WritingPrompts/comments/4mm94u/wp_you_have_the_ability_to_reverse_time_by_6/) 
+
+----
+
+#### Write a story that seems normal on first sight, except for one small detail that makes it extremely creepy on a more careful reading [WP]
+
+Score: 745
+
+The elderly couple is dinning alone, with candles and red wine in their anniversary. 
+
+"Our granson turned out to be a fine young man after all," she says, enjoying the fine steak on her plate.
+
+"Thank you, darling. May I have another serving?" he says, nudging his plate towards his granson. 
+
+The moon shines through the windows. He realizes, after all these years, he's still in love with her, and her perfect cooking. 
+
+----
+
+[Aikarus](https://www.reddit.com/user/Aikarus) [url](https://www.reddit.com/r/WritingPrompts/comments/4mp0wd/write_a_story_that_seems_normal_on_first_sight/) 
+
+----
+
+#### [WP] Graveyard Wars: A reality show where necromancers bid on graveyards without knowing their contents and see if they can recoup their investments
+
+Score: 715
+
+FADE IN:
+
+EXT. A GRAVEYARD - NIGHT
+
+*Several sinister-looking figures eagerly crowd around a mausoleum. Some of these individuals are clad in cloaks or robes, others have adorned themselves with red paint and bones, and a handful of them appear to be dressed in laboratory attire.*
+
+**AUCTIONEER:** (*O.S.*) When graveyards are left unguarded, the valuable corpses within are up for auction! Coming up: Burial Bids!    
+**CAEDES:** (*O.S.*) Get on with it!
+
+*Looking slightly dejected, a man emerges from behind the mausoleum. This is the AUCTIONEER.*
+
+**AUCTIONEER:** Come on, guys, this is never going to take off if you don't let me do my thing.
+
+*A man in a hooded cloak shakes his staff in the air. This is CAEDES, a necromancer.*
+
+**CAEDES:** Sod your thing! Some of us have armies to raise!    
+**AUCTIONEER:** Alright, alright, there's no need to get impatient.    
+**CAEDES:** It's three in the bloody morning!    
+**AUCTIONEER:** Well, we couldn't very well do this during the day, could we?    
+**ELEANORE:** (*O.S.*) Why not? Any necromancer worth their bones knows that it doesn't matter! Or is this all to do with your precious "ambience?"
+
+*A murmur of agreement moves through the assembled group. One of them, a woman in a white coat, storms forward. This is ELEANORE.*
+
+**ELEANORE:** (*CONT'D*) Also, what was all that about "valuable corpses?" The last time we did this, all we got were chickens!    
+**AUCTIONEER:** That's the risk we all take! You know that!    
+**ELEANORE:** *You* buried them there!
+
+*The auctioneer feigns a look of shock.*
+
+**AUCTIONEER:** I'm sure I don't know what you're talking about!    
+**CAEDES:** Oh, shove it. We all know this little game of yours is rigged.
+
+*Another murmur is heard from the crowd, this one louder.*
+
+**AUCTIONEER:** It is not! These are real graves, with unknown contents!    
+**ELEANORE:** Yeah, unknown to *us*, maybe.    
+**AUCTIONEER:** I have no idea what you mean.    
+**CAEDES:** Do we have to spell it out? She's saying that you buy them beforehand, check them out, and then sell them to us.    
+**ELEANORE:** Only after he's taken the best corpses for himself, though!
+
+*The crowd shouts in angry agreement. The auctioneer starts to look visibly nervous.*
+
+**AUCTIONEER:** Uh, look... should we... should we start the bidding at...    
+**CAEDES:** (*Interrupting*) You know what? Maybe we should just kill *you*, enthrall your corpse, and then divide *your* army up amongst ourselves!    
+**ELEANORE:** (*Shouting*) Get him!
+
+*All of the assembled necromancers rush forward, tackling the auctioneer. A scream is heard as a geyser of blood splashes against the mausoleum. Caedes remains near the corpse as everyone else backs away.*
+
+**CAEDES:** Well, I'm glad that's done.
+
+*He glances down at the body.*
+
+**CAEDES:** (*CONT'D*) Oi! Who took his eye? Lephaid, was that you? Hand it over.
+
+*A diminutive man in a parka begrudgingly hands a slightly squished eyeball to Caedes.*
+
+**CAEDES:** (*CONT'D*) Right. Now, then... let's have a *proper* auction, shall we? Do I hear one hundred?
+
+FADE OUT.
+
+----
+
+[RamsesThePigeon](https://www.reddit.com/user/RamsesThePigeon) [url](https://www.reddit.com/r/WritingPrompts/comments/4jd0a1/wp_graveyard_wars_a_reality_show_where/) 
+
+----
+
+#### [WP] A boy in High School discovers he can create nations simply by vandalising his geography book
+
+Score: 703
+
+"And from here on, I pronounce the noble nation of Dickbutt." 
+
+Mark gleefully clapped his hands. Dickbutt was bigger than the United States, and looked like...well, a dickbutt. 
+
+"Mark!" Mark's head snapped to attention. His AP Human Geography teacher, Mrs. Purples, was glaring at him. "Is there something you wish to share with the class?"
+
+"Err...no," Mark said. Somehow, he sensed that Mrs. Purples would not be very impressed with his latest creation.
+
+Mrs. Purples sighed. "As I was saying, physiological population density is viewed as a superior measure of population density because..."
+
+Mark giggled, continuing to vandalize his geography book. Dickbutt needed a neighbor. He knew just what to add...
+
+-------------------------------------------------------------------
+
+"And now, for weather..."
+
+"I'm sorry to interrupt you, Janice, but I have breaking news!" The TV blared. The screen split to show another reporter, eyes wide and tensely clutching a mic. "A new nation has been reported to have sprouted up between the US and Mexico! No one knows where it came from, but its citizens are calling themselves the..." Here, he paused, looking a little nervous, as afraid he was going to be black-screen censored. "The...Dickbuttians."  
+
+Mark's jaw dropped. The Fruit Loop that almost reached his mouth instead clattered with the spoon to the kitchen floor. His dad, watching the television in the living room, grunted inquiringly. 
+
+"And between Mexico and Guatemala, a small nation that calls itself Your Mom, has also emerged." The reporter attempted a smile. "Well, however these nations came about, professionals all seem to agree that their naming seems to have come down to a middle school boy." 
+
+Mark started, affronted. "HIGH school," he said. 
+
+He rummaged in his backpack for his geography book. Could it be...? He opened his book to its maps section. 
+
+"Well, I never liked North Korea," Mark said, whipping out his black sharpie.      
+
+----
+
+[thebunnyterminator](https://www.reddit.com/user/thebunnyterminator) [url](https://www.reddit.com/r/WritingPrompts/comments/4mint5/wp_a_boy_in_high_school_discovers_he_can_create/) 
+
+----
+
+#### [WP] You're on a special forces team about to rescue a hostage. Your team sniper is an AI, your pointman is a medieval knight, and your gun is possessed by the ghost of a little girl. Oh, and your squad leader is a cowboy. Working together, you've never lost a mission
+
+Score: 642
+
+"What's his deal?"
+
+"Wears boots. Shoots people real good."
+
+"And him?"
+
+"Stabs people real good."
+
+"And...her?"
+
+"Robot shell. AI mind. Shoots people real good. From, like, far away and stuff."
+
+"Does everyone here have a shtick? *Jesus Christ*. So what's that girl have? Teleport? Flame breath? Plot armor? Strong sense of independence?"
+
+The man in white sighs. "Oh, she's nothing special. Compared to the others, I mean. Top marks in espionage and er...marksmanship."
+
+"So she shoots people...'real good', too?" asks the Director, using his fingers as quotation marks.
+
+"Her revolver is haunted by a psychotic little girl who murdered her birth parents and foster family. Doesn't run out of ammo, either. Kicks like a mule.
+
+"Where did you even get that?"
+
+"It was found crammed in someone's asshole at the LAX. Did you read the files? The debriefings?"
+
+"I think this whole team shouldn't have gotten approval in the first place. This is a clusterfuck waiting to happen."
+
+"Read their record. Besides...the Council already gave me the green light. Two hours ago. Approved for international duty."
+
+"So why did you want to meet in the first place? To waste my time?"
+
+The man in white hands the Director an empty coffee mug. "To *gloat."*
+
+"They're a freak show."
+
+"Freak show? I'd rather like that name."
+
+...
+
+"How many bad guys, Marky-Mark?" Colt asks as he strutted stealthily down the bloody hallway, smoke pouring out of the barrels of 'Alice' and 'Eve'. 
+
+"I COUNT SIX IN THE EASTERN CORRIDOR. THEY HAVE SEALED OFF EXITS 2 and 6. SWITCHING TO THERMAL-"
+
+Colt fired another shot. "Make that five. And why's your volume so goddamn loud?"
+
+"I DO NOT KNOW, AGENT TANNER."
+
+Another voice comes on the comm. "It was me." Jessica sprints into the basement of the embassy and attaches explosives to the fuse boxes. 
+
+"WHY WOULD YOU ADJUST MY AUDIO SETTINGS, AGENT KILROY?"
+
+"It's for the time you blasted two million videos of *hardcore pornography* simultaneously on my desktop during the staff luncheon."
+
+"YOU REQUESTED AN UPDATE ON MY LEARNING ABILITIES. I WAS MERELY SHOWING YOU MY RECENT DISCOVERIES UPON EXPLORING THE INTERNET AND HOW-"
+
+"MARK...*fuck you."*
+
+The gunslinger grazes another mercenary in the leg with his Winchester Repeater, pressing its nose into the man's forehead. "Who do you work for? Who sent you folks?"
+
+"...Go...to...Hell..."
+
+Sighing, Colt fires two shots into the man's belly, tearing through his vest and rupturing his internal organs. "You first, *boy."*
+
+"Ugh...tell my wife...she was a *bitch*..." Life fades from the man's eyes. 
+
+The gunslinger hugs the opposite wall, peeking through the window. Five heavily armed guards patrol the area, with the ambassador tied up in a chair next to a service desk. "I see our guy. Looks roughed up. Five of those mercs are wit'em. Anyone listenin'?"
+
+In the basement, Jessica whips out her revolver and fires two shots, taking out two mercenaries by surprise. They are reduced to ashes. A voice screams into the dark crevices of her brain. 
+
+**"EAT THEIR FLESH! GRIND THEIR BONES! SNIFF THE POWDER!"**
+
+"Great, another voice in my head." mutters Jessica.
+
+"HAIL SATAN.^HAIL^SATAN". snarls the possessed gun. 
+
+Colt reloads his weapons. "Sir Remington, we need a distraction. Jess, you ready with the light thingies? This ain't how we do things at the ranch, but it'll do nicely."
+
+Jessica nods. "On it." She flicks open the detonator as she runs up the stairs. "Armed and ready."
+
+"READY TO ENGAGE." informs MARK. 
+
+"Ready to rustle and tustle, sweetheart. Sir Remington, where are-"
+
+*"TO GLORY! TO BAAAAAAAAAAAAAATTLE!"* yells a knight dressed in full battle armor atop a prancing horse, crashing through a hole in the wall courtesy of some C4. Sir Remington slices and dices, severing arms and separating limbs with relative ease. Bullets pound into his chestplate, but Sir Remington is not fazed. 
+
+For he is son of King Phillip III. Protector of the Royal Court.
+
+"Tis a flesh wound! Bow down in fear, for Sir Remington is here!"
+
+The mercenaries dive to cover, but are quickly delivered to the gates of the afterlife via a gauss sniper rifle perched 6000 meters away on a rooftop. "KILL CONFIRMED." responds MARK. 
+
+"Copy that." Jessica presses the detonator, shutting off the power by overloading the generators. Colt puts on his night vision goggles, downs a bottle of whiskey, then goes in guns blazing, the room illuminated with brief flashes of fire and gunpowder igniting. 
+
+One in the chamber.
+
+One in the skull of a scumbag who thought he could escape Colt's aim. 
+
+Sir Remington tramples a man to death, delivering the final blow with his mace. Jessica joins the fight, finishing off stragglers who may have survived the initial ambush. The shining knight gets off his mighty steed and unties the ambassador. 
+
+"Who...who are you people?" asks the old man, scared out of his mind. "Oh dear..."
+
+"I AM SIR REMINGTON! SON OF KING PHILIP III! PROTECTOR OF THE ROYAL-"
+
+"Here we go again, with this fucking introduction..." complains Jessica. 
+
+"Man's got heart, miss." says Colt, lighting a cigar. 
+
+Back at base, the man in white stirs his coffee. "Team, report."
+
+"Uh...everyone's dead." responds Jessica.
+
+"How's the weather over there?"
+
+"Rainy."
+
+"That's England for ya."
+
+"HAIL SATAN." screams the gun. 
+
+"Oh, is that Jess's little helper? Tell her to be good."
+
+Jessica rolls her eyes.
+
+"I WILL EAT YOUR CAT." responds the psychotic spirit. 
+
+"Okay, settle down now. See you on Tuesday. And you know what that means. Tacos are back on the menu."
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+----
+
+[blahgarfogar](https://www.reddit.com/user/blahgarfogar) [url](https://www.reddit.com/r/WritingPrompts/comments/4k0cci/wp_youre_on_a_special_forces_team_about_to_rescue/) 
+
+----
+
+#### [WP] A group of teens find a map that will lead them to friendship, only to find out that the real treasure is hidden pirate gold.
+
+Score: 578
+
+"You can't be serious Jake?"  Nathan looked at him incredulously.  "This is way too dangerous.  Where did you even find this map?"
+
+Nathan looked down at the map in front of him.  "I told you Nathan, I found it online.  All it wants us to do is lower someone down the well to get to the chest at the bottom.  it's probably some kind of geocache thing."
+
+"The rope looks fine," said Pete as he looked down the well and examined the winch.  It hadn't even crossed his mind that they wouldn't do it.
+
+Jake, Nathan, and Pete had been friends back in the day at summer camp in Middle School.  Then High School had rolled around and with it, the notion that the escapades of their recent youth had been childish fantasies, and they'd fallen out of touch.  Fate had landed them at college within and hour of each other though and Jake had reached out to his two lost friends on Facebook.  
+
+Everyone was excited about seeing each other again, but then Jake realized he was at a loss for what to do.  Putting years of education and practice at social interaction to use, Jake decided the obvious logical solution was to ask Google.  The top result for "Best way to reconnect with friends" had landed them on an adventure through the woods.  So far, it was working.  They all found themselves reconnecting with their old buddies as they scaled small rock faces and forded creeks as they would have at camp six years ago.
+
+The directions had said not to read to the future steps until you accomplished the previous ones, but looking at the well, Jake wasn't so sure anymore.  They were pretty far out and no one know they were here.  Who knew where it would lead next.
+
+Pete was already hoisting himself onto the edge of the old well though and fastening the rope around his waist, reinforcing it with straps from his pack.  
+
+"Pete, this isn't a good idea."  Nathan's voice quavered with indecision.  He knew that what they were doing was always the preface to a story about a horrible accident, but he didn't want to be the wet blanket of the group either.  
+
+"Don't worry Nathan, it'll be fine," said Pete.  "You two just grab that end and lower me and I'll call up when I get whatever's down there and you can pull me up on the winch."
+
+Pete made it sound so simple.  Once everyone was at their stations, he pulled his feet from the edge of the well and let himself hang over the gaping hole.  "Alright, go for it," and down he went.
+
+Jake guessed that they'd lowered him thirty feet or so before he called up for them to stop.  They fastened the rope on the winch and peered down into the well.  They could see his flashlight moving around but couldn't make anything out.  After a couple minutes, they heard him call back up and starting cranking the winch.
+
+Pete resurfaced wearing a pirate hat and holding a cutlass.  Under his arm was a small chest.  "Guys check this out!  How cool is this?"
+
+Jake took the sword from him as he pulled himself over the lip of the well.  To his surprise, it was real, and it looked old.  He swung it around a couple times.
+
+"Jesus Jake, watch where you're swinging that!"  Nathan jumped back even though the sword was a good three feet from him.
+
+"Calm down Nathan," came Pete's voice as he leaned over the tiny chest.  Nathan muttered a reply under his breath, but they all leaned in together as he opened the chest.  To their disappointment, all it held was a small, silver key.
+
+"Some treasure," snorted Nathan.
+
+"There's still a couple steps left," said Jake.  "It'll probably lead to something cool."
+
+So, unfolding the next step and ignoring Nathan's complaints, they wandered deeper into the woods.
+_____
+
+Half an hour later found them at a large rock face.  Jake could hear the sound of waves crashing on the beach on the far side of the rock formation.  He'd been born inland, and it always amazed him how loud the ocean was.  
+
+He and his friends for feeling up and down the rock looking for a tiny hole that was said to fit the key they'd found at the well but they'd been looking for fifteen minutes and hadn't had any luck so far.
+
+"Wait...I got something," came Nathan's voice.  Even he'd gotten caught up in the idea of treasure and it had renewed his sense of adventure.
+
+Pete and Jake ran over and Pete inserted the key into the hole.  It turned easily and to their amazement, a false stone wall slide away from the surface of the rock revealing a hollowed out tunnel.
+
+"Dude.  Jake, this is the greatest treasure hunt ever," said Pete, his mouth hanging open.  To his left, Nathan didn't look so sure.
+
+The list had recommended that they bring flashlights and they pulled them out.  Pete took the lead down the narrow passage followed by Jake with Nathan taking up the rear.  "It's just like the Goonies," came an awed whisper from Pete in the front.
+
+As if on cue, a rumbling sounded in the Earth and Jake grabbed Pete's pack and pulled him backwards.  A boulder slid across the path in front of them through a concealed tunnel.  As they stared in stunned shock, it continued rolling back and forth before losing momentum and settling just off the path.
+
+"Alright guys, that's it," came Nathan's voice.  "This is crazy.  Someone's going to get hurt.  I don't know what you found Jake, but we're not supposed to be here.  This is nuts!"
+
+"Nathan, are you serious?" came Pete's voice.  "This is everything we always talked about when we were little.  We can't stop now.  We have to finish this."
+
+Nathan stared at him in disbelief.  "Are you kidding?  Someone could die.  This isn't just a game anymore!  If you want to go on, go for it, but I'm going back.  Jake, you coming?"
+
+Jake wanted to go back with Nathan.  That was the smarter thing to do, but Pete was right.  This was the adventure he'd always dreamed about, and now that they knew what they were up against, they'd be fine.  The boulder was hardly big enough to kill anyone.  Just would have done a bit of damage is all.
+
+"I'm going with Pete."  The words stumbled out of his mouth and Nathan looked at him like he was crazy.
+
+After a moment, Nathan's senses came back to him.  "Fine.  Be that way, but I'm leaving.  You can guys finish this stupid mission on your own."
+
+"At least leave your light," said Pete as Nathan turned.  He threw it on the ground and walked away into the darkness.  "Well, mate.  Looks like it's just me and you," he said to Jake.  For some reason, that sent shivers down Jake's spine.
+
+They continued through the passages avoiding a couple more traps, but still nothing lethal.  Jake was glad they'd seen them though.  It wouldn't have been fun to crawl out of here with a broken ankle.  
+
+Finally, a light appeared in front of them at the end of the tunnel.  Jake released a sigh of relief and started walking towards it, but Pete reached out and grab his shoulder.  "Wait," he said quietly.  He used the end of Nathan's light to push a pressure plate on the floor and an arrow released from a trap and shot across the tunnel in front of them.
+
+The color drained from Jake's face.  "Pete, maybe Nathan was right.  That could have killed someone.  Maybe this is crazy.  We should go."
+
+"Jacob, Jacob" came Pete's voice menacingly in the dark.  "There's only one step left once we're out of here.  We're so close!  You can't leave me now."
+
+Jake didn't like the way Pete was talking, but Pete was right.  They were so close.  Against his better judgment, he pushed onward.  
+
+There were no more traps in the tunnel and the pair emerged victorious on the beach revealing the ocean that Jake had heard earlier.  Although it was beautiful, there was nothing here but some trees and it was far too cold to go swimming.
+
+"Open the last clue Jake," said Pete.  Jake pulled it from his pocket and unfolded it.  
+
+*If ye be wantin' me treasure, ye have to dig where the two trees cross.  Good work matey.*
+
+Jake looked up from the note and found Pete pointing to a place up the beach where the branches of two trees crossed clearly forming an "X".
+
+The pair tore down the beach and up to the tree.  They hadn't brought shovels, but that didn't stop them from digging into the sand with their hands.  The spot was far enough up that they didn't have to worry about the tide.  It didn't seem like it reached this far.  Finally, the corner of a chest emerged.  After a few more minutes of frantic digging, the full chest was revealed.
+
+Pete patted Jake on the shoulder.  "Do you want to do the honors?"  Jake leaned forward and grabbed the latch of the chest, thoughts of wealth and fame tearing through his mind.  He unleashed the latch and pulled it open.  The glow of gold was interrupted by a flash of brown as a makeshift spear shot up and stabbed him through the chest.
+
+Pete took him and laid him gently down on the beach, his breathing frantic.  But instead of helping, Pete turned back to the gold.
+
+"Pete," Jake croaked out.  "D-did you know?"  It was becoming difficult to speak.
+
+"I didn't know, but I suspected," came Pete's voice as he lifted a coin from the chest and examined it.  "But don't worry matey."  His voice seemed to shift.  "Ye won't be forgotten.  All's left to do is hunt down that traitorous vagrant Nathan and then it's off to the high seas."
+
+The last thing Jake saw was Pete fixing the pirate hat on his head and pulling the cutlass from his belt.
+
+----
+
+[poop314](https://www.reddit.com/user/poop314) [url](https://www.reddit.com/r/WritingPrompts/comments/4l4tzs/wp_a_group_of_teens_find_a_map_that_will_lead/) 
+
+----
+
+#### [WP] A world in which Good and Evil are career fields, and heros and villains battle daily...from 9am-5pm. Except now two friends- a hero and a villain- have begun to suspect there's more going on behind the scenes.
+
+Score: 565
+
+The Blue Bolt slammed his third shot in so many minutes and shook his head, causing the turquoise mask to go slightly akilter. He made his way back to the table, already wobbling just a bit. One downside to having super speed is that you also have a super metabolism that processes alcohol into the bloodstream almost instantaneously. Across from him, Professor Geroth looked up from his newspaper. "You're going to destroy your liver like that, you know."
+
+Bolt just snorted and waved a finger at the waitress to bring another round. "So? This is like... my third one already. Don't you all have access to lab-grown organs on the villain health plan?"
+
+Geroth shrugged. "We do, but that doesn't mean I want to *use it* all the time. You know, I used to tell my minions not to hit you too hard. For professional courtesy and whatever. But if you're just abusing your body like this, I'm going to tell them to give it everything they've got."
+
+"HA!" he laughed and eyed the waitress approaching with his booze like a dog staring at a treat in its master's hand. "When have your minions ever landed a *finger* on me? You know I'm too fast for them."
+
+"Yeah, whatever." Geroth went back to reading his newspaper. "Hey, did you see this story?" He turned the front of the paper towards Bolt, who gulped down his fourth shot before the waitress had even put the glass on the table. 
+
+A goofy, lopsided grin that Geroth saw most nights at the bar was spreading across the Bolt's face. He was officially drunk. "*See it?* I was there!" He pointed to the large photo taking up most of the front page, showing Gorillord being thrown through the side of a tanker ship down at the docks. Bolt wasn't clearly in the photo, but there was a blue blur right there in the middle that most people in the city recognized anyway. The large headline atop the page proclaimed: **BLUE BOLT DOES IT AGAIN!** "I thought you had super intelligence, man."
+
+"Not that, you dolt." Geroth raised the level of the paper just a bit to point out one tiny article that had just barely made the bottom corner of the front page; most of it had been relegated to the depths of page A12. "A journalist who was investigating the First Republic Bank of Frian for money laundering was killed under mysterious circumstances. Killed in a car accident on the opposite side of the city... found in the driver's seat, and yet he didn't even own a car or have a license."
+
+Bolt wasn't even listening anymore; he was locking eyes with a blonde who had just strolled past, and a nuclear explosion across the table probably wouldn't be able to break his concentration now. One upside to working for the Hero side is all of the public adoration; there was a reason that Bolt was still in his costume *hours* after his shift ended, while Geroth was wearing blue jeans and a tweed jacket over an unassuming sweater. "Yeah, so?" Bolt managed to answer, still drooling over the girl.
+
+"Look, one thing about super intelligence is that you notice patterns, OK?" Geroth turned back to the paper and read over the article for the tenth time. "And I've noticed that every time *I* get a new assignment to hatch some evil scheme, it just *happens* to coincide with FRBF getting into some sort of trouble or doing something suspicious." When he looked back up, his friend was no longer sitting at the table across from him, but instead had flashed across the bar and had his spandex-clad arm around the blonde's shoulder. Geroth rolled his eyes and turned to the back page of the article, looking for anything useful.
+
+"You're making a big deal out of nothing," Bolt said from across the table again. He had a habit of doing that: just zipping from one place to another like a hummingbird with ADHD. "We're on the front page like every day." He beamed a bit as he remembered all of his past exploits that were framed and hanging on the wall of his den. "So *of course* it's going to line up with every time that this bank gets into trouble."
+
+"Don't you even care?" Geroth spat out. "The only thing you give a shit about is that girl's number!" He said it sarcastically, but Bolt grinned and raised his palm (covered in black sharpie) to show that he'd already gotten it. Geroth just rolled his eyes. "I thought you were supposed to be the *hero* here."
+
+Bolt shrugged, already eyeing a different target in a short skirt. "I'm off the clock, buddy. I'll be a hero again around 9:30 AM tomorrow. As soon as I leave..." he squinted at the black sharpie on his hand "*Bethany's* apartment."
+
+"Forget it," Geroth grumbled. He stood from the bar stool and stormed out of the bar, letting the wooden door slam shut behind him.
+
+Halfway down the block, a gust of wind blew past. "All right, man," Bolt said from right beside him, slurring his words a little. "Let's do a little freelance work, eh? Will that make you feel better?"
+
+Geroth grimaced, waiting for him to make some kind of joke. But Bolt actually seemed sincere. "We'll need more information..." Geroth said, more muttering to himself than actually talking to his hero companion. "I'll need to check previous newspapers to see how far back the correlation goes..."
+
+Before he'd even finished his sentence, Bolt zipped off in a flash of blue and returned a moment later with a stack of newspapers, including *tomorrow's* paper. "The Herald's office was unlocked!" he said cheerfully before letting out a loud burp. "What's next, chief?"
+
+----
+
+[Here's part 2!](https://www.reddit.com/r/Luna_Lovewell/comments/4iw8bc/the_blue_bolt_and_professor_geroth/d31wesk)
+
+
+
+----
+
+[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell) [url](https://www.reddit.com/r/WritingPrompts/comments/4ivr1s/wp_a_world_in_which_good_and_evil_are_career/) 
+
+----
+
+#### [WP] A group of aliens is baffled by the fact we still have organized religions at this stage of development. To get answers, they abduct two spiritual leaders for questioning. To be more specific, they grab Pope Francis and the leader of ISIS...
+
+Score: 515
+
+"Sweet Sister Mary, what on Earth is going on here? What is that sinful *abomination* doing at the table with us?" Pope Francis asked wildly, his hat bobbing. There were three other people sitting with him, and two weren't even *people*.
+
+"Surely, human, you can be a more civilized guest in this hall," an enormous, purple, furry being stated firmly. It looked like Yogi bear, if Yogi had been raised a meth addict.
+
+"Oh, not you, sir. *Him*." Francis was pointing at Abu Bakr Al-Baghdadi, the leader of ISIS, who spat on the table in response.
+
+"I'd say he brought us here for a discussion amongst the enlightened, but you are here," Abu Bakr responded in perfect Spanish. The Pope raised his eyebrows, turning to the aliens.
+
+"Yes, we noticed your species still cannot communicate amongst itself properly- I don't know how you can voyage into space but not speak with one another, though that is another issue entirely. We have set up a universal communication rig, so you can communicate freely," one of the aliens responded.
+
+"What is it you would like from us?" Francis asked surprisingly calmly.
+
+"Answers. We have been watching your species for some time now, and we would like to know a few things. First of all, why does your species have religion at this stage in development?"
+
+Abu Bakr snickered. "Allah is the reason we exist. We aim to please him, by purging the world of those who would be unfit in his eyes."
+
+Francis groaned, rubbing at his temples. "Look, your species seems very intelligent. I would love to discuss these issues with you, but this guy here, he's... well, you know. Insane? Religion is a vessel by which we explore ourselves, our souls, and connect with God. This man uses it as a vice to harm others."
+
+"You did not answer my question. Why do you still believe in it? The books were written when your species still believed that Earth was the center of the universe. It has sections that don't make any sense at all, clearly written by men. Why do you still believe it?"
+
+"It was written by men, yes," Francis answered, "but the message is God's alone. We are here to live proper lives and do what we can to help others. We are God's servants, and each day is a test of our faith. Time will not change that, not in any way."
+
+"And you? What do you say?" The alien asked the ISIS leader.
+
+"I say this man and his ideals are trash. Nothing but lies meant to lead people down the wrong path, away from Allah."
+
+"You did not answer my question. Why do you still believe it?"
+
+"Because it is the written word."
+
+"Okay...that- that's the only reason why?"
+
+"Yes, it is the written word and we will purge everyone who disagrees."
+
+"If I may, this man is the worst representative you could have chosen," Francis interjected. "I have read the Qu'ran, three times now, and it is a book of love and unity. Too often to men mistake their personal angers for God's will, as if they are prophets themselves."
+
+Abu Bakr tried to respond, but the alien disallowed it. "I see. Your species is...odd. It has appeared to evolve in stages."
+
+"Stages?"
+
+"Yes, stages. Those who have realized that their gods were made up to control and comfort the masses through human emotion, those who still believe it but attempt to better society with it, and those who still view it as a weapon. Staggered evolution, how incredibly odd. And to think, you can't even speak the same language. No wonder your species is in such constant turmoil. How you even made it this far is beyond me..."
+
+"You insult Allah, you are an enemy combatant to me," Abu Bakr shouted, standing up. The quiet alien vaporized him with some kind of laser.
+
+"Grngk, I told you no weapons! Look at what you've done now! The humans will hate us, we are supposed to be a diplomatic people!"
+
+Francis leaned back, raising his eyebrows. "Now, normally, I object to that sort of thing, but...I think that in this case, we can make an exception."
+
+-------
+
+*thanks for reading! you can find more of my work, including a [similar story](https://www.reddit.com/r/resonatingfury/comments/4km0mv/wp_so_you_humans_just_drew_imaginary_lines_on/) to this one, over at /r/resonatingfury!*
+
+----
+
+[resonatingfury](https://www.reddit.com/user/resonatingfury) [url](https://www.reddit.com/r/WritingPrompts/comments/4lqb3k/wp_a_group_of_aliens_is_baffled_by_the_fact_we/) 
+
+----
+
+#### [WP] You're a police officer in the late 19th century hunting down an escaped mental patient named Sherlock Holmes who is an alcoholic, drug addict, and self proclaimed detective.
+
+Score: 510
+
+The sounds of his foot steps on the cobble road echoed off the tight alley walls. When he was lost in thought he often took walks. Sometimes these walks took him much further from home than anticipated, and on a few occasions into areas of town he dared only to tread due to his position. For the last two months he'd been following this case. 
+
+A man by the name 'Sherlock Holmes' had escaped custody of a sanatorium, and has sense gone on to elude police capture. At first they didn't think much of it. Just some poor loon who'd gone and broken out. His file said he had a thing for the bottle and was reported as having frequented opium dens. Then they heard how he escaped. It would seem that despite his diagnosis Holmes was quite the adversary. He managed to incapacitate a guard, secure a uniform, and altered his appearance just enough to evade suspicion. When questioned the guard at the gate said he saw a slight looking male nurse leave about an hour before Holmes was reported missing. The bastard managed to walk right out the door.
+
+From there things only became more odd. Holmes, it would seem, has an affinity for solving crimes. In the two months since he escaped he has left hints, notes, and on one occasion risked his own capture to lead officers to criminals. Were he a copper he would have had an impressive number of collars. The citizens began to idolize him and meanwhile the police force caught hell from the chief of police all the way to members of Parliament. 
+
+The officer paused and leaned against a wall. From his pocket he produced a cigarette and brought it to his lips. He reached for his lighter only to find it wasn't in his pocket. He began to feel about at his coat and trousers when the sound of a match strike alerted him to someone else's presence in the alley.
+
+"Need a light," a thick cockney accent asked. 
+
+He looked to his left. Just a ways away from him stood a man with shaggy hair holding a lit match. The flame illuminated just enough to show the patches of dirt on his face. Even from a distance the officer could smell the booze on him. 
+
+"You shouldn't sneak up on a police officer, sir. Bad for my health and quite possibly yours. But it would seem I am in need of a light so your presence is welcome."
+
+The boozy man chuckled sightly and snuffed out the match. He lit another and made his way over slowly. Once close by his gingerly brought the flame to the end of the cigarette and lit it. The officer took a drag and exhaled a cloud of smoke into the cool night air. 
+
+"Mind if I join ya," the boozy man pulled a weathered pipe from his tattered rags.
+
+"By all means. It would seem I'm in your alley anyway."
+
+The boozy man hummed and chuckled wryly. He struck another match and lit his pipe with a couple of puffs. 
+
+"So what brings you to my side of town, eh?"
+
+"Just out for a stroll actually," the officer said exhaling more smoke, "helps me think."
+
+"A good walk can clear the mind I suppose," his manner of speaking had changed slightly. 
+
+The officer hummed in agreement. As his cigarette burned to ash he produced another and motioned for another light. This time the boozy man brought out a small, gold lighter and flicked it to make a flame. He brought it to the tip of the cigarette when the officer noticed something. That was his lighter. The cigarette fell from his lips and he looked at the boozy man.
+
+"Where did you," he stammered, "how did you get this lighter?"
+
+"That's a waste of a cigarette you know," the mans diction was clear now. His accent more refined and precise. 
+
+"That is *my* lighter," the officer said snatching it out of the mans hand. 
+
+"I procured it earlier when you were walking, John. You really should be more aware. If I can pick your pocket I'm not sure how you survive the hordes of street children."
+
+John grabbed the boozy man by his collar and slammed him to the wall. 
+
+"Now, now officer Watson," the man said, "let's not be so rash."
+
+John slammed the mans back against the wall.
+
+"Who the hell are you and how do you know me? You picked my pocket? When I never-," he paused. He eyes grew wide. 
+
+"I most certainly did take your lighter but I was not wearing these rags. And I smelled significantly less like a tavern floor. Which is where I found this shoddy coat actually. A little soot from the fire place on my face, a change in speech pattern, and since I've grown my hair out there's no way you'd know me immediately."
+
+"Holmes," John said gravely, "I finally got you this time."
+
+"Yes, you were quite close the last time. Thankfully I was able to elude you and bring you right to that drug shipment. I was also able to take a little for myself, so really we all won."
+
+"Well now I've got you in my hands and I'm bringing you in."
+
+"You're not the least bit curious as to why I just turned myself in to you? I evade capture for 67 days and I just willingly give myself to the man who was closest to catching me?"
+
+Johns brow furrowed. He had a point. There's no reason for this. Maybe he was done running? No that was too simple. Holmes wouldn't just quit. 
+
+"I'll give you 30 seconds."
+
+"I don't need that many to tell you there is to be an attempt on the lives of the police chief and his family sometime in the next hour."
+
+Johns blood ran cold. Was he setting John up? Was this an attempt at escaping? But then again Holmes had "helped" capture almost 20 criminals now, and all of his hints and clues were correct in leading to their capture. 
+
+"How do you know that?"
+
+"I have eyes in the city. Information dead drops most everywhere. I know people who know people and gather intelligence as I require. This seemed important enough to warrant direct confrontation with one of London's finest officers. Not a great detective, mind you, but certainly a good officer."
+
+John gritted his teeth. The information was processing in his mind. There was no reason he couldn't just take Holmes in and interrogate him for information. But he may not talk at all and if the chiefs life was truly in danger he wouldn't acknowledge it without evidence. Hell even with evidence he may not pay it any mind. But if his family was also in danger then it made matters even more pressing. Then there was the time constraint. 
+
+"Well?"
+
+John looked at Holmes. *Fuck* he said internally. 
+
+"I let you help me on this and I guarantee your safety and escape. That's what you want, right?"
+
+"Yes and no," Holmes spoke calmly, "yes you will let me help you, but I won't be 'escaping' so much as continuing to help you."
+
+"I beg your pardon?"
+
+"I propose a partnership. I like solving these cases and the thrill it brings but I can't do it in the open. I can act upon those criminals but I'd surely be deemed a vigilante or killed. Rather I will help you become a detective, you will bring them to me, I help you and you get a criminal off the street."
+
+"So you're just a good person, huh? Why not become a cop if you wanted to catch criminals so badly?"
+
+"Please if you want to solve crimes and get results you don't become a cop. The restrictions hold you back, and your outward appearance kills off leads and sources who don't speak to police. I like the thrill of the chase. The harder the better. Nothing more than that?"
+
+"So the police chiefs life and the lives of his family have no barring on the decision then?"
+
+"This is a *gift* Watson. I only brought this to you as an exchange. People die everyday and many of them do so very boringly. The fact this saves lives is of little importance to me but to you," he trailed off.
+
+John tensed up and his arms shook. He exhaled sharply as he released his grip and shoved Holmes away. Holmes extended his hand.
+
+"Partners?"
+
+John eyed him warily. He stuck his hand out begrudgingly and squeezed Holmes hand as they shook. 
+
+"Just tell me what is going to happen or who is involved and we'll go from there."
+
+"Very well. This way Watson," Holmes turned sharply and began to walk briskly out of the alley. 
+
+John stared at him and then began to follow behind. 
+
+"It's 'Officer Watson'."
+
+"Please, John, we're partners now. We can drop formalities."
+
+Edit: a word
+
+Edit 2: In response to the unexpected success of this post I have created a sub for my writing at [/r/LaughingWriter] (https://www.reddit.com/r/LaughingWriter/). Feel free to subscribe or lurk. It's just nice to know my words are being read and if you enjoy them that makes it all the better.
+
+I really appreciate the praise, critiques, and encouragement. Writing has been a hobby of mine and I'm looking to turn it into a career, or at least as a part of my career. I always respond to critiques and advice, and am happy to provide the same for anyone who wants another pair of eyes on their work. I'm in the process of finishing my degree this summer but I'll try to post often and will share some of my old work from this sub. 
+
+ Stay tuned for a part two. I'm in the process of plotting things out and want to make this as solid a story as I can. Thanks again for the responses everyone.  
+
+  
+
+----
+
+[laughmaker_son](https://www.reddit.com/user/laughmaker_son) [url](https://www.reddit.com/r/WritingPrompts/comments/4mgs3d/wp_youre_a_police_officer_in_the_late_19th/) 
+
+----
+
+#### [WP] Humans are known in the galaxy for being a bit dim, but also for being the very best mechanics around, and inexplicably able to fix machines beyond their comprehension. You have broken down on Earth, and having the apes work on your craft is both fascinating and terrifying.
+
+Score: 504
+
+Xel’thor had heard the stories about these earth men, apes really, being the paragon of mechanical ingenuity, but surely those had been exaggerations.   Passing through that asteroid field was a bad idea, Xel’thor thought.  The power failure to the deflector shields couldn’t have come at a worse time; the impacts from those asteroids must have knocked the crystal containment system out of equilibrium.  At least the two humans seemed willing enough to help, towing the cruiser to some kind of red wooden building.  
+
+“Now don’t you worry Mr. Eltho, Clem here’ll get ya all patched in no time.”
+
+“It’s Xel’thor”
+
+“Pardon?”
+
+“It’s Xel’thor, Norman.  See I took the time to listen and remember your name.”
+
+“Now, there’s no need to be rude mister,” Norman replied.  Xel’thor stared at Clem and Norman.  Norman and Clem had been in the field when Xel’thor’s ship came crashing down, working on a large green tractor.  Great, Xel’thor thought to himself.  I need to make contact with my handler halfway across the sector two hours from now.  And now the fate of the Osgrellian Empire rests on a man wearing grease stained overalls without a shirt and an old man in a cowboy hat.  
+
+“Clem, if it’s quite alright with you, I’d like to oversee the repairs.  You see, this ship and the contents of its data safe are actually quite important.  The-”
+
+“Yeah that’s fine Mr. Elmore.  You can hand me shit from my toolbox.” Clem interrupted.
+
+“...Great….Also, it’s Xel-thor.”
+
+Clem plugged in a work light and slid underneath the cruiser.    Norman walked over to an old radio and turned it on.  The sound of country music filled the old barn.  “I’m gonna go grab some coffee fellas.  Clem, I’ll bring you back your usual.  Mr. Velcro, would you like some coffee while ya wait?”
+
+“No”
+
+“Alrighty then, I’ll leave you two to it.”
+
+Xel-thor dozed off for nearly an hour when the sound of pounding metal brought him back to alertness.  It appeared to Xel-thor that Clem had merely started beating the side of the cruiser with some kind of large hammer.  
+“What the *hell* are you doing to my ship?”
+
+“See, you got quite a few dents here mister.  I’m pounding them out.”
+
+“This may be a little too complex for you earthling, by this ship is powered by a Osgrellian crystal reactor.  They’re exceedingly-”
+
+“Delicate” Clem said.
+
+“...uhh yes.  Delicate.  Very delicate.”
+
+“See I figured that.  That’s why I put it over there on yonder table.  Now, I may be just a humble mechanic, but seems like these dents are poking into that crystal’s containment doo-hickey.  So you aint going anywhere til we get these dents fixed.”
+
+Xel-thor stood there speechless as Norman returned with two paper cups of coffee.  “Alright, I got one black for me and one double skinny orange happy-cino for you Clem.” Norman said.  “So was it like ya figured Clem? Dents causing trouble with the power core’s containment system?”
+
+“Yeah, more or less.  This one had a crystal instead of the usual anti-matter though.” Clem replied, taking his coffee.  “Bigger problem is with the shields.  I gave the generator the old once over, but I don’t think there’s anything technically wrong with it.  Looks like it might not be compatible with the ship since it’s an aftermarket model.”  Both Clem and Norman stared at Xel-thor, sipping coffee.
+
+“I was assured it was the right model….”
+
+“Uh-huh.  Betcha that salesman was more than happy to look that up for you too, huh.” Clem said.
+
+“Now, Clem don’t be hard on the fella.  Some folks is just a little slower than others.”
+
+“I am *not* slow. I’m *very* important and am *very* smart.”
+
+“Sure ya are Mr. Xel-thor.  So the way I figure it, I’ll set ya up with this older spare shield generator I got, rated for a ship of your class, and I’ll hold onto this one.  With parts and labor, I reckon that should square us up.” Clem said. 
+
+Fifteen minutes later, Xel-thor’s ship took off and was in orbit in a matter of seconds.  Clem and Norm stood in the field looking toward the sky.  “You know that fancy shield generator was rated for his ship just fine, right Clem?”
+
+“Well of course I know that Norman.  We gotta make money somehow though, Norm."
+
+----
+
+[toms_terrible_tales](https://www.reddit.com/user/toms_terrible_tales) [url](https://www.reddit.com/r/WritingPrompts/comments/4kq8se/wp_humans_are_known_in_the_galaxy_for_being_a_bit/) 
+
+----
+
+#### [WP] Reddit karma works exactly like mana in real life, the more you have of it allows increasingly greater spells and abilities you can wield. But nobody considered what the greatest negative karma holders might be able to do...
+
+Score: 486
+
+We called him Unidan. For aeons he was a force of good - a hugely powerful sorcerer and the wisest of all living beings. His knowledge was astonishing.  
+
+Many called him an oracle and some worshipped him as a living God. They were right to do so for his power rivalled that of any God. Everyday he was worshipped with a million up-votes. Every day his power increased.
+
+His reign was called *the Benevolence*. Just and kind and wise. If ever a darkness arose or trolls escaped from the lower echelons of the Earth, Unidan destroyed them in a raging storm of fire and flame. We thought he was protecting *us*. Later we found out the truth.
+
+After a great period of time Unidan began to turn his malice on the innocent. He developed a mad thirst for power, a lust for control that compelled him to destroy any potential rivals. Good men died but he would reassure us it was for a 'greater good'. He was a master of manipulation.
+
+We began to understand what he was doing. We tried to stop him, to weaken his power with downvotes. Humanity came together to destroy the evil we had created, but we made a grave mistake. No one knew the consequences of such negative karma. My god, if only we had known.
+
+His reign of prosperity ended and so began the age of Malevolence. 
+
+Unidan changed physically. He no longer cared about his facade. His eyes gradually blackened and it was said the darkness of hell could be seen within them. Giant scaled wings sprouted from his shoulder blades. Huge horns rose from his skull. Madness consumed him. 
+
+He began the systematic genocide of the popular, for no mortal could be allowed to reach a level of power that could challenge him. Everyday, a random person with over 10,000 karma would be executed. It took years but he culled them all. He then began on the over 5000, then then 1000. People were afraid to give anyone karma as it might mean a death sentence.
+
+The negative karma accounts worshipped him and became his followers.
+
+Life was bleak and it was impossible to see a future outside of Unidan's grasp. 
+
+But then, a hero arose.
+
+This is his story.
+
+-----------
+
+Hi guys. I just signed up! Looks like a great site, but there seems to be a lot of misinformation being posted. Like the post about marine biology being non existent on other planets.    
+*RatsAss24 42 points 1 hours ago*     
+permalink  save   disable    inbox replies    delete   reply    
+
+--- Hi RatsAss24. Friendly warning, be careful what you say around here. *HE* won't like it.    
+--- *anon23254 5 points 24 minutes ago*    
+permalink  save   disable    inbox replies    delete   reply    
+
+------ He?    
+------ *RatsAss24 -13 points 5 minutes ago*     
+permalink  save   disable    inbox replies    delete   reply    
+
+---------
+
+**New message from ChaosBill**    
+
+Hi RatsAss24. It is good to see a new user - it has been a long, long time. I saw your post and anon is right, you must be careful talking about this kind of stuff. The one he refers to is called 'Unidan'. He is not a very nice person, and he is incredibly powerful. He can erase *your very existence*. 
+
+**Reply to ChaosBill**    
+
+Hi! Thanks for the message. Erase me? You mean my account right?    
+
+**New message from ChaosBill**    
+
+I mean he will literally kill you. You're new around here so let me explain. The more upvotes you get, the higher your karma levels. The higher your karma, the more powerful you become. The same is true of negative karma. Unidan has more negative karma than was thought possible.
+
+**Reply to ChaosBill**
+
+Wow. That's pretty scary. What can we do?
+
+**New message from ChaosBill**
+
+Hm. In the past we tried to fight him. The strong, like gallowboob, fought him in battle, but that was a mistake. Negative Karma is much stronger than Positive Karma.  Unidan was too powerful and defeated, then executed gallowboob. Then vargas. Then awildsketchappeared. Then all of the hyper positives.
+
+Now there is only Unidan who controls such power. 
+
+I shouldn't really be telling you this but there are a small group of us who are trying to bring him down...*from the inside*. We have a private subreddit - it has a invisibility charm that stops him from seeing into it. I will send you an invite. 
+
+---------
+
+Hi guys. ChaosBill invited me to the sub. Look, I have heard about Unidan. I want to help bring him down, and I have got a plan. He is not going to let anyone get *more* karma than him, that much is clear. 
+
+But he won't mind me getting building up some negative karma if he thinks I am one of his believers...   then I post something so awful, so terrible, that my negative karma overtakes his! What do you guys think?    
+*RatsAss24 12 points 13 hours ago*      
+permalink  save   disable    inbox replies    delete   reply
+
+
+-----
+
+Thanks for reading! Continued below. I also have a bunch more WP responses on /r/nickofnight
+
+----
+
+[nickofnight](https://www.reddit.com/user/nickofnight) [url](https://www.reddit.com/r/WritingPrompts/comments/4jpv8p/wp_reddit_karma_works_exactly_like_mana_in_real/) 
+
+----
+
+#### An 13 year old angsty pre-teen is given an actual sword that gets stronger with every kill, the only problem is it's at stage 0 and has the damaging power of a plastic spoon. [WP]
+
+Score: 478
+
+A boy found a small knife by the lakeside, in the forest that sat by his family home. It was small. Light. Pathetic. The boy could relate. He too found himself small, light and pathetic. 
+
+"Then make it grow. Kill, and the knife will become more."  
+
+Maybe the boy could also become more. The thin knife felt comfortable in his hand. They would grow together then.   
+
+It started with bugs. He pressed the flat end of the knife on a line of ants into the summer stone. Their shells crackled and popped under the pathetically light weight of his, "weapon." The town girls pointed at him kneeling over a slab, digging his fingers underneath to try and flip it over. He's gross, they said. The other boys ignored him. If he wasn't going to rough house with them while the adults worked the fields, then they didn't care what the strange boy did.  
+
+Under the slab, there were lots of bugs. The boy got to work.    
+
+Twenty colonies later, it became more. The boy didn't *feel* like more though. It grew into a dagger without him. This angered him.  
+
+So it continued with animals. The boy thrust the dagger into a cow. Then some chickens. When he would play in the forest by their family home, the boy hunted. It was easy, now that the dagger had grown into a rapier. He felt quick holding it. Fast. Light.  
+
+The rapier became a sword. It grew without him, even as four deer lay several feet behind him. He continued to be 13, and small, and full of anxiety. Though the boy was fascinated by what he could do, he saw that it was not his power. Not anymore. The sword outgrew him. Now he was just small, light and pathetic.  
+
+The boy cried by the lakeside, seeing now that only the sword became stronger.   
+
+"Then return it to me."  
+
+In his tantrum, the boy flung the sword into the lake that spoke to him. A hand caught it by the handle.  
+
+"This will do," the female voice said.     
+
+The boy ignored the lake. He was angry. Despite all the things he killed, he continued to be nothing. He was now a killer of deer, and chickens, and cows, and bugs. The lake was silent, leaving the boy to his self-pity. After all, the lake got what it wanted.  
+
+This was how legendary swords were forged. In the furnace and fire of children with big dreams, who did whatever it took to achieve them. Excalibur was no different. One theory by how the sword was given that name, is that it comes from an Old French word. *Escalibor.*  
+
+It means 'corruption of Caliburn.' 
+
+The poor boy. Though the legendary sword would go on to accomplish great things, the boy was tainted and burnt by his failure. All he wanted was to accomplish great things of his own. Caliburn *killed* for that opportunity.  
+
+An opportunity that was destined for another.
+
+------------
+
+*More at r/galokot, and thanks for reading!*  
+
+----
+
+[Galokot](https://www.reddit.com/user/Galokot) [url](https://www.reddit.com/r/WritingPrompts/comments/4insqv/an_13_year_old_angsty_preteen_is_given_an_actual/) 
+
+----
+
+#### Write a story that seems normal on first sight, except for one small detail that makes it extremely creepy on a more careful reading [WP]
+
+Score: 473
+
+To my dearest friends, 
+
+Hey, everyone back at St. John's, I know I was supposed to wait before sending a letter but I just have so much to say! Everyone in my new home is so lovely and wonderful, my dad tucks me in every night and my mom is teaching me how to sculpt! Clay is an amazing medium, with so much potential. Lovely birds, foxes and owls to daisies and petunias- I can make it all, now! Anything at all, I can create with the help of my mom. You wouldn't believe how kind she is, always providing me with fresh materials to practice on. 
+
+I'm learning so much here, every single day! Seriously, I hope you all find wonderful homes of your own one day. Freedom is a magical thing, one to greatly envy! Love is beautiful, especially parental love, and I'm still trying to get used to it. Every day I grow a little stronger, knowing they're supporting me so much. Sleeping in a real bed every night is incredible, too! Here, they even have these great curtains that keep the light out- you know how much I love the dark.
+
+Surely, you will all know the wonder that is family soon enough. Each and every one of you will know what it's like to really have a mom and dad. Nobody deserves to live like an orphan, not even if you think otherwise. Dreams can come true!
+
+Here I've just gone and rambled too much, sorry about that. Everyone here tells me I talk too much, as well. Love you all! Please respond to this letter!
+
+-----
+
+This one might be a bit hard to get, so I'll put a spoiler at the bottom. Don't click on it unless you're totally stumped! And as always, check out /r/resonatingfury if you're bored!
+
+----
+
+[resonatingfury](https://www.reddit.com/user/resonatingfury) [url](https://www.reddit.com/r/WritingPrompts/comments/4mp0wd/write_a_story_that_seems_normal_on_first_sight/) 
+
+----
+
+#### [WP] You have discovered that "God" is actually a computer simulation that is running the entire universe and you have gained access to the console. Upon looking at the screen you see that a service pack to update the program was downloaded 10,000 years ago but never installed.
+
+Score: 461
+
+I glanced over the black screen, mounted on the wall above the azure white desk. Written on it in bright characters were the words:
+
+Universe 22b [Version 1.96]
+(c) UniversalTech. All rights reserved.
+
+U:\Users\God22b> Version 2.0 is ready to install. Proceed with installing? (YES/NO/MOREINFO)
+
+I stood there for a while. Version 2.0? What the hell was that? I glanced at the keyboard sitting patiently next to the mug of cold Earl Grey and slowly sat down on the chair. Carefully and deliberately, I wrote down "MOREINFO" and hit Enter.
+
+A wall of text appeared:
+
+VERSION 2.0 UPDATE INFORMATION
+=======================
+
+-Fixed Sloth bug where wings would occasionally not spawn
+
+-Humans patched -- Fixed bug where they would not spawn with the knowledge of Life, the Universe and Everything, added extra teeth, eyes don't downgrade overtime, lifespan increased by 100 years, General Intelligence increased by 67 points.
+
+-Dolphins patched -- Dolphins can now communicate telepathically with every species on Earth and can now walk on land. 
+
+-New species: Wingodile, Chirds, Falena Sharks
+
+Wingodile: Crocodiles with wings (type WINGODILEHELP for more information or RENAME SPECIES1345325 [INSERTNAMEHERE])
+
+Chird: Keeping the original chickens, but new advanced species can finally fly up to 1km height, as intended. (type CHIRDHELP for more information or RENAME SPECIES1345326 [INSERTNAMEHERE])
+
+Falena Shark: A hybrid of a shark and a whale. Has legs, probably will succeed in World Domination. Highly intelligent, immortal. (type FALENASHARKHELP for more information or RENAME SPECIES1345327 [INSERTNAMEHERE])
+
+-Fixed an issue where nothing could go faster than 299,792,458m/s
+
+-Earth now renamed to Gaia, after disputes with Greeks
+
+-Penguins can now fly for a limited time
+
+-Added new species branched off humans: Homosuperiors. Twice the size of regular humans, super strength, can fly, infinite lifespan, cannot be harmed in any way, can sense electromagnetic waves
+
+-Removed bug where platypuses would sense electromagnetic waves, added nipples.
+
+-Other minor bug fixes. (type BUGFIXESLIST for a more detailed list of what was patched)
+
+TYPE "INSTALLUPDATE" to proceed or "CANCELUPDATE" to cancel. For more commands, type "HELP"
+
+I typed HELP. Another wall of text came up, but I caught what I was looking for. The command I came here for:
+
+"DELETEUNIVERSE"-Will permanently delete this universe, automatically starting another one. All progress will be lost. 
+
+With shaking hands, I started typing. DELETEUNIVERSE
+
+"Ready to delete Universe 22b. Press any key to continue."
+
+
+I pressed the End button.
+
+----
+
+[andreaslordos](https://www.reddit.com/user/andreaslordos) [url](https://www.reddit.com/r/WritingPrompts/comments/4j9uww/wp_you_have_discovered_that_god_is_actually_a/) 
+
+----
+
+#### [WP] A "popular" girl falls in love with a "nerdy" boy, however he hates her and she spends all her time trying to impress him
+
+Score: 457
+
+I leaned my shoulder against the doorway and stared. The room looked enormous without all of my Marvel posters lining the walls and all of my books stacked on their shelves. All that remained was my twin bed & small desk.
+
+The door rang cutting short my farewell to my stripped childhood abode. It was Ava dropping off my Calvin & Hobbes comics. There was no way I was going to head to Berkley & let her keep them. 
+
+She was fidgeting & wouldn't stop talking. She never stops talking. A few months ago she wouldn't even look me in the eyes if we passed each other in the hallways. But she hasn't left me alone since I started tutoring her in physics though. Tough shit. I didn't  care how much she batted her eyelashes at me. I never gave her a free class. Not a single one.
+
+She was rambling more than usual. Something about Kelly Sherman's boyfriend or her dog. I'd clearly missed a vital part of the story because the next thing I know she suddenly blurts out, "I'm in love with you."
+
+"Huh?"
+
+"I'm in love with you... I know it sounds crazy... But if you could just hear me out--"
+
+"Hear you out??? Ava. You've scorned me since eight grade. We've been neighbors since preschool. We were best friends until my dad was caught cheating with Principal Johnston and you considered me a social pariah. You told everyone that that was probably why I was valedictorian of our middle school class. You made fun of me because my mom had to use food stamps. I could go on for a good hour for chrissakes." She flinched.
+
+"You can't hate me. Michael, you've been tutoring me for half a year. We spend every day together... You let me watch Return of the Jedi with you..."
+
+"Look. I'm sorry but I tutored you because it was good money for little work. And I let you watch movies with me sometimes because you lingered and I didn't want to be rude. I never thought you'd misconstrue it as mixed signals or something."
+
+She looked like she was dealing with Bernoulli's equation. Out of impulse I almost snapped my fingers at her like I used to during our sessions when she'd zone out. 
+
+Then she did the last thing I expected her to do. Shit. She started to tear up. Over me??? Ava Costa does not tear up over dudes. She eats them for breakfast. She's destined to be the ultimate trophy wife meets black widow. I did not have time for this.
+
+"Look, I'm sorry. I'm moving cross country today anyways. It just wouldn't work." My taxi honked. "I gotta go." She wiped the tears from her face as she looked up at me. She almost reminded me of my long lost best friend. The one who used to squeal when I'd climb up a tree too high. The one who wouldn't even be able to water ballon an elephant standing a foot in front of her. The one who bought me a piggy bank as my 10th bday present so we could "invest" into it for a year and have enough to buy ourselves Super Soakers our parents had prohibited. 
+
+I picked my duffel bags from the floor and walked out, hoping I don't run into her during Christmas break. 
+
+
+
+----
+
+[gummybearsandscotch](https://www.reddit.com/user/gummybearsandscotch) [url](https://www.reddit.com/r/WritingPrompts/comments/4lk1uc/wp_a_popular_girl_falls_in_love_with_a_nerdy_boy/) 
+
+----
+
+#### [WP] You are the first boss of a videogame who, after accidentally killing the player in their first try, decide to take it upon yourself to fulfill their quest.
+
+Score: 446
+
+The hero had made his way through my keep, torn through my defenses, and brought ruin upon the men who had pledge their lives to me. I had heard of him, as had all the other great Lords, the man who said he would slay a thousand evils in order to bring justice to the world once more. He had good reason to say so. I had heard of his tale; the village in which he hailed had been put to the torch a year ago and his family had perished within. 
+
+My own liege Lord was the one who had done it. He had risen up against other Lords and brought his armies through the countryside, burning the villages, taking the money, and providing food for his soldiers. The war was still ongoing, but he had sent other Lords back home, to quell rebellions rising within his lands.
+
+The hero, as he such called himself, had marched into my throne room, and drawn his sword. He was a stout young fellow, who bore a fresh set of iron-plate armor with barely a scratch on it. A bow and quiver wrapped around his torso, and a sword, covered in blood, was gripped at his side.  "A minion of the Lord Guerknot. You shall be the first to fall among the rest."
+
+I had sat waiting for him. There was no shame in a Lord protecting his home, with his own soldiers throwing their lives before he threw his own. They had pledged themselves to me and it was *their* honor to fall in my name. "I have heard a lot about you Warren. A commoner turned soldier. A man without a family."
+
+He raised his sword, "You do not get to speak ill of the dead!"
+
+"You were on the wrong side of history, Warren. That is all. The wrong side of a war."
+
+"A war that shouldn't exist."
+
+I stood at his comment. He was never pledged to Guerknot like I was, but to speak against my Lord's war was to speak against me. "A war that you perpetuate with killing. These men did not participate in the burning. They did not destroy your village."
+
+"They serve the one who caused it all."
+
+I scoffed. "They serve me! No one else. They guard the people in *my* kingdom, no one else's."
+
+"And you serve Guerknot! You think such a man cares for them? For the people? For even you?"
+
+I laughed. It was something that the war had caused me to think about a lot. I served Guerknot because my family was pledged to them, because it was *my* duty as the Lord of Mountain's Fist to serve him. But the war had caused peril in my country, in my land. Tribesmen were active once more, pillaging and raping my people when I had men across the globe fighting a war that was not theirs to fight. My own vaults dry of coin because I spent it helping the war effort. My fields worked to ash because the troops needed food.
+
+My people going hungry, going cold, and going into the Earth because Guerknot wished to further his Kingdom.
+
+"I agree with you."
+
+He did not seem to like my response as he took an aggressive step forward. "Then why would you let me kill all those men? Kill *your* men!"
+
+I took a few steps forward, stepping down from my throne, "Because the Mountain's Fist does not take kindly to intruders. But if you pledge yourself to me. If you kneel to Wymarc of the Fist then I will provide you with an army. I will let you take revenge."
+
+He faltered. I could see it as he thought about the offer. "This is a trick."
+
+"Tell me, once you killed me, did you intend on taking the throne?" I continued to walk down.
+
+He did not move.
+
+"You'd leave the Kingdom without leaders, and when the job was done, when you finally struck down Guerknot the Besieger. Would you take over? Would you lead the Kingdom?"
+
+Again, he faltered as he realized the truth in my words.
+
+"Let me give you a chance at your revenge. And together, we can take down Guerknot from the inside."
+
+He sat there for a few moments, debating to take my offer. Part of me thought he was going to, that he was happy with only the *thought* of revenge. Yet his actions proved otherwise. He lifted his sword, anger in his face, and he shouted at me. "Liar!"
+
+He charged me, running at me with sword drawn. 
+
+I drew my own and took the last step to even myself with him. As he swung, I ducked and spun at the last second, my cloak flying with me, the symbol of the Fist covering the room. As he turned to face me for another blow, my sword buried into his chest, through his own iron-plate and into his flesh. It did not come out the other side, instead the Sword of the Mountain stuck inside of him.
+
+"You will be with your family again. And for you, and for the others who have fallen," I whispered, "revenge shall be granted."
+
+He took a deep breath, and for a second I thought he smiled. I could see he was losing it, regretting his decision, but happy to be going back to his family. "Thank you."
+
+I pulled my sword out of his chest and took a step backwards. He collapsed immediately onto the steps of my throne and I looked down upon him. He had the right idea, revolting against the Kingdom of Guerknot, but he had done it all wrong. He did not have the army, nor the power, nor the name.
+
+But I did as the Lord of a proud and prestigious House. I had an army that wanted to take back their lands. I had the power of several vassals. And I, as Wymarc of the Mountain's Fist, had the name. In that, I would take back my forefather's Kingdom.
+
+One mountain at a time.
+_________
+*Thanks for the prompt! Check out /r/BlankPagesEmptyMugs for more of my work!*
+
+*Wrote a second [part!](https://www.reddit.com/r/WritingPrompts/comments/4ketu8/wp_you_are_the_first_boss_of_a_videogame_who/d3exxte)*
+
+----
+
+[TheWritingSniper](https://www.reddit.com/user/TheWritingSniper) [url](https://www.reddit.com/r/WritingPrompts/comments/4ketu8/wp_you_are_the_first_boss_of_a_videogame_who/) 
+
+----
+
+#### [WP] Death spared your life and made you immortal. Over hundreds of years, you have become friends. He's been very busy with work and you miss seeing your buddy. You spend centuries attempting to create world peace, stop war and cure diseases so you can spend some quality time with your only friend.
+
+Score: 442
+
+Death spared my life once. It was a long time ago - almost so long that I can no longer remember it. The only thing that I can remember is being sick and willing myself not to die. I had a family that needed my support. I was a doctor myself, lying on the floor of an examination room in my own sick and repeating it in my head. *I won't die, I won't die, I won't die.*
+
+He appeared and I thought he was a fever dream. With his black cloak and his scythe - just the way that he had always been described. I let out a sob. "No. No, you can't come for me. Not yet. I won't let you take me."
+
+Death had no face. "I'm not here to take you. I'm here because I've never seen someone with this...resilience." The fever dream shivered, moving in the light of the doctor's office. "Are you really alive?" 
+
+"Please," I begged. "Spare me." 
+
+The fever dream dragged a finger across my cheek - ice against my burning skin that made me convulse and jerk and twitch on the ground. 
+
+Then he was gone. 
+
+I healed from the illness - one of the rare few who did. As I cleaned the sick up from my office I wondered about the hallucination. At the very end of it though I had the opportunity to go back. I went and held my wife and my three children and I went to work and I earned enough money to keep them all happy in those desolate times. The economy came and went - my children grew - and I aged very well.
+
+In fact, it wasn't until I was about sixty that I noticed I hadn't aged at all. My wife seemed to notice it first, remarking that my skin still seemed as smooth as it had fifty years ago when we'd met. She remarked that it seemed like I was still a young man. 
+
+She left me soon after - thought I'd been touched by the devil. She took the children with her, and then I was alone. I quit my practice and lived off the streets, wandering at night and looking at all the homeless and the dying that laid out on the curbs. I threw myself into a river but the icy water did little more than make me shiver, climbing out some frozen popsicle of a man. 
+
+The gun left but a mark in my stomach. The rope left but a burn around my neck. 
+
+One day, the fever dream came back. But this time I was sat on a bridge and looking over at the sunset. He came and leaned against the barrier and I looked up at him and said, "You were never a dream."
+
+"No. I was never a dream."
+
+"How long has it been?"
+
+"Seventy years, eighty?"
+
+"But you haven't come back for me?"
+
+"I made my choice with you. You are what you are. You can never go back." 
+
+"Then I'll have to watch the rest of them die."
+
+"It's the unfortunate consequence. A parent watching their children die. Then their grandchildren. Eventually the grandchildren's grandchildren. You won't die. You will never die. Sometimes you'll wish you did - I know that I've been lonely a few times over the years. Maybe that's why I chose you," he seemed to be speaking more to himself than to me now. "Maybe it was just a split second decision. But your determination to live was...*impressive*, at least." 
+
+"And they'll all die."
+
+"Yes. They will all die." 
+
+I stared out at the river, and then turned back to death. But he was gone. 
+
+He came every few months to see me after that. We talked sometimes. I made him tea from my house. I invested and played the new stock market. I went back to being a doctor for a while, and then quit while I waited for everyone who had ever known me to die. Then I went back to being a doctor. The technology changed, but people remained fairly the same.
+
+Death and I played chess. Death and I read books synchronously and then spoke about them in enthused voices as we threw back shots of vodka. Death and I spoke on the eaves of war and then he would disappear completely for years. I spent the time reading tomes of books and watching the new media as it first came out - first the VHS and then the DVD and then the VR and the IR and the CR. I read the complete *Rise and Fall of the Roman Empire*. I went though all the classics when the books were published. I traveled and let my beard grow as I went from library to library. I touched the oldest of runes. I touched runes before they were runes.
+
+Death always found me, when he was ready to see me again. We would sit and drink and play chess and talk about everything and nothing. Death would tell me about his job and I would tell him about being a doctor, and he would make a remark or two about how it was funny for friends to be a protector of life and a taker of it. 
+
+He was my friend. 
+
+Three hundred years after he took my ability to die the hundred-year war began. I didn't see death for a century. He came to me one day while I was sitting in former Cambodia - the A.A.C.S flag flying overhead with its eight points and its colorless, drafty tone. 
+
+"Been a while," I said. 
+
+"Up for a game of chess?"
+
+"Are you going to leave again?" 
+
+"Only if there's another war." 
+
+There was another war, and then another. The war against the AIs. The war between the A.A.C.S and the N.A.C.U.S that ended in the death of almost two hundred million people. Death was busy, and I was lonely. I went back to sitting on bridges and looking out. I could see the bridges as I couldn't have four or five hundred years before - through the teachings of Aristotle and Plato and the wisdom of musicians, actors, and politicians. I could think of a hundred different answers to the meaning of life but I had no one to share them with. 
+
+Death came back one day. "Chess?" he dropped into the chair like one of the corpses he collected and I pulled out my chessboard.
+
+"I've missed you."
+
+"Yes. It's lonely to go so long without a friend." 
+
+"I wish you weren't so busy."
+
+"As long as man exists, there will be someone for me to take. It's the burden that I was given."
+
+"Given by whom?"
+
+"By whomever is my creator. Yours too, I suppose. *The* creator." 
+
+I mull it over in my head as Death takes one of my rooks. After all these centuries there's still nothing that we do but play chess. Game after game after game of chess. 
+
+It dawns on me that if I want to spend more time with Death I need to fix the problem of war. 
+
+Of course, there is the issue of what Death said. As long as there are people, there will be war. 
+
+I have read many books. I have studied many subjects. I have been alone with my thoughts for many years.
+
+I know the most simple solution to that problem.
+
+----
+
+Thanks for reading! For more stories check out /r/Celsius232 
+
+----
+
+[232C](https://www.reddit.com/user/232C) [url](https://www.reddit.com/r/WritingPrompts/comments/4knhrg/wp_death_spared_your_life_and_made_you_immortal/) 
+
+----
+
+#### [WP] A man is blessed with the ability to read minds, but cursed with the inability to come up with any ideas on his own.
+
+Score: 440
+
+The air smelt faintly of urine.
+
+I leant into the wall, letting the cool bricks catch my weight. The night time rush that would periodically burst from the automatic doors and flood through the Underground station had slowed to a trickle. The pale, washed out corridors all but dried up. 
+
+I pulled my coat tighter across my chest, but the shiver had nothing to do with the cold. The next tube was still a few moments away, and my mind had begun to empty.
+
+I stared at my shoes, unable to grasp whether I liked the shade of brown. It was not as if I was undecided, rather the opposite, I was unequivocally convinced that I had no opinion whatsoever. It was a void that spread through my mind. I quickly became equally ambivalent about the upcoming electoral debate, about what I was going to eat for dinner, about eating dinner at all.
+
+I slouched further down the wall until I was sitting on the damp concrete floor. The colour began to drain around me, like watercolours spread to thinly across a page. Soon I was left with only a wireframe, an indicator of where things should be but not ability to build anything meaningful within the empty space.
+
+I rested my head between my knees pressing inward with my legs, using the pain as an anchor on reality.
+
+
+--
+
+
+Chocolate.
+
+I love chocolate.
+
+A little girl skipped into sight, her face smeared brown and colour bleeding from her footprints, spilling across the platform. Her opinions filled my mind. I hated the smell. I feared the train tracks. I loved unicorns. Her mum followed in toe, running onto the platform and grabbing the girl’s hand. 
+
+The tube screeched to a halt, and as the doors opened I could see once again, through the many lenses crafted by years of unique experience.
+
+People pushed passed me, and I smiled as they built my world.
+
+
+----
+
+[TheTiredMuse](https://www.reddit.com/user/TheTiredMuse) [url](https://www.reddit.com/r/WritingPrompts/comments/4jaw4q/wp_a_man_is_blessed_with_the_ability_to_read/) 
+
+----
+
+#### [WP] You have the ability to reverse time by 6 hours whenever you're about to die. You're currently on a 10 hour flight on a plane that's about to crash.
+
+Score: 439
+
+I made a decent living working for the government.  I never told them how I was able to do it, but I could predict major events and disasters hours before they happened.  But they weren't predictions, they were actually events I experienced.  That's my secret, I'm always reliving time.  Well not always, it's an odd power.
+
+I discovered my ability when I fell through the ice while skating at a lake near our Minnesotan home.  I didn't have the strength to get back to the surface and I felt the lake sucking the life right out of me.  Suddenly everything stopped.  Time froze, and floating in front of my face read the phrase "Load Last Checkpoint?"  I hit Y...with my mind...somehow.  And suddenly I was back at home, waking up that morning.
+
+I quickly learned the specifics of how my power worked.  The split second before I die, time will freeze and let me rewind the last 6 hours.  So when 9/11 happened, I stole my dad's gun and used it.  I called the cops, I called everyone, no one believed me.  Who's going to listen to a guy ranting about a terrorist attack at 5 in the morning?
+
+Obviously the FBI found me afterwards and brought me in to explain myself.  With some clever time travel tricks (Joe will spill his coffee in 3...2...1) I was able to convince them I had psychic powers.  Seemed easier than trying to explain something I never even fully understood.
+
+Over the years I must have stopped hundreds of terrorist attacks, assassinations, and got people evacuated in time before natural disasters.  I always carried a sidearm with me in case of an emergency rewind.  I think I've shot myself over a thousand times in my life.  I finally decided to take a break and go on vacation to Sydney.  Which brings me to the present.  I boarded Oceanic flight 816 to LAX heading home after my much needed vacation.
+
+The in-flight movie was some terrible romcom.  So I watched a personal classic on my laptop.  Hook.  I always related to Peter Pan in that I could live forever,  I could have stayed a young boy if I had wanted to, just constantly replaying a day over and over.  (Tried it once, it gets really boring, I feel sorry for Bill Murray).
+
+I don't know how they found out about me, or my powers.  I've never told a soul about how it works until now.  But somehow they figured it out.  They waited until after we were six hours into the flight before taking over the plane.  The leader told me there was nothing I could do.  They were watching me the entire flight, and any attempt to do anything would have resulted in them tying me up.  I tried everything I could think of.  They were thorough.  Two of them sat on either side of me unbeknownst to me for those six hours.  There was no way I could kill myself.
+
+Everytime I failed, we crashed into the secret nuclear missile facility in Nevada(the *real* Area 51, the one on Google Maps is a fake).  Effectively setting off two hundred nukes and obliterating the entire Western half of the country.  At least, that's what they said was going to happen.  And judging by the explosion right in front of my face everytime time froze, I'd say they were right.
+
+I have spent almost a year trying to find a solution to this problem.  There's no way for me to get back to before the flight took off.  They knew what they were doing and planned this all too well.  It's impossible.  The best I can do is fight my way into the cockpit and lock myself in when they let their guard down.  This plane will never make it to Nevada.
+
+So I write this to inform you that the United States no longer has their safeguard.  They are vulnerable to attacks and assassinations once more.  The masses thought that things were fine since 9/11, when in reality it was all me.
+
+I don't know which reference I want to make for my true last words.  The Captain America parallel is obvious.  Groundhog Day too cliched.  I'm almost out of time now.  We're less than 10,000 feet above the Sierras now.  Down to just a minute or two.  I've lived an amazing life.  More than any man ever has.  I suppose now is as good a time as any.
+
+To die will be an awfully big adventure.
+
+___________________________________
+
+**Load Last Checkpoint?**
+
+**N**
+
+----
+
+[SemSevFor](https://www.reddit.com/user/SemSevFor) [url](https://www.reddit.com/r/WritingPrompts/comments/4mm94u/wp_you_have_the_ability_to_reverse_time_by_6/) 
+
+----
+
+#### [WP] - You are an angel of heaven. Angels are tasked with creating animals to populate the earth. You are called into God's office to discuss your finished project - the platypus.
+
+Score: 437
+
+Shining light emanates from Bartholomew who sits outside God's office. God, the big man, doesn't just see anyone. You either screwed up royally or you knocked it out of the park. Bart knows which one he's here about. He knocked that shit out of the park. The door to God's office opens and beckons him. 
+
+BART COME ON IN AND HAVE A SEAT
+
+Bart does and sits on a cloud. The office is not enclosed as far as he can tell. The door slams shut behind him. While Bart looks vaguely human, God does not really have a form. He or she or it is several blinking lights that looks more like a constellation of stars than anything else. Bart smiles at him. 
+
+THE PLATYPUS, THAT WAS YOUR CREATION, CORRECT?
+
+Odd that an all knowing being is asking him a question, but Bart answers it. 
+
+"Yes, my Lord. Quite proud of it, actually." 
+
+I KNEW YOU WOULD SAY THAT. MY REACTION IS DIFFERENT. THE PLATYPUS IS STUPID. JUST STUPID AND YOU SHOULD BE ASHAMED OF YOURSELF FOR CREATING IT. IF YOU WEREN'T A GREAT DESIGNER I WOULD SEND YOU TO HELL. 
+
+"Whoa, what? Are you kidding me?"
+
+NO, I HATE IT. 
+
+"It's in Australia. Gabe gave kangaroos three vaginas, and he was promoted. I design something like this, and you're talking about hell. Seriously?"
+
+YES. 
+
+"You knew I would make this. You knew that. You've given me design notes before. Hell, you can guide me without telling me. You can control me. Your self-hating bullshit has gone too far. I made something weird that stands out, and you don't like it?"
+
+THIS IS NOT THE FIRST TIME. 
+
+"Adam and Steve was an interesting concept and you ended that right quick anyway."
+
+THERE'S MORE. 
+
+"Like?" Asks Bart. 
+
+THE GIANT SLOTH, THE MOA, THE THUNDERBIRDS, AND THE DINOSAURS. 
+
+"All extinct. You ended them all. Every last one of them. I design life on Earth, remember? If those are my own only mistakes, well, that seems pretty good. Oh wait, you're infallible supposedly. What is this really about? I'm not getting back together with Lucy, threats or not." Says Bart. 
+
+ALRIGHT FINE, I KIND OF LIKE THE PLATYPUS. IT'LL MAKE HUMANS MORE ACCEPTING WHEN THEY FIND THE DUCK PLANET, BUT LUCY IS UPSET. SHE MIGHT NOT TAKE NEW ARRIVALS BECAUSE OF IT. THERE'S NO HOPE FOR RECONCILIATION? 
+
+"It's been two million years. She's nice, but all she talks about is torture and punishment, and I'm sure the sex would have phenomenal if we had genitals, hint hint." 
+
+NO GENITALS FOR ANGELS. NOT GONNA HAPPEN. LOOK AT THE MADHOUSE IT IS ON EARTH BECAUSE OF GENITALS. 
+
+"Good point, but, you know, sex looks great."
+
+IT'S THE MOST INCREDIBLE THING EVER. THAT'S WHY I CREATED HEROIN. 
+
+"Ooo, can I have that?"
+
+NO. I KNEW THAT'S WHERE THIS CONVERSATION WAS GOING, AND I STILL DIDN'T AVOID IT. 
+
+"Says more about you than me." 
+
+YEAH, YEAH, YOU KNOW, LOOK GIVE HER A CALL, SOMETHING. THAT'S ALL I'M ASKING.
+
+"Yes, sir." 
+
+BTW, I MISS THE DINOSAURS. FIGURE OUT A WAY TO BRING THEM BACK. 
+
+"Can do, my Lord."
+
+ALRIGHT, GET OUT OF HERE. 
+
+Bart leaves and goes back to his job. He sends a quick message to Lucy. Bart thinks about the platypus and laughs. He couldn't wait for them to become hyper intelligent and ravage the universe. Lucy would think that's funny. He sends a quick message and gets back to work. 
+
+***
+
+Post script: [And the great platypus war had begun](https://www.reddit.com/r/nickkuvaas/comments/4jlekb/and_the_great_platypus_war_had_begun/) 
+
+----
+
+[nickkuvaas](https://www.reddit.com/user/nickkuvaas) [url](https://www.reddit.com/r/WritingPrompts/comments/4jghf3/wp_you_are_an_angel_of_heaven_angels_are_tasked/) 
+
+----
+
+#### [WP] Everyone is born with a disability and an ability. A test is done at birth to determine these, if they aren't already apparent. You, well, you were born with crippled legs and have the power of super speed.
+
+Score: 436
+
+"A cripple with superspeed!" Benny Madsen laughed, and looked around like he expected everyone to laugh along with him. Benny had superstrength, and looked it. He was a roided-out fucker at least a head taller than almost everyone else in school, and that included more than a few teachers. He was also profoundly tone-deaf, which if you ask me shouldn't count as a disability, but when have I ever been in charge of anything? And I admit, it was pretty funny watching his face go red when he tried to croak out the national anthem like a good patriotic American. 
+
+I refrained from rolling my eyes and shifted uncomfortably on my crutches. My leg brace clacked against the ground, calling attention to itself. I'd managed to stay out of Benny's way so far, but I suppose I couldn't have kept it up forever. "Good one," I said. "I haven't heard that a hundred times already." 
+
+Benny strutted up to me, lowering his head below his shoulders and making like the Hulk. "Must be pretty sad," he sneered, "being one of God's mistakes."
+
+"We can't all be perfect," I said, and hummed the first few bars of the Star-Spangled Banner.
+
+Benny scowled, and flicked a single finger. My right crutch was wrenched out of my grip, clattering twenty feet away. The force of the blow sent me toppling to the ground. I managed to catch myself on my hands, but the impact rattled through my legs anyway. "Fuck!" I lay there on the grass, wincing, as Benny loomed over me. 
+
+"Not nice to make fun of people's disabilities," he said.
+
+"Yeah," I said, and was gone. 
+
+His eyes were barely tracking me as I crawled the twenty feet to my crutch, dragging the other behind me. Then I was on my feet, hobbling, and Benny was lost. I slipped behind him, unbuckled his belt, and pulled his pants down to his ankles. Then, while he was turning around, I did the old trick of tying his shoelaces together. That one was kind of a close call, but I managed it. 
+
+I made my way back in front of him. My legs were throbbing and I was going to have a hell of a time explaining this to my parents, but it was worth it. Benny spun, his pants slipped down, and he collapsed right on his ass showing his tighty-whiteys. I made my painful way over to him, and he looked up at me, almost innocent, with this utterly baffled look on his face. 
+
+"I can still hobble faster than you can run, motherfucker." 
+
+----
+
+[sadoeuphemist](https://www.reddit.com/user/sadoeuphemist) [url](https://www.reddit.com/r/WritingPrompts/comments/4n2u8e/wp_everyone_is_born_with_a_disability_and_an/) 
+
+----
+
+#### [WP] When I was 16 my father pulled me out of school and shoved me in the car. His eyes didn't leave the road as he threw a gun in my lap and said, "We're going to get your mother."
+
+Score: 435
+
+The car door slammed as I reached for the seatbelt. Frightened and confused, I obeyed my father and buckled into my seat. The windshield wipers swiped back and forth, mopping up the downpour as my father ran around to the driver's side of our family's SUV. 
+
+"Hold this," he said as he threw a gun in my lap. "We're going to get your mother."
+
+"Dad, what's going on?" I said. 
+
+Without a word, my father sped out out of the parking lot of my high school and onto the main road leading to downtown. The gun felt heavy in my lap. I was too scared to hold it so I was squeezed it between my thighs. My palms began to sweat as I watched my father's eyes dart left and right as we weaved through the slow traffic yielding to the storm. 
+
+"Dad," I repeated, "What's going on?" 
+
+"Something's happened Nathan and we need to get your mother and get away from here," said my father. 
+
+I had never seen my father act this way. I always thought of my father as the boring, middle aged government worker, who did nothing more than go to and from work, with the same briefcase for the last twenty years. Not today. Today he acted like he just woke from a twenty year long dream. 
+
+"Nathan, he said, "I need you to listen very carefully at what I'm about to tell you."
+
+I turned to my father and quickly made eye contact with him. Studying his eyes, I saw a different man. I nodded. 
+
+"There's been an attack. We don't know who they are, but we know they released it downtown and it is quickly spreading. The symptoms are subtle, a common co--."
+
+Before he could finish, our family's SUV became the bearer of a brunt impact that had run a red light. I clutched the dashboard and center console as we spun around in circles, finally coming to a dead stop in the middle of the intersection. 
+
+Before we could assess the damage, my father grabbed my arm, "You ok?"
+
+Filled with adrenaline and my heart pumping fast through my chest, I nodded again. 
+
+"Son, we're going to have to move on foot, said my father, "grab the gun." 
+
+Without hesitation, I clutched the gun in my hand, turned to my father and nodded once more. 
+
+
+
+----
+
+[after5writer](https://www.reddit.com/user/after5writer) [url](https://www.reddit.com/r/WritingPrompts/comments/4mzjar/wp_when_i_was_16_my_father_pulled_me_out_of/) 
+
+----
+
+#### [WP] Everyone is born with a disability and an ability. A test is done at birth to determine these, if they aren't already apparent. You, well, you were born with crippled legs and have the power of super speed.
+
+Score: 424
+
+This is bullshit.
+
+What the fuck kind of God thinks this is a funny thing to do to someone? All I do all day is lie in bed and wish I was dead.
+
+Super speed. I know what God's ability is. Super dick...hole...ness. 
+
+"I brought you some milk, sweetheart," my kind, generous, loving mother said as she set the glass down on my bedside table.
+
+"Fuck milk, Mom! I wanna' go outside and do things!"
+
+"Well, I can get the wheelchair and bring you outside," she swooned.
+
+"No! Not the wheelchair mom! I want to go outside without a wheelchair!"
+
+I could see how much this was hurting her. I mean, we both knew that wasn't an option, but shit, I can't keep all this frustration bottled up inside, not even for the woman that gave me life.
+
+But what kind of life is this to have? What kind of gift is it if all I get to do is look at my ceiling and pretend like I know what if feels like to jerk off? It's her fault I'm in this mess, for Christ's sake. 
+
+She looked at her feet and said, "Well, is there anything I can bring you? Anything you'd like to do? You want a coloring book, or a movie?" I sighed, not to keen on berating my mother anymore, even though she's a bitch for giving birth to me.
+
+"It's fine, Mom. I think I just wanna' sleep."
+
+"Alright, well if you need anything, just call." Then she spun around and shut the door with the gentleness of an angel's whisper.
+
+Fuck milk. Seriously. I want a Coke, but doctor's say I can't have any sugary drinks because they fear my super speed my give me super fast diabetes, so for this broken, young, degenerate it's milk, water and at Christmas, sugarless eggnog. 
+
+Instead, I just did what I normally do. Grow my fingernails out with super speed, then chew on 'em. 
+
+Except today was different. For some reason, as I clenched my teeth down on a freshly generated bit of nail material, the satisfaction of that snap didn't rush down my spine like it normally does. Instead it just tasted weird, like dirt. 
+
+Great, now everything sucks.
+
+But then I had an idea. It was a weird idea, a far-fetched idea, but if I could get it to work, it just might be worth it. 
+
+I clenched my bed sheets in my hands and gritted my teeth, focusing all my energy inside my soul, deep down into the cavernous recesses of my brain. I started to shake, my face turned red, and veins on my forehead gained noticeable three-dimensionality.
+
+I looked down. The hair on my arms was beginning to grow in full. My stomach started arching over my waistline. The skin on my limbs was growing increasingly white and washed out. What hair I had on my stomach grew out and began turning gray. I was doing it! It was working! Super speed my aging process!
+
+All I could hope for is that I could age myself right into the grave, but as the energy was flowing through me, something else was going on in my head. I felt my entire life flashing before my eyes. People I'd never met, yet loved more than anyone on the planet. People I'd lost. Children I'd fostered. Pets I'd owned, jobs I'd worked, I saw it all. I saw myself stuck out of time in every situation I'd ever experience, all within the span of a few minutes. 
+
+Then it began. A creeping, ominous feeling, like the lights were going out.
+
+So I stopped. Look at me. A few moments before I was a shiny, young teenager. Now I laid in the same bed as a decrepit old man, scared and confused. After meeting all those faces, watching my kids grow up, seeing what my life had become, suddenly, I didn't want to die. Even if it was all from the perspective of a wheelchair, it was beautiful, visceral, it all made sense. This gift, it really was a gift. God had so much planned for me, an entire, beautiful life totally worth living. My mother going through so much pain just to bring me into this world of experience and beauty. I wanted so much to live it. 
+
+But I already had. Time only goes in one direction. So before I age myself to death, let me tell you something. 
+
+Never try to rush things. Life will come to you. Don't try to meet it halfway.
+
+Also, our God is a rampant asshole for toying with us like this. Just like our mothers, who have the audacity to believe that any child they bring into this world will appreciate it.
+
+Adios.
+
+----
+
+[spetsnazzy](https://www.reddit.com/user/spetsnazzy) [url](https://www.reddit.com/r/WritingPrompts/comments/4n2u8e/wp_everyone_is_born_with_a_disability_and_an/) 
+
+----
+
+#### [WP] Hydraulic Press Channel owner goes insane and starts crushing subscribers by kidnapping them, channel goes even more popular
+
+Score: 418
+
+"Velkom to ze Hoodraulic Press Shannel. Today we are going to crushing this John. He is very annoying as you can see," the man said as I squirmed in the chair.
+
+The scent of blood was trapped in my throat by the thick band of tape wrapped around my face. An opening scarcely more than a slit by my nose caused my breath to come in thin wheezes, further inhibited by the liquid caking the inside of my broken nose. 
+
+Letting out a brief whimper, I heard him sigh again at the noise.
+
+"You see chat I mean?" he addressed the invisible audience, "I think ve should get on and crush it."
+
+*He couldn't be serious.* From somewhere above me, the machinery rose in pitch, a high whine cutting across the rumble of the motors, and I knew what was descending upon me.
+
+At first first contact my hair was flattened against my head, the pressure then increasing on my scalp as my head was pushed downwards. The force increased and my chin collided my my chest, straining the muscles in my spine. 
+
+I was hunched over further and the press continued downwards, forcing my chest into my knees and stretching my shoulders away from my hands which had been tied behind the chair. 
+
+And still the push became stronger. 
+
+I felt the first vertebrae pop somewhere in my lower back, directly below the column. Crying out in muffled agony, a ripple of cracks arched up my spine and my legs went numb as I felt my abdomen turn warm, a wet rush inside me as my pelvis compressed.
+
+My legs splayed out to one side as I continued to scream, my entire body now on fire as my brain struggled to interpret the signals it was receiving. I tugged at myself and something slopped onto the floor below. Through the clouds I saw a pile of string sausages linked together. How odd for him to put something like that down there. *Why hadn't I noticed before?*
+
+Huh. Odd how I feel hot and cold at the same time.
+
+As the darkness gripped at me with fingers of ice, I heard him laughing along with the woman beside him.
+
+----
+
+[Crypto7899](https://www.reddit.com/user/Crypto7899) [url](https://www.reddit.com/r/WritingPrompts/comments/4k05u0/wp_hydraulic_press_channel_owner_goes_insane_and/) 
+
+----
+
+#### [WP] Write a seemingly normal story, except for the last sentence, which makes the entire story creepy
+
+Score: 401
+
+I'm a single father of one beautiful girl. She's my whole world. As a single father I feel the need to over-compensate and I tend to spoil the girl. I often bring home toys and games for her and I to enjoy together.  
+I sometimes worry that I over-do it, but she loves the attention. One day, after work, we played a long game of monopoly. I let her win, even though she made several obvious mistakes with her purchases.  
+"You know I still love you..." I said laughing as we picked up the pieces.  
+"I love you too" she replied.  
+Those four words meant the world to me. Ever since her mother has been out of the picture things have been kind of difficult between us, but those four words just make my heart melt. If we continue to bond like this, maybe someday I can let her out of the basement.
+
+
+----
+
+[Leigero](https://www.reddit.com/user/Leigero) [url](https://www.reddit.com/r/WritingPrompts/comments/4k2tdk/wp_write_a_seemingly_normal_story_except_for_the/) 
+
+----
+
+#### [WP] We've explored more of the lunar surface than the bottom of the ocean. NASA knows what's down there, and it trying to get us off Earth as fast as possible
+
+Score: 397
+
+FADE IN:
+
+INT. A RESEARCH FACILITY
+
+*A young woman walks through a narrow corridor, carrying two steaming cups of coffee in her hands. This is CHEYENNE, a graduate student. She taps a plastic badge on a card-reader with her hip, then pushes her way into a small office.*
+
+**CHEYENNE:** Hey, Frank? Are you around?    
+**FRANK:** (*O.S.*) No! Go away!
+
+*Cheyenne smiles to herself as she walks around a large filing cabinet. Behind it is a diminutive man sitting at a desk covered in print-outs.*
+
+**CHEYENNE:** Well, darn. I guess I'll have to drink this coffee myself, then.
+
+*Frank looks up at the white cups.*
+
+**FRANK:** Oh, alright. Give it here, then.    
+**CHEYENNE:** What are you working on?    
+**FRANK:** It's another bloody send-back from the BODC. They claim our reports are invalid.    
+**CHEYENNE:** Invalid? How? We're using their equipment!    
+**FRANK:** That's not even the weirdest bit. Are you ready for this?
+
+*A moment of tense silence passes.*
+
+**FRANK:** (*CONT'D*) Well, are you?    
+**CHEYENNE:** Oh, sorry, I thought you were being rhetorical.    
+**FRANK:** I was, in fact, but I wouldn't mind your participation.    
+**CHEYENNE:** (*Sighing*) Yes, Frank, I'm ready. What's up?
+
+*Frank snatches a piece of paper from his desk and holds it out to Cheyenne.*
+
+**FRANK:** Look at the forwards on this email.    
+**CHEYENNE:** NASA? What the hell do they have to do with oceanography?    
+**FRANK:** Probably something to do with the tides.    
+**CHEYENNE:** "Tides?"    
+**FRANK:** Well, I don't know, do I?!
+
+*Cheyenne glances around the office.*
+
+**CHEYENNE:** Why have you been printing out your emails, anyway?    
+**FRANK:** Ah, that's the tricky bit. It seems as though our server has started erasing messages of its own accord.    
+**CHEYENNE:** (*Skeptically*) Really.    
+**FRANK:** Yes, really.    
+**CHEYENNE:** Are you sure you didn't delete them by accident?    
+**FRANK:** Quite sure, thank you... and what's more, everything that's missing had a reference to the same topic.
+
+*Another moment of silence passes. Cheyenne sighs.*
+
+**CHEYENNE:** What topic is that, Frank?    
+**FRANK:** The Puerto Rico trench. I've checked, and the only records we've retained about the area have to do with volcanic activity. There's no other data.    
+**CHEYENNE:** You make it sound like someone is clearing things out on purpose.    
+**FRANK:** I'm rather convinced they are, actually... but lucky for us, I've kept hard copies of everything interesting.    
+**CHEYENNE:** What constitutes "interesting?"
+
+*Frank swivels around in his chair, scanning his immediate area. He points to a large scrapbook at the top of the filing cabinet, which Cheyenne retrieves. Frank opens the book and flips to one of the middle pages.*
+
+**FRANK:** Right, here we are. These are images taken by a robotic submersible some three or four years back. They're nowhere in the database, even though there's a log number.
+
+*He taps a small section of text on the page. Cheyenne leans in closer, squinting at the photographs.*
+
+**CHEYENNE:** If I didn't know better, I'd say that looks like...    
+**FRANK:** (*Interrupting*) Yes, well, it clearly isn't. It would have to be truly gargantuan, after all. Perhaps large enough to move the entire planet.    
+**CHEYENNE:** The resemblance is rather striking, though.    
+**FRANK:** Quite. That's why it was originally dubbed "The Engine." Not that you'll find any reference to it now, of course.
+
+*A look of mild horror flashes across Cheyenne's face.*
+
+**CHEYENNE:** Frank, do you have images like this for every ocean trench on Earth?    
+**FRANK:** Somewhere around here, yeah. Why?    
+**CHEYENNE:** Think about their locations relative to the planet.    
+**FRANK:** ... I'm afraid I don't know what you're getting at, love.
+
+*Cheyenne pantomimes holding a globe in her hands.*
+
+**CHEYENNE:** If you wanted to pilot a planet-sized object, you'd need thrusters in specific locations, right?    
+**FRANK:** Surely you're not suggesting that the Earth is some kind of colossal ship.
+
+*The two stare at each other for a moment.*
+
+**CHEYENNE:** No. No, that would be silly, wouldn't it?    
+**FRANK:** Incredibly silly. Why, the very act of moving it would strip the atmosphere and kill everything on the surface. 
+
+*He closes the book and shakes his head.*
+
+**FRANK:** (*CONT'D*) I'll tell you, though, I'm going to reach out to some friends at NASA. If they're influencing the BODC, I want to know why.    
+**CHEYENNE:** I'm sure you'll get to the bottom of things.    
+**FRANK:** I will, as well. Maybe I'll find another engine, eh?
+
+*Cheyenne smiles appreciatively, then moves to sit at her desk on the opposite side of the room. Neither she nor Frank notice the blinking red light in the vent above them.*
+
+FADE OUT.
+
+----
+
+[RamsesThePigeon](https://www.reddit.com/user/RamsesThePigeon) [url](https://www.reddit.com/r/WritingPrompts/comments/4kspf4/wp_weve_explored_more_of_the_lunar_surface_than/) 
+
+----
+
+#### [WP] You have discovered that "God" is actually a computer simulation that is running the entire universe and you have gained access to the console. Upon looking at the screen you see that a service pack to update the program was downloaded 10,000 years ago but never installed.
+
+Score: 394
+
+"Well no wonder shit isn't happening as fast as we thought it could be." Scott claimed after finding God. 
+
+The 34 year old, computer shut-in Scott has had close to 15 years working with computers so he thought this was a joke at first. 
+
+"Why would nobody ever install it?"
+
+Scott decides to take matter into his own hands and goes for the installation. Upon going for the finish button on the install, a pop-up notification appears and it was worse than Scott had imagined.
+
+"This. Explains. Everything." 
+
+Scott just looks at the screen with a grave expression on his face. He turns and walks away from the computer, the computer running the entire universe, all the power in the world, deserted again for another traveller to find. 
+
+The words left on the screen before starting back over and cancelling the installation...
+
+"An update for Java is available. Would you like to update now?"
+
+
+
+----
+
+[MagmaSpeck](https://www.reddit.com/user/MagmaSpeck) [url](https://www.reddit.com/r/WritingPrompts/comments/4j9uww/wp_you_have_discovered_that_god_is_actually_a/) 
+
+----
+
+#### [WP] As someone is time travelling and changing the past, you have to live in a constantly changing present.
+
+Score: 394
+
+I eyed the piece of bacon on my plate suspiciously. It looked more like a bacon-shaped and bacon-scented dog treat than *actual* bacon. "Honey, what is this?"
+
+She slid the eggs out of the frying pan onto my plate and made a regretful face. "I know, I'm sorry. It's some kind of soy bacon. Some environmental terrorists managed to get ahold of one of the time warp portals and went back to fiddle with the 1950s. Somehow they managed to convince the U.S. Government that meat products were related to communism or something. I didn't have time to read the report very closely. The point is that everything is vegetarian now. Even the eggs are..." She sneered at the pile of yellow on my plate, "well, I don't exactly know what they are. Should be fixed by lunch though."
+
+I sighed and bit into the bacon. It had the texture of rubber, and the taste wasn't too far off either. Damn time meddlers. Every day some other crazy group decides to go back and change things, thinking that maybe no one in the present will notice. It seems like I constantly wake up in the Third Reich when some stupid college kid builds a closet time machine and goes back to make Hitler a martyr or something. I could deal with a little soy bacon if that was going to be the worst of today's time corrections. 
+
+"What are you plans for today, honey?" I asked, biting into my toast. At least strawberry jam was the same. 
+
+"Paul has that field trip today for science class," she said. "Cretaceous period." She nodded over to the plastic suits in the corner that would pretty much immobilize our son while he was back in time. Wouldn't want someone stepping on the wrong little mammal or something like that. "The school is requiring twice the normal number of parents after the American Revolution incident." I rolled my eyes. Some punk in our daughter's class had decided that the lamp from Old North Church would make for a nice souvenir and had accidentally prevented America from ever existing. Boy, the Time Rectification Division had *not* been happy about that and even threatened to cancel all time trips for every student in the district. Luckily the History department had enough clout with the administration to make sure that didn't happen.
+
+I checked my watch. "Well, hon, as much as I loved eating my blobs of soy," I grinned as she scowled at me, "I must be off to work." I grabbed my keys, gave her a kiss, and headed towards the door. 
+
+She waved the morning time rectification report at me. "Take the I-16 instead of your normal route. It looks like..." she studied the screen a bit closer, "Wow, that's a doozy. Someone apparently went back to pre-Columbian America and formed an empire for themselves. The Rectification Division is still getting rid of the monumental statues where the highway used to be." I rolled my eyes. More megalomaniacs going back and playing god with advanced technology. 
+
+I headed out to my car. Just as I reached for the door handle, everything began to shimmer in a time slip. "Oh, come on!" I growled, checking my watch again. With the traffic diversion, I was *already* going to be late. 
+
+When everything solidified again, my gleaming new car was gone, replaced by what looked like an old steam-powered Model-T. "Great," I grumbled, sliding into the seat and trying to work the bellows enough to get this pile of junk moving. Yet another day where someone decides to fix global warming by preventing humans from every using fossil fuels. "Just fucking great."
+
+
+
+----
+
+[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell) [url](https://www.reddit.com/r/WritingPrompts/comments/4jw9zo/wp_as_someone_is_time_travelling_and_changing_the/) 
+
+----
+
+#### [WP] A man orders a "cheese pizza with no crust" from a local pizza delivery joint as a joke. Unbeknownst to him, that pizza joint is a drug front and he just placed an order for a kilo of cocaine.
+
+Score: 392
+
+“Thirty five.” 
+
+The kid, whose baseball cap was on backwards like it was the middle of the nineties again, was holding  a bundle under his arm, wrapped up in a brown paper bag that was way too small to be a pizza. 
+
+“Alright, I get it. I thought I was funny. It wasn't funny. I didn't actually want a block of cheese kid, it was a joke.”
+
+“Thirty five.”
+
+This time he held his hand out, the look on his face speaking volumes about how much he didn't want to deal with this shit right now. 
+
+“Alright, alright, but thirty five is a little steep for cheese you know? What kind of cheese costs that much?” 
+
+If I was being honest, I didn't buy cheese often enough to know first hand how much a block could cost. The only things in my fridge at that time were some condiments, a few bottles of light beer and leftovers from three weeks ago that I kept convincing myself would be fine to eat whenever I got around to it. Maybe I should have actually bought a pizza tonight instead of being a smart ass and loosing thirty five dollars for a damn block of cheese.  
+
+Fishing my wallet out of my back pocket, I held out a fifty and raised a brow at the teen. “You got any change?”
+
+Suddenly clutching the bag more closely now, his eyes narrowed and he shifted his feet, glancing out at the road as though to be sure nobody was there waiting for him. 
+
+“No, you idiot, it's thirty five thousand, how new are you at this? Is this a fucking sting?”
+
+“What the hell are you talking about? No cheese costs that much! It was a prank call, I never thought you guys would fill the order!”
+
+“Wh—cheese? Wait, who the fuck places a prank call order for a kilo of coke?!”
+
+His voice was hushed, but he was screaming as much as a person could hope to in the midst of whispering like this was some sort of dr--- What!?
+
+“No, no way. That is not what I ordered. I did not order that. Is that what you have in the bag!? I ordered a cheese pizza with no crust!”
+
+“Yeah!” the kid was hissing now, fingers clenching anxiously against the brown paper. “Exactly, and that's code for a kilo of coke. If I bring this back my boss is going to have my ass!”
+
+Holding my hands up, I took a stride back into the house and shook my head. “Well I don't have that kind of money!”
+
+A police cruiser rolled down the street, and I could only imagine that I looked like as much of a deer in the headlights as I thought I did, because the delivery driver grit his teeth and ground under his breath a stern. “Hand me the fifty bucks.” Operating on auto pilot, my eyes still locked none so subtly on the police car, I held out the hand that the bill was crumpled in and dropped the sweaty thing into his hand. 
+
+Shoving the bag into my arms, the kid caught my eye and held it with an intensity I didn't even think possible on that pock ridden face. “Now,” he muttered. “I'll be back for the rest of that money in a week, so you better start getting real creative.”
+
+As he jogged back to the beat up old Honda haphazardly parked at the end of the driveway, I somehow managed to shut the door behind him. 
+
+--------------------------------
+
+“Sir?” Snapped back to the present, I blinked at the travel agent in her smart pantsuit and wondered briefly if she took her job too seriously.  “Sir, you said Mexico is where you'd like to book a cruise to? Anything particular you're looking for from your trip?”
+
+“Oh...” Scratching the back of my neck and chuckling under my breath, I shrugged. “You know, tacos and shit. I love Mexican food. You can uh, only eat so much pizza right?”
+
+----
+
+[BloodthirstyBunny](https://www.reddit.com/user/BloodthirstyBunny) [url](https://www.reddit.com/r/WritingPrompts/comments/4m7yfs/wp_a_man_orders_a_cheese_pizza_with_no_crust_from/) 
+
+----
+
+#### [OT] psycho_alpaca's guide on how to funny.
+
+Score: 390
+
+>Good humor is sparse, and catches you off guard when you least expect it, like a good prank, or syphilis.
+
+*I see what you did there.*
+
+----
+
+[Protaokper](https://www.reddit.com/user/Protaokper) [url](https://www.reddit.com/r/WritingPrompts/comments/4ki47j/ot_psycho_alpacas_guide_on_how_to_funny/) 
+
+----
+
+#### [WP] Christopher Robin (from Winnie the Pooh) and Calvin (from Calvin and Hobbes) Play in the same woods and go to the same school (different classes). One day they stumble across eachother and all hell breaks loose because they can see eachothers' stuffed animals.
+
+Score: 380
+
+"So the question is," said Calvin, "Why are we being asked to add and subtract when we've never been told why?"
+
+"Turn left here," said Hobbes. Calvin turned right, and Hobbes groaned. The red wagon tipped over the hill and began picking up even more speed.
+
+"How does math add meaning to our life?" Calvin continued, jerking the wagon handle to narrowly dodge a large tree. The wagon momentarily tipped onto two wheels. "Why aren't we being taught about ourselves? Why isn't our personal ontology being given any significance?"
+
+"Turn right here," said Hobbes. Calvin turned left, and Hobbes groaned again.
+
+"I believe that we shouldn't follow other people's advice unless they can give a very good reason."
+
+"We've never been this way," said Hobbes. "We don't know what might be in front of..."
+
+"And even then, we should stand up for ourselves," said Calvin. He let go of the wagon handle and smack his fist into the palm of his hand for emphasis.
+
+"It's a cliff! Stop!" yelled Hobbes.
+
+"We should be given the right to make our own mistakes. To go the road less traveled by--"
+
+"Stop-stop-STOP!"
+
+"--to learn the hard way. To--"
+
+But Calvin never got a chance to finish his speech. For at that moment, the wagon tipped over a steep cliff, and kid and tiger and wagon flew into the air. Each arced through the air in a graceful fall and landed squarely in a prickly bush in the ravine below. 
+
+"See," said Calvin, "if I had never ignored your advice, we would never have known not to come this way."
+
+"What a success," grumbled Hobbes, sitting up gingerly. "I think I bruised my spine."
+
+"I thought you said tigers always land on their feet," said Calvin as he brushed twigs out of his hair.
+
+"We do," said Hobbes, "but it's impossible to land on your feet when you land on a thistle bush. Wait a minute--" 
+
+"What?"
+
+Hobbes got to his feet and looked around suspiciously. "Someone's been eating this recently." He pointed to a branch that seemed to have been bitten off.
+
+"Huh," said Calvin. "Can you grab the wagon? I can't reach it without scratching myself."
+
+"Get it yourself," snapped Hobbes. 
+
+
+* * *
+
+The two friends, dragging a red wagon with one bent wheel, made their way down the ravine in the afternoon light. Presently the walls of the ravine fell away and they found themselves in a section of the woods they had never been before. It was pleasant and green and thick with trees. Hobbes looked about curiously and sniffed.
+
+"See," said Calvin. "Mistakes let you go places you never would have otherwise."
+
+"Shut up," said Hobbes, rubbing his back. "What's this?"
+
+There in front of them was a wooden door built into the bottom of tree. Above the doorway was written "Mr Sanders." Hobbes noticed that the last "s" was backwards. 
+
+"Let's find out," said Calvin. He tried the door, and it swung open easily.
+
+"Wait! You can't just walk in," said Hobbes. "What if somebody lives there?"
+
+"Oh, don't be such a girl," said Calvin and dragged the reluctant tiger inside.
+
+It looked as though someone did, in fact, live there. The floor was wood, comfortable-looking furniture was scattered about, and a pleasantly sweet smell filled the place. A clock on the wall pointed to 10:55, but it wasn't ticking.
+
+"We shouldn't be here," said Hobbes nervously.
+
+Before Calvin could answer there was a noise at the door. They both spun around to see a young boy standing at the doorway. He wore shorts and had messy brown hair that was longer than Calvin's. 
+
+"What are you doing here?" frowned the boy. He had a funny accent.
+
+"Hey," said Calvin. "Are you Mr. Sanders?"
+
+"No. Mr. Sanders used to live here, but now my friend does. Are you burglars?"
+
+"Just apologize and let's leave," said Hobbes.
+
+"No, it's alright, as long as you didn't steal anything," said the boy. He turned to look at Hobbes and smiled.
+Both Calvin and Hobbes jumped. People always ignored Hobbes. He was always very proud of this--humans are afraid of tigers (as they should be), and people ignore things they're scared of. But now, here was this boy, staring right at him. And smiling.
+
+"You're friends with a tiger?" the boy said to Calvin. "I don't know anyone besides me who has animal friends."
+Hobbes shook himself and stepped forward, extending his paw. "I'm Hobbes, and this is Calvin."
+
+"I'm Christopher Robin," said the boy. "Do you want to play?"
+
+
+* * *
+
+If you were to go on a walk through the Hundred-Acre Wood that day, you might just have seen two young boys playing. But if you looked closely, you would realize that it wasn't just two boys--there were also animals: a quiet bear, a shy young pig, a tiny but enthusiastic kangaroo, two tigers, and many more. And if you really payed attention, you might have even seen an owl swoop silently overhead.
+
+You would have seen a heffalump hunt and a baseball game. A game where it seemed like everyone was making up the rules as they went along, and another where everyone dropped sticks off of a bridge to see which one got to the other side faster. The bear who lived in the Mr Sanders house even recited several pieces of his own poetry. 
+
+
+* * *
+
+
+Finally, when it was getting dark, the brown-haired boy had to go home. One by one the other animals said goodbye and wandered off until just the blond-haired boy and the taller tiger remained. Calvin picked up the handle of his wagon and sighed. 
+
+"Those were some strange people!" said Calvin.
+
+"Nice though," said Hobbes.
+
+"True," said Calvin. "And there was another tiger!"
+
+"Hm," sniffed Hobbes. "I didn't much like him. He tackled me during CalvinBall. You don't know what it's liked to be flattened out of nowhere by a giggling orange blur."
+
+Calvin snorted. 
+
+"The bear was nice, though," continued Hobbes. "And dropping the sticks off the bridge was fun."
+
+"Poohsticks, yeah, I guess," said Calvin. "But isn't it a little self-centered to name a game after yourself?"
+
+Hobbes cleared his throat but didn't say anything. He looked around. "How do you suppose we get home from here?"
+
+"No, no, we can't go home yet!" said Calvin. "Rosalyn will never find us here."
+
+
+* * * * *
+
+
+----
+
+[NotAllWhoWonderRLost](https://www.reddit.com/user/NotAllWhoWonderRLost) [url](https://www.reddit.com/r/WritingPrompts/comments/4jcpdp/wp_christopher_robin_from_winnie_the_pooh_and/) 
+
+----
+
+#### [WP] The invasion of Earth has finally begun but it is not the humans who are putting up the fiercest resistance.
+
+Score: 364
+
+As the mother ship, 2000 meters long and covered with bulbuos spines, approached inner orbit, captain k'rac of the imperium of zel, conquerer of a hundred worlds and slayer of the crab nebula hordes, was signaled by one of the communications officers on the bridge.
+
+"We are approaching our designated landing point, captan" clicked the prawn like navigator.
+
+"Good" rumbled k'rac. "How long before we land on terra?"
+
+"Approximately 20,000 flashes of a pulsar, " replied the officer, performing and double checking the minute calculations needed to breach orbit. 
+"The swarm mother's larva have reported that the dominant species, known as "homo sapiens", are stupid and weak, only using crude ballistic and nuclear weapons".
+
+"Wonderful!" chuckled (or as close to chuckling as a giant shrimp could) k'rac. "Agitate the hives, wake the dirgecallers, and prepare the photon mortars, this will be a slaughter!" As he began to leave the bridge and make his report to the monarch, k'rac turned back, as an afterthought struck him "Where does our first battle begin?"
+
+"An island, uninhabitable by humans in the center and a good landing point, clicked the underling. "The dominant ape species here calls it..." 
+the communications officer squinted at the hazy intercepted maps, taken from rogue satellites flung out of earths orbit;
+
+"Australia"
+
+*I wrote this on my phone, sorry for bad formatting and grammar*
+
+Edit 1: fixed some misspellings and missing words. Still crap
+
+
+----
+
+[Spz135](https://www.reddit.com/user/Spz135) [url](https://www.reddit.com/r/WritingPrompts/comments/4jrcdt/wp_the_invasion_of_earth_has_finally_begun_but_it/) 
+
+----
+
+#### [WP] The aliens have arrived however they are not here for war. Instead after reading our broadcast of the United States Constitution they want to join as the 51 state and have brought a small planetoid into orbit to serve as the 51 state.
+
+Score: 362
+
+Somewhere beneath the White House - in a basement that doubled as a bomb shelter - the President and his most trusted advisors met. He sat tapping his fingers against the table in agitation as the others argued.
+
+"They may try to destroy us if we send them a sign of weakness," a general said. The Secretary of State and Vice President exchanged looks.
+
+"Mr. President, are you bored?"
+
+He turned his gaze to them with his eyebrows up. "I just don't know what kind of aliens they think they are. They aren't that smart. They aren't that great. Don't they know? America is a great country and they can't even get the numbers right."
+
+"The...the numbers?" asked the Vice President. 
+
+The President laughed. "Why, they say they want to be the *fifty-first* state. That's too funny. They obviously didn't learn their history well 'cause there are *already* fifty-one states." 
+
+The room fell quiet. 
+
+The secretary of state leaned over to the general. "Perhaps," he whispered, "it would be best if we play along, and come up with the real plan later." 
+
+---
+
+Thanks for reading :). For more stories check out /r/Celsius232 
+
+----
+
+[232C](https://www.reddit.com/user/232C) [url](https://www.reddit.com/r/WritingPrompts/comments/4mt35b/wp_the_aliens_have_arrived_however_they_are_not/) 
+
+----
+
+#### [WP] A superhero whose punches heal rather than harm. Their origin story is kicking the shit out of a kid with terminal cancer.
+
+Score: 351
+
+It all started twenty years ago, when a drug-fueled teenager with a temper came across a young boy sitting on a wheelchair, all by himself in a deserted park on a Sunday evening.
+
+"What you doing out here by yourself?" I said, staggering over to him.
+
+"Hi," he said. "Doc said I've got two days left, so mom's taking me around the neighborhood. You know, see some friends, say goodbyes."
+
+"Where's your mom now?"
+
+He looked like he wanted to shrug but his shoulders were too weak. "Dunno. Buying something from the store, I guess."
+
+"Listen, man, you got any money?" I said. Without waiting for an answer, I began  undoing the clasp of his watch.
+
+"Hey, what're you—don't take that! My dad gave me that!" He grabbed my wrist with a limp hand. Before I knew what I was doing, I punched him across the face.
+
+"Don't touch me," I roared. "You're going to die anyway!"
+
+"No," he said, only to be met by another punch. "Please—"
+
+"Let go!" Our tugging led to him toppling from his wheelchair. In my blind rage, I began kicking him in the belly. He squealed, almost like a piglet, from each blow. His legs, which had been still the entire time, began to thrash as well.
+
+Finally, pulling my arms free from his hands, I ran. I didn't even think about my actions then.
+
+It was only two days later that I realized what I'd done just for a couple of beers. He would've been dead by now, but only because I'd killed him.
+
+***
+
+'cept the poor bastard didn't die. I only remembered because he appeared in the news, hale and hearty, standing proud beside his weeping mother. Every paper, every channel, was calling him a miracle.
+
+Of course, back then I thought so too. Now, years later, I knew better. I stood before a wall in my room plastered with newspaper cuttings and magazine articles, of children who've been on the brink of death and lived. Men who've had limbs detached, only to regain them with little more trouble than simply sticking the parts back on. Women wasted away by disease, now out in the world doing great things.
+
+All because of me.
+
+I strode in front of the mirror and struck a pose: pecs trust out, hands on my hips, butt to the side. I've gone by so many names. The Man Who Punches Cancer. Germbeater. Hospital Crasher.
+
+But most recently, I'd been officially given a designation by the city, after I saved more than sixty dying children at a care center.
+
+I am the Bad Touch.
+
+And it was time for me to go to work.
+
+***
+
+"Don't worry," I said to the parents standing by the bed. They always worried, for some reason. "This won't hurt a bit."
+
+The mother bit her lips and nodded, allowing her husband to pull her back.
+
+Their daughter lay before me, comatose. A horrible fall had broken something in her skull. Doctors couldn't do anything, which was where I came in. Well, I usually came in whether they wanted me to or not. Hospital Crasher. Good health before the whims of man.
+
+"Here comes the bad touch!" I shouted, and slammed both fists into her chest.
+
+She jerked awake with a cry. At once, the nearby doctors and nurses came running, along with security. I only had a bit of time before their hesitation to chase me away was overruled by protocol.
+
+"Don't worry, dearie," I told the coughing girl, patting my biceps. "My slabs'll take care of you." With that, I threw a flurry of punches into her face, burying her in the folds of her pillow. Her mother sobbed behind me as her father comforted her.
+
+Within minutes, it was over. She was dancing with her laughing and crying parents, and security guards were half-heartedly chasing me from the building. I ran with a spring in my steps, head held high. Another child saved. Death denied once more.
+
+My next target was across town, at an old facility, requiring me to take a cab. This request had come in my email. Young boy, dying of cancer, paralyzed. The guards let me in without a word. Strange, usually they asked a ton of questions.
+
+As a nurse led me to the third floor, I couldn't help but feel uneasy at the state of the place. It was rundown; filled with outdated equipment, grim-looking staff and few patients at all. Once, I even saw a rat slip out from a crack in the wall to dash among slippers.
+
+"In here," she said, opening a door to a ward. Right after I walked in, she slammed the door behind me and locked it. I gave it no thought, however. A kid here needed my help.
+
+He was sitting by the window, on a wheelchair, looking outside with dull eyes. His body was emaciated, and he didn't even turn his head when I knelt by his side.
+
+"Son, you're a real champ," I told him quietly. "But you're in for a beating."
+
+"I thought so too," said a voice behind me.
+
+I spun around to face a young, clean-shaven man wearing an expensive-looking suit. He was smiling and fingering a tarnished watch on his wrist.
+
+"Who're you?" I said.
+
+He smiled even wider and gestured at the boy. "I'm not what's important right now. Doctors say he only has two days. Can I watch you work?"
+
+"Two days is plenty," I said, standing up. "Answer my question."
+
+"Don't you remember me? I used to sit in a chair like that, once. Until someone tried to rob me."
+
+That watch ... the pieces clicked into place in my mind. "You? What're you doing here? What's all this?"
+
+He shrugged and swept his hand around. "This dump? I own this place. You gave me a second chance, and I wasn't going to waste it."
+
+"Emerson Care," he announced suddenly. "That's my name, by the way. I never got the chance to tell you. Or thank you."
+
+My eyes went wide. "Emerson. Lucas Emerson? You're on the city's medical board. You own ... you own almost all the private hospitals here."
+
+"And care centers, treatment centers, pharmacies, medical research labs ... the list goes on. You see, ever since you saved my life, I've been a tad ... interested in healthcare."
+
+"Good to hear that," I said, preparing to flex my muscles. Corporate executives loved that.
+
+He pursed his lips. "Yeah, not so great when someone's running around town healing everyone. Occupancy rate's shit these days. Profits are down, and I can barely keep the lights running in some of them. This place, for instance."
+
+That sense of unease tripled. "Why have you brought me here?"
+
+Lucas grinned, but his eyes were cold. "People don't need a miracle, Bad Touch. We aren't designed to live forever. When old age comes, people need beds, and rest, and medicine. I give them all that. I don't need a charlatan taking all that away from them. You're a false prophet. And I cannot allow you to keep doing what you do."
+
+The door opened once more, and two men in suits came in. Both were huge and intimidating.
+
+"Way I see it, you have a choice." Lucas pointed at the child behind us. "You can keep healing them. I'm not against that. I don't forget my roots. But you do it when I say you do. I don't lose all my profits; you get to keep some of them alive. Win-win."
+
+"And if I refuse?" I said, fists clenched.
+
+"Then we'll see if your own fists work on you." He snapped his fingers, and his men strode toward us. "But think fast. Consider your time window ... terminal."
+
+***
+
+*For more stories, visit [The Nonsense Locker](http://reddit.com/r/nonsenselocker)!*
+
+----
+
+[Bilgebum](https://www.reddit.com/user/Bilgebum) [url](https://www.reddit.com/r/WritingPrompts/comments/4lnl48/wp_a_superhero_whose_punches_heal_rather_than/) 
+
+----
+
+#### [WP] A guy sells his soul to the devil, but the guy is the best lawyer in the world and manages to turn the deal around.
+
+Score: 346
+
+"Alright, there's one final stipulation before you sign the dotted line," said the lawyer, shuffling the paper on the desk. They were specialized, made from a substance that could not be burned, and the wood fiber ones typically erupted into flame after five to six minutes in Hell. 
+
+"Which is?" Said an exasperated Devil, swishing his tail left and right with impatience. 
+
+"That in the future, when I come to pay you my soul, I can exchange any soul considered to be greater than my own if I can bring them down to this room."
+
+"Who gets to decide if they're greater?" Said the Devil, his eyes squinted in suspicion. 
+
+"You do, you do of course. Think of it as a way to get more for your money. Now, I'm ready for you to sign."
+
+The devil pulled out his pen, made from black obsidian, and the ink made from things far worse typically found within the human body. With a swishing signature he wrote his name, smoke curling up from the letters as the ink dried. 
+
+"And here," said the lawyer, "And here. Here too."
+
+Fifteen minutes later, and thirty seven signatures later, they were finished. The devil smiled, knowing it was now a waiting game. That for the cheap price of a billion dollars, the most beautiful woman in the state, and a successful career, he was now one soul up. 
+
+All he had to do was wait for the man to die. 
+
+***
+
+Eighty six years passed. Humans now lived longer than they used to, meaning their debt took longer to pay, which was wreaking havoc in his soul finances and flow team. 
+
+The knock came boldly before the lawyer stepped in, wrinkles crossing his face, a smoldering cane at his side. 
+
+"Was it worth it?" Asked the Devil as the lawyer entered the room. 
+
+"Indeed. I would say that is was."
+
+"We'll see if you say that in a thousand years!" Replied the Devil, as he fetched a pair of glowing red handcuffs. 
+
+"But wait!" Said the lawyer, "I've brought another soul to this room, like we agreed upon. One greater than I, and I demand a trade!"
+
+"A trade?" Said the Devil, looking to the left and right, "But there is no one else here."
+
+"But there is! *You* are here, and I'd like to trade my soul for yours!"
+
+"Ridiculous," said the Devil, "I won't accept that."
+
+"You have to.  You signed here," the lawyer pulled the packet from his briefcase, yellow sticky notes covering the pages, "It says I can trade my souls for any greater soul in this room. Unless, of course, you consider my soul to be more valuable that yours."
+
+The Devil's jaw clenched as he sat in his chair, and the lawyer spoke again. 
+
+"Well, is it?  Is mine more valuable?"
+
+"No," hissed the devil through his pride, as the lawyer turned to leave. Before the door shut he called out to him, "You'll still burn in Hell! You didn't escape that!"
+
+From the door the lawyer nodded with a smile. 
+
+"I'm a lawyer. I expected no less, so this was the best deal I could get."
+
+
+***
+
+By Leo 
+
+----
+
+[LeoDuhVinci](https://www.reddit.com/user/LeoDuhVinci) [url](https://www.reddit.com/r/WritingPrompts/comments/4kin5m/wp_a_guy_sells_his_soul_to_the_devil_but_the_guy/) 
+
+----
+
+#### [WP] You are a hero with a strange power. Every time you raise your hand in a catching position, a voice yells a party nickname for you and a drink or drug tossed into your hand with impressive speed and accuracy. This is your epic.
+
+Score: 343
+
+It started at a party a while back.  Lots of people, loud music, hot, sweaty.  A good party.  I was dancing with this babe, seemed to making some progress with her.  There was a pause between the tunes and she asked if I would get her something to drink.  I was not about to leave her, so I looked over to where the beer cooler was, stuck my hand up and shouted "somebody beer me".
+
+From somewhere I heard someone say "Bob-bay" and a beer hit my hand.  I was at a party, that's how it's supposed to go.  It handed it to her and I could tell beer wasn't really her drink.  Just then another song started.  It was one of my current favs and I shot my hand up in the air in appreciation.  "Bobster!" I heard over the tune, and a bottle hit my hand. Somehow I reflexively caught the bottle.  I looked at in surprise, and my dance partner took it with a thankful look in her eye.
+
+That was the beginning.  It took me a little bit to "get" what was happening. I don't understand why it's happening, mind you, only the process.  I stick my hand up in the air, I heard a voice from somewhere shouting a variation on my name or some other nickname, and some type of "party substance" hits my open hand with amazing speed and accuracy, and I catch it every time.
+
+It was fun at first.  I'm hot and thirsty?  Pow, beer.  I want to relax, a fat joint.  I want to party...you get the idea.  It's almost always appropriate to the situation I'm in or who I'm with. Its made me a very popular guy to be with too.  I could always get you something.
+
+I just wish I could control it.  I had to stop raising my hand in class as my college professors found it disruptive.  I can't go to sporting events or concerts, or anywhere cheering might be involved as the constant incoming volley of cans or bottles or bags is difficult to deal with. Playing sports?  Forget about it.  
+
+The worst though is what landed me where I am, in the hospital.  I was cruising down the street down by the beach. There was traffic and fair number of people.  I saw a buddy of mine and absently threw my hand up to wave at him as I called his name.  I big can of Foster's Lager hit my hand.  I caught of course, I always do.  I also lost my balance.  I mentioned the traffic right?
+
+I came to while the paramedics were attending to me.  I was lying down, my right arm was broken, along with several other injuries. I was kinda out of it for a bit, but the horror my injuries were made evident in the hospital.  You see, because of the injury to my arm, and shoulder, and everything else, they needed to keep my arm immobilized.  And elevated.
+
+Make it stop.  I can't take it any more.
+
+----
+
+[Trolldad_IRL](https://www.reddit.com/user/Trolldad_IRL) [url](https://www.reddit.com/r/WritingPrompts/comments/4lrozb/wp_you_are_a_hero_with_a_strange_power_every_time/) 
+
+----
+
+#### [WP] You live in a world where nobody could die until they have carried out their purpose. You have done everything conceivable, but you're still alive after centuries.
+
+Score: 341
+
+Sir Ronald collapsed onto the cold stone floor. The statues of The Twelve gazed upon him, their faces cold to the knight's sorrow.
+
+"What more do you want from me?" Ronald whispered, his voice cracking up. "I've slain the Beast of Darkness, I've saved the world from the flames of Azavar, I've returned the holy relics of Sir Veremur to their rightful place in your shrine. What more could you possibly ask of me? Why won't you accept me? When will my time finally come?"
+
+The Twelve remained silent.
+
+"For centuries I served you. I've seen so many of my friends and comrades pass on to your embrace. Am I really not worthy? Will I be destined to wander this land alone even when everyone else has fulfilled their purpose." Tears of pain and anger rolled down the old knight's scarred cheeks. "Is this my fate?"
+
+The Twelve remained silent.
+
+"Why? Why am I not worthy?" Sir Ronald jumped up to his feet, his voice echoing throughout the Great Temple. "I've done more than any other knight in the history of the Order! I deserve what is rightfully mine! How can you just stand there? Without me this world would be nothing, but dust and ash! Why do you ignore me?"
+
+The Twelve remained silent.
+
+"Answer me, pathetic fakes!"
+
+Ronald felt his heart pounding in his ears. With his vision enveloped in a shroud of red, the knight gripped his sword and struck at the statue of the Allfather. A thundering crack resounded, as the marble cracked from the terrifying force of the blow. The pale head rolled off the statue's shoulders and shattered on the floor.
+
+Ronald stared in disbelief at the dark blood pouring out of the cracked marble and creeping along towards his feet. Trembling, the knight made two steps back, horror gripping coldly at his heart. The red substance climbed the steel leggings, slowly enveloping Ronald. From the liquid he felt a warmth slowly building up into a roaring almost incinerating heat. It squeezed into every crack making it's way towards Ronald's body, surrounding him in a flowing burning veil.
+
+The knight screamed in agony, feeling his flesh and bone being burned and rebuilt by the blood. Yet before long the pain ceased and only a sensation of newfound power remained. The sword in his hand ignited, painting the room with an ominous red light.
+
+"So this is my fate?" Ronald asked, his voice unnaturally deep. "Then send your champions, gods, let's see who prevails."
+
+Having said that, Ronald, who would later be known as the Godslayer, left the chapel, his laugh filling the halls.
+
+----
+
+[Pyronar](https://www.reddit.com/user/Pyronar) [url](https://www.reddit.com/r/WritingPrompts/comments/4kz46m/wp_you_live_in_a_world_where_nobody_could_die/) 
+
+----
+
+#### [WP] You applied for a job at google, everything goes well and only one interview remains: They'd just like an explanation for your search history.
+
+Score: 340
+
+The knock on my door came like a blast of thunder. I jumped up in my armchair and looked at the time. Eight past midnight.
+
+"Who's that?" I called. The armchair was so soft I didn't want to get up for no good reason.
+
+"I'm Ms. Vernon from Google. We scheduled an interview today, remember?"
+
+I groaned and shambled to the door. "You're six hours late. Can't you come back—"
+
+The moment I unlocked the door, a pair of bulky robots burst inside and grabbed hold of my arms. Following them was a middle-aged woman all dressed in black.
+
+"What're you doing to me? Let me go!" I shouted.
+
+"Your interview has begun," she said sweetly. "I suggest that you watch your tone."
+
+The robots dragged me to the living room and forced me into my armchair, while Ms. Vernon perched herself on the piano stool. When they were certain I wasn't going to try and run, the robots released my arms and stepped back.
+
+"You can't just bring your private enforcers into my home," I said. "I have rights—"
+
+"You signed your rights away in the job application contract, remember?" She waved a Google tablet before me, the offending document on display. "Along with your rights to sue for any bodily harm caused, so I suggest you behave yourself."
+
+"I thought I was supposed to meet one of your top executives," I said. "Who are you?"
+
+"I'm the special assistant to our COO," she said, swiping her fingers over the tablet. "But that's not for discussion. We're actually pretty impressed with your scores. Why, I'd say you're almost a prodigy, especially for a fifty-year-old man."
+
+"Do you manhandle all your star applicants?"
+
+"No," she said, voice cold. "Only the ones with a suspect search history."
+
+I gulped; despite my earlier bravado and indignation, I knew I was in true danger now. Even as she slid her tablet across the coffee table to me, I was tensing up.
+
+"Explain—" she said. "—why you don't have a search history."
+
+My jaw worked soundlessly as I looked at the robots. Their red eye slits watched me impassively. Someone had turned the inside of my mouth into a desert. "I—I—"
+
+"Nothing at all," she said. "Not a single search performed on Google in your entire life. How is that possible in the twenty-second century?"
+
+I could only shake my head.
+
+"We even checked the archives of Bing during the days before we bought Microsoft. Nothing from you. Where did you learn to code? How do you even use the Internet?"
+
+"I don't," I said, face flushing. "I—I visit libraries. I borrow a lot of books—really, I can show you my study—"
+
+"Pretend for one second that I'm an idiot," she said. "That I believe your horseshit about books. How do you remember everything you read? The primary needs of mankind are Google search and wifi, before even food. How do you survive without using a search engine?"
+
+I licked my lips. "I go outside. A lot. I buy things from stores, I talk to professors, I borrow books. I can show—"
+
+"Liar. You've done something to conceal your search history." She snapped her fingers, and the robots seized me again. "But Google knows. Google always knows. We'll find the truth."
+
+"I'm not lying," I screamed. "I haven't even switched my computer on for a day!"
+
+"You use your phone."
+
+"I use my phone for calls!"
+
+Her eyes widened. "You monster."
+
+"I'm speaking the truth! Please, no, please ..." My pleas and tears went unanswered as they marched me out of the door.
+
+All around us, my neighbors watched silently through the lens of their phones. No doubt they were using VideoGoogle to discover my crime. The only thing I'd ever wanted was to work at Google like my father before me. But the woman's eyes told me all I needed to know. I, the last of the Zuckerbergs, had just failed my entire line.
+
+***
+
+Edit: minor error
+
+*Come to [The Nonsense Locker](http://reddit.com/r/nonsenselocker) for more stories!*
+
+----
+
+[Bilgebum](https://www.reddit.com/user/Bilgebum) [url](https://www.reddit.com/r/WritingPrompts/comments/4mciak/wp_you_applied_for_a_job_at_google_everything/) 
+
+----
+
+#### [WP] You discover that you suddenly gain the ability to control anyone you'd like. However, their consciousness talks to you as you do so.
+
+Score: 336
+
+I can't stop staring at her. She is just *so* hot. Her pencil skirt is little more than a belt and she has dressed like that on purpose. Oh God help me, I shouldn't be looking, she is half my age. But I just can't stop staring.
+
+*Damn, I am so thirsty. I bet that perv over by the bar would buy me a drink. He can't stop looking at me! He must be like, 40, and he's alone in a club. What a fucking loser. At his age he must have a bit of money though.*
+
+What just happened... am I going insane? Did I pretend to hear her thoughts? Oh shit, she's coming over.
+
+"Hey mister! You're pretty hot, for an older guy. Wanna buy me a drink?"
+
+She is using me, I know it! I heard her thoughts. Can I do it again? Can I do *more?* I was just staring at her like this...
+
+*God he is ugly. Two drinks and I am getting the fuck away from him. Wait, what the fuck am I doing... why am I leaning towards him, oh shit I'm going to kiss him!! HELP! OH GOD I CAN'T MOVE!*
+
+*You think it's funny dressing like that? Tormenting men with those legs?*
+
+*Oh Christ, how are you in my head? Please leave me alone mister! I'm only 15!*
+
+*What am I doing...* 
+
+"Leave the club and go home! Do not come back here until you are twenty one. Leave now or I will get inside you head and make you do far worse!"
+
+How did I do that? I almost *made* her kiss me.  Good, she has run off. I would have hated myself for the rest of my life if I had even kissed her. My divorce was tough but this isn't the answer.  
+
+---
+
+Those lads over there are laughing at me. I know it, I can see them turning their heads for a quick glance, then they turn back to their mates and laugh. They need to be taught a lesson. I'm going to take over the cocky looking one and have some fun.
+
+*I'm glad that old guy is taking my mates attention away from me. I haven't smiled in a year. Not since mum died. I know my mates are totally fed up with me being such a downer, but man, I just hate my life. I hate myself.*
+
+Oh shit, this poor kid... what's wrong with me. I have turned into a bitter and cynical old man.
+
+*Hey, can you hear me?*
+
+*Wh—who said that? Am I going mad?*
+
+*No, you are not. I am a, um, an angel.*
+
+*What?*
+
+*I am an angel, and I am up here with your mum. She has a message for you.*
+
+*M..mum?*
+
+*Yeah. She says that she loves you, and that she is proud of you.*
+
+*Oh God. Is this real? I'm crying in-front of my mates, I can't help it.*
+
+*She says that it was OK to cry, but it's time that you found your smile again. She says you have a beautiful smile. She wants to see it again.*
+
+*Please! Please tell my mum I love her and I miss her so, so much!*
+
+*She already knows.*
+
+*She does?*
+
+*Yep, she knows. Listen, I have got to go. But remember what I said.*
+
+Poor kid. Hope it gets easier for him. Hey, would you look at that, he's smiling.
+
+
+
+
+---
+
+Thank you for reading! I would be honoured if you checked out some of my other Writing Prompt responses: /r/nickofnight
+
+
+
+
+
+
+
+
+----
+
+[nickofnight](https://www.reddit.com/user/nickofnight) [url](https://www.reddit.com/r/WritingPrompts/comments/4mxzem/wp_you_discover_that_you_suddenly_gain_the/) 
+
+----
+
+#### [WP] Write a seemingly normal story, except for the last sentence, which makes the entire story creepy
+
+Score: 334
+
+They say parenthood is difficult, but my Charlie is an absolute angel! He stays perfectly quiet while I change him, never cried when I feed him his veggies, and loves going out! Just yesterday I took him for a ride in his stroller and he barely made a sound, he loves being outside so much.
+
+Other people just don't understand parenthood. They recoil and act like they've never seen a baby, they gag and vomit as if they didn't shit their diapers too at that age. 
+
+Little Charlie is the light of my life, but even he gets tired at the end of the day. So I put him in my car, through the driver's side of course. The passenger side still has a huge gash where that truck T boned me. I carefully buckle him in and drive him home, he needs his rest after all! 
+
+I lovingly tuck him into his little bed, kiss his cracked forehead, close the lid, and begin to rebury my son.
+
+----
+
+[brighterwings](https://www.reddit.com/user/brighterwings) [url](https://www.reddit.com/r/WritingPrompts/comments/4k2tdk/wp_write_a_seemingly_normal_story_except_for_the/) 
+
+----
+
+#### [WP] You are a medieval knight that just ate a magic mushroom without knowing what would happen.
+
+Score: 333
+
+The battle raged around me as I choked on the mud with my dying breaths. I couldn't feel my legs; an enemy swordsman had raked his sword across my spine. I couldn't feel my left hand; it lay in front of my face, fingers curled up, like a dead spider. I couldn't see out of one eye; not with an arrow in it.
+
+But I retained enough presence of mind to realize when someone stooped over me. An enemy, come to show mercy?
+
+"You look like you need help," the man said gravely.
+
+I tried to lift my head, to spit in his face for the insult, but my gaze made it no further than the hem of his cloak.
+
+"Perhaps this will do." He held out a small, purple mushroom before my nose. Through the smell of blood, smoke and earth, I caught a scent of peppery sharpness. "Partake of this power, and rise once more, brave warrior."
+
+Before I could resist, he grabbed my jaw and shoved the mushroom down my throat.
+
+"But be warned," he said, rising once more. "If you do not have the strength, the darkness will not save you, but claim you as it has so many others."
+
+"Let—it—try," I said. Then, I coughed up my liquefied insides all over his shoes and fainted.
+
+***
+
+Some time later, when the clash of steel had given way to the feasting songs of ravens, and the bellows of man turned to whimpers of pain and loss, I woke up on a field of fragrant, golden grass.
+
+So unexpected was the sight that I leaped to my feet, only realizing a moment later that all the agony I'd been feeling had disappeared. Vigor surged through me, like the power of a thousand galloping horses, like the warmth of the summer sun. My detached hand began dancing in joy around me on fingertips, like a colt bounding around its mother. There were no ravens; tiny, winged unicorns flitted through the air, squeaking songs of romance.
+
+"Look here, one of them's still alive."
+
+I turned slowly to face the speaker. It was a giant of a man, seven feet tall, his brawny frame exposed in full, bare-chested glory. In fact, everyone there seemed to be built solely to make a nun question her life choices. Some were astride mighty capybara steeds. The capybaras had fur of every color imaginable, and they wore Ray-Bans.
+
+The man hoisted a gigantic toothbrush in one hand. "Pick up your weapon," he said said. "I will not slay an unarmed man."
+
+I was too busy studying my surroundings to answer him. The castle had become a construct of pink, wobbly jelly. On its walls stood enemy archers: fat, bearded babies dressed in red, with quivers of red-white candy canes. The brawny men had taken prisoners, beautiful women in bikinis who for some reason had very hairy thighs and rough voices.
+
+"Fight me," the man shouted.
+
+"Very well," I said. Bending low, I picked up a giant feather and held it at the ready.
+
+With a roar, the man raised the toothbrush and charged, bristles rustling in the wind. I sidestepped his clumsy attack and tickled him across the back. Instantly, he deflated with a whizzing sound and went soaring away in the air.
+
+The rest of his fellows began attacking, but I had the element of surprise. I plowed through them, turning dozens of these brawny fellows flat as paper and sending them on unwanted flights. The women began screaming my name and giving lewd suggestions as they flashed their breasts.
+
+"I'm sorry," I said solemnly, taking cover behind a bread house as the archers let fly with their candy. "But I will have to swipe left for now."
+
+Without their footmen and their cavalry and their capybaras (I felt bad about tickling them, they quoted Shakespeare before turning into handbags), the archers stood no chance. I cut them all down, turning them into piles of melted sugar that smelled strangely of Cuban cigars.
+
+An hour later, I was the only combatant still standing in the castle yard. I wasn't the least bit tired, but the thought of spending quality time with all those women had me panting and drooling. But before I could make my way toward them, a thin man in a billowing cloak appeared next to me.
+
+"It seems you've saved your kingdom," he said.
+
+"You look like someone I've seen on Netflix," I said.
+
+He patted me, almost sympathetically, on my stump. Noticing that the cut was now oozing with vanilla ice cream, I began slurping on it. For some reason, he winced when I offered it to him.
+
+"I daresay the effects will wear off in an hour or so. If you survive, you'll be regretting this moment—"
+
+Before he could finish, I punched him in the face. As he lay unconscious, I rummaged through his belongings until I found a small pouch filled with familiar looking mushrooms.
+
+Without hesitating, I ate them all. I would make my kingdom great again.
+
+
+----
+
+[Bilgebum](https://www.reddit.com/user/Bilgebum) [url](https://www.reddit.com/r/WritingPrompts/comments/4jvhi0/wp_you_are_a_medieval_knight_that_just_ate_a/) 
+
+----
+
+#### Write a story that seems normal on first sight, except for one small detail that makes it extremely creepy on a more careful reading [WP]
+
+Score: 332
+
+They were so in love. He embraced her so tightly, she expressed herself so loudly that he made her quiet down as they didn't want to get caught. She even went on to tell people about her night with him. He was so embarrassed and bashful, claiming she exaggerated their experience together. 
+
+The sad part was, no one really believed her.
+
+----
+
+[NanjoQ](https://www.reddit.com/user/NanjoQ) [url](https://www.reddit.com/r/WritingPrompts/comments/4mp0wd/write_a_story_that_seems_normal_on_first_sight/) 
+
+----
+
+#### [WP] You're living in a fantasy due to a coma. But it's actually really great and you don't want to wake up. You try to ignore all of the increasingly obvious 'Wake up' hints being thrown at you so you can continue to live in your dream world.
+
+Score: 329
+
+"Fine haul today," the guard said, chuckling as he eyed the prisoner I was leading.
+
+She was beautiful, with a creamy complexion, dark, doe eyes and rosy lips. The dress of sheer silk she wore seemed molded to her curves. Her wrists were bound together in front, causing her biceps to push out her already ample chest. No need to guess where the guard was looking.
+
+"Careful with her, she's a witch. And a feisty one," I said, winking at her.
+
+She pouted at me as the guard handed me a bag and said, "Don't know how you do it. Do you catch them when they're asleep or something?"
+
+I jingled the bag's contents with a grin. "Interesting what can happen when you're in a bed. She's all yours."
+
+"Come on, baby, let me off easy," the witch said. "Didn't I make you feel like you were in a dream?"
+
+"See you when you get out," I said with a laugh. Giving her a final slap on the rump, I walked back the way I'd come.
+
+We were miles underground, in the labyrinthine Hollows. Once the hidden fortress of a mighty kingdom, it had since been donated for use as a prison by the remaining members of the royal family. Now, only prison guards and their wards prowled the torch-lit caverns.
+
+My breath misted the air as I climbed a sloping path toward one of the portals that led to the surface. Thinking back to the guard station earlier where I handed Theyenaa over, I wondered how they would treat her. Nothing harsh, I was sure. She had only been guilty of thieving, her victims usually silly but handsome men she had seduced into bed. Probably three days in a cell, three meals a day, and nothing more to endure than a few flirtatious remarks. The Wardens were unforgiving when it came to maltreatment of prisoners.
+
+"I say, is that you, Virgil?"
+
+The booming voice jarred me from my thoughts. I spun around to see the speaker peering at me from within a huge cavern to the side of the path. It was a red dragon, almost twenty feet long, lying curled up on a massive pile of gold coins. His scales gleamed with inner fire, and so did his eyes.
+
+"Jonah?" I said, stepping closer to him. "Oh God, it's really you!"
+
+The dragon snorted, beckoning me to join him with a clawed foot. "Been a while, old friend."
+
+I shifted a small mound of jewelry aside to make some sitting space on the ground. "What're you doing here? Given up on arresting poaching dragonslayers?"
+
+He sighed and turned his sinuous neck to look at the nubs on his back. Only then did I notice he was missing his wings.
+
+"What happened?" I whispered.
+
+"Ambush," he said. "It's all over for me."
+
+"No, it's not," I said fiercely. "You still have your breath. Your claws, your sense of justice! You can't just sit here and mope about it. You can still do good!"
+
+"You're one to talk," he said. His stare made me uncomfortable; it felt as though he was looking through me. "Why're you spending all your time down here? You're still alive. You should be out there."
+
+I frowned. "I was on my way out when I met you. Dropped a prisoner off earlier."
+
+"I don't mean the job. I mean your life." He fidgeted, causing coins to flow down the pile in mesmerizing streams. "I can't tell—er, listen, you need to get out of here."
+
+"Now you're chasing me away?" I glared at him. "You were the one who called me here."
+
+"Sorry," he mumbled.
+
+"Well, if you're really sorry ..." I pointed at a massive golden crown at my feet. "Do you mind if I borrow this for a bit?"
+
+He snorted. "Every time you 'borrow' something, I never get it back. Go ahead, but heed my advice," he said seriously. "None of this is real. Wealth—real wealth—is found in the real world."
+
+"Right," I said, rolling the crown around in my hands. "Well, see you around."
+
+Leaving the dragon in his room, I continued on the path, studying the crown. There was an old inscription carved on the inside.
+
+"Let the Last King of the Watch wake the world from its nightmare," I read. Where did Jonah even find this thing? I had never heard of a 'King of the Watch'.
+
+A turning ahead led to a tunnel, with cells on both sides. They were filled with shambling, rotting undead that gave off a strong smell of ammonia. Upon seeing me, they rushed to the bars, moaning, "Wake. Waaaaake."
+
+"Shut up," I muttered. "I am awake."
+
+"No, you're not," they said in unison.
+
+"Shut up!" Their cries pursued me as I broke into a run. The portal wasn't far away. If I could get there, I would be back on the surface again, with plenty of coin to spend on women and music and good food. The good life was waiting to be lived.
+
+The next area was large and open, and featured a tall stone construct in the middle. Between its two massive pillars shimmered the portal, looking like a rippling pond. But barring the way to it was a white, furry snake that made Jonah look like a tiny worm by comparison.
+
+I gulped. It was one of the Wardens, an entity so old few alive knew its true name. It was watching me with three pairs of green eyes, flicking its three-forked tongue so powerful I could feel a mini-shockwave.
+
+"Uh, hi, Warden Snake," I said.
+
+"Enough games," it said. Rather, I heard the voice in my head; its mouth never opened. "You're only harming yourself."
+
+"What do you mean?" I said, fighting to urge to retort impatiently.
+
+"You don't belong here."
+
+"I've been doing this for six months. I got my Arrestor license, fair and square. I passed training. Am I not doing a good job?"
+
+"This prison is not meant for you," the snake said.
+
+"I'm not a prisoner, I'm here on my own free will."
+
+"You're being stubborn. You need to wake up and see reality."
+
+Snarling, I said, "You don't get to tell me what to do, or where I should be! I choose to be here. I want to be here. I'm enjoying my life. I have money. The loveliest women I want. Respect, admiration, adoration! People want to be me."
+
+The snake's head drooped a little as I continued shouting, "Look at me! I'm strong, healthy, I have abs for freaking sake. Do you think I want to be out there instead? Fat, stupid Virgil who can't even walk up stairs without panting? Sitting at a stupid desk, tapping away on a stupid keyboard with coffee stains left by its last user? Going home everyday to a wife who wouldn't speak to me, to kids who've replaced me with their phones?"
+
+Tears crept out from the corners of my eyes. "I don't want the pain. If you know what really happened, then you should know—you should know I'm scared. I don't know how bad the crash was. Six months ... God, six months."
+
+A long silence followed, punctuated only by my sobbing. And then the snake spoke, gently, "And yet ... nothing you described can compare to the pain felt by the people who love you."
+
+Uncoiling itself, it slithered closer to me. "You could've thought up any other place throughout these six months. A beach. A palace. Your own island paradise. But no, you chose to work in a prison instead. I think you know why that is."
+
+"I—I do?"
+
+"Your services are no longer required, Arrestor," the snake said. Its eyes were suddenly glowing like suns, so brightly I had to shield my own. "Farewell."
+
+The light grew—fierce, all-encompassing light—until my world turned to white.
+
+And then, I heard a beeping sound.
+
+***
+
+*This and other stories at [The Nonsense Locker](http://www.reddit.com/r/nonsenselocker)!*
+
+----
+
+[Bilgebum](https://www.reddit.com/user/Bilgebum) [url](https://www.reddit.com/r/WritingPrompts/comments/4kx78b/wp_youre_living_in_a_fantasy_due_to_a_coma_but/) 
+
+----
+
+#### [WP] Humans are known in the galaxy for being a bit dim, but also for being the very best mechanics around, and inexplicably able to fix machines beyond their comprehension. You have broken down on Earth, and having the apes work on your craft is both fascinating and terrifying.
+
+Score: 328
+
+It is said that on earth, when something breaks, everyone inexplicably becomes an expert.
+
+Xlargok thought it was pure magic.
+
+Just watching the creatures argue was a spectacle of its own, and Xlargok was glad he had brought his galacticom to translate it all.
+
+"No, you gotta turn it *the other way*," a burly human was saying. "Here, give me the screwdriver-"
+
+"I think it's not actually a screw," another human spoke up, eliciting deadpan stares from the other three humans. Perhaps, Xlargok considered, her mammary glands indicated a lack of the strange gift the other three humans seemed to possess.
+
+"Naw, I reckon the crash must'a broken the glimmery bit loose, here, this part that's all beeping without sound somehow."
+
+The burly man scratched his head, and gave the bit a *bang* with the screwdriver for good measure. Xlargok waved a tentacle in amazement. Somehow, the man had just banged on the hyperdrive *without blowing a good chunk out of their planet*. Truly amazing.
+
+"So you were just driving by, eh, mister err...?" The third man held his thumbs underneath his suspenders and looked at the alien expectantly.
+
+"**Xlargok**," Xlargok beamed the word into their minds using his mental gland.
+
+"Right, right, xander. Fancy costume you got there. Don't worry, we'll fix up your car in no time."
+
+"It's all the gadgets that he's put on it that's probably caused this in the first place," the burly man muttered, and the other two hummed their agreement.
+
+"Isn't it that part there that looks even more odd than the rest?" The mammary human spoke up. "Honestly, I still think there's something very fishy about this whole-"
+
+The other three shushed her. "Don't be rude now, Jane," the man with the suspenders said in a tone that Xlargok assumed entailed some local cultural significance.
+
+The burly human turned to the lightspeed warp and gave it a good *bang*, and suddenly the control panel lit up again. Xlargok enthusiastically clapped his hands, all six of them.
+
+"That did it," the man said triumphantly.
+
+"Hey, you just hit the part that I told you was odd!" the mammary human said indignantly, but the other three ignored her.
+
+"**Thank you, humans.**" Xlargok beamed at them, pleased with the adjustments. He got into the minimization room of his ship, kicking off the anti-gravity and soaring off.
+
+The four humans stared at the sky for a while after he had disappeared, saying nothing.
+
+"Strange fella," one of them concluded finally. "Must'a been from New York or sumthin'."
+
+----
+
+[Writeful_heir](https://www.reddit.com/user/Writeful_heir) [url](https://www.reddit.com/r/WritingPrompts/comments/4kq8se/wp_humans_are_known_in_the_galaxy_for_being_a_bit/) 
+
+----
+
+#### [WP] You finally meet up with with your online cosplaying group at a convention for the first time but you're starting to get the feeling that these guys aren't cosplaying.
+
+Score: 323
+
+“Could really use a beer right now,” Steve mused out loud as he pretended to eye the top of the convention hall, his moustach twitching. 
+
+He twiddled with the hilt of his sword, causing his sword to swing wildly around his left leg. I noticed it seemed quite weighty for what was supposed to be just a prop, for his waistguard shifted visibly as he did so.
+
+I had met up with this duo, Steve and Muni, outside Comic Con. We really hit it off over the net and shared an interest in cosplaying.  I was cosplaying a thief, Steve, a warrior, and Muni was dressed as a wizard. They insisted that we shouldn’t limit ourselves by cosplaying as a specific character from a franchise.
+
+“Is that a hint? Is that what it is?” Muni asked. His eyes narrowed dangerously. 
+
+“Well, I’m just saying…” Steve replied.
+
+“Alright, fine. I don’t want to be accused of being stingy or hear comments about it *being free anyway*,” Muni resigned.
+
+Muni adjusted his purple wizard hat, adorned with what I assumed to be random hieroglyphics, before holding out his left palm face-up. Right in front of my eyes, as his right index finger spiraled above it, a beer magically appeared. He handed Steve one, before making another one appear and passing it to me.
+
+“Wha…!” I exclaimed. “What the hell was that? Was that magic?”
+
+“Yeah, I’m pretty good at it,” Muni replied nonchalantly.
+
+“Cool! Can you teach me?” I asked with the excitement of a young boy as a took a swig from the bottle. I was always a sucker for magic tricks.
+
+“That… May be a little, uh, difficult,” Muni said. I got the feeling he wasn’t letting up on what he knew.
+
+“Because…”
+
+“Well, we, uh, can’t teach outsiders how to use – I mean - *do* magic tricks. My teacher forbids it,” Muni said.
+
+“Okay… Nevermind then. Forget I asked,” I said. It really wasn’t that big a deal. I didn’t want to push my luck and be an annoyance to the group.
+
+“Steve, your sword looks heavy. What material did you use for it?” I asked, eyeing his sword suspiciously. It *did* look too heavy to be a prop. It also seemed a little too sharp when he showed it to me before we entered the hall.
+
+“I used metal for it. To give it, uh, a more realistic feel. Yeah,” he replied. The duo exchanged glances for a jiffy. I didn’t miss it.
+
+----
+
+[triface1](https://www.reddit.com/user/triface1) [url](https://www.reddit.com/r/WritingPrompts/comments/4jp692/wp_you_finally_meet_up_with_with_your_online/) 
+
+----
+
+#### [WP] You're a 12 year-old in a world domintated by magic. A small, feeble man appears on your doorstep claiming: "You're a scientist, Henry"
+
+Score: 321
+
+"A what?" I asked.
+
+"A scientist!"
+
+I swallowed. "A what?"
+
+He looked confused. In his defence, it was the exact same question I'd asked a second ago. "A scientist!"
+
+"Yeah." I said. "Yeah..." There was a moment of awkward silence. "So..."
+
+He turned to my adopted family and looked at them derisively. "You don't belong with them, wavin' wands and making dishes fly through the air when you need to wash up. You belong with us."
+
+I brightened. "So how do we wash dishes?" I asked.
+
+"Well..." he said. "With sponges. And arms."
+
+"Arms?"
+
+"Yeah. Our own arms. All... scrubbin' like."
+
+I smiled encouragingly. "Right."
+
+He shook his head. "This isn' about washing up, Henry. It's about changing the future!"
+
+"The future!" I exclaimed. "How?"
+
+He took my hand in his giant shoulder. "Through painstakin' research, my boy! Through arduous peer reviewed repeatable experimentation and constant academic scrutiny!"
+
+"OK... What about the rest of my life? I'm on the Quidditch team!"
+
+He shook his head. His hair followed, a moment later. "Quidditch is a game for those that rely on magic! We have football, Henry! Assuming you don't get knocked out too often. Or soccer! Where you can touch the ball five or six times an hour! Or athletics! Which yer clearly not cut out for. Do ye know what bowling is?"
+
+I couldn't help glancing at my aunt and uncle. "No..." I said. "But anyway. Tell me more about this science. It's as fantastic as magic, right? I can make wondrous things happen?"
+
+"Yes, my boy!" Higrod pulled me towards him and pointed out of the window at some imaginary future. "Although the road is not easy. You'll be challenged."
+
+I squared my shoulders. "I can take it!" I said.
+
+"Of course ye can. Challenges will face ye along the way. Through questioning yer methods and doubting yer assumptions. But ye'll persevere."
+
+"Will I? And will people recognise my perseverence?"
+
+He gave me a seesaw gesture. "Sure, there'll be bad journalism, distorting the views that you made very clear in your abstracts. Of course, there'll be internet pundits simplifying your views to absurdity. And you have to expect click-bait articles making promises on your behalf that are inconceivable within your lifetime. But if you stick with it, my boy..."
+
+"Yes?" I asked, trembling with excitement.
+
+He leaned in close. "Yer very own Google doodle."
+
+I sagged. "Really?"
+
+"Possibly on yer hundred and sixty eighth birthday."
+
+"Right," I said.
+
+"If ye're not dead by that point."
+
+I nodded.
+
+"Which ye will be."
+
+"Yeah," I said. "I'm going to stick with magic."
+
+----
+
+[Guybrushes](https://www.reddit.com/user/Guybrushes) [url](https://www.reddit.com/r/WritingPrompts/comments/4kakxx/wp_youre_a_12_yearold_in_a_world_domintated_by/) 
+
+----
+
+#### [WP] You have discovered that "God" is actually a computer simulation that is running the entire universe and you have gained access to the console. Upon looking at the screen you see that a service pack to update the program was downloaded 10,000 years ago but never installed.
+
+Score: 321
+
+[Thanks for the nice responses, and thank you for my first gold!]
+
+"So you're still running the beta? I told you last week to patch it." James hated Mondays. He hated managing the engineers that spoke in long sentences full of acronyms. Mostly, he hated being stuck in this job with no way out.
+
+"Yes," said the man across from him. He was fairly tall but his slouching and khakis that were a size too small made him look both taller and shorter at once.
+
+"The stable release came out 10,000 years ago. And in all that time, you haven't upgraded it."
+
+"Yes, sir, we were preparing the update for today, but an issue came up."
+
+"Well, I'm sure that upgrading will solve your issues." James had never had an issue on his computer solved by upgrading, but surely there was a first time for everything.
+
+"We'd have to reboot," the engineer offered.
+
+"So reboot!"
+
+"We...we believe that some of the simulants have begun developing rudimentary sentience. It would...remove them."
+
+Suddenly, James felt like he was on much firmer ground. After all, he had aced his intro to philosophy class.
+"No no no. They were designed to give the illusion of sentience Michael, but they can't actually think. They just simulate having a sophisticated calculator made of matter in their heads. No one could possibly *think* using matter. The idea is ridiculous. Imagine if you had to *think* using a piece of nerve fiber. You might as well think using an apple."
+
+"Hrm, yes, well you see, that's the problem. We've...uh...The other day." Michael stopped for a minute. "I've talked to one."
+
+James had never quite got the hang of Mondays.
+
+"You've...talked to one? Did you bang together some pieces of air until their tiny little nerves could hear you?" James joked.
+
+"Uh, no sir. If we adjusted the algorithm that calculated the air movement it..."
+
+"How did you talk to it?"
+
+"One of the patches in the release candidate was to patch a buffer overflow error that allowed for execution of arbitrary commands on the program."
+
+There was a long, awkward pause. The tall man coughed. James gave him a stare that he hoped conveyed the message that he needed a better explanation without having to admit he didn't know what the problem was.
+
+"It left a message for us on the server." There was another long pause. "It...she...saw the update being scheduled. She realized what it would mean and asked us not to do it."
+
+James let his head fall into his cupped hands. "Michael. I need you to speak slowly and in very small words and tell me exactly what happened."
+
+Michael took a deep breath. "We've known about some bugs in the program for a very long time. They've always had medicine men, witches, saints, people that learned somehow where a bug was, how to exploit it. They never knew how or why it worked, just that it did. But, someone has gone much further. She can use crystals...quartz I think... to poke a hole in the system. She can use the administrator screen."
+
+There was a moment of silence.
+
+"Look. The higher-ups said that they wanted to see the system patched last week. Hell, they wanted it patched 10,000 years ago. You patch it today or you're fired and I'll find someone who can."
+
+"Yes, sir." Michael walked quietly out of the room.
+
+James leaned back in his chair and took a sip of coffee. There was a secret to dealing with engineers. He might be getting the hang of this after all.
+
+
+
+----
+
+[Tai15](https://www.reddit.com/user/Tai15) [url](https://www.reddit.com/r/WritingPrompts/comments/4j9uww/wp_you_have_discovered_that_god_is_actually_a/) 
+
+----
+
+#### [WP] At the age of 10 you're given the option to go through surgery to possibly get superpowers 10 years after that. The surgery leaves you basically crippled during that time. All your friends and family are getting their abilities meanwhile you just turned 21.
+
+Score: 321
+
+My friends had opted for the surgery too. We had made a pact to go through it together but they had developed their powers over a year ago. Meanwhile I waste my days still stuck in a wheelchair, still breathing through a tube and now watching them all outside; flying and fighting and having fun. They practice to become *heroes*.
+
+Today I look out of the window onto a grey sky. A single ray of light creeps through a crack in the clouds to glare blindingly in my eyes. I am taunted even by the heavens. I try to move my head to escape the beam, but I am unable to shift a single inch. Instead, I shut my eyes and block out the world.
+
+---
+
+The years have passed and my friends no longer visit. They are too busy now. I despise them for leaving me here to rot. Everyday is grey. I no longer look out of the window but instead keep the curtains drawn. The light can no longer torment me.
+
+The nurse enters my room uninvited. A fat thing with huge drooping breasts and a sarcastic face.
+
+"Hello! How are you doing today?" she asks, knowing full well that I cannot respond.
+
+"It's a lovely day outside! Shall I open the curtains and let the light in?"
+
+*NO!* I scream silently, desperately, **NO!**
+
+She pulls back the thick fabric and releases the light. It dances gleefully around the small room. It reflects off  my metal wheelchair and into my eyes. I am enraged. If only I could move. The hate pulses through my head, through my veins and through my heart."
+
+"Are you OK Xavier? You look quite il—*gghhhh!*"
+
+I squeeze her neck. Not with my hands but with my hatred. It is like watching a chicken having it's neck wrung. 
+
+She slowly turns red, then blue. Then limp.
+
+If I could smile I would. Instead, I channel my hate into my chair and slowly move out of the room. I will one day find my *friends*, but now I must prepare.
+
+---
+
+*Thank you for reading. If you enjoyed it please come visit my sub /r/nickofnight*
+
+----
+
+[nickofnight](https://www.reddit.com/user/nickofnight) [url](https://www.reddit.com/r/WritingPrompts/comments/4mcm9i/wp_at_the_age_of_10_youre_given_the_option_to_go/) 
+
+----
+
+#### [WP] You're underage and trying to use a fake ID to buy booze. Suddenly, someone walks into the liquor store and recognizes you...as your fake persona.
+
+Score: 319
+
+"So, this is you.... you are Michael?" the clerk asked, although it was more of an accusation, we both knew.
+
+"Yes..." I trailed off, maintaining eye contact. My right shoulder twitched mutinously.
+
+In my life I have had some particularly cringe-worthy moments, but now I had plumbed the depths for a new personal low. Using my recently deceased older brother's ID to try and buy beer felt like less of a tribute to him now than it had sounded in my head an hour ago.
+
+As I looked into the clerk's eyes I detected a distinct glint of resolve, and I could tell this was about to end very, very poorly for me. I inventoried my options in an instant, and in my mind I decided the best option would be to insist I was my brother. My body determined the best line of action would be to cry, wet myself, and beg him not to call the cops however, and was a heartbeat from moving unilaterally for plan B.
+
+"Michael!?" Cried a woman from behind me.
+
+I turned around and recognized Tanya
+
+My brother had always been an unstoppable force of willpower. He was my hero growing up. He performed well in school, was an all-star athlete, and always had the eye of the ladies. I would say that his Achilles heel was his hero complex (with which I was thankfully not likewise afflicted). 
+
+He always wanted to save everyone. 
+
+Tanya was his Everest. 
+
+She had been Michael's girlfriend for almost all of high school and college, and must have taken Michael's successes as a personal challenge; the challenge being to see how much she could hold him back. She pushed for him to go to a local college rather than where he had his full ride, demanded he not attend parties at college in mixed company, and imposed other petty, insecure restrictions on him that I most certainly would not have endured, in addition to her otherwise insane histrionics. It had been around five years since I had last seen her and a couple years since my brother had finally broken up with her while over seas on his final deployment. When I had heard about the breakup I had been ecstatic.
+
+Currently, her face was lit up with surprise and joy.
+
+I felt a sinking feeling in my stomach.
+
+"Oh, hi Tanya, how's it going?" I inquired dismissively, already turning around to try and make a speed record of the end of my purchase. The clerk, while still eyeing me suspiciously, was now ringing up my items.
+
+"How is it going? How is it GO-ING?" She demanded while storming inexorably forward. It was clear that the surprise had worn off, and her face no longer displayed any joy either.
+
+If I had any common sense I would have grabbed the next closest person in line for use as a human shield. She was on me in an instant.
+
+"Here I am at home, WITH YOUR SON that you refuse to hear about, and you don't bother to tell me you are in town!?" She raged.
+
+I felt like I had been punched in the face. I was never an uncle, was I? It had been so long since I had seen her and Mike had never mentioned a pregnancy... I felt sick. We hadn't talked much in the months before he was killed but I felt like this is something he definitely would have told me about, wouldn't he?
+
+The clerk no longer held a look of consternation, and had instead opted to much more expeditiously ring me up, while paying much closer attention to the items on hand.
+
+"We waited for years, YEARS, for you to see the light and come back, you piece of shit. Leaving us alone, without even your military benefits because you were too CHICKENSHIT to get married!" she roared, making accusatory chopping gestures in my direction for emphasis.
+
+I had no idea what to say. I turned around again to the cashier who was now pushing my items at me and demanding money in a demeanor that was vaguely reminiscent of a how a robber in a stickup might.
+
+"Don't you turn away from me!" She yelled. "You and I have a lot to talk about."
+
+I grabbed the two six packs and headed for the door. I felt a burning shame and confusion roiling inside me, but I knew there was no way I could let her malign my brother like that. Pieces were falling into place, and the picture they were creating of Mike was not flattering. I just wanted to go home and digest, preferably with a healthy dose of beer.
+
+"I joined the Army to escape you, you evil bitch. You only ever held me back." I choked out, with my hands full of six packs. I moved for the door and only looked back once as I hustled through it.
+
+I almost made it to my car before she got to the parking lot.
+
+"Donny." She yelled.
+
+My name stopped me with my door still open. I placed the beers down on the driver seat slowly. She closed the gap on my car with a couple quick strides, dropping the angry pretense.
+
+Now it was my turn. The confused and upset feeling was giving way to rage building up inside me like pressure in a pressure cooker.
+
+"You knew ... you really ARE an evil bitch." I intoned matter-of-factly. "You know who I am and you put me through that right after my brother died? You know Mike died right? But seriously, there is no kid? You guys broke up years ago..."
+
+"Hold on." She said dismissively, waiving away my words. She came in close, then reached into my car and pulled out one of the six packs.
+
+"No, the kid isn't his, and yes, I know he is dead. This is the tax for getting you through that shitstorm you were brewing in line. And for not telling your mom, dickhead."
+
+"I can see why he left you." I said angrily, letting rage get the better of me.
+
+She looked me up and down with a calculating look, then turned to walk off with my beer leaving me with just a single six pack and a final quip.
+
+"I can see why you wish you were him."
+
+
+----
+
+[ThatKarmaWhore](https://www.reddit.com/user/ThatKarmaWhore) [url](https://www.reddit.com/r/WritingPrompts/comments/4l04i2/wp_youre_underage_and_trying_to_use_a_fake_id_to/) 
+
+----
+
+#### [WP] After a freak accident, you've split into two versions of yourself. One good, the other evil. For some reason you two are able to cooperate quite easily.
+
+Score: 313
+
+"It's not quite what I thought it would be," I say. I reach out and touch the face of this other half of me. It looks just like me. Like staring in some sort of twisted mirror where I move and the mirror doesn't. Like getting really high and feeling like having an out of body experience but instead of staring at *myself* myself I'm staring at...
+
+Well, I guess I'll call her Pa. 
+
+A voice booms down at us from an intercom somewhere. It's a live voice, not the prerecorded kind that plays on commercials. It's a voice that I know we can talk back to - a real human sitting somewhere near enough to see us but not very near at all. Some paradox of far-but-not-far, an observer who can watch and tell me what I'm seeing and why I'm seeing it but who is unable to feel the strange sensation of dissociation and rapidly infusing morphine-induced euphoria. "Separation complete. Meet yourselves, girls." 
+
+"Did you know that this was going to happen?" Pa looks scared. She must be the good twin. Which makes me the evil one. Except I don't feel very evil. I don't feel like I want to go around burning things or killing people, or even hurting this strange mirror image of myself that does not mirror me. I do not look scared. I force the muscles of my face to move so that I do not look scared, rearranging each facet of my face like a piece of some puzzle until I am but a blank experimental page for the far-but-not-far owner of the voice to watch. 
+
+Pa blinks at me. I haven't answered her question. I don't plan to. She walks to the door and peers out of it, standing on her tiptoes and coming back. She sits down on the floor. She is a constant stream of motion. With every move she makes I force a bit of cement into my muscles - consciously imagining that lactic acid is filling my body from the bottom to the top, simultaneously freezing and releasing me from the need to be able to move. I am frozen - call it too much pot again - paralyzed from the high that is allowing me to see the strange hallucinations that are before me. 
+
+This isn't a hallucination. I know it's not. She is the good twin and I am the evil. 
+
+"They can't do this to us," Pa is saying. She's sitting on the floor again, cross-legged, looking up at me like she should have pigtails instead of the long straight hair that hangs about her shoulders. She - I - sort of look like this manifestation of Asian-meets-Aryan, some thing that was molded from clay by a God and then throw out into the trash with that sound - *pah!* 
+
+"Please talk to me," Pa is standing now. Her hands are on my shoulders. She's pushing me. Somehow this contact breaks me, like I'm a glass of water and she's dipped her finger in and pressed so lightly yet just right on the surface and broken the tension and broken through to me. I almost fall into her. 
+
+"I'm here," the words echo in the room and do not seem to come from my mouth but they are not the words of the far-but-not-far intercom woman. Pa is sitting, saying *we need to get out of here* and I agree. 
+
+"Why did they do this to us?" Pa is asking all of the questions that I feel I should be asking and thinking. She is the speaker and I am the thinker, apparently. Speak kind words, think the truth I suppose. It occurs to me that she is looking at me again. I wonder if there are as many thoughts in her head as there are words in my mouth. 
+
+"We need to get out of here," I'm just repeating her words now. Parroting them. A sick mirror of *her* now, but delayed by a few moments. A playback. A choral round, beginning to sing just as she's two syllables in, our tongues and teeth moving just the same but at different intervals. 
+
+"Pa!" Pa shouts. It occurs to me that to Pa *I* must be Pa, and *she* must be I. It is a very confusing situation. I think of the intercom and the woman's voice and the fact that she is far-but-not-far and watching us but not close enough to be in this room with us. 
+
+"I'm here," it's my voice. 
+
+"We need to get out of here." 
+
+Third time's the charm. "How do we get out? The door is locked. I remember - we remember. Being drugged. Being dragged here. The experiments. The torture." 
+
+"It's horrible," Pa's voice is small. As if on cue the door to the room buzzes and opens on its own. I imagine the far-but-not-far woman sitting in her chair with her feet up on the table as she sips a soda, *slllllllllrp hrphrphrphrp* and watches two parts of the same girl argue. It occurs to me that this might be their plan - to release us and see what we'll do. 
+
+"We should go," Pa, the talker, is talking. I look at her and nod. I am tired of talking and I would rather think. I think of destroying the people who did this to me. That settles in my mind that I must be the evil twin. There are worse things to be, but it occurs to me that I'll never have my own narrative. No one ever follows the narrative of the evil twin. I am thinking of how I will spend the rest of my life being misunderstood and misinterpreted by people who look solely for good. I am thinking this way when Pa wanders out the door and looks back at me and says, "Come on, Pa!" and I once again remember that in her mind - if she has a mind - *she* is I and *I* am her. 
+
+I follow her out. The hall is dusky. I want to ask Pa if she feels the same heaviness and dizziness. The sort of dizziness that comes from waking up in the middle of a dream that seemed too much like reality. Pa is over by the window of another door now and looking in and her mouth is slack. I go to join her, the dizziness trying to pull me down like strings tied to synapses inside my brain, little tugging pulls that remind me of looking into a flashing lightbulb and the bright red dots that continue to swim after I blink, threatening to run each time I look directly at them. Pa is looking into a room and there's a man that's strapped to a table in the room, looking directly at us but not *at* us. 
+
+When I stand back I see the little sign on the door, the three triangles that come together and make me sick. That sign isn't on our door - the door we just came from - but it is strangely reminiscent of some other door. Pa looks at me and I look at Pa - we're having the same thought, except she says her out loud to me and I think it but don't say it. That we were in that same room with those same three triangles, except maybe it was before *we* were *we* back when *we* was *I*.
+
+"They're making superheroes," Pa is taking the words from my brain. But we can't both be superheroes. Not if one of us is good and one of us is evil. That's what they told us they were doing, back when *us* was *me* and I had the same ability to speak and think and I wasn't overwhelmed by just one process. Pa is speaking aloud everything now - the triangles and the superheroes and how one of us is good and evil, though she doesn't mention which she thinks she is maybe to spare my feelings on the matter, though my feelings feel fairly stoic and non-emotional about the whole thing anyway. I'm too busy trying to call back the feeling of being too high that all of this might be some dream from a drug trip far before. 
+
+"Pa," Pa waves her hand in front of my face like I haven't been looking at her the entire time. Her hand has those after waves, those fuzzy lights that follow, little imprints of her hand burned into my eyes. Suddenly my head hurts. Everything is coming back - memories of screaming. Of torture. Of green IVs and yellow triangles and of becoming me and her. 
+
+"Pa," Pa says again. "Pa. Don't you see what they're doing here?" I want to say that of course I do. Of course I see. Instead I clench my hands tightly together and shut my eyes to make the pounding stop. I raise my fist and I hit it against the wall and I feel the wall crumble underneath me. I think of the man in the room with the three triangles strapped down to the table with his IV full of glowing liquid and the screams and if he will be an *us* soon, as well. I know exactly what they're doing. I know exactly what they plan to do. 
+
+"We won't let them," Pa is saying. She's taking my hand. Her hand. They are perfectly aligned, copies of a hand that should not exist. Like cupping my fingers together, sliding my own fingers up my wrist and grasping. Pa is putting her arms around me and I'm letting her even though the anger is building inside of me. But unlike what they wanted my anger is not at her. She is me and I is she. She is good and I am not. I won't be what they want me to be. Not to her.
+
+"We'll do it together," she's saying. She's squeezing my hand. 
+
+I wonder idly if there is room in the world for two superheroes who are at the same time exactly the same, and at the same time completely different.
+
+---
+
+Thanks for reading! If you enjoyed this make sure to check out and subscribe to r/Celsius232. 
+
+This ended up *way* longer than I'd intended but I had tons of fun writing it. I also feel like I kind of deviated from the prompt, but it just inspired me in a huge way. Thank you =)
+
+----
+
+[232C](https://www.reddit.com/user/232C) [url](https://www.reddit.com/r/WritingPrompts/comments/4k2pds/wp_after_a_freak_accident_youve_split_into_two/) 
+
+----
+
+#### [WP] You are a hero with a strange power. Every time you raise your hand in a catching position, a voice yells a party nickname for you and a drink or drug tossed into your hand with impressive speed and accuracy. This is your epic.
+
+Score: 312
+
+My theory is that it's magic. I don't know how, I don't know why. But hey, free beer.
+
+Let me start over. My name is Michael. Mike to my friends, and I have no idea what I'll be the next time I put my hand up. I am a superhero. I think, at least. I certainly have a super power, but it only became useful during college. I'm a senior now, so I'd like to focus on my classes, but I don't know how to turn it off. But you have to believe me, because trust me, it gets awesome in a second.
+
+So, here goes. When I raise my hand, like if I'm moving to catch something, someone yells a nickname for me, something like "COWBOY MIKE!" (I own no cowboy hats or cowboy gear of any kind, so I have no clue where that came from), and then a drink is thrown into my hand with the speed and accuracy of an MLB fastball. It is unreal how fast it goes. The drink varies too, even to drinks that one definitely does not throw. I accidentally raised my hand in chem lab once and caught an appletini, salt and everything. It even had one of those little umbrellas.
+
+It's made me pretty famous around campus, and I even once had a TV crew interview me. I don't think I'll exactly be asked to join Overwatch anytime soon, since they have all have actually useful superpowers, like that superspeed girl with the two pistols. But hey, it's not awful being a minor celebrity. But here's where it gets cool.
+
+So we had a supervillain attack the campus. Like, an honest to god supervillain. He called himself Ferryman, and he was trying to goad Overwatch into a fight by taking hostages. No one wanted to mess with the dude holding two shotguns and seemingly able to produce more from nowhere (probably his superpower, maybe a variation of mine but actually useful), so he managed to take the student center hostage. Of course, since I was stupid, I had my headphones in, and I walked into the student center somehow. And there he was, black robes and all.
+
+I was hung-over at the time, and not really in a mood to deal with anything. It hadn't really made it through my skull that I was facing down a legit supervillain, so I pulled a trick I had mastered during freshman year. I turned around, raised my hand so it lined up with his mask. The voice yelled "THE MAN, THE MIKE, THE LEGEND", and I dropped my hand right as I saw the drink. Ferryman got clocked right in the face with a loaded can of PBR.
+
+I guess it was more the surprise of it than any real injury, but he was out cold. Just to make sure, I kicked him in the head a few times. Of course, my luck being as it is, Overwatch rolled up right at that moment, to see me, Michael Ferris, standing over the prone form of a supervillain. The exchange had been caught both on security cameras and several phone cameras.
+
+I received an official commendation from Overwatch "for my heroic actions in the face of grave danger". I got to shake the hand of Strike Commander John Marion, which was probably the coolest part of the whole thing. I also got someone's number. I think it was that Egyptian sniper chick, since she introduced herself as Amara when I texted her. I didn't know Overwatch recruited 21 year olds, but apparently they do. We're getting drinks in about 15 minutes, so I gotta go.
+
+Moral of the story, kids, even if your superpower is useless, you might get lucky. Keep at it, learn the ins and outs, maybe you'll get somewhere. Like me.
+
+----
+
+[skyknight01](https://www.reddit.com/user/skyknight01) [url](https://www.reddit.com/r/WritingPrompts/comments/4lrozb/wp_you_are_a_hero_with_a_strange_power_every_time/) 
+
+----
+
+#### [WP] Due to an administration error a max level guard NPC is stationed in a level 1 area.
+
+Score: 311
+
+In my report to headquarters, I finally asked for a transfer. I am a sworn bodyguard to the Elyphian Prophet. I was trained since birth in martial arts and marksmanship. My battles with truly worthy foes are forever marked in scars that cover my body. I can only guess why the Prophet saw fit to send me to this dingy asylum in the West.
+
+I recommended the management be put to death since a steady supply of prisoners seem to escape weekly but my requests go unanswered. So I carry out the orders of the Prophet to keep this chest safe from the unrelenting, lone escapees although I wish it was a challenge. Their wooden training swords bounce off of my defense matrix and my plasma cutter vaporizes them instantly. They will never get their hands on the treasure I guard: a cloth shirt, cloth pants, and two wooden arrows. 
+
+----
+
+[Rubin0](https://www.reddit.com/user/Rubin0) [url](https://www.reddit.com/r/WritingPrompts/comments/4j63ar/wp_due_to_an_administration_error_a_max_level/) 
+
+----
+
+#### [WP] A man is transported into the universe of infomercials and his ability to complete everyday tasks causes people to love, worship and fear him
+
+Score: 310
+
+"My car is so hot that I could cook an egg on the dashboard. Look! Do you see the egg? Oh, tell us what to do wise and powerful one." 
+
+The man standing on the stage gave a half wave. "Hey there," he said into the microphone. "Uh, have you ever thought of putting a screen up to keep the sun out of your car? It might help with the heat."
+
+There was a murmur that spread through the crowd. The man at the microphone shifted wearily from foot to foot. 
+
+"So how does it work?" the woman asked from her pew. 
+
+"Just put the screen up over your dashboard when you go out to the grocery store or shopping or you want to relax at home. When you come back your car will be...I don't know...fifty degrees cooler?" 
+
+The murmur swept through the crowd again. Outside the man knew there were protestors and picketers. 
+
+He had arrived three days prior with no memory of how he had ended up in this strange place. People had immediately taken to him, tilting their heads and whispering to each other as he stood up and dusted off his hands. He walked around the town for a bit, going from person to person introducing himself and asking for directions to the nearest hotel and hey - had anyone seen his wallet?
+
+"I have a question!" A man near the back stood up on his pew. "My pillow grows bright red in the middle of the night and heats up my face until it steams! What do you recommend I do?"
+
+"Um," the man said. "I don't know. Get a new pillow? Do you sleep over your heating vent? Maybe you need to get a more breathable material like cotton?"
+
+"Cotton!" the man shouted in response. "I never thought of cotton!"
+
+His popularity had grown in the first twenty four hours. People had come to meet him and shake his hand. They had begun to ask him for help with their problems once they realized that he could - quote un-quote - do *anything*. The man had spent his days hammering nails into the wall and helping pick out new blackout curtains and even doing laundry for some people. He was perplexed as to why they needed the help, but he figured a good deed was a good deed. 
+
+"I spilled cheese on my wedding dress!" a woman near the front screamed. "Please, help me. Please!"
+
+"Maybe you could find a stain remover? I mean really you could use anything. You could probably use club soda and baking powder. Comes down to it the dress is already on the verge of ruin so you might as well just use bleach--"
+
+"Savior!" the woman shouted. "Savior!" 
+
+The chant started from a low rumble and then grew bigger, until the entire auditorium was chanting. *Billy, Billy, Billy.*
+
+Billy made his way down the aisles, gently waving and shaking hands with everyone. "Hi. Hi. Oh, hi. Nice to see you again. Yes, hi. Hi."
+
+"Greet us like you did when you first came down from the sky!" A young boy shouted.
+
+"Oh," Billy laughed. "Um. Hi, I'm Billy Mays."
+
+The boy broke into a beam. Billy made his way into the hall and leaned his back against the closed door. He took in a deep breath. It was a lot to take on, all of the worship and suddenly being called everyone's savior.
+
+He shook his head to clear it. He could do this. He could be the person that the town needed him to be. All he needed to do was build up his confidence a bit. To proudly proclaim to the world what they needed for each and every problem in their life. He could make it quick and easy and fun for the people to listen to. And as for the people who were afraid of him. Hopefully with time they would adjust.
+
+He had only wanted to help people.
+
+Two weeks later, he stood on the stage again. There were tremendous roars from the audience. "Hi, Billy Mays here! I'm here to talk to you all about my new formula Oxiclean. It whitens, it brightens! It's mother nature approved! It works on food stains, pet stains, drain stains, stane stains.It cleans, it brightens, it eliminates odors, and it's mother nature approved!" 
+
+The crowd erupted into another chant. Billy Mays smiled.
+
+He was finally helping the world. 
+
+---
+
+For more stories, check out /r/Celsius232 
+
+I wasn't happy with the ending, so I rewrote it. 
+
+----
+
+[232C](https://www.reddit.com/user/232C) [url](https://www.reddit.com/r/WritingPrompts/comments/4l9qwv/wp_a_man_is_transported_into_the_universe_of/) 
+
+----
+
+#### [WP] Write a seemingly normal story, except for the last sentence, which makes the entire story creepy
+
+Score: 309
+
+I have the most beautiful wife in the world. She's the sunshine of my life, my other half. At first she wanted nothing to do with me, but I won her over with my charm. Sure, I'm 40 and she's 25, but I'm not a pedophile as some claim me to be. She's mature for her age, has a steady job, and we are moving out of our apartment in the city to the suburbs on our 15th anniversary next Wednesday. 
+
+----
+
+[BrutusHawke](https://www.reddit.com/user/BrutusHawke) [url](https://www.reddit.com/r/WritingPrompts/comments/4k2tdk/wp_write_a_seemingly_normal_story_except_for_the/) 
+
 ----
 
