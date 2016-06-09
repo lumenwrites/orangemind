@@ -7,7 +7,7 @@ Date: 2016-06-08
 article {
 word-wrap: break-word;
 }
-<style>
+</style>
 
 
 
