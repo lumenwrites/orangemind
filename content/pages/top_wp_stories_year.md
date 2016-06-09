@@ -2,6 +2,15 @@ Title: Top WP stories
 Slug: top-stories-year
 Date: 2016-06-08
 
+
+<style>
+article {
+word-wrap: break-word;
+}
+<style>
+
+
+
 #### [WP] At the age of 18 you are permitted to redistribute your twenty skill points around into whatever skills you want permanently. You decided to put everything into LUCK and leave the rest at 0 points.
 
 Score: 6120
