@@ -1,4 +1,4 @@
-Title: Top authors
+Title: Top 500 /r/WritingPtompts authors and their best stories
 Slug: top-authors
 Date: 2016-06-08
 
@@ -12,13 +12,15 @@ word-wrap: break-word;
 </style>
 
 
-I have been experimenting with reddit API, and have decided to compile the list of the most upvoted [/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/) and their best stories. Due to the limitations of the API the data can not be 100% exact, but it's pretty close.
+I have been experimenting with reddit API, and have decided to compile the list of the most upvoted **[/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/)** authors and their best stories. Due to the limitations of the API the data can not be 100% exact, but it's pretty close.
 
 "Karma" is calculated based on the number of upvotes to top-level comments, other comments and submitted prompts don't count.
 
-You can find the script used to generate this list [here](https://github.com/raymestalez/reddit-scripts).
+You can find the script used to generate this list **[here](https://github.com/raymestalez/reddit-scripts)**.
 
+Last updated: 2016-06-10
 
+----
 
 #### 1.[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell/comments/?sort=top)  
 Karma: 141379  
