@@ -1,4 +1,4 @@
-Title: Top 500 /r/WritingPtompts authors
+Title: Top 500 /r/WritingPrompts authors
 Slug: top-authors
 Date: 2016-06-08
 
