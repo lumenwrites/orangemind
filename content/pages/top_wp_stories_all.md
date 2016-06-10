@@ -30,13 +30,12 @@ xXSwaGGy-Quarlax [FaZe]
 
 _________
 
-^For ^more ^dank ^memes ^and ^swaggy ^stories, [^feel ^free ^to ^check ^out ^my ^subreddit!](http://www.reddit.com/r/ChokingVictimWrites/)
+For more dank memes and swaggy stories, [feel free to check out my subreddit!](http://www.reddit.com/r/ChokingVictimWrites/)
 
 ----
 
 [ChokingVictim](https://www.reddit.com/user/ChokingVictim)  
-
- [Story url](https://www.reddit.com/r/WritingPrompts/comments/31bvbr/wp_for_years_an_alien_race_has_been_intercepting/) 
+[Story url](https://www.reddit.com/r/WritingPrompts/comments/31bvbr/wp_for_years_an_alien_race_has_been_intercepting/) 
 
 ----
 
