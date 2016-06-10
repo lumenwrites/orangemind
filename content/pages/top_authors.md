@@ -1,4 +1,4 @@
-Title: Top 500 /r/WritingPtompts authors and their best stories
+Title: Top 500 /r/WritingPtompts authors
 Slug: top-authors
 Date: 2016-06-08
 
