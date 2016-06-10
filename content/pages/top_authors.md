@@ -2,7 +2,14 @@ Title: Top authors
 Slug: top-authors
 Date: 2016-06-08
 
-<style>a{color:black;}</style>
+<style>
+a {
+color:black;
+}
+article {
+word-wrap: break-word;
+}
+</style>
 
 
 I have been experimenting with reddit API, and have decided to compile the list of the most upvoted [/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/) and their best stories. Due to the limitations of the API the data can not be 100% exact, but it's pretty close.
