@@ -3,6 +3,7 @@ Slug: top-writingprompts-authors
 Date: 2016-06-08
 Status: Draft
 
+
 <style>
 a {
 color:black;
@@ -15,6 +16,7 @@ word-wrap: break-word;
 
 I have been experimenting with the reddit API, and have decided to compile a list of the best(most upvoted) **[/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/)** authors and their top stories.
 
+<!-- 
 ----
 
 Due to the limitations of the API the data can not be 100% exact, but it's pretty close.
@@ -22,6 +24,7 @@ Due to the limitations of the API the data can not be 100% exact, but it's prett
 List includes only the authors who have written at least 5 stories, with at least 3 stories having 100+ upvotes(to exclude people who wrote only one highly upvoted story).
 
 "Karma" is calculated based on the number of upvotes to top-level comments(to count only stories, and ignore upvotes coming from prompt submissions and other comments). 
+ -->
 
 <!-- You can find the script used to generate this list **[here](https://github.com/raymestalez/reddit-scripts)**. -->
 
@@ -31,9 +34,11 @@ List includes only the authors who have written at least 5 stories, with at leas
 
 ----
 
+
+
 #### 1.[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell/comments/?sort=top)  
-Karma: 143102  
-Stories written: 86  
+<!-- Karma: 143102   -->
+<!-- Stories written: 86   -->
 
 Best stories:  
 
@@ -47,8 +52,8 @@ Best stories:
 ----
 
 #### 2.[psycho_alpaca](https://www.reddit.com/user/psycho_alpaca/comments/?sort=top)  
-Karma: 93222  
-Stories written: 77  
+<!-- Karma: 93222   -->
+<!-- Stories written: 77   -->
 
 Best stories:  
 
@@ -62,8 +67,8 @@ Best stories:
 ----
 
 #### 3.[resonatingfury](https://www.reddit.com/user/resonatingfury/comments/?sort=top)  
-Karma: 37865  
-Stories written: 53  
+<!-- Karma: 37865   -->
+<!-- Stories written: 53   -->
 
 Best stories:  
 
@@ -77,8 +82,8 @@ Best stories:
 ----
 
 #### 4.[ChokingVictim](https://www.reddit.com/user/ChokingVictim/comments/?sort=top)  
-Karma: 35569  
-Stories written: 49  
+<!-- Karma: 35569   -->
+<!-- Stories written: 49   -->
 
 Best stories:  
 
@@ -92,8 +97,8 @@ Best stories:
 ----
 
 #### 5.[LeoDuhVinci](https://www.reddit.com/user/LeoDuhVinci/comments/?sort=top)  
-Karma: 23454  
-Stories written: 50  
+<!-- Karma: 23454   -->
+<!-- Stories written: 50   -->
 
 Best stories:  
 
@@ -107,8 +112,8 @@ Best stories:
 ----
 
 #### 6.[JeniusGuy](https://www.reddit.com/user/JeniusGuy/comments/?sort=top)  
-Karma: 22534  
-Stories written: 64  
+<!-- Karma: 22534   -->
+<!-- Stories written: 64   -->
 
 Best stories:  
 
@@ -122,8 +127,8 @@ Best stories:
 ----
 
 #### 7.[fringly](https://www.reddit.com/user/fringly/comments/?sort=top)  
-Karma: 21891  
-Stories written: 38  
+<!-- Karma: 21891   -->
+<!-- Stories written: 38   -->
 
 Best stories:  
 
@@ -137,8 +142,8 @@ Best stories:
 ----
 
 #### 8.[schoolgirlerror](https://www.reddit.com/user/schoolgirlerror/comments/?sort=top)  
-Karma: 21316  
-Stories written: 87  
+<!-- Karma: 21316   -->
+<!-- Stories written: 87   -->
 
 Best stories:  
 
@@ -152,8 +157,8 @@ Best stories:
 ----
 
 #### 9.[232C](https://www.reddit.com/user/232C/comments/?sort=top)  
-Karma: 19943  
-Stories written: 75  
+<!-- Karma: 19943   -->
+<!-- Stories written: 75   -->
 
 Best stories:  
 
@@ -167,8 +172,8 @@ Best stories:
 ----
 
 #### 10.[ivangrozny](https://www.reddit.com/user/ivangrozny/comments/?sort=top)  
-Karma: 18945  
-Stories written: 66  
+<!-- Karma: 18945   -->
+<!-- Stories written: 66   -->
 
 Best stories:  
 
@@ -182,8 +187,8 @@ Best stories:
 ----
 
 #### 11.[Galokot](https://www.reddit.com/user/Galokot/comments/?sort=top)  
-Karma: 18944  
-Stories written: 70  
+<!-- Karma: 18944   -->
+<!-- Stories written: 70   -->
 
 Best stories:  
 
@@ -197,8 +202,8 @@ Best stories:
 ----
 
 #### 12.[Cymoril_Melnibone](https://www.reddit.com/user/Cymoril_Melnibone/comments/?sort=top)  
-Karma: 17715  
-Stories written: 94  
+<!-- Karma: 17715   -->
+<!-- Stories written: 94   -->
 
 Best stories:  
 
@@ -212,8 +217,8 @@ Best stories:
 ----
 
 #### 13.[NaimKabir](https://www.reddit.com/user/NaimKabir/comments/?sort=top)  
-Karma: 17028  
-Stories written: 34  
+<!-- Karma: 17028   -->
+<!-- Stories written: 34   -->
 
 Best stories:  
 
@@ -227,8 +232,8 @@ Best stories:
 ----
 
 #### 14.[FormerFutureAuthor](https://www.reddit.com/user/FormerFutureAuthor/comments/?sort=top)  
-Karma: 15588  
-Stories written: 52  
+<!-- Karma: 15588   -->
+<!-- Stories written: 52   -->
 
 Best stories:  
 
@@ -242,8 +247,8 @@ Best stories:
 ----
 
 #### 15.[rpwrites](https://www.reddit.com/user/rpwrites/comments/?sort=top)  
-Karma: 15277  
-Stories written: 66  
+<!-- Karma: 15277   -->
+<!-- Stories written: 66   -->
 
 Best stories:  
 
@@ -257,8 +262,8 @@ Best stories:
 ----
 
 #### 16.[thisstorywillsuck](https://www.reddit.com/user/thisstorywillsuck/comments/?sort=top)  
-Karma: 15242  
-Stories written: 12  
+<!-- Karma: 15242   -->
+<!-- Stories written: 12   -->
 
 Best stories:  
 
@@ -272,8 +277,8 @@ Best stories:
 ----
 
 #### 17.[PSHoffman](https://www.reddit.com/user/PSHoffman/comments/?sort=top)  
-Karma: 15229  
-Stories written: 58  
+<!-- Karma: 15229   -->
+<!-- Stories written: 58   -->
 
 Best stories:  
 
@@ -287,8 +292,8 @@ Best stories:
 ----
 
 #### 18.[Puns_are_Lazy](https://www.reddit.com/user/Puns_are_Lazy/comments/?sort=top)  
-Karma: 14871  
-Stories written: 64  
+<!-- Karma: 14871   -->
+<!-- Stories written: 64   -->
 
 Best stories:  
 
@@ -302,8 +307,8 @@ Best stories:
 ----
 
 #### 19.[Writteninsanity](https://www.reddit.com/user/Writteninsanity/comments/?sort=top)  
-Karma: 14378  
-Stories written: 25  
+<!-- Karma: 14378   -->
+<!-- Stories written: 25   -->
 
 Best stories:  
 
@@ -317,8 +322,8 @@ Best stories:
 ----
 
 #### 20.[nickofnight](https://www.reddit.com/user/nickofnight/comments/?sort=top)  
-Karma: 12498  
-Stories written: 62  
+<!-- Karma: 12498   -->
+<!-- Stories written: 62   -->
 
 Best stories:  
 
@@ -332,8 +337,8 @@ Best stories:
 ----
 
 #### 21.[TheWritingSniper](https://www.reddit.com/user/TheWritingSniper/comments/?sort=top)  
-Karma: 12202  
-Stories written: 50  
+<!-- Karma: 12202   -->
+<!-- Stories written: 50   -->
 
 Best stories:  
 
@@ -347,8 +352,8 @@ Best stories:
 ----
 
 #### 22.[samgalimore](https://www.reddit.com/user/samgalimore/comments/?sort=top)  
-Karma: 11535  
-Stories written: 60  
+<!-- Karma: 11535   -->
+<!-- Stories written: 60   -->
 
 Best stories:  
 
@@ -362,8 +367,8 @@ Best stories:
 ----
 
 #### 23.[SarkasticWatcher](https://www.reddit.com/user/SarkasticWatcher/comments/?sort=top)  
-Karma: 10753  
-Stories written: 79  
+<!-- Karma: 10753   -->
+<!-- Stories written: 79   -->
 
 Best stories:  
 
@@ -377,8 +382,8 @@ Best stories:
 ----
 
 #### 24.[Kaantur-Set](https://www.reddit.com/user/Kaantur-Set/comments/?sort=top)  
-Karma: 9571  
-Stories written: 50  
+<!-- Karma: 9571   -->
+<!-- Stories written: 50   -->
 
 Best stories:  
 
@@ -392,8 +397,8 @@ Best stories:
 ----
 
 #### 25.[Mu-Nition](https://www.reddit.com/user/Mu-Nition/comments/?sort=top)  
-Karma: 8732  
-Stories written: 11  
+<!-- Karma: 8732   -->
+<!-- Stories written: 11   -->
 
 Best stories:  
 
@@ -407,8 +412,8 @@ Best stories:
 ----
 
 #### 26.[IWasSurprisedToo](https://www.reddit.com/user/IWasSurprisedToo/comments/?sort=top)  
-Karma: 7926  
-Stories written: 22  
+<!-- Karma: 7926   -->
+<!-- Stories written: 22   -->
 
 Best stories:  
 
@@ -422,8 +427,8 @@ Best stories:
 ----
 
 #### 27.[avukamu](https://www.reddit.com/user/avukamu/comments/?sort=top)  
-Karma: 7916  
-Stories written: 56  
+<!-- Karma: 7916   -->
+<!-- Stories written: 56   -->
 
 Best stories:  
 
@@ -437,8 +442,8 @@ Best stories:
 ----
 
 #### 28.[Guybrushes](https://www.reddit.com/user/Guybrushes/comments/?sort=top)  
-Karma: 7688  
-Stories written: 65  
+<!-- Karma: 7688   -->
+<!-- Stories written: 65   -->
 
 Best stories:  
 
@@ -452,8 +457,8 @@ Best stories:
 ----
 
 #### 29.[bhamv](https://www.reddit.com/user/bhamv/comments/?sort=top)  
-Karma: 7212  
-Stories written: 16  
+<!-- Karma: 7212   -->
+<!-- Stories written: 16   -->
 
 Best stories:  
 
@@ -467,8 +472,8 @@ Best stories:
 ----
 
 #### 30.[matig123](https://www.reddit.com/user/matig123/comments/?sort=top)  
-Karma: 7091  
-Stories written: 7  
+<!-- Karma: 7091   -->
+<!-- Stories written: 7   -->
 
 Best stories:  
 
@@ -482,8 +487,8 @@ Best stories:
 ----
 
 #### 31.[Svansig](https://www.reddit.com/user/Svansig/comments/?sort=top)  
-Karma: 6925  
-Stories written: 14  
+<!-- Karma: 6925   -->
+<!-- Stories written: 14   -->
 
 Best stories:  
 
@@ -497,8 +502,8 @@ Best stories:
 ----
 
 #### 32.[inkfinger](https://www.reddit.com/user/inkfinger/comments/?sort=top)  
-Karma: 6068  
-Stories written: 51  
+<!-- Karma: 6068   -->
+<!-- Stories written: 51   -->
 
 Best stories:  
 
@@ -512,8 +517,8 @@ Best stories:
 ----
 
 #### 33.[Wrobbing](https://www.reddit.com/user/Wrobbing/comments/?sort=top)  
-Karma: 6038  
-Stories written: 47  
+<!-- Karma: 6038   -->
+<!-- Stories written: 47   -->
 
 Best stories:  
 
@@ -527,8 +532,8 @@ Best stories:
 ----
 
 #### 34.[reostra](https://www.reddit.com/user/reostra/comments/?sort=top)  
-Karma: 6019  
-Stories written: 29  
+<!-- Karma: 6019   -->
+<!-- Stories written: 29   -->
 
 Best stories:  
 
@@ -542,8 +547,8 @@ Best stories:
 ----
 
 #### 35.[kmja](https://www.reddit.com/user/kmja/comments/?sort=top)  
-Karma: 5963  
-Stories written: 19  
+<!-- Karma: 5963   -->
+<!-- Stories written: 19   -->
 
 Best stories:  
 
@@ -557,8 +562,8 @@ Best stories:
 ----
 
 #### 36.[WriterWhoWrites](https://www.reddit.com/user/WriterWhoWrites/comments/?sort=top)  
-Karma: 5794  
-Stories written: 62  
+<!-- Karma: 5794   -->
+<!-- Stories written: 62   -->
 
 Best stories:  
 
@@ -572,8 +577,8 @@ Best stories:
 ----
 
 #### 37.[leo_ch](https://www.reddit.com/user/leo_ch/comments/?sort=top)  
-Karma: 5789  
-Stories written: 62  
+<!-- Karma: 5789   -->
+<!-- Stories written: 62   -->
 
 Best stories:  
 
@@ -587,8 +592,8 @@ Best stories:
 ----
 
 #### 38.[PaulsWPAccount](https://www.reddit.com/user/PaulsWPAccount/comments/?sort=top)  
-Karma: 5543  
-Stories written: 29  
+<!-- Karma: 5543   -->
+<!-- Stories written: 29   -->
 
 Best stories:  
 
@@ -602,8 +607,8 @@ Best stories:
 ----
 
 #### 39.[masterblaster98](https://www.reddit.com/user/masterblaster98/comments/?sort=top)  
-Karma: 5468  
-Stories written: 82  
+<!-- Karma: 5468   -->
+<!-- Stories written: 82   -->
 
 Best stories:  
 
@@ -617,8 +622,8 @@ Best stories:
 ----
 
 #### 40.[Aegeus](https://www.reddit.com/user/Aegeus/comments/?sort=top)  
-Karma: 5427  
-Stories written: 22  
+<!-- Karma: 5427   -->
+<!-- Stories written: 22   -->
 
 Best stories:  
 
@@ -632,8 +637,8 @@ Best stories:
 ----
 
 #### 41.[Idreamofdragons](https://www.reddit.com/user/Idreamofdragons/comments/?sort=top)  
-Karma: 5393  
-Stories written: 59  
+<!-- Karma: 5393   -->
+<!-- Stories written: 59   -->
 
 Best stories:  
 
@@ -647,8 +652,8 @@ Best stories:
 ----
 
 #### 42.[RhysyJay](https://www.reddit.com/user/RhysyJay/comments/?sort=top)  
-Karma: 5373  
-Stories written: 56  
+<!-- Karma: 5373   -->
+<!-- Stories written: 56   -->
 
 Best stories:  
 
@@ -662,8 +667,8 @@ Best stories:
 ----
 
 #### 43.[JustLexx](https://www.reddit.com/user/JustLexx/comments/?sort=top)  
-Karma: 5342  
-Stories written: 32  
+<!-- Karma: 5342   -->
+<!-- Stories written: 32   -->
 
 Best stories:  
 
@@ -677,8 +682,8 @@ Best stories:
 ----
 
 #### 44.[ariseatif](https://www.reddit.com/user/ariseatif/comments/?sort=top)  
-Karma: 5236  
-Stories written: 80  
+<!-- Karma: 5236   -->
+<!-- Stories written: 80   -->
 
 Best stories:  
 
@@ -692,8 +697,8 @@ Best stories:
 ----
 
 #### 45.[TheBalladsOfIrving](https://www.reddit.com/user/TheBalladsOfIrving/comments/?sort=top)  
-Karma: 5197  
-Stories written: 56  
+<!-- Karma: 5197   -->
+<!-- Stories written: 56   -->
 
 Best stories:  
 
@@ -707,8 +712,8 @@ Best stories:
 ----
 
 #### 46.[AtlasNoseItch](https://www.reddit.com/user/AtlasNoseItch/comments/?sort=top)  
-Karma: 5128  
-Stories written: 6  
+<!-- Karma: 5128   -->
+<!-- Stories written: 6   -->
 
 Best stories:  
 
@@ -722,8 +727,8 @@ Best stories:
 ----
 
 #### 47.[KillerSealion](https://www.reddit.com/user/KillerSealion/comments/?sort=top)  
-Karma: 5087  
-Stories written: 59  
+<!-- Karma: 5087   -->
+<!-- Stories written: 59   -->
 
 Best stories:  
 
@@ -737,8 +742,8 @@ Best stories:
 ----
 
 #### 48.[Xiaeng](https://www.reddit.com/user/Xiaeng/comments/?sort=top)  
-Karma: 5065  
-Stories written: 69  
+<!-- Karma: 5065   -->
+<!-- Stories written: 69   -->
 
 Best stories:  
 
@@ -752,8 +757,8 @@ Best stories:
 ----
 
 #### 49.[Xacktar](https://www.reddit.com/user/Xacktar/comments/?sort=top)  
-Karma: 5054  
-Stories written: 33  
+<!-- Karma: 5054   -->
+<!-- Stories written: 33   -->
 
 Best stories:  
 
@@ -767,8 +772,8 @@ Best stories:
 ----
 
 #### 50.[grenadiere42](https://www.reddit.com/user/grenadiere42/comments/?sort=top)  
-Karma: 4863  
-Stories written: 68  
+<!-- Karma: 4863   -->
+<!-- Stories written: 68   -->
 
 Best stories:  
 
@@ -782,8 +787,8 @@ Best stories:
 ----
 
 #### 51.[Razputin7](https://www.reddit.com/user/Razputin7/comments/?sort=top)  
-Karma: 4683  
-Stories written: 6  
+<!-- Karma: 4683   -->
+<!-- Stories written: 6   -->
 
 Best stories:  
 
@@ -797,8 +802,8 @@ Best stories:
 ----
 
 #### 52.[Draxagon](https://www.reddit.com/user/Draxagon/comments/?sort=top)  
-Karma: 4653  
-Stories written: 44  
+<!-- Karma: 4653   -->
+<!-- Stories written: 44   -->
 
 Best stories:  
 
@@ -812,8 +817,8 @@ Best stories:
 ----
 
 #### 53.[Gurahave](https://www.reddit.com/user/Gurahave/comments/?sort=top)  
-Karma: 4635  
-Stories written: 31  
+<!-- Karma: 4635   -->
+<!-- Stories written: 31   -->
 
 Best stories:  
 
@@ -827,8 +832,8 @@ Best stories:
 ----
 
 #### 54.[SquidCritic](https://www.reddit.com/user/SquidCritic/comments/?sort=top)  
-Karma: 4591  
-Stories written: 72  
+<!-- Karma: 4591   -->
+<!-- Stories written: 72   -->
 
 Best stories:  
 
@@ -842,8 +847,8 @@ Best stories:
 ----
 
 #### 55.[QuinineGlow](https://www.reddit.com/user/QuinineGlow/comments/?sort=top)  
-Karma: 4551  
-Stories written: 15  
+<!-- Karma: 4551   -->
+<!-- Stories written: 15   -->
 
 Best stories:  
 
@@ -857,8 +862,8 @@ Best stories:
 ----
 
 #### 56.[Hermione_Grangest](https://www.reddit.com/user/Hermione_Grangest/comments/?sort=top)  
-Karma: 4463  
-Stories written: 53  
+<!-- Karma: 4463   -->
+<!-- Stories written: 53   -->
 
 Best stories:  
 
@@ -872,8 +877,8 @@ Best stories:
 ----
 
 #### 57.[Ixolich](https://www.reddit.com/user/Ixolich/comments/?sort=top)  
-Karma: 4420  
-Stories written: 8  
+<!-- Karma: 4420   -->
+<!-- Stories written: 8   -->
 
 Best stories:  
 
@@ -887,8 +892,8 @@ Best stories:
 ----
 
 #### 58.[Dachande663](https://www.reddit.com/user/Dachande663/comments/?sort=top)  
-Karma: 4314  
-Stories written: 44  
+<!-- Karma: 4314   -->
+<!-- Stories written: 44   -->
 
 Best stories:  
 
@@ -902,8 +907,8 @@ Best stories:
 ----
 
 #### 59.[Click_Klack](https://www.reddit.com/user/Click_Klack/comments/?sort=top)  
-Karma: 4162  
-Stories written: 76  
+<!-- Karma: 4162   -->
+<!-- Stories written: 76   -->
 
 Best stories:  
 
@@ -917,8 +922,8 @@ Best stories:
 ----
 
 #### 60.[Groundfighter](https://www.reddit.com/user/Groundfighter/comments/?sort=top)  
-Karma: 4091  
-Stories written: 32  
+<!-- Karma: 4091   -->
+<!-- Stories written: 32   -->
 
 Best stories:  
 
@@ -932,8 +937,8 @@ Best stories:
 ----
 
 #### 61.[JBaloney](https://www.reddit.com/user/JBaloney/comments/?sort=top)  
-Karma: 4022  
-Stories written: 74  
+<!-- Karma: 4022   -->
+<!-- Stories written: 74   -->
 
 Best stories:  
 
@@ -947,8 +952,8 @@ Best stories:
 ----
 
 #### 62.[jdavidj](https://www.reddit.com/user/jdavidj/comments/?sort=top)  
-Karma: 3948  
-Stories written: 28  
+<!-- Karma: 3948   -->
+<!-- Stories written: 28   -->
 
 Best stories:  
 
@@ -962,8 +967,8 @@ Best stories:
 ----
 
 #### 63.[pixeltalker](https://www.reddit.com/user/pixeltalker/comments/?sort=top)  
-Karma: 3945  
-Stories written: 71  
+<!-- Karma: 3945   -->
+<!-- Stories written: 71   -->
 
 Best stories:  
 
@@ -977,8 +982,8 @@ Best stories:
 ----
 
 #### 64.[qqwwrr3](https://www.reddit.com/user/qqwwrr3/comments/?sort=top)  
-Karma: 3939  
-Stories written: 29  
+<!-- Karma: 3939   -->
+<!-- Stories written: 29   -->
 
 Best stories:  
 
@@ -992,8 +997,8 @@ Best stories:
 ----
 
 #### 65.[Teslok](https://www.reddit.com/user/Teslok/comments/?sort=top)  
-Karma: 3873  
-Stories written: 14  
+<!-- Karma: 3873   -->
+<!-- Stories written: 14   -->
 
 Best stories:  
 
@@ -1007,8 +1012,8 @@ Best stories:
 ----
 
 #### 66.[BadElf21](https://www.reddit.com/user/BadElf21/comments/?sort=top)  
-Karma: 3836  
-Stories written: 46  
+<!-- Karma: 3836   -->
+<!-- Stories written: 46   -->
 
 Best stories:  
 
@@ -1022,8 +1027,8 @@ Best stories:
 ----
 
 #### 67.[theheartoffire](https://www.reddit.com/user/theheartoffire/comments/?sort=top)  
-Karma: 3812  
-Stories written: 55  
+<!-- Karma: 3812   -->
+<!-- Stories written: 55   -->
 
 Best stories:  
 
@@ -1037,8 +1042,8 @@ Best stories:
 ----
 
 #### 68.[hpcisco7965](https://www.reddit.com/user/hpcisco7965/comments/?sort=top)  
-Karma: 3751  
-Stories written: 13  
+<!-- Karma: 3751   -->
+<!-- Stories written: 13   -->
 
 Best stories:  
 
@@ -1052,8 +1057,8 @@ Best stories:
 ----
 
 #### 69.[blahgarfogar](https://www.reddit.com/user/blahgarfogar/comments/?sort=top)  
-Karma: 3630  
-Stories written: 78  
+<!-- Karma: 3630   -->
+<!-- Stories written: 78   -->
 
 Best stories:  
 
@@ -1067,8 +1072,8 @@ Best stories:
 ----
 
 #### 70.[Tom_Teller_Writes](https://www.reddit.com/user/Tom_Teller_Writes/comments/?sort=top)  
-Karma: 3523  
-Stories written: 34  
+<!-- Karma: 3523   -->
+<!-- Stories written: 34   -->
 
 Best stories:  
 
@@ -1082,8 +1087,8 @@ Best stories:
 ----
 
 #### 71.[BlibbidyBlab](https://www.reddit.com/user/BlibbidyBlab/comments/?sort=top)  
-Karma: 3505  
-Stories written: 62  
+<!-- Karma: 3505   -->
+<!-- Stories written: 62   -->
 
 Best stories:  
 
@@ -1097,8 +1102,8 @@ Best stories:
 ----
 
 #### 72.[weighawesome](https://www.reddit.com/user/weighawesome/comments/?sort=top)  
-Karma: 3498  
-Stories written: 23  
+<!-- Karma: 3498   -->
+<!-- Stories written: 23   -->
 
 Best stories:  
 
@@ -1112,8 +1117,8 @@ Best stories:
 ----
 
 #### 73.[ISwearImNotEvil](https://www.reddit.com/user/ISwearImNotEvil/comments/?sort=top)  
-Karma: 3416  
-Stories written: 51  
+<!-- Karma: 3416   -->
+<!-- Stories written: 51   -->
 
 Best stories:  
 
@@ -1127,8 +1132,8 @@ Best stories:
 ----
 
 #### 74.[Dimitri1033](https://www.reddit.com/user/Dimitri1033/comments/?sort=top)  
-Karma: 3372  
-Stories written: 44  
+<!-- Karma: 3372   -->
+<!-- Stories written: 44   -->
 
 Best stories:  
 
@@ -1142,8 +1147,8 @@ Best stories:
 ----
 
 #### 75.[nickkuvaas](https://www.reddit.com/user/nickkuvaas/comments/?sort=top)  
-Karma: 3355  
-Stories written: 83  
+<!-- Karma: 3355   -->
+<!-- Stories written: 83   -->
 
 Best stories:  
 
@@ -1157,8 +1162,8 @@ Best stories:
 ----
 
 #### 76.[CrashWho](https://www.reddit.com/user/CrashWho/comments/?sort=top)  
-Karma: 3321  
-Stories written: 30  
+<!-- Karma: 3321   -->
+<!-- Stories written: 30   -->
 
 Best stories:  
 
@@ -1172,8 +1177,8 @@ Best stories:
 ----
 
 #### 77.[Zaphodsauheart](https://www.reddit.com/user/Zaphodsauheart/comments/?sort=top)  
-Karma: 3286  
-Stories written: 82  
+<!-- Karma: 3286   -->
+<!-- Stories written: 82   -->
 
 Best stories:  
 
@@ -1187,8 +1192,8 @@ Best stories:
 ----
 
 #### 78.[Khaarus](https://www.reddit.com/user/Khaarus/comments/?sort=top)  
-Karma: 3064  
-Stories written: 56  
+<!-- Karma: 3064   -->
+<!-- Stories written: 56   -->
 
 Best stories:  
 
@@ -1202,8 +1207,8 @@ Best stories:
 ----
 
 #### 79.[Tallbrain123](https://www.reddit.com/user/Tallbrain123/comments/?sort=top)  
-Karma: 3041  
-Stories written: 27  
+<!-- Karma: 3041   -->
+<!-- Stories written: 27   -->
 
 Best stories:  
 
@@ -1217,8 +1222,8 @@ Best stories:
 ----
 
 #### 80.[SeanPenname](https://www.reddit.com/user/SeanPenname/comments/?sort=top)  
-Karma: 3020  
-Stories written: 42  
+<!-- Karma: 3020   -->
+<!-- Stories written: 42   -->
 
 Best stories:  
 
@@ -1232,8 +1237,8 @@ Best stories:
 ----
 
 #### 81.[Bilgebum](https://www.reddit.com/user/Bilgebum/comments/?sort=top)  
-Karma: 2987  
-Stories written: 60  
+<!-- Karma: 2987   -->
+<!-- Stories written: 60   -->
 
 Best stories:  
 
@@ -1247,8 +1252,8 @@ Best stories:
 ----
 
 #### 82.[Ragatode](https://www.reddit.com/user/Ragatode/comments/?sort=top)  
-Karma: 2932  
-Stories written: 60  
+<!-- Karma: 2932   -->
+<!-- Stories written: 60   -->
 
 Best stories:  
 
@@ -1262,8 +1267,8 @@ Best stories:
 ----
 
 #### 83.[Written4Reddit](https://www.reddit.com/user/Written4Reddit/comments/?sort=top)  
-Karma: 2899  
-Stories written: 44  
+<!-- Karma: 2899   -->
+<!-- Stories written: 44   -->
 
 Best stories:  
 
@@ -1277,8 +1282,8 @@ Best stories:
 ----
 
 #### 84.[MajorParadox](https://www.reddit.com/user/MajorParadox/comments/?sort=top)  
-Karma: 2886  
-Stories written: 22  
+<!-- Karma: 2886   -->
+<!-- Stories written: 22   -->
 
 Best stories:  
 
@@ -1292,8 +1297,8 @@ Best stories:
 ----
 
 #### 85.[Kathiana](https://www.reddit.com/user/Kathiana/comments/?sort=top)  
-Karma: 2854  
-Stories written: 14  
+<!-- Karma: 2854   -->
+<!-- Stories written: 14   -->
 
 Best stories:  
 
@@ -1307,8 +1312,8 @@ Best stories:
 ----
 
 #### 86.[Casual_Wizard](https://www.reddit.com/user/Casual_Wizard/comments/?sort=top)  
-Karma: 2804  
-Stories written: 14  
+<!-- Karma: 2804   -->
+<!-- Stories written: 14   -->
 
 Best stories:  
 
@@ -1322,8 +1327,8 @@ Best stories:
 ----
 
 #### 87.[LeVentNoir](https://www.reddit.com/user/LeVentNoir/comments/?sort=top)  
-Karma: 2796  
-Stories written: 6  
+<!-- Karma: 2796   -->
+<!-- Stories written: 6   -->
 
 Best stories:  
 
@@ -1337,8 +1342,8 @@ Best stories:
 ----
 
 #### 88.[_thegrapesoda_](https://www.reddit.com/user/_thegrapesoda_/comments/?sort=top)  
-Karma: 2772  
-Stories written: 36  
+<!-- Karma: 2772   -->
+<!-- Stories written: 36   -->
 
 Best stories:  
 
@@ -1352,8 +1357,8 @@ Best stories:
 ----
 
 #### 89.[Nazer_the_Lazer](https://www.reddit.com/user/Nazer_the_Lazer/comments/?sort=top)  
-Karma: 2690  
-Stories written: 33  
+<!-- Karma: 2690   -->
+<!-- Stories written: 33   -->
 
 Best stories:  
 
@@ -1367,8 +1372,8 @@ Best stories:
 ----
 
 #### 90.[fliclit](https://www.reddit.com/user/fliclit/comments/?sort=top)  
-Karma: 2614  
-Stories written: 53  
+<!-- Karma: 2614   -->
+<!-- Stories written: 53   -->
 
 Best stories:  
 
@@ -1382,8 +1387,8 @@ Best stories:
 ----
 
 #### 91.[LovableCoward](https://www.reddit.com/user/LovableCoward/comments/?sort=top)  
-Karma: 2564  
-Stories written: 46  
+<!-- Karma: 2564   -->
+<!-- Stories written: 46   -->
 
 Best stories:  
 
@@ -1397,8 +1402,8 @@ Best stories:
 ----
 
 #### 92.[JJBang](https://www.reddit.com/user/JJBang/comments/?sort=top)  
-Karma: 2551  
-Stories written: 21  
+<!-- Karma: 2551   -->
+<!-- Stories written: 21   -->
 
 Best stories:  
 
@@ -1412,8 +1417,8 @@ Best stories:
 ----
 
 #### 93.[theoatmealarsonist](https://www.reddit.com/user/theoatmealarsonist/comments/?sort=top)  
-Karma: 2532  
-Stories written: 59  
+<!-- Karma: 2532   -->
+<!-- Stories written: 59   -->
 
 Best stories:  
 
@@ -1427,8 +1432,8 @@ Best stories:
 ----
 
 #### 94.[Writeful_heir](https://www.reddit.com/user/Writeful_heir/comments/?sort=top)  
-Karma: 2519  
-Stories written: 70  
+<!-- Karma: 2519   -->
+<!-- Stories written: 70   -->
 
 Best stories:  
 
@@ -1442,8 +1447,8 @@ Best stories:
 ----
 
 #### 95.[chondroitin](https://www.reddit.com/user/chondroitin/comments/?sort=top)  
-Karma: 2508  
-Stories written: 54  
+<!-- Karma: 2508   -->
+<!-- Stories written: 54   -->
 
 Best stories:  
 
@@ -1457,8 +1462,8 @@ Best stories:
 ----
 
 #### 96.[herd_of_birds](https://www.reddit.com/user/herd_of_birds/comments/?sort=top)  
-Karma: 2504  
-Stories written: 40  
+<!-- Karma: 2504   -->
+<!-- Stories written: 40   -->
 
 Best stories:  
 
@@ -1472,8 +1477,8 @@ Best stories:
 ----
 
 #### 97.[iwantthemoon](https://www.reddit.com/user/iwantthemoon/comments/?sort=top)  
-Karma: 2491  
-Stories written: 27  
+<!-- Karma: 2491   -->
+<!-- Stories written: 27   -->
 
 Best stories:  
 
@@ -1487,8 +1492,8 @@ Best stories:
 ----
 
 #### 98.[drewhead118](https://www.reddit.com/user/drewhead118/comments/?sort=top)  
-Karma: 2479  
-Stories written: 28  
+<!-- Karma: 2479   -->
+<!-- Stories written: 28   -->
 
 Best stories:  
 
@@ -1502,8 +1507,8 @@ Best stories:
 ----
 
 #### 99.[sketches1637](https://www.reddit.com/user/sketches1637/comments/?sort=top)  
-Karma: 2456  
-Stories written: 72  
+<!-- Karma: 2456   -->
+<!-- Stories written: 72   -->
 
 Best stories:  
 
@@ -1516,8 +1521,8 @@ Best stories:
 ----
 
 #### 100.[Kyler_Murden](https://www.reddit.com/user/Kyler_Murden/comments/?sort=top)  
-Karma: 2389  
-Stories written: 38  
+<!-- Karma: 2389   -->
+<!-- Stories written: 38   -->
 
 Best stories:  
 
