@@ -1,39 +1,8 @@
-Title: Top 100 /r/WritingPrompts authors
-Slug: top-writingprompts-authors
+Title: Top authors
+Slug: leads
 Date: 2016-06-08
 
-
-<style>
-a {
-color:black;
-}
-article {
-word-wrap: break-word;
-}
-</style>
-
-
-I have been experimenting with reddit API, and have decided to compile a list of the best(most upvoted) **[/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/)** authors and their top stories.
-
-<!-- 
-----
-
-Due to the limitations of the API the data can not be 100% exact, but it's pretty close.
-
-List includes only the authors who have written at least 5 stories, with at least 3 stories having 100+ upvotes(to exclude people who wrote only one highly upvoted story).
-
-"Karma" is calculated based on the number of upvotes to top-level comments(to count only stories, and ignore upvotes coming from prompt submissions and other comments). 
--->
-
-<!-- You can find the script used to generate this list **[here](https://github.com/raymestalez/reddit-scripts)**. -->
-
-<!-- You can find the compilation of the most upvoted stories **[here](http://orangemind.io/top-stories-all)**. -->
-
-<!-- Last updated: 2016-06-10 -->
-
-----
-
-#### 1.[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell/comments/?sort=top)  
+<style>a{color:black;}</style>#### 1.[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell/comments/?sort=top)  
 Karma: 143102  
 Stories written: 86  
 Latest story written: 1 days, 7 hours ago  

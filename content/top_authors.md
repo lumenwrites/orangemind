@@ -1,7 +1,7 @@
 Title: Top 100 /r/WritingPrompts authors
 Slug: top-writingprompts-authors
 Date: 2016-06-08
-
+Status: Draft
 
 <style>
 a {
@@ -13,9 +13,8 @@ word-wrap: break-word;
 </style>
 
 
-I have been experimenting with reddit API, and have decided to compile a list of the best(most upvoted) **[/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/)** authors and their top stories.
+I have been experimenting with the reddit API, and have decided to compile a list of the best(most upvoted) **[/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/)** authors and their top stories.
 
-<!-- 
 ----
 
 Due to the limitations of the API the data can not be 100% exact, but it's pretty close.
@@ -23,7 +22,6 @@ Due to the limitations of the API the data can not be 100% exact, but it's prett
 List includes only the authors who have written at least 5 stories, with at least 3 stories having 100+ upvotes(to exclude people who wrote only one highly upvoted story).
 
 "Karma" is calculated based on the number of upvotes to top-level comments(to count only stories, and ignore upvotes coming from prompt submissions and other comments). 
--->
 
 <!-- You can find the script used to generate this list **[here](https://github.com/raymestalez/reddit-scripts)**. -->
 
@@ -36,8 +34,6 @@ List includes only the authors who have written at least 5 stories, with at leas
 #### 1.[Luna_LoveWell](https://www.reddit.com/user/Luna_LoveWell/comments/?sort=top)  
 Karma: 143102  
 Stories written: 86  
-Latest story written: 1 days, 7 hours ago  
-Last active on reddit: 1 days, 5 hours ago  
 
 Best stories:  
 
@@ -53,8 +49,6 @@ Best stories:
 #### 2.[psycho_alpaca](https://www.reddit.com/user/psycho_alpaca/comments/?sort=top)  
 Karma: 93222  
 Stories written: 77  
-Latest story written: 4 days, 15 hours ago  
-Last active on reddit: 0 days, 4 hours ago  
 
 Best stories:  
 
@@ -70,8 +64,6 @@ Best stories:
 #### 3.[resonatingfury](https://www.reddit.com/user/resonatingfury/comments/?sort=top)  
 Karma: 37865  
 Stories written: 53  
-Latest story written: 0 days, 10 hours ago  
-Last active on reddit: 0 days, 0 hours ago  
 
 Best stories:  
 
@@ -87,8 +79,6 @@ Best stories:
 #### 4.[ChokingVictim](https://www.reddit.com/user/ChokingVictim/comments/?sort=top)  
 Karma: 35569  
 Stories written: 49  
-Latest story written: 0 days, 4 hours ago  
-Last active on reddit: 7 days, 4 hours ago  
 
 Best stories:  
 
@@ -104,8 +94,6 @@ Best stories:
 #### 5.[LeoDuhVinci](https://www.reddit.com/user/LeoDuhVinci/comments/?sort=top)  
 Karma: 23454  
 Stories written: 50  
-Latest story written: 5 days, 9 hours ago  
-Last active on reddit: 1 days, 19 hours ago  
 
 Best stories:  
 
@@ -121,8 +109,6 @@ Best stories:
 #### 6.[JeniusGuy](https://www.reddit.com/user/JeniusGuy/comments/?sort=top)  
 Karma: 22534  
 Stories written: 64  
-Latest story written: 10 days, 4 hours ago  
-Last active on reddit: 12 days, 8 hours ago  
 
 Best stories:  
 
@@ -138,8 +124,6 @@ Best stories:
 #### 7.[fringly](https://www.reddit.com/user/fringly/comments/?sort=top)  
 Karma: 21891  
 Stories written: 38  
-Latest story written: 1 days, 14 hours ago  
-Last active on reddit: 1 days, 5 hours ago  
 
 Best stories:  
 
@@ -155,8 +139,6 @@ Best stories:
 #### 8.[schoolgirlerror](https://www.reddit.com/user/schoolgirlerror/comments/?sort=top)  
 Karma: 21316  
 Stories written: 87  
-Latest story written: 30 days, 11 hours ago  
-Last active on reddit: 3 days, 15 hours ago  
 
 Best stories:  
 
@@ -172,8 +154,6 @@ Best stories:
 #### 9.[232C](https://www.reddit.com/user/232C/comments/?sort=top)  
 Karma: 19943  
 Stories written: 75  
-Latest story written: 0 days, 10 hours ago  
-Last active on reddit: 0 days, 0 hours ago  
 
 Best stories:  
 
@@ -189,8 +169,6 @@ Best stories:
 #### 10.[ivangrozny](https://www.reddit.com/user/ivangrozny/comments/?sort=top)  
 Karma: 18945  
 Stories written: 66  
-Latest story written: 21 days, 11 hours ago  
-Last active on reddit: 21 days, 10 hours ago  
 
 Best stories:  
 
@@ -206,8 +184,6 @@ Best stories:
 #### 11.[Galokot](https://www.reddit.com/user/Galokot/comments/?sort=top)  
 Karma: 18944  
 Stories written: 70  
-Latest story written: 5 days, 3 hours ago  
-Last active on reddit: 5 days, 3 hours ago  
 
 Best stories:  
 
@@ -223,8 +199,6 @@ Best stories:
 #### 12.[Cymoril_Melnibone](https://www.reddit.com/user/Cymoril_Melnibone/comments/?sort=top)  
 Karma: 17715  
 Stories written: 94  
-Latest story written: 24 days, 6 hours ago  
-Last active on reddit: 22 days, 2 hours ago  
 
 Best stories:  
 
@@ -240,8 +214,6 @@ Best stories:
 #### 13.[NaimKabir](https://www.reddit.com/user/NaimKabir/comments/?sort=top)  
 Karma: 17028  
 Stories written: 34  
-Latest story written: 16 days, 23 hours ago  
-Last active on reddit: 21 days, 21 hours ago  
 
 Best stories:  
 
@@ -257,8 +229,6 @@ Best stories:
 #### 14.[FormerFutureAuthor](https://www.reddit.com/user/FormerFutureAuthor/comments/?sort=top)  
 Karma: 15588  
 Stories written: 52  
-Latest story written: 19 days, 2 hours ago  
-Last active on reddit: 3 days, 5 hours ago  
 
 Best stories:  
 
@@ -274,8 +244,6 @@ Best stories:
 #### 15.[rpwrites](https://www.reddit.com/user/rpwrites/comments/?sort=top)  
 Karma: 15277  
 Stories written: 66  
-Latest story written: 27 days, 9 hours ago  
-Last active on reddit: 17 days, 2 hours ago  
 
 Best stories:  
 
@@ -291,8 +259,6 @@ Best stories:
 #### 16.[thisstorywillsuck](https://www.reddit.com/user/thisstorywillsuck/comments/?sort=top)  
 Karma: 15242  
 Stories written: 12  
-Latest story written: 3 days, 4 hours ago  
-Last active on reddit: 1 days, 22 hours ago  
 
 Best stories:  
 
@@ -308,8 +274,6 @@ Best stories:
 #### 17.[PSHoffman](https://www.reddit.com/user/PSHoffman/comments/?sort=top)  
 Karma: 15229  
 Stories written: 58  
-Latest story written: 18 days, 10 hours ago  
-Last active on reddit: 14 days, 3 hours ago  
 
 Best stories:  
 
@@ -325,8 +289,6 @@ Best stories:
 #### 18.[Puns_are_Lazy](https://www.reddit.com/user/Puns_are_Lazy/comments/?sort=top)  
 Karma: 14871  
 Stories written: 64  
-Latest story written: 0 days, 7 hours ago  
-Last active on reddit: 0 days, 7 hours ago  
 
 Best stories:  
 
@@ -342,8 +304,6 @@ Best stories:
 #### 19.[Writteninsanity](https://www.reddit.com/user/Writteninsanity/comments/?sort=top)  
 Karma: 14378  
 Stories written: 25  
-Latest story written: 1 days, 0 hours ago  
-Last active on reddit: 0 days, 10 hours ago  
 
 Best stories:  
 
@@ -359,8 +319,6 @@ Best stories:
 #### 20.[nickofnight](https://www.reddit.com/user/nickofnight/comments/?sort=top)  
 Karma: 12498  
 Stories written: 62  
-Latest story written: 2 days, 19 hours ago  
-Last active on reddit: 0 days, 18 hours ago  
 
 Best stories:  
 
@@ -376,8 +334,6 @@ Best stories:
 #### 21.[TheWritingSniper](https://www.reddit.com/user/TheWritingSniper/comments/?sort=top)  
 Karma: 12202  
 Stories written: 50  
-Latest story written: 0 days, 9 hours ago  
-Last active on reddit: 0 days, 8 hours ago  
 
 Best stories:  
 
@@ -393,8 +349,6 @@ Best stories:
 #### 22.[samgalimore](https://www.reddit.com/user/samgalimore/comments/?sort=top)  
 Karma: 11535  
 Stories written: 60  
-Latest story written: 7 days, 7 hours ago  
-Last active on reddit: 7 days, 7 hours ago  
 
 Best stories:  
 
@@ -410,8 +364,6 @@ Best stories:
 #### 23.[SarkasticWatcher](https://www.reddit.com/user/SarkasticWatcher/comments/?sort=top)  
 Karma: 10753  
 Stories written: 79  
-Latest story written: 10 days, 1 hours ago  
-Last active on reddit: 27 days, 2 hours ago  
 
 Best stories:  
 
@@ -427,8 +379,6 @@ Best stories:
 #### 24.[Kaantur-Set](https://www.reddit.com/user/Kaantur-Set/comments/?sort=top)  
 Karma: 9571  
 Stories written: 50  
-Latest story written: 5 days, 19 hours ago  
-Last active on reddit: 5 days, 19 hours ago  
 
 Best stories:  
 
@@ -444,8 +394,6 @@ Best stories:
 #### 25.[Mu-Nition](https://www.reddit.com/user/Mu-Nition/comments/?sort=top)  
 Karma: 8732  
 Stories written: 11  
-Latest story written:   
-Last active on reddit: 0 days, 4 hours ago  
 
 Best stories:  
 
@@ -461,8 +409,6 @@ Best stories:
 #### 26.[IWasSurprisedToo](https://www.reddit.com/user/IWasSurprisedToo/comments/?sort=top)  
 Karma: 7926  
 Stories written: 22  
-Latest story written: 1 days, 21 hours ago  
-Last active on reddit: 1 days, 21 hours ago  
 
 Best stories:  
 
@@ -478,8 +424,6 @@ Best stories:
 #### 27.[avukamu](https://www.reddit.com/user/avukamu/comments/?sort=top)  
 Karma: 7916  
 Stories written: 56  
-Latest story written: 3 days, 22 hours ago  
-Last active on reddit: 3 days, 1 hours ago  
 
 Best stories:  
 
@@ -495,8 +439,6 @@ Best stories:
 #### 28.[Guybrushes](https://www.reddit.com/user/Guybrushes/comments/?sort=top)  
 Karma: 7688  
 Stories written: 65  
-Latest story written: 6 days, 2 hours ago  
-Last active on reddit: 6 days, 2 hours ago  
 
 Best stories:  
 
@@ -512,8 +454,6 @@ Best stories:
 #### 29.[bhamv](https://www.reddit.com/user/bhamv/comments/?sort=top)  
 Karma: 7212  
 Stories written: 16  
-Latest story written: 6 days, 15 hours ago  
-Last active on reddit: 3 days, 19 hours ago  
 
 Best stories:  
 
@@ -529,8 +469,6 @@ Best stories:
 #### 30.[matig123](https://www.reddit.com/user/matig123/comments/?sort=top)  
 Karma: 7091  
 Stories written: 7  
-Latest story written: 19 days, 9 hours ago  
-Last active on reddit: 8 days, 9 hours ago  
 
 Best stories:  
 
@@ -546,8 +484,6 @@ Best stories:
 #### 31.[Svansig](https://www.reddit.com/user/Svansig/comments/?sort=top)  
 Karma: 6925  
 Stories written: 14  
-Latest story written:   
-Last active on reddit: 2 days, 4 hours ago  
 
 Best stories:  
 
@@ -563,8 +499,6 @@ Best stories:
 #### 32.[inkfinger](https://www.reddit.com/user/inkfinger/comments/?sort=top)  
 Karma: 6068  
 Stories written: 51  
-Latest story written: 28 days, 11 hours ago  
-Last active on reddit: 0 days, 7 hours ago  
 
 Best stories:  
 
@@ -580,8 +514,6 @@ Best stories:
 #### 33.[Wrobbing](https://www.reddit.com/user/Wrobbing/comments/?sort=top)  
 Karma: 6038  
 Stories written: 47  
-Latest story written: 15 days, 3 hours ago  
-Last active on reddit: 25 days, 6 hours ago  
 
 Best stories:  
 
@@ -597,8 +529,6 @@ Best stories:
 #### 34.[reostra](https://www.reddit.com/user/reostra/comments/?sort=top)  
 Karma: 6019  
 Stories written: 29  
-Latest story written: 0 days, 6 hours ago  
-Last active on reddit: 0 days, 5 hours ago  
 
 Best stories:  
 
@@ -614,8 +544,6 @@ Best stories:
 #### 35.[kmja](https://www.reddit.com/user/kmja/comments/?sort=top)  
 Karma: 5963  
 Stories written: 19  
-Latest story written: 8 days, 14 hours ago  
-Last active on reddit: 6 days, 12 hours ago  
 
 Best stories:  
 
@@ -631,8 +559,6 @@ Best stories:
 #### 36.[WriterWhoWrites](https://www.reddit.com/user/WriterWhoWrites/comments/?sort=top)  
 Karma: 5794  
 Stories written: 62  
-Latest story written: 1 days, 12 hours ago  
-Last active on reddit: 1 days, 8 hours ago  
 
 Best stories:  
 
@@ -648,8 +574,6 @@ Best stories:
 #### 37.[leo_ch](https://www.reddit.com/user/leo_ch/comments/?sort=top)  
 Karma: 5789  
 Stories written: 62  
-Latest story written: 2 days, 10 hours ago  
-Last active on reddit: 2 days, 10 hours ago  
 
 Best stories:  
 
@@ -665,8 +589,6 @@ Best stories:
 #### 38.[PaulsWPAccount](https://www.reddit.com/user/PaulsWPAccount/comments/?sort=top)  
 Karma: 5543  
 Stories written: 29  
-Latest story written: 9 days, 11 hours ago  
-Last active on reddit: 9 days, 7 hours ago  
 
 Best stories:  
 
@@ -682,8 +604,6 @@ Best stories:
 #### 39.[masterblaster98](https://www.reddit.com/user/masterblaster98/comments/?sort=top)  
 Karma: 5468  
 Stories written: 82  
-Latest story written: 12 days, 9 hours ago  
-Last active on reddit: 29 days, 11 hours ago  
 
 Best stories:  
 
@@ -699,8 +619,6 @@ Best stories:
 #### 40.[Aegeus](https://www.reddit.com/user/Aegeus/comments/?sort=top)  
 Karma: 5427  
 Stories written: 22  
-Latest story written: 0 days, 11 hours ago  
-Last active on reddit: 0 days, 1 hours ago  
 
 Best stories:  
 
@@ -716,8 +634,6 @@ Best stories:
 #### 41.[Idreamofdragons](https://www.reddit.com/user/Idreamofdragons/comments/?sort=top)  
 Karma: 5393  
 Stories written: 59  
-Latest story written: 13 days, 10 hours ago  
-Last active on reddit: 13 days, 10 hours ago  
 
 Best stories:  
 
@@ -733,8 +649,6 @@ Best stories:
 #### 42.[RhysyJay](https://www.reddit.com/user/RhysyJay/comments/?sort=top)  
 Karma: 5373  
 Stories written: 56  
-Latest story written: 26 days, 9 hours ago  
-Last active on reddit: 14 days, 16 hours ago  
 
 Best stories:  
 
@@ -750,8 +664,6 @@ Best stories:
 #### 43.[JustLexx](https://www.reddit.com/user/JustLexx/comments/?sort=top)  
 Karma: 5342  
 Stories written: 32  
-Latest story written: 30 days, 11 hours ago  
-Last active on reddit: 2 days, 1 hours ago  
 
 Best stories:  
 
@@ -767,8 +679,6 @@ Best stories:
 #### 44.[ariseatif](https://www.reddit.com/user/ariseatif/comments/?sort=top)  
 Karma: 5236  
 Stories written: 80  
-Latest story written: 17 days, 7 hours ago  
-Last active on reddit: 17 days, 7 hours ago  
 
 Best stories:  
 
@@ -784,8 +694,6 @@ Best stories:
 #### 45.[TheBalladsOfIrving](https://www.reddit.com/user/TheBalladsOfIrving/comments/?sort=top)  
 Karma: 5197  
 Stories written: 56  
-Latest story written: 19 days, 7 hours ago  
-Last active on reddit: 19 days, 7 hours ago  
 
 Best stories:  
 
@@ -801,8 +709,6 @@ Best stories:
 #### 46.[AtlasNoseItch](https://www.reddit.com/user/AtlasNoseItch/comments/?sort=top)  
 Karma: 5128  
 Stories written: 6  
-Latest story written:   
-Last active on reddit: 6 days, 20 hours ago  
 
 Best stories:  
 
@@ -818,8 +724,6 @@ Best stories:
 #### 47.[KillerSealion](https://www.reddit.com/user/KillerSealion/comments/?sort=top)  
 Karma: 5087  
 Stories written: 59  
-Latest story written: 2 days, 5 hours ago  
-Last active on reddit: 2 days, 4 hours ago  
 
 Best stories:  
 
@@ -835,8 +739,6 @@ Best stories:
 #### 48.[Xiaeng](https://www.reddit.com/user/Xiaeng/comments/?sort=top)  
 Karma: 5065  
 Stories written: 69  
-Latest story written: 0 days, 9 hours ago  
-Last active on reddit: 0 days, 7 hours ago  
 
 Best stories:  
 
@@ -852,8 +754,6 @@ Best stories:
 #### 49.[Xacktar](https://www.reddit.com/user/Xacktar/comments/?sort=top)  
 Karma: 5054  
 Stories written: 33  
-Latest story written: 7 days, 7 hours ago  
-Last active on reddit: 2 days, 1 hours ago  
 
 Best stories:  
 
@@ -869,8 +769,6 @@ Best stories:
 #### 50.[grenadiere42](https://www.reddit.com/user/grenadiere42/comments/?sort=top)  
 Karma: 4863  
 Stories written: 68  
-Latest story written: 1 days, 9 hours ago  
-Last active on reddit: 1 days, 9 hours ago  
 
 Best stories:  
 
@@ -886,8 +784,6 @@ Best stories:
 #### 51.[Razputin7](https://www.reddit.com/user/Razputin7/comments/?sort=top)  
 Karma: 4683  
 Stories written: 6  
-Latest story written: 3 days, 19 hours ago  
-Last active on reddit: 0 days, 0 hours ago  
 
 Best stories:  
 
@@ -903,8 +799,6 @@ Best stories:
 #### 52.[Draxagon](https://www.reddit.com/user/Draxagon/comments/?sort=top)  
 Karma: 4653  
 Stories written: 44  
-Latest story written: 10 days, 4 hours ago  
-Last active on reddit: 0 days, 17 hours ago  
 
 Best stories:  
 
@@ -920,8 +814,6 @@ Best stories:
 #### 53.[Gurahave](https://www.reddit.com/user/Gurahave/comments/?sort=top)  
 Karma: 4635  
 Stories written: 31  
-Latest story written: 5 days, 23 hours ago  
-Last active on reddit: 18 days, 2 hours ago  
 
 Best stories:  
 
@@ -937,8 +829,6 @@ Best stories:
 #### 54.[SquidCritic](https://www.reddit.com/user/SquidCritic/comments/?sort=top)  
 Karma: 4591  
 Stories written: 72  
-Latest story written: 2 days, 6 hours ago  
-Last active on reddit: 2 days, 6 hours ago  
 
 Best stories:  
 
@@ -954,8 +844,6 @@ Best stories:
 #### 55.[QuinineGlow](https://www.reddit.com/user/QuinineGlow/comments/?sort=top)  
 Karma: 4551  
 Stories written: 15  
-Latest story written:   
-Last active on reddit: 0 days, 5 hours ago  
 
 Best stories:  
 
@@ -971,8 +859,6 @@ Best stories:
 #### 56.[Hermione_Grangest](https://www.reddit.com/user/Hermione_Grangest/comments/?sort=top)  
 Karma: 4463  
 Stories written: 53  
-Latest story written: 7 days, 10 hours ago  
-Last active on reddit: 27 days, 15 hours ago  
 
 Best stories:  
 
@@ -988,8 +874,6 @@ Best stories:
 #### 57.[Ixolich](https://www.reddit.com/user/Ixolich/comments/?sort=top)  
 Karma: 4420  
 Stories written: 8  
-Latest story written: 2 days, 2 hours ago  
-Last active on reddit: 0 days, 17 hours ago  
 
 Best stories:  
 
@@ -1005,8 +889,6 @@ Best stories:
 #### 58.[Dachande663](https://www.reddit.com/user/Dachande663/comments/?sort=top)  
 Karma: 4314  
 Stories written: 44  
-Latest story written:   
-Last active on reddit: 0 days, 5 hours ago  
 
 Best stories:  
 
@@ -1022,8 +904,6 @@ Best stories:
 #### 59.[Click_Klack](https://www.reddit.com/user/Click_Klack/comments/?sort=top)  
 Karma: 4162  
 Stories written: 76  
-Latest story written: 29 days, 0 hours ago  
-Last active on reddit: 13 days, 3 hours ago  
 
 Best stories:  
 
@@ -1039,8 +919,6 @@ Best stories:
 #### 60.[Groundfighter](https://www.reddit.com/user/Groundfighter/comments/?sort=top)  
 Karma: 4091  
 Stories written: 32  
-Latest story written: 6 days, 8 hours ago  
-Last active on reddit: 23 days, 4 hours ago  
 
 Best stories:  
 
@@ -1056,8 +934,6 @@ Best stories:
 #### 61.[JBaloney](https://www.reddit.com/user/JBaloney/comments/?sort=top)  
 Karma: 4022  
 Stories written: 74  
-Latest story written: 9 days, 4 hours ago  
-Last active on reddit: 1 days, 2 hours ago  
 
 Best stories:  
 
@@ -1073,8 +949,6 @@ Best stories:
 #### 62.[jdavidj](https://www.reddit.com/user/jdavidj/comments/?sort=top)  
 Karma: 3948  
 Stories written: 28  
-Latest story written: 5 days, 1 hours ago  
-Last active on reddit: 5 days, 1 hours ago  
 
 Best stories:  
 
@@ -1090,8 +964,6 @@ Best stories:
 #### 63.[pixeltalker](https://www.reddit.com/user/pixeltalker/comments/?sort=top)  
 Karma: 3945  
 Stories written: 71  
-Latest story written: 23 days, 11 hours ago  
-Last active on reddit: 10 days, 18 hours ago  
 
 Best stories:  
 
@@ -1107,8 +979,6 @@ Best stories:
 #### 64.[qqwwrr3](https://www.reddit.com/user/qqwwrr3/comments/?sort=top)  
 Karma: 3939  
 Stories written: 29  
-Latest story written: 15 days, 22 hours ago  
-Last active on reddit: 1 days, 2 hours ago  
 
 Best stories:  
 
@@ -1124,8 +994,6 @@ Best stories:
 #### 65.[Teslok](https://www.reddit.com/user/Teslok/comments/?sort=top)  
 Karma: 3873  
 Stories written: 14  
-Latest story written:   
-Last active on reddit: 1 days, 4 hours ago  
 
 Best stories:  
 
@@ -1141,8 +1009,6 @@ Best stories:
 #### 66.[BadElf21](https://www.reddit.com/user/BadElf21/comments/?sort=top)  
 Karma: 3836  
 Stories written: 46  
-Latest story written: 26 days, 23 hours ago  
-Last active on reddit: 2 days, 2 hours ago  
 
 Best stories:  
 
@@ -1158,8 +1024,6 @@ Best stories:
 #### 67.[theheartoffire](https://www.reddit.com/user/theheartoffire/comments/?sort=top)  
 Karma: 3812  
 Stories written: 55  
-Latest story written: 24 days, 19 hours ago  
-Last active on reddit: 17 days, 21 hours ago  
 
 Best stories:  
 
@@ -1175,8 +1039,6 @@ Best stories:
 #### 68.[hpcisco7965](https://www.reddit.com/user/hpcisco7965/comments/?sort=top)  
 Karma: 3751  
 Stories written: 13  
-Latest story written: 0 days, 8 hours ago  
-Last active on reddit: 0 days, 8 hours ago  
 
 Best stories:  
 
@@ -1192,8 +1054,6 @@ Best stories:
 #### 69.[blahgarfogar](https://www.reddit.com/user/blahgarfogar/comments/?sort=top)  
 Karma: 3630  
 Stories written: 78  
-Latest story written: 4 days, 8 hours ago  
-Last active on reddit: 0 days, 0 hours ago  
 
 Best stories:  
 
@@ -1209,8 +1069,6 @@ Best stories:
 #### 70.[Tom_Teller_Writes](https://www.reddit.com/user/Tom_Teller_Writes/comments/?sort=top)  
 Karma: 3523  
 Stories written: 34  
-Latest story written: 15 days, 0 hours ago  
-Last active on reddit: 29 days, 3 hours ago  
 
 Best stories:  
 
@@ -1226,8 +1084,6 @@ Best stories:
 #### 71.[BlibbidyBlab](https://www.reddit.com/user/BlibbidyBlab/comments/?sort=top)  
 Karma: 3505  
 Stories written: 62  
-Latest story written: 17 days, 4 hours ago  
-Last active on reddit: 24 days, 19 hours ago  
 
 Best stories:  
 
@@ -1243,8 +1099,6 @@ Best stories:
 #### 72.[weighawesome](https://www.reddit.com/user/weighawesome/comments/?sort=top)  
 Karma: 3498  
 Stories written: 23  
-Latest story written: 3 days, 8 hours ago  
-Last active on reddit: 3 days, 8 hours ago  
 
 Best stories:  
 
@@ -1260,8 +1114,6 @@ Best stories:
 #### 73.[ISwearImNotEvil](https://www.reddit.com/user/ISwearImNotEvil/comments/?sort=top)  
 Karma: 3416  
 Stories written: 51  
-Latest story written: 26 days, 9 hours ago  
-Last active on reddit: 26 days, 5 hours ago  
 
 Best stories:  
 
@@ -1277,8 +1129,6 @@ Best stories:
 #### 74.[Dimitri1033](https://www.reddit.com/user/Dimitri1033/comments/?sort=top)  
 Karma: 3372  
 Stories written: 44  
-Latest story written: 28 days, 0 hours ago  
-Last active on reddit: 11 days, 23 hours ago  
 
 Best stories:  
 
@@ -1294,8 +1144,6 @@ Best stories:
 #### 75.[nickkuvaas](https://www.reddit.com/user/nickkuvaas/comments/?sort=top)  
 Karma: 3355  
 Stories written: 83  
-Latest story written: 13 days, 11 hours ago  
-Last active on reddit: 13 days, 2 hours ago  
 
 Best stories:  
 
@@ -1311,8 +1159,6 @@ Best stories:
 #### 76.[CrashWho](https://www.reddit.com/user/CrashWho/comments/?sort=top)  
 Karma: 3321  
 Stories written: 30  
-Latest story written:   
-Last active on reddit: 4 days, 20 hours ago  
 
 Best stories:  
 
@@ -1328,8 +1174,6 @@ Best stories:
 #### 77.[Zaphodsauheart](https://www.reddit.com/user/Zaphodsauheart/comments/?sort=top)  
 Karma: 3286  
 Stories written: 82  
-Latest story written: 23 days, 9 hours ago  
-Last active on reddit: 16 days, 0 hours ago  
 
 Best stories:  
 
@@ -1345,8 +1189,6 @@ Best stories:
 #### 78.[Khaarus](https://www.reddit.com/user/Khaarus/comments/?sort=top)  
 Karma: 3064  
 Stories written: 56  
-Latest story written: 2 days, 11 hours ago  
-Last active on reddit: 2 days, 11 hours ago  
 
 Best stories:  
 
@@ -1362,8 +1204,6 @@ Best stories:
 #### 79.[Tallbrain123](https://www.reddit.com/user/Tallbrain123/comments/?sort=top)  
 Karma: 3041  
 Stories written: 27  
-Latest story written: 23 days, 10 hours ago  
-Last active on reddit: 0 days, 6 hours ago  
 
 Best stories:  
 
@@ -1379,8 +1219,6 @@ Best stories:
 #### 80.[SeanPenname](https://www.reddit.com/user/SeanPenname/comments/?sort=top)  
 Karma: 3020  
 Stories written: 42  
-Latest story written: 25 days, 21 hours ago  
-Last active on reddit: 21 days, 18 hours ago  
 
 Best stories:  
 
@@ -1396,8 +1234,6 @@ Best stories:
 #### 81.[Bilgebum](https://www.reddit.com/user/Bilgebum/comments/?sort=top)  
 Karma: 2987  
 Stories written: 60  
-Latest story written: 0 days, 13 hours ago  
-Last active on reddit: 0 days, 13 hours ago  
 
 Best stories:  
 
@@ -1413,8 +1249,6 @@ Best stories:
 #### 82.[Ragatode](https://www.reddit.com/user/Ragatode/comments/?sort=top)  
 Karma: 2932  
 Stories written: 60  
-Latest story written: 1 days, 14 hours ago  
-Last active on reddit: 1 days, 14 hours ago  
 
 Best stories:  
 
@@ -1430,8 +1264,6 @@ Best stories:
 #### 83.[Written4Reddit](https://www.reddit.com/user/Written4Reddit/comments/?sort=top)  
 Karma: 2899  
 Stories written: 44  
-Latest story written: 0 days, 4 hours ago  
-Last active on reddit: 0 days, 2 hours ago  
 
 Best stories:  
 
@@ -1447,8 +1279,6 @@ Best stories:
 #### 84.[MajorParadox](https://www.reddit.com/user/MajorParadox/comments/?sort=top)  
 Karma: 2886  
 Stories written: 22  
-Latest story written: 0 days, 1 hours ago  
-Last active on reddit: 0 days, 0 hours ago  
 
 Best stories:  
 
@@ -1464,8 +1294,6 @@ Best stories:
 #### 85.[Kathiana](https://www.reddit.com/user/Kathiana/comments/?sort=top)  
 Karma: 2854  
 Stories written: 14  
-Latest story written: 26 days, 23 hours ago  
-Last active on reddit: 9 days, 20 hours ago  
 
 Best stories:  
 
@@ -1481,8 +1309,6 @@ Best stories:
 #### 86.[Casual_Wizard](https://www.reddit.com/user/Casual_Wizard/comments/?sort=top)  
 Karma: 2804  
 Stories written: 14  
-Latest story written: 12 days, 16 hours ago  
-Last active on reddit: 18 days, 3 hours ago  
 
 Best stories:  
 
@@ -1498,8 +1324,6 @@ Best stories:
 #### 87.[LeVentNoir](https://www.reddit.com/user/LeVentNoir/comments/?sort=top)  
 Karma: 2796  
 Stories written: 6  
-Latest story written:   
-Last active on reddit: 2 days, 22 hours ago  
 
 Best stories:  
 
@@ -1515,8 +1339,6 @@ Best stories:
 #### 88.[_thegrapesoda_](https://www.reddit.com/user/_thegrapesoda_/comments/?sort=top)  
 Karma: 2772  
 Stories written: 36  
-Latest story written: 2 days, 11 hours ago  
-Last active on reddit: 2 days, 9 hours ago  
 
 Best stories:  
 
@@ -1532,8 +1354,6 @@ Best stories:
 #### 89.[Nazer_the_Lazer](https://www.reddit.com/user/Nazer_the_Lazer/comments/?sort=top)  
 Karma: 2690  
 Stories written: 33  
-Latest story written: 12 days, 7 hours ago  
-Last active on reddit: 12 days, 7 hours ago  
 
 Best stories:  
 
@@ -1549,8 +1369,6 @@ Best stories:
 #### 90.[fliclit](https://www.reddit.com/user/fliclit/comments/?sort=top)  
 Karma: 2614  
 Stories written: 53  
-Latest story written: 13 days, 20 hours ago  
-Last active on reddit: 30 days, 1 hours ago  
 
 Best stories:  
 
@@ -1566,8 +1384,6 @@ Best stories:
 #### 91.[LovableCoward](https://www.reddit.com/user/LovableCoward/comments/?sort=top)  
 Karma: 2564  
 Stories written: 46  
-Latest story written: 0 days, 5 hours ago  
-Last active on reddit: 0 days, 4 hours ago  
 
 Best stories:  
 
@@ -1583,8 +1399,6 @@ Best stories:
 #### 92.[JJBang](https://www.reddit.com/user/JJBang/comments/?sort=top)  
 Karma: 2551  
 Stories written: 21  
-Latest story written:   
-Last active on reddit: 3 days, 7 hours ago  
 
 Best stories:  
 
@@ -1600,8 +1414,6 @@ Best stories:
 #### 93.[theoatmealarsonist](https://www.reddit.com/user/theoatmealarsonist/comments/?sort=top)  
 Karma: 2532  
 Stories written: 59  
-Latest story written: 18 days, 0 hours ago  
-Last active on reddit: 18 days, 0 hours ago  
 
 Best stories:  
 
@@ -1617,8 +1429,6 @@ Best stories:
 #### 94.[Writeful_heir](https://www.reddit.com/user/Writeful_heir/comments/?sort=top)  
 Karma: 2519  
 Stories written: 70  
-Latest story written: 0 days, 12 hours ago  
-Last active on reddit: 0 days, 12 hours ago  
 
 Best stories:  
 
@@ -1634,8 +1444,6 @@ Best stories:
 #### 95.[chondroitin](https://www.reddit.com/user/chondroitin/comments/?sort=top)  
 Karma: 2508  
 Stories written: 54  
-Latest story written: 1 days, 8 hours ago  
-Last active on reddit: 1 days, 8 hours ago  
 
 Best stories:  
 
@@ -1651,8 +1459,6 @@ Best stories:
 #### 96.[herd_of_birds](https://www.reddit.com/user/herd_of_birds/comments/?sort=top)  
 Karma: 2504  
 Stories written: 40  
-Latest story written: 0 days, 20 hours ago  
-Last active on reddit: 0 days, 16 hours ago  
 
 Best stories:  
 
@@ -1668,8 +1474,6 @@ Best stories:
 #### 97.[iwantthemoon](https://www.reddit.com/user/iwantthemoon/comments/?sort=top)  
 Karma: 2491  
 Stories written: 27  
-Latest story written: 2 days, 1 hours ago  
-Last active on reddit: 22 days, 9 hours ago  
 
 Best stories:  
 
@@ -1685,8 +1489,6 @@ Best stories:
 #### 98.[drewhead118](https://www.reddit.com/user/drewhead118/comments/?sort=top)  
 Karma: 2479  
 Stories written: 28  
-Latest story written: 9 days, 6 hours ago  
-Last active on reddit: 9 days, 6 hours ago  
 
 Best stories:  
 
@@ -1702,8 +1504,6 @@ Best stories:
 #### 99.[sketches1637](https://www.reddit.com/user/sketches1637/comments/?sort=top)  
 Karma: 2456  
 Stories written: 72  
-Latest story written: 7 days, 23 hours ago  
-Last active on reddit: 23 days, 1 hours ago  
 
 Best stories:  
 
@@ -1713,14 +1513,11 @@ Best stories:
 3. [[WP] When a person turns 18. they get to pick a statistic. For the rest of their life, they will know this statistic about anyone they meet (lies told, days left alive, etc.)](https://www.reddit.com/r/WritingPrompts/comments/2d7utu/wp_when_a_person_turns_18_they_get_to_pick_a/cjn4sxj)  
 4. [[WP] A young FBI agent, fresh out of the academy, is sent on his first undercover assignment: Willy Wonka's Chocolate Factory, where he discovers the famous chocolatier's nefarious secret.](https://www.reddit.com/r/WritingPrompts/comments/2ft718/wp_a_young_fbi_agent_fresh_out_of_the_academy_is/ckcjg0y)  
 
-
 ----
 
 #### 100.[Kyler_Murden](https://www.reddit.com/user/Kyler_Murden/comments/?sort=top)  
 Karma: 2389  
 Stories written: 38  
-Latest story written: 7 days, 4 hours ago  
-Last active on reddit: 21 days, 2 hours ago  
 
 Best stories:  
 
@@ -1729,755 +1526,4 @@ Best stories:
 2. [[CW] The grittiest manliest cop in all of Chicago is about to storm the Mafia HQ and take out the Don. You must use the words Unicorns / Butterflies / Kitten Kisses four times each in your story.](https://www.reddit.com/r/WritingPrompts/comments/2fcs8x/cw_the_grittiest_manliest_cop_in_all_of_chicago/ck82ygw)  
 3. [[WP] A man lies on his deathbed, memories of his favorite videogames flashing before his eyes as he expires. Death watches, and intrigued, offers the man a deal if he can best him at his game of choice.](https://www.reddit.com/r/WritingPrompts/comments/2dq92a/wp_a_man_lies_on_his_deathbed_memories_of_his/cjs1m6o)  
 4. [[WP]In a humanity's most brutal war yet, staying alive for 1 hour in battle makes you a veteran, 4 hours an officer, but no man has ever been able to survive combat for a whole day, until now..](https://www.reddit.com/r/WritingPrompts/comments/3jmf83/wpin_a_humanitys_most_brutal_war_yet_staying/cuqjm3v)  
-
-
-----
-
-#### 101.[trrh](https://www.reddit.com/user/trrh/comments/?sort=top)  
-Karma: 2305  
-Stories written: 78  
-Latest story written: 2 days, 13 hours ago  
-Last active on reddit: 2 days, 13 hours ago  
-
-Best stories:  
-
-0. [[WP] The seven deadly sins hold auditions for an eighth.](https://www.reddit.com/r/WritingPrompts/comments/2qltg9/wp_the_seven_deadly_sins_hold_auditions_for_an/cn7a2j3)  
-1. [[WP] A demon who is really bad at his job keeps accidentally making the person he is possessing's life better](https://www.reddit.com/r/WritingPrompts/comments/2ffug3/wp_a_demon_who_is_really_bad_at_his_job_keeps/ck8uzh5)  
-2. [[WP] You receive a letter in the mail, saying that Satan has died and named you as his successor.](https://www.reddit.com/r/WritingPrompts/comments/2eqwx2/wp_you_receive_a_letter_in_the_mail_saying_that/ck23t1s)  
-3. [[WP] Relations between humanity and an intelligent plant-based civilization are already strained over the human diet partially consisting of defensless plants. The discovery of an open terrorist movement called "Vegetarianism" is the last straw.](https://www.reddit.com/r/WritingPrompts/comments/2eqdh5/wp_relations_between_humanity_and_an_intelligent/ck207u7)  
-4. [[WP] You have the power, the terrible, terrible power, to speak to garbage. Not trees, not spirits, garbage. And garbage has dirt on everyone.](https://www.reddit.com/r/WritingPrompts/comments/2qi4um/wp_you_have_the_power_the_terrible_terrible_power/cn6ezuw)  
-
-
-----
-
-#### 102.[sadoeuphemist](https://www.reddit.com/user/sadoeuphemist/comments/?sort=top)  
-Karma: 2273  
-Stories written: 81  
-Latest story written: 0 days, 10 hours ago  
-Last active on reddit: 0 days, 10 hours ago  
-
-Best stories:  
-
-0. [[WP] Everyone is born with a disability and an ability. A test is done at birth to determine these, if they aren't already apparent. You, well, you were born with crippled legs and have the power of super speed.](https://www.reddit.com/r/WritingPrompts/comments/4n2u8e/wp_everyone_is_born_with_a_disability_and_an/d40kesx)  
-1. [[EU] There was something odd about Clifford, the big red dog. It wasn't his size. It was the fact that no one really seemed to care that there was a three story tall carnivorous dog-beast roaming the neighborhood.](https://www.reddit.com/r/WritingPrompts/comments/4jqh56/eu_there_was_something_odd_about_clifford_the_big/d38t1pg)  
-2. [[EU] Could you imagine Arthur Weasley watching an episode of How It's Made? (X-post from r/harrypotter)](https://www.reddit.com/r/WritingPrompts/comments/4i493b/eu_could_you_imagine_arthur_weasley_watching_an/d2v42ew)  
-3. [[WP] You discover a device that allow you to go back in time only 5 seconds. After using it mostly for stupid jokes, you use it for a very horrible thing, but this time you press the button 6 seconds later.](https://www.reddit.com/r/WritingPrompts/comments/4hsy80/wp_you_discover_a_device_that_allow_you_to_go/d2seh2t)  
-4. [[Wp] [EU] Rorschach is about to put a permanent end to a serial killer, when Batman arrives on the scene, intent on stopping him. Soon after, Judge Dredd arrives to arrest the vigilantes. The most hyper-masculine, throat-growly argument ever results.](https://www.reddit.com/r/WritingPrompts/comments/4h7tjb/wp_eu_rorschach_is_about_to_put_a_permanent_end/d2of377)  
-
-
-----
-
-#### 103.[wraithstrike](https://www.reddit.com/user/wraithstrike/comments/?sort=top)  
-Karma: 2243  
-Stories written: 18  
-Latest story written: 15 days, 22 hours ago  
-Last active on reddit: 8 days, 3 hours ago  
-
-Best stories:  
-
-0. [[WP] You were born with a secret curse: you involuntarily alternate between each gender every midnight. As a result, you live two different lives. One night, your friends discover your secret in the worst way imaginable.](https://www.reddit.com/r/WritingPrompts/comments/3svlwl/wp_you_were_born_with_a_secret_curse_you/cx0u855)  
-1. [[WP] Valhalla is filled with the strongest warriors the world has ever known. Vikings, Spartans, Mongols, Romans, Samurai, Spetznaz, JSOC Operators. And in that corner over there? That's Ted, from accounting.](https://www.reddit.com/r/WritingPrompts/comments/35bp48/wp_valhalla_is_filled_with_the_strongest_warriors/cr357wl)  
-2. [[WP] The Pope is calling God to discuss upcoming world events, but God accidentally turns on speakerphone and the whole world hears.](https://www.reddit.com/r/WritingPrompts/comments/2z8slm/wp_the_pope_is_calling_god_to_discuss_upcoming/cpgxumf)  
-3. [[EU] Miss Frizzle takes the kids on another exciting trip on the magic school bus. They enter a student's bloodstream to learn more about the body. She finds a cancer cell.](https://www.reddit.com/r/WritingPrompts/comments/3o3a1f/eu_miss_frizzle_takes_the_kids_on_another/cvtzcty)  
-4. [[WP] Valhalla is being stormed by Loki and his forces. The mighty gods have fallen and now our only hope is Ted, the accountant of legends.](https://www.reddit.com/r/WritingPrompts/comments/3j4xu1/wp_valhalla_is_being_stormed_by_loki_and_his/cumek8j)  
-
-
-----
-
-#### 104.[ghost_write_the_whip](https://www.reddit.com/user/ghost_write_the_whip/comments/?sort=top)  
-Karma: 2212  
-Stories written: 17  
-Latest story written: 1 days, 18 hours ago  
-Last active on reddit: 1 days, 18 hours ago  
-
-Best stories:  
-
-0. [[WP] You were adopted some years back and have begun to slowly realize that you're a dog.](https://www.reddit.com/r/WritingPrompts/comments/497onj/wp_you_were_adopted_some_years_back_and_have/d0pqrij)  
-1. [[WP] You are the most beautiful woman in the world, and you have just been wished into existence by a nerd with a genie.](https://www.reddit.com/r/WritingPrompts/comments/49mdzk/wp_you_are_the_most_beautiful_woman_in_the_world/d0t4udv)  
-2. [[WP] Amidst a major revenue crisis, the US government institutes a nationwide "swear jar". As years go by, excessive use of expletives becomes a major status symbol and a hallmark of the upper class.](https://www.reddit.com/r/WritingPrompts/comments/45nwkh/wp_amidst_a_major_revenue_crisis_the_us/czzce47)  
-3. [[WP] Your phone is sentient, and knows the girl you like is interested in you. It uses auto-correct to try and "subtlety" get you to ask her out. This has been going on for a while.](https://www.reddit.com/r/WritingPrompts/comments/465yh4/wp_your_phone_is_sentient_and_knows_the_girl_you/d02v1e1)  
-4. [[WP] After dying, God asks you: "So, how was heaven?"](https://www.reddit.com/r/WritingPrompts/comments/4alifm/wp_after_dying_god_asks_you_so_how_was_heaven/d11o7nl)  
-
-
-----
-
-#### 105.[CaptainTrilby](https://www.reddit.com/user/CaptainTrilby/comments/?sort=top)  
-Karma: 2175  
-Stories written: 40  
-Latest story written: 15 days, 14 hours ago  
-Last active on reddit: 26 days, 2 hours ago  
-
-Best stories:  
-
-0. [[WP] You die and now it is day of judgement. To your surprise, the day of judgement is where gods get judged based on how well they did (How fair their world was, pleasant... etc). The judgement of our god is about to start...](https://www.reddit.com/r/WritingPrompts/comments/2ciddb/wp_you_die_and_now_it_is_day_of_judgement_to_your/cjfuddf)  
-1. [[WP] A series of math homework word problems with storylines that all begin to connect to each other](https://www.reddit.com/r/WritingPrompts/comments/2g7w8n/wp_a_series_of_math_homework_word_problems_with/ckghqzc)  
-2. [[EU] A warrior in Civilization is forgotten at the beginning of a game. Now, you are in the modern age. Write the warrior's thoughts.](https://www.reddit.com/r/WritingPrompts/comments/2byka7/eu_a_warrior_in_civilization_is_forgotten_at_the/cja9pvb)  
-3. [[WP] The town superhero and supervillain find out that they've been roommates all along](https://www.reddit.com/r/WritingPrompts/comments/2ctvn9/wp_the_town_superhero_and_supervillain_find_out/cjj0sj5)  
-4. [[WP] You're the cynical narrator of a story. However, you hate the optimistic main character and only continue to narrate hoping something bad happens to him. With ill-will, narrate a day in the life of this character.](https://www.reddit.com/r/WritingPrompts/comments/2eh73r/wp_youre_the_cynical_narrator_of_a_story_however/cjzijse)  
-
-
-----
-
-#### 106.[Lexilogical](https://www.reddit.com/user/Lexilogical/comments/?sort=top)  
-Karma: 2145  
-Stories written: 12  
-Latest story written: 2 days, 0 hours ago  
-Last active on reddit: 0 days, 22 hours ago  
-
-Best stories:  
-
-0. [[WP] At birth, depending on your eye color, you are given a dragon, wolf, bear or gorilla as a lifelong companion.](https://www.reddit.com/r/WritingPrompts/comments/42qhyu/wp_at_birth_depending_on_your_eye_color_you_are/czcdjtb)  
-1. [[WP] You have had an imaginary friend. One day you find that your friend is no longer invisible to everyone, but you are.](https://www.reddit.com/r/WritingPrompts/comments/2u90dk/wp_you_have_had_an_imaginary_friend_one_day_you/co6ap9n)  
-2. [[OT] Thanks to r/Writingprompts, I spent the last ten months working on a novel about an Earth with forests instead of oceans. Now it's a published book available on Amazon!](https://www.reddit.com/r/WritingPrompts/comments/3uixph/ot_thanks_to_rwritingprompts_i_spent_the_last_ten/cxf89ot)  
-3. [[WP] You die and find yourself in Valhalla, where all great warriors go when they die. However, you never fought a day in your life. You try to find out why you're there.](https://www.reddit.com/r/WritingPrompts/comments/25tm81/wp_you_die_and_find_yourself_in_valhalla_where/chkreus)  
-4. [[OT] We should rename the "hot" and "top" categories "to read" and the "rising" and "new" categories "to write."](https://www.reddit.com/r/WritingPrompts/comments/356cro/ot_we_should_rename_the_hot_and_top_categories_to/cr1fj1k)  
-
-
-----
-
-#### 107.[OpiWrites](https://www.reddit.com/user/OpiWrites/comments/?sort=top)  
-Karma: 2095  
-Stories written: 46  
-Latest story written: 17 days, 6 hours ago  
-Last active on reddit: 0 days, 0 hours ago  
-
-Best stories:  
-
-0. [[WP] The villain wins and everything is better. Turns out he had a point.](https://www.reddit.com/r/WritingPrompts/comments/3taisr/wp_the_villain_wins_and_everything_is_better/cx4i0qo)  
-1. [[WP] you are the lawyer in charge of getting every single GTA character out of jail with no repercussions.](https://www.reddit.com/r/WritingPrompts/comments/3siue8/wp_you_are_the_lawyer_in_charge_of_getting_every/cwxq82p)  
-2. [[WP] it's your first day back in society after spending a year in solitude and hard, honest self examination. As you walk around town, you realize you that you now hear a person's genuine intentions when they speak instead of the modern day language norms which you were once familiar with.](https://www.reddit.com/r/WritingPrompts/comments/3va4m2/wp_its_your_first_day_back_in_society_after/cxlnenu)  
-3. [[CW] Write a story about a turtle. However, you can not use any sci-fi/fantasy /or any other non-real element. Keep it grounded.](https://www.reddit.com/r/WritingPrompts/comments/3phody/cw_write_a_story_about_a_turtle_however_you_can/cw6cp32)  
-4. [[WP] in a dystopian future, Black Friday has evolved into a sport in which the rich throw valuable trinkets to the poor and watch them slaughter each other.](https://www.reddit.com/r/WritingPrompts/comments/3ur4o0/wp_in_a_dystopian_future_black_friday_has_evolved/cxh5mtw)  
-
-
-----
-
-#### 108.[AdmiralOfTheBlue](https://www.reddit.com/user/AdmiralOfTheBlue/comments/?sort=top)  
-Karma: 2087  
-Stories written: 43  
-Latest story written: 22 days, 11 hours ago  
-Last active on reddit: 21 days, 15 hours ago  
-
-Best stories:  
-
-0. [[EU] Deadpool and the Joker provide color commentary on the annual Marvel vs. DC charity football game, played on the deck of the S.H.I.E.L.D Helicarrier.](https://www.reddit.com/r/WritingPrompts/comments/3f5ok4/eu_deadpool_and_the_joker_provide_color/ctlma7v)  
-1. [[WP] Four roommates are extraterrestrials who have taken human form in the hopes of learning about Earth's culture. Unfortunately, each alien is from a different planet and believes the other three are normal humans.](https://www.reddit.com/r/WritingPrompts/comments/4ewg4m/wp_four_roommates_are_extraterrestrials_who_have/d23xfa9)  
-2. [[WP] The God of Blood's followers pray to him for strength and victory in battle, but one day he is baffled to hear a 7 year old girl's prayer, begging to win the spelling bee tomorrow.](https://www.reddit.com/r/WritingPrompts/comments/3gkobw/wp_the_god_of_bloods_followers_pray_to_him_for/ctz0w65)  
-3. [[WP] In the future, the nations of earth have settled into a lengthy peace. The military forces of the world grow bored. A covert task force is set by one country up to pull an elaborate, harmless prank on their friendliest ally. Things escalate. Write a story about the 'Prank Wars'.](https://www.reddit.com/r/WritingPrompts/comments/3ffveq/wp_in_the_future_the_nations_of_earth_have/cto8zhg)  
-4. [[WP] You begin to think one of your co-workers is really just 3 kids in a trench coat.](https://www.reddit.com/r/WritingPrompts/comments/3f5p90/wp_you_begin_to_think_one_of_your_coworkers_is/ctlr08l)  
-
-
-----
-
-#### 109.[ThatOneRussian](https://www.reddit.com/user/ThatOneRussian/comments/?sort=top)  
-Karma: 2067  
-Stories written: 15  
-Latest story written: 3 days, 9 hours ago  
-Last active on reddit: 5 days, 8 hours ago  
-
-Best stories:  
-
-0. [[WP] The apocalypse scenario of your choice has happened and you are the last person alive. Electricity and the internet are still running. As a last ditch effort you take to /r/askreddit, "Is there anybody else out there?" Weeks later, you receive a single upvote, but no reply...](https://www.reddit.com/r/WritingPrompts/comments/2j8sq6/wp_the_apocalypse_scenario_of_your_choice_has/cl9hwwh)  
-1. [[CW] Write a story with only Internet search history...](https://www.reddit.com/r/WritingPrompts/comments/2f5yic/cw_write_a_story_with_only_internet_search_history/ck68ick)  
-2. [[WP] The homeless man being harassed by police for sleeping at an historical site is actually the god the site was originally built for.](https://www.reddit.com/r/WritingPrompts/comments/2ethfa/wp_the_homeless_man_being_harassed_by_police_for/ck2upkb)  
-3. [[WP] Earth is the uncontacted Amazonian Tribe of the Galaxy, and aliens don't want to contact us because they want to preserve our primitive and unique culture.](https://www.reddit.com/r/WritingPrompts/comments/39shc5/wp_earth_is_the_uncontacted_amazonian_tribe_of/cs68nce)  
-4. [[WP] Instead of hearing what people say, you hear what they mean. It has been both a blessing and a curse.](https://www.reddit.com/r/WritingPrompts/comments/2j7wcx/wp_instead_of_hearing_what_people_say_you_hear/cl9bc21)  
-
-
-----
-
-#### 110.[penguin_starborn](https://www.reddit.com/user/penguin_starborn/comments/?sort=top)  
-Karma: 2041  
-Stories written: 22  
-Latest story written:   
-Last active on reddit: 0 days, 3 hours ago  
-
-Best stories:  
-
-0. [[WP] When everyone turns 18, they receive a pet which is figurative of their personality. You're the first person to receive a dragon...](https://www.reddit.com/r/WritingPrompts/comments/2hot0d/wp_when_everyone_turns_18_they_receive_a_pet/ckumu7v)  
-1. [[WP] Browsing porn on the internet, a man happens upon a collection of videos of all his sexual encounters, from his point of view. He never videotaped these experiences. (NSFW)](https://www.reddit.com/r/WritingPrompts/comments/2fpylp/wp_browsing_porn_on_the_internet_a_man_happens/ckbrddt)  
-2. [[EU] Hogwarts holds mandatory sex education class with Ministry approved curriculum. Prof. McGonagall will teach the girls. Prof. Snape will teach the boys.](https://www.reddit.com/r/WritingPrompts/comments/2j6qtc/eu_hogwarts_holds_mandatory_sex_education_class/cl90e3f)  
-3. [[WP] You're a substitute teacher of a fourth grade class when the ground starts to shake, the sky turns red and one of the students announces he/she is the spawn of Satan.](https://www.reddit.com/r/WritingPrompts/comments/2i2u73/wp_youre_a_substitute_teacher_of_a_fourth_grade/ckyao4p)  
-4. [[WP] You are part of a powerful order of mages. Some control fire, others, water. You however... Have the power of bread. That's right, you're a bread mage. Tell me about your day.](https://www.reddit.com/r/WritingPrompts/comments/2iskjv/wp_you_are_part_of_a_powerful_order_of_mages_some/cl54g57)  
-
-
-----
-
-#### 111.[Bince82](https://www.reddit.com/user/Bince82/comments/?sort=top)  
-Karma: 2033  
-Stories written: 48  
-Latest story written: 30 days, 14 hours ago  
-Last active on reddit: 1 days, 10 hours ago  
-
-Best stories:  
-
-0. [[WP] Your police state of a country grabs and makes disappear citizens off the street for the smallest offenses. When you jaywalk and get grabbed one day, you find out that you're simply flown across country. You're offered a better life if you cooperate with the ruse.](https://www.reddit.com/r/WritingPrompts/comments/3b7li7/wp_your_police_state_of_a_country_grabs_and_makes/csjr0z8)  
-1. [[WP] the zombie apocalypse arrives and many feel prepared for the battles to come. But when it comes time to fight, it's discovered that "destroying the brain" does absolutely nothing.](https://www.reddit.com/r/WritingPrompts/comments/4efovl/wp_the_zombie_apocalypse_arrives_and_many_feel/d1zr17b)  
-2. [[WP] Video games aren't just games. They are simulations of alternate dimensions and the best players are chosen to invade these strange worlds in order to expand the multi-dimensional human empire.](https://www.reddit.com/r/WritingPrompts/comments/2xwo63/wp_video_games_arent_just_games_they_are/cp43hec)  
-3. [[WP] Your whole modern life is a lucid dream. Now you wake up into real life, the Middle Ages.](https://www.reddit.com/r/WritingPrompts/comments/21hsm6/wp_your_whole_modern_life_is_a_lucid_dream_now/cgd6yuy)  
-4. [[WP] The secret identities of a hero and their arch nemesis are dating. Neither one realizes.](https://www.reddit.com/r/WritingPrompts/comments/3aposn/wp_the_secret_identities_of_a_hero_and_their_arch/csetw56)  
-
-
-----
-
-#### 112.[daeomec](https://www.reddit.com/user/daeomec/comments/?sort=top)  
-Karma: 1962  
-Stories written: 76  
-Latest story written: 0 days, 0 hours ago  
-Last active on reddit: 6 days, 4 hours ago  
-
-Best stories:  
-
-0. [[WP] Our universe was created by a kid for a school project. He got a C. Describe a universe that got an A.](https://www.reddit.com/r/WritingPrompts/comments/3f8rap/wp_our_universe_was_created_by_a_kid_for_a_school/ctmf1ju)  
-1. [[WP] In music, changing a song to a minor key is a small change that makes the song sound much creepier or sadder. Write a happy story, and then its counterpart in a minor key.](https://www.reddit.com/r/WritingPrompts/comments/3d79hc/wp_in_music_changing_a_song_to_a_minor_key_is_a/ct2gvzz)  
-2. [[WP] the monster in the closet finally lures the child into the darkness, only to realize something is very very wrong](https://www.reddit.com/r/WritingPrompts/comments/3c5yg6/wp_the_monster_in_the_closet_finally_lures_the/cssl8qh)  
-3. [[EU] Michael Bay is hired to direct Frozen 2.](https://www.reddit.com/r/WritingPrompts/comments/2yx38h/eu_michael_bay_is_hired_to_direct_frozen_2/cpdsj1l)  
-4. [[WP] Your high school bully has just announced/proven that he is a god. He proclaims that all evil deeds will be punished. You decide to confront him.](https://www.reddit.com/r/WritingPrompts/comments/3cn1ra/wp_your_high_school_bully_has_just/csx4cxg)  
-
-
-----
-
-#### 113.[KCcracker](https://www.reddit.com/user/KCcracker/comments/?sort=top)  
-Karma: 1877  
-Stories written: 55  
-Latest story written: 9 days, 10 hours ago  
-Last active on reddit: 6 days, 21 hours ago  
-
-Best stories:  
-
-0. [[WP] Humanity's main and only export in the galactic stage is entertainment: video games, movies, television shows. We are respected, almost revered because we are the only species capable of entertainment.](https://www.reddit.com/r/WritingPrompts/comments/4jb8oi/wp_humanitys_main_and_only_export_in_the_galactic/d3598e5)  
-1. [[WP] In the basement of the Stanford neuroscience building, a group of humanoid robots embedded with AI are assigned "robot" and "human" roles. The results of what is now known as "the Stanford human experiment" shocked the world.](https://www.reddit.com/r/WritingPrompts/comments/45e93d/wp_in_the_basement_of_the_stanford_neuroscience/czx808e)  
-2. [[WP]Scientists invent a device that can determine the date of people's death. Almost everyone's date is December 31, 2016.](https://www.reddit.com/r/WritingPrompts/comments/4lpkue/wpscientists_invent_a_device_that_can_determine/d3p8tel)  
-3. [[WP] A creationist discovers time-travel and goes to 4000 BC to watch the beginning of the Universe. To their shock, they find themselves stranded in the early Bronze Age.](https://www.reddit.com/r/WritingPrompts/comments/3yngjc/wp_a_creationist_discovers_timetravel_and_goes_to/cyf0r4k)  
-4. [[EU] Not every 00-agent gets to lead a life of beautiful cars and fast women. Tell the story of an agent assigned one of the unglamorous 00 numbers.](https://www.reddit.com/r/WritingPrompts/comments/3z4pko/eu_not_every_00agent_gets_to_lead_a_life_of/cyja4jh)  
-
-
-----
-
-#### 114.[A_Bad_Writer](https://www.reddit.com/user/A_Bad_Writer/comments/?sort=top)  
-Karma: 1860  
-Stories written: 20  
-Latest story written: 5 days, 1 hours ago  
-Last active on reddit: 7 days, 23 hours ago  
-
-Best stories:  
-
-0. [[WP] You are a cannon fodder minion on the first floor of a dungeon, and have just killed the hero. You now have to explain to the boss that you just ruined his plan.](https://www.reddit.com/r/WritingPrompts/comments/2fdju9/wp_you_are_a_cannon_fodder_minion_on_the_first/ck88t6b)  
-1. [[WP] A dying child challenges the reaper to a 1v1 quick scope only call of duty match for his life.](https://www.reddit.com/r/WritingPrompts/comments/2giob6/wp_a_dying_child_challenges_the_reaper_to_a_1v1/ckjkkqq)  
-2. [[WP] You're tripping on a new drug dubbed "Memory lane." It allows you to relive anything that has ever happened in your life with 100% clarity. The only catch is that the memory is random.](https://www.reddit.com/r/WritingPrompts/comments/2fhfrx/wp_youre_tripping_on_a_new_drug_dubbed_memory/ck99adt)  
-3. [[WP] A new-born baby is sent on a one-way trip into the outer reaches of space. Automated machines are to keep him alive and teach him as he grows older how to man the craft/stay alive/etc. Towards the end of his life, he comes in contact with a strange life-form... humans.](https://www.reddit.com/r/WritingPrompts/comments/2j2hbo/wp_a_newborn_baby_is_sent_on_a_oneway_trip_into/cl7ujfp)  
-4. [[WP] A well-dressed man politely asks to cut through your property as a shortcut. You oblige, and he asks to use the restroom. He then asks for a glass of water. He stares at you, as you take stock of the situation.](https://www.reddit.com/r/WritingPrompts/comments/2fho2o/wp_a_welldressed_man_politely_asks_to_cut_through/ck9dhjj)  
-
-
-----
-
-#### 115.[jd_rallage](https://www.reddit.com/user/jd_rallage/comments/?sort=top)  
-Karma: 1841  
-Stories written: 47  
-Latest story written: 29 days, 13 hours ago  
-Last active on reddit: 29 days, 13 hours ago  
-
-Best stories:  
-
-0. [[wp] after dying god informs you that hell is a myth, and "everyone sins, its ok". instead the dead are sorted into six "houses of heaven" based on the sins they chose.](https://www.reddit.com/r/WritingPrompts/comments/48fxir/wp_after_dying_god_informs_you_that_hell_is_a/d0jbjq7)  
-1. [[WP] Your roommate is literally the Devil. Surprisingly, he is the best roommate you ever had.](https://www.reddit.com/r/WritingPrompts/comments/49u4dh/wp_your_roommate_is_literally_the_devil/d0uxd0c)  
-2. [[WP]Killing Hitler has become a sport amongst time travelers. Points are awarded for creativity and difficulty. You are last year's champion, how did you win?](https://www.reddit.com/r/WritingPrompts/comments/46qkd4/wpkilling_hitler_has_become_a_sport_amongst_time/d075rt4)  
-3. [[WP] "Adulthood is like looking both ways before you cross the street, then getting hit by an airplane."](https://www.reddit.com/r/WritingPrompts/comments/4iorz7/wp_adulthood_is_like_looking_both_ways_before_you/d2ztpm7)  
-4. [[EU] Write a story about an established universe that you don’t know much about. Do NO research and make things up as you go.](https://www.reddit.com/r/WritingPrompts/comments/4ij91j/eu_write_a_story_about_an_established_universe/d2yjddw)  
-
-
-----
-
-#### 116.[LeChuck999](https://www.reddit.com/user/LeChuck999/comments/?sort=top)  
-Karma: 1823  
-Stories written: 7  
-Latest story written:   
-Last active on reddit: 0 days, 2 hours ago  
-
-Best stories:  
-
-0. [[EU] A muggle manages to sneak into the harry potter sorting ceremony, What happens?](https://www.reddit.com/r/WritingPrompts/comments/2gk6o0/eu_a_muggle_manages_to_sneak_into_the_harry/ckjvjio)  
-1. [[WP] A young FBI agent, fresh out of the academy, is sent on his first undercover assignment: Willy Wonka's Chocolate Factory, where he discovers the famous chocolatier's nefarious secret.](https://www.reddit.com/r/WritingPrompts/comments/2ft718/wp_a_young_fbi_agent_fresh_out_of_the_academy_is/ckchw9k)  
-2. [[EU] The Joker travels back in time and prevents the mugging that kills Batman's parents.](https://www.reddit.com/r/WritingPrompts/comments/2c56v2/eu_the_joker_travels_back_in_time_and_prevents/cjc3l0z)  
-3. [[FF] Write the most awkward sentence possible.](https://www.reddit.com/r/WritingPrompts/comments/1vl60u/ff_write_the_most_awkward_sentence_possible/cetcz4q)  
-4. [[WP] What if tattoos just randomly appeared on our skin at key points in our lives and we had to figure out what they meant for ourselves.](https://www.reddit.com/r/WritingPrompts/comments/2cggep/wp_what_if_tattoos_just_randomly_appeared_on_our/cjf9wca)  
-
-
-----
-
-#### 117.[ThePrinceofDorne](https://www.reddit.com/user/ThePrinceofDorne/comments/?sort=top)  
-Karma: 1787  
-Stories written: 28  
-Latest story written: 7 days, 5 hours ago  
-Last active on reddit: 1 days, 7 hours ago  
-
-Best stories:  
-
-0. [[wp] A man dies and goes to hell only to find out he was supposed to go to heaven...after he already toppled Satan and started a reign of terror the likes of which had never been seen.](https://www.reddit.com/r/WritingPrompts/comments/2ie6u1/wp_a_man_dies_and_goes_to_hell_only_to_find_out/cl1dhjl)  
-1. [[WP] A young girl has two monsters in her life: her step-father, and the one under her bed. She manages to befriend the latter to deal with the former.](https://www.reddit.com/r/WritingPrompts/comments/2tevbg/wp_a_young_girl_has_two_monsters_in_her_life_her/cnyiefs)  
-2. [[WP] I'm tired of fantasy where Elves are 'better than you' just because they're elves. Give me some sword & sorcery, fantasy-style, 'Humanity! F**k yeah!' where typical elder fantasy races learn why it's not wise to mess with 'mere' humans.](https://www.reddit.com/r/WritingPrompts/comments/2j93nl/wp_im_tired_of_fantasy_where_elves_are_better/cl9mc54)  
-3. [[WP] You sold your soul to the Devil some years ago. Today he gives it back and says, "I need a favor."](https://www.reddit.com/r/WritingPrompts/comments/35q6cs/wp_you_sold_your_soul_to_the_devil_some_years_ago/cr6xsd8)  
-4. [[WP] An unsuspecting teenager is put into the scared stright program by his parents. The inmates and wardens soon find out he is more terrifying then anything the prison holds.](https://www.reddit.com/r/WritingPrompts/comments/2u2w3o/wp_an_unsuspecting_teenager_is_put_into_the/co4x3ap)  
-
-
-----
-
-#### 118.[mspaintshoops](https://www.reddit.com/user/mspaintshoops/comments/?sort=top)  
-Karma: 1738  
-Stories written: 30  
-Latest story written:   
-Last active on reddit: 5 days, 2 hours ago  
-
-Best stories:  
-
-0. [[WP] Legends tell of the mighty alchomancer, a magic user who becomes more powerful the more intoxicated they are. They are currently blackout drunk.](https://www.reddit.com/r/WritingPrompts/comments/426fh0/wp_legends_tell_of_the_mighty_alchomancer_a_magic/cz7zlxq)  
-1. [[WP] You're the one person in the Matrix with a shitty internet connection.](https://www.reddit.com/r/WritingPrompts/comments/40xfys/wp_youre_the_one_person_in_the_matrix_with_a/cyxv9fe)  
-2. [[WP] An 8th day of the week exists, between the 7th and 1st days, but only some people experience it, however, the rest of the world starts getting suspicious, when they notice changes between the 7th and 1st days.](https://www.reddit.com/r/WritingPrompts/comments/41eail/wp_an_8th_day_of_the_week_exists_between_the_7th/cz1ovjn)  
-3. [[WP] A superhero with temporal powers and their evenly-matched time controlling supervillain rival regularly clash. Neither of them have yet realized that they're the exact same person.](https://www.reddit.com/r/WritingPrompts/comments/43oah2/wp_a_superhero_with_temporal_powers_and_their/czjnnke)  
-4. [[WP] It's becoming embarassingly apparent to everyone that you've never actually killed a zombie before.](https://www.reddit.com/r/WritingPrompts/comments/43qsqz/wp_its_becoming_embarassingly_apparent_to/czk9cse)  
-
-
-----
-
-#### 119.[Chained_Icarus](https://www.reddit.com/user/Chained_Icarus/comments/?sort=top)  
-Karma: 1712  
-Stories written: 12  
-Latest story written:   
-Last active on reddit: 11 days, 7 hours ago  
-
-Best stories:  
-
-0. [[WP][NSFW] After a cataclysm, 95% of human males are wiped out. The rest have to be used as breeding stock. Write a diary entry from one of these "studs".](https://www.reddit.com/r/WritingPrompts/comments/32sw92/wpnsfw_after_a_cataclysm_95_of_human_males_are/cqebghx)  
-1. [[WP] You are the first human ambassador to the alien mothership, where you are to learn about them and begin opening relations between them and Earth. You soon find out they share one unexpected trait with humans.](https://www.reddit.com/r/WritingPrompts/comments/32jpho/wp_you_are_the_first_human_ambassador_to_the/cqbunf4)  
-2. [[WP] Your favourite fairy tale, but narrated by the movie trailer guy as an action movie. Start with 'In a world ...' instead of 'Once upon a time ...'.](https://www.reddit.com/r/WritingPrompts/comments/32st3j/wp_your_favourite_fairy_tale_but_narrated_by_the/cqeauqb)  
-3. [[WP] Your partner walks in on you doing what appears to be cheating, only it really is "not what it looks like".](https://www.reddit.com/r/WritingPrompts/comments/32nx0c/wp_your_partner_walks_in_on_you_doing_what/cqd0u90)  
-4. [[WP] You notice that a stranger is following you as you walk home. You pretend not to notice. The stranger follows you home and watches you go inside. Then when he leaves, you turn the tables and start to follow him....](https://www.reddit.com/r/WritingPrompts/comments/32jlwq/wp_you_notice_that_a_stranger_is_following_you_as/cqbutlq)  
-
-
-----
-
-#### 120.[Mardirum](https://www.reddit.com/user/Mardirum/comments/?sort=top)  
-Karma: 1677  
-Stories written: 32  
-Latest story written: 7 days, 0 hours ago  
-Last active on reddit: 30 days, 1 hours ago  
-
-Best stories:  
-
-0. [[WP] In music, changing a song to a minor key is a small change that makes the song sound much creepier or sadder. Write a happy story, and then its counterpart in a minor key.](https://www.reddit.com/r/WritingPrompts/comments/3d79hc/wp_in_music_changing_a_song_to_a_minor_key_is_a/ct2gst7)  
-1. [[EU] James Bond and Sterling Archer are attending a gala. A woman catches both their eyes....](https://www.reddit.com/r/WritingPrompts/comments/3d5qsn/eu_james_bond_and_sterling_archer_are_attending_a/ct27wnq)  
-2. [[WP] Anyone under the age of 16 cannot use the Internet. To gain access, one must pass a competency test, much like a driving test. Your appointment is at 9:05am.](https://www.reddit.com/r/WritingPrompts/comments/3km1im/wp_anyone_under_the_age_of_16_cannot_use_the/cuyl3iu)  
-3. [[WP] Einstein: "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." Write a battle scene from World War IV.](https://www.reddit.com/r/WritingPrompts/comments/3dqv54/wp_einstein_i_know_not_with_what_weapons_world/ct7xpo4)  
-4. [[WP] The Manhattan Project wasn't the only "ultimate weapon" experiment under investigation. The nuclear bomb was deemed the "far more ethical alternative" when compared to the results of "The Brooklyn Program."](https://www.reddit.com/r/WritingPrompts/comments/3em223/wp_the_manhattan_project_wasnt_the_only_ultimate/ctg9vms)  
-
-
-----
-
-#### 121.[Finalfortress](https://www.reddit.com/user/Finalfortress/comments/?sort=top)  
-Karma: 1647  
-Stories written: 13  
-Latest story written: 2 days, 3 hours ago  
-Last active on reddit: 2 days, 3 hours ago  
-
-Best stories:  
-
-0. [[WP] Bill Gates is inspired by Iron Man and Batman and decides to become a expensive tech based superhero. Meanwhile, a revived but mind controlled cyborg Steve Jobs arises to become his arch enemy.](https://www.reddit.com/r/WritingPrompts/comments/2znwrm/wp_bill_gates_is_inspired_by_iron_man_and_batman/cpkoxgo)  
-1. [[WP] There were three siblings. Sarah won a Nobel Prize in Chemistry. Joe made $25 million in the stock market. Phil drove a tow truck. Phil was always mom's favorite.](https://www.reddit.com/r/WritingPrompts/comments/35o3b8/wp_there_were_three_siblings_sarah_won_a_nobel/cr685c5)  
-2. [[WP] A Romeo and Juliet style story, where a fedora-wearing neckbeard and an easily triggered tumblrinia fall in love, but the corresponding websites forbid their relationship.](https://www.reddit.com/r/WritingPrompts/comments/33xgcu/wp_a_romeo_and_juliet_style_story_where_a/cqpd6u8)  
-3. [[WP] A hitman is attending his young daughter's play when he surprisingly spots his assigned target.](https://www.reddit.com/r/WritingPrompts/comments/35k7g0/wp_a_hitman_is_attending_his_young_daughters_play/cr58646)  
-4. [[WP] A stranger approaches you and points a gun to your head. "I'm sorry, but we will explain everything at the reset. Hopefully we'll have a fighting chance now that we have you..." He pulls the trigger.](https://www.reddit.com/r/WritingPrompts/comments/30gkbj/wp_a_stranger_approaches_you_and_points_a_gun_to/cps8u68)  
-
-
-----
-
-#### 122.[Noatz](https://www.reddit.com/user/Noatz/comments/?sort=top)  
-Karma: 1628  
-Stories written: 8  
-Latest story written:   
-Last active on reddit: 0 days, 3 hours ago  
-
-Best stories:  
-
-0. [[WP] Use the random page feature on wikipedia until you get three names. The first person's name you get is the hero of the story. The second is the villain. The third is the reason they're fighting.](https://www.reddit.com/r/WritingPrompts/comments/3km55g/wp_use_the_random_page_feature_on_wikipedia_until/cuynx3b)  
-1. [[WP] In order to prevent man from chopping them down, trees evolve a rather unusual feature - WiFi. However, the network they are connected to is not the Internet as we know it.](https://www.reddit.com/r/WritingPrompts/comments/3bo1w4/wp_in_order_to_prevent_man_from_chopping_them/cso21i3)  
-2. [[WP] Two planets come within range of eachother every 300 years. There is always an ensuing war that lasts the 5 days that the planets are close enough. Each side can only guess at what new technology the other has built since the last time.](https://www.reddit.com/r/WritingPrompts/comments/37cxrk/wp_two_planets_come_within_range_of_eachother/crltmhj)  
-3. [[WP] It's 2023 and the United States Military is filled with Call of Duty kids.](https://www.reddit.com/r/WritingPrompts/comments/37pckt/wp_its_2023_and_the_united_states_military_is/croqlzi)  
-4. [[WP]: Instead of reaching their physical peak in their 20's and beginning to wither in their 60s, humans never stop growing bigger and stronger. You are 65 and your great-grandfather has gone on a rampage again.](https://www.reddit.com/r/WritingPrompts/comments/39u5ue/wp_instead_of_reaching_their_physical_peak_in/cs6l7id)  
-
-
-----
-
-#### 123.[Moohab](https://www.reddit.com/user/Moohab/comments/?sort=top)  
-Karma: 1587  
-Stories written: 48  
-Latest story written: 3 days, 23 hours ago  
-Last active on reddit: 19 days, 0 hours ago  
-
-Best stories:  
-
-0. [[CW] Take the plot from any pornography, and make a non-sexual short story out of it.](https://www.reddit.com/r/WritingPrompts/comments/47nmwi/cw_take_the_plot_from_any_pornography_and_make_a/d0ebzhu)  
-1. [[WP] In the near future, the secret to time travel has been discovered - in order to travel back into the past there needs to be a 'receiving station' at the other end - explaining why nobody from the future has been observed up 'til now. The first such 'station' is about to be completed.](https://www.reddit.com/r/WritingPrompts/comments/43oi9k/wp_in_the_near_future_the_secret_to_time_travel/czjpqpv)  
-2. [[WP] The best demon slayers are those whose minds the demons want to stay out of.](https://www.reddit.com/r/WritingPrompts/comments/44r9n7/wp_the_best_demon_slayers_are_those_whose_minds/czscf9x)  
-3. [[WP] Write an excerpt from Donald Trump's 2017 State of the Union Address.](https://www.reddit.com/r/WritingPrompts/comments/40sydm/wp_write_an_excerpt_from_donald_trumps_2017_state/cywwa96)  
-4. [[WP] The first man on Mars is the most stereotypical American to have ever lived.](https://www.reddit.com/r/WritingPrompts/comments/44n6uq/wp_the_first_man_on_mars_is_the_most/czrdewh)  
-
-
-----
-
-#### 124.[Jacob_wallace](https://www.reddit.com/user/Jacob_wallace/comments/?sort=top)  
-Karma: 1564  
-Stories written: 16  
-Latest story written:   
-Last active on reddit: 0 days, 9 hours ago  
-
-Best stories:  
-
-0. [[WP] You are forced to take a genies place, and can only be freed once you have granted 10 wishes. The catch: You have no magic in any way.](https://www.reddit.com/r/WritingPrompts/comments/338d7p/wp_you_are_forced_to_take_a_genies_place_and_can/cqimjju)  
-1. [[WP] A machine is invented that's sole purpose is to allow humans to experience death in whatever way they wanted, without actually dying. You've decided to give it a try.](https://www.reddit.com/r/WritingPrompts/comments/33e08l/wp_a_machine_is_invented_thats_sole_purpose_is_to/cqjzukr)  
-2. [[WP]A man hands you a suitcase and tells you that you have 48 hours. You have no idea what he's talking about.](https://www.reddit.com/r/WritingPrompts/comments/3bigt6/wpa_man_hands_you_a_suitcase_and_tells_you_that/csmg1mr)  
-3. [[EU] "Welcome to potions class here at hogwarts. I am new your new professor, Walter White".](https://www.reddit.com/r/WritingPrompts/comments/3cjthc/eu_welcome_to_potions_class_here_at_hogwarts_i_am/csw8wru)  
-4. [[WP] Superman meets Neo who explains The Matrix. Superman gets unplugged from The Matrix and now discovers that he is just a normal person.](https://www.reddit.com/r/WritingPrompts/comments/32g0ns/wp_superman_meets_neo_who_explains_the_matrix/cqb0gfo)  
-
-
-----
-
-#### 125.[aslan_0428](https://www.reddit.com/user/aslan_0428/comments/?sort=top)  
-Karma: 1552  
-Stories written: 26  
-Latest story written: 28 days, 20 hours ago  
-Last active on reddit: 0 days, 0 hours ago  
-
-Best stories:  
-
-0. [[WP] You accept that offer to become immortal for the cost of being sent 3000 years to the past. When you "wake up" in 1000 B.C. you noticed it is nothing like people learn in school.](https://www.reddit.com/r/WritingPrompts/comments/38k3aq/wp_you_accept_that_offer_to_become_immortal_for/crvozm1)  
-1. [[WP] The Devil promises you everything: fame, fortune, all the things a mortal will ever need for paradise on earth. But he doesn't want your soul, he just wants you to take his socially awkward daughter, Gertrude, out on a date. Make her special, y'know?](https://www.reddit.com/r/WritingPrompts/comments/36mkjv/wp_the_devil_promises_you_everything_fame_fortune/crf8mh6)  
-2. [[WP] It's 3600, and society is falling apart. One day, an ancient 21st-Century library is uncovered. With no other options, the government decides to implement ideas from successful societies in the books. There's only one problem: they don't know which are real and which are fiction.](https://www.reddit.com/r/WritingPrompts/comments/37cdol/wp_its_3600_and_society_is_falling_apart_one_day/crljfmp)  
-3. [[WP] The Pope is calling God to discuss upcoming world events, but God accidentally turns on speakerphone and the whole world hears.](https://www.reddit.com/r/WritingPrompts/comments/2z8slm/wp_the_pope_is_calling_god_to_discuss_upcoming/cpgza6x)  
-4. [[WP] You're playing your favorite horror game on your VR headset. As you are exploring an area that looks extremely familiar, things get a little 2spooky4u. You reach up to take off the VR headset and come to the realization that you aren't actually wearing it.](https://www.reddit.com/r/WritingPrompts/comments/3bw3j3/wp_youre_playing_your_favorite_horror_game_on/csq3ywh)  
-
-
-----
-
-#### 126.[jagged_little_phil](https://www.reddit.com/user/jagged_little_phil/comments/?sort=top)  
-Karma: 1542  
-Stories written: 45  
-Latest story written: 29 days, 7 hours ago  
-Last active on reddit: 12 days, 6 hours ago  
-
-Best stories:  
-
-0. [[WP] You slowly start to realize that all of your friends are undercover agents tasked with keeping you alive. Then, at your birthday party, with every friend surrounding you, the people trying to kill you finally find you.](https://www.reddit.com/r/WritingPrompts/comments/2n3nub/wp_you_slowly_start_to_realize_that_all_of_your/cma3urq)  
-1. [[WP] The moment when all the members of the most notorious and ruthless gang in the U.S. figure out that every single one of them is an undercover cop from different counties.](https://www.reddit.com/r/WritingPrompts/comments/2ogztg/wp_the_moment_when_all_the_members_of_the_most/cmn4ash)  
-2. [[WP] A Team of incompetent police attempt to stop a team of equally incompetent criminals.](https://www.reddit.com/r/WritingPrompts/comments/2jn8xm/wp_a_team_of_incompetent_police_attempt_to_stop_a/cldccw8)  
-3. [[WP]An old hag has cursed you with immortality.Wondering how that is supposed to be a curse you started enjoying your life. Now you are floating in the void after the heat death of the universe thinking about the past.](https://www.reddit.com/r/WritingPrompts/comments/2n6920/wpan_old_hag_has_cursed_you_with/cmau0gi)  
-4. [[WP] You live in a city full of people with powers (telekinesis, electro kinesis, sensors, etc) and everyone is ranked according to how powerful they but they can kill someone of higher rank and obtain their rank. You are rank #1 but no one knows what your power is](https://www.reddit.com/r/WritingPrompts/comments/2ppg8d/wp_you_live_in_a_city_full_of_people_with_powers/cmyvzmc)  
-
-
-----
-
-#### 127.[MainRaf](https://www.reddit.com/user/MainRaf/comments/?sort=top)  
-Karma: 1521  
-Stories written: 9  
-Latest story written: 24 days, 12 hours ago  
-Last active on reddit: 11 days, 11 hours ago  
-
-Best stories:  
-
-0. [[WP] Adolf Hitler is a time traveler who starts world war two to save us from something far more terrible.](https://www.reddit.com/r/WritingPrompts/comments/1zdrxb/wp_adolf_hitler_is_a_time_traveler_who_starts/cfsu0mj)  
-1. [[WP] Without revealing which one it is, re-tell a classic Disney fairytale as if its genre was horror.](https://www.reddit.com/r/WritingPrompts/comments/2ckt8s/wp_without_revealing_which_one_it_is_retell_a/cjghtph)  
-2. [[WP] A nerdy kid discovers that magic spells work exactly like a computer programming language.](https://www.reddit.com/r/WritingPrompts/comments/2ckoa4/wp_a_nerdy_kid_discovers_that_magic_spells_work/cjggs2s)  
-3. [[WP] You summon the most powerful and notorious demonic being in the universe. The reason why you summoned it: You are lonely, and are in need of a friend.](https://www.reddit.com/r/WritingPrompts/comments/2b7bza/wp_you_summon_the_most_powerful_and_notorious/cj2k6w9)  
-4. [[WP] Make me fall in love with a girl without actual any physical descriptions](https://www.reddit.com/r/WritingPrompts/comments/21g87i/wp_make_me_fall_in_love_with_a_girl_without/cgcymo2)  
-
-
-----
-
-#### 128.[Hatsya](https://www.reddit.com/user/Hatsya/comments/?sort=top)  
-Karma: 1514  
-Stories written: 48  
-Latest story written: 5 days, 21 hours ago  
-Last active on reddit: 5 days, 14 hours ago  
-
-Best stories:  
-
-0. [[WP] A wizard accidentally becomes immortal. He has the idea to become the antagonist so that a hero will come along and defeat him, so he can rest in peace. Sadly, the heroes are weak in comparison so the wizard creates a persona as a 'wise teacher' to train these heroes in order to defeat him.](https://www.reddit.com/r/WritingPrompts/comments/3ejqcd/wp_a_wizard_accidentally_becomes_immortal_he_has/ctfnpwv)  
-1. [[WP] 50% of the world's population has the ability to fly, 50% does not. The only way to find out is to jump from a height that will surely kill you.](https://www.reddit.com/r/WritingPrompts/comments/31glam/wp_50_of_the_worlds_population_has_the_ability_to/cq1ln2p)  
-2. [[WP] A world where everyone's soul mate can feel each other's pain no matter the distance.](https://www.reddit.com/r/WritingPrompts/comments/1tvmd6/wp_a_world_where_everyones_soul_mate_can_feel/cebwvce)  
-3. [[WP] The death is coming to "collect" a young girl - but he's there too soon and he finds her standing on top of a high building. Write about their talk, how it's going and how it will end.](https://www.reddit.com/r/WritingPrompts/comments/2fr35f/wp_the_death_is_coming_to_collect_a_young_girl/ckbz5gy)  
-4. [[WP] A boy's bully follows him home, only to encounter the boy's sociopath brother.](https://www.reddit.com/r/WritingPrompts/comments/1sb7ee/wp_a_boys_bully_follows_him_home_only_to/cdvud0d)  
-
-
-----
-
-#### 129.[semiloki](https://www.reddit.com/user/semiloki/comments/?sort=top)  
-Karma: 1468  
-Stories written: 6  
-Latest story written:   
-Last active on reddit: 1 days, 9 hours ago  
-
-Best stories:  
-
-0. [[WP] You live in a world where people's shadows show who they truly are at their core. Some shadows look like monsters, some look like animals. You are the only person in the world with no shadow.](https://www.reddit.com/r/WritingPrompts/comments/2gkjnd/wp_you_live_in_a_world_where_peoples_shadows_show/ckk2jjw)  
-1. [[WP] The reason earth has never been contacted by intelligent alien life is that it has been under a longstanding quarantine. Today the quarantine is lifted, you learn why...](https://www.reddit.com/r/WritingPrompts/comments/304vw3/wp_the_reason_earth_has_never_been_contacted_by/cpp71dp)  
-2. [[WP] You are a high school student that's secretly the author of a best-seller sci-fi/fantasy novel based on your real-life adventures involving aliens, magic, time traveling, etc. Your English teacher is having the class read your book and he's getting everything wrong.](https://www.reddit.com/r/WritingPrompts/comments/3ohaa0/wp_you_are_a_high_school_student_thats_secretly/cvxseh6)  
-3. [[WP] At your job, you have one task. Every day you go in, sit at your desk, and wait for a red light to turn on. When it does, you push a button. You repeat this process until the end of your shift. One day, you find out what the button does...](https://www.reddit.com/r/WritingPrompts/comments/2o3cf5/wp_at_your_job_you_have_one_task_every_day_you_go/cmjikzf)  
-4. [[WP] A cure for the most recent zombie outbreak is discovered! Humanity is saved! …And then the anti-vaccinaiton people get involved](https://www.reddit.com/r/WritingPrompts/comments/2ooivl/wp_a_cure_for_the_most_recent_zombie_outbreak_is/cmpbnmh)  
-
-
-----
-
-#### 130.[The_Eternal_Void](https://www.reddit.com/user/The_Eternal_Void/comments/?sort=top)  
-Karma: 1460  
-Stories written: 47  
-Latest story written: 12 days, 5 hours ago  
-Last active on reddit: 3 days, 7 hours ago  
-
-Best stories:  
-
-0. [[OT] /r/WritingPrompts has terrible prompts.](https://www.reddit.com/r/WritingPrompts/comments/21umxs/ot_rwritingprompts_has_terrible_prompts/cggr5w8)  
-1. [Write a story with a clearly defined genre. Halfway through the story, something big happens and the genre is completely changed.](https://www.reddit.com/r/WritingPrompts/comments/1o8km8/write_a_story_with_a_clearly_defined_genre/ccpujg0)  
-2. [[OT] I published an ebook based on all of my work in /r/Writingprompts!](https://www.reddit.com/r/WritingPrompts/comments/3jdvov/ot_i_published_an_ebook_based_on_all_of_my_work/cuogxc1)  
-3. [You are immortal and alone on an Earth completely untouched by humanity. This is the story of you building your own perfect world.](https://www.reddit.com/r/WritingPrompts/comments/1pilkt/you_are_immortal_and_alone_on_an_earth_completely/cd2pcre)  
-4. [[CW] Make me despise you/your character using ten words or less, then redeem yourself in five words or less.](https://www.reddit.com/r/WritingPrompts/comments/1rutux/cw_make_me_despise_youyour_character_using_ten/cdr4b2z)  
-
-
-----
-
-#### 131.[starlight-baptism](https://www.reddit.com/user/starlight-baptism/comments/?sort=top)  
-Karma: 1459  
-Stories written: 39  
-Latest story written: 9 days, 10 hours ago  
-Last active on reddit: 5 days, 1 hours ago  
-
-Best stories:  
-
-0. [[WP] An RPG character is cursed with a higher intelligence than their player.](https://www.reddit.com/r/WritingPrompts/comments/2rvly7/wp_an_rpg_character_is_cursed_with_a_higher/cnjuy9z)  
-1. [[wp] The most stereotypical Redditor imaginable writes a college admissions essay about his upbringing and how it's made him who he is.](https://www.reddit.com/r/WritingPrompts/comments/3y1djp/wp_the_most_stereotypical_redditor_imaginable/cy9ubhn)  
-2. [[WP] The creation of the universe is like a slowly loading webpage with Earth being one of the only pieces of "loaded" content. One day, without warning, the rest of the empty universe suddenly "loads."](https://www.reddit.com/r/WritingPrompts/comments/2vbn20/wp_the_creation_of_the_universe_is_like_a_slowly/cogeccu)  
-3. [[WP] You have died, and in the afterlife are given the opportunity to see the worst decision you ever made, and the best decision you ever made.](https://www.reddit.com/r/WritingPrompts/comments/2sdd3h/wp_you_have_died_and_in_the_afterlife_are_given/cnohqkl)  
-4. [[WP] You receive a strange postcard in the mail. The caption reads: "Greetings from New York City!". When you pick it up, you're momentarily transported to the middle of Times Square. Each week, a new postcard arrives. Paris. Melbourne. Tokyo. The final postcard is of a starry night sky.](https://www.reddit.com/r/WritingPrompts/comments/2vh7rt/wp_you_receive_a_strange_postcard_in_the_mail_the/cohuk0l)  
-
-
-----
-
-#### 132.[SqueeWrites](https://www.reddit.com/user/SqueeWrites/comments/?sort=top)  
-Karma: 1358  
-Stories written: 42  
-Latest story written: 0 days, 2 hours ago  
-Last active on reddit: 0 days, 2 hours ago  
-
-Best stories:  
-
-0. [[EU] The year is 2187. The Headmaster at Hogwarts is holding a meeting to discuss the new problem that the wizarding world is facing: Muggleborns are declining their invitations to Hogwarts because technology is now far superior to magic.](https://www.reddit.com/r/WritingPrompts/comments/3k4zq9/eu_the_year_is_2187_the_headmaster_at_hogwarts_is/cuuwh2n)  
-1. [[WP] You find a Tim machine.](https://www.reddit.com/r/WritingPrompts/comments/3l1g07/wp_you_find_a_tim_machine/cv2dk85)  
-2. [[WP] AIs were declared illegal after an attempted uprising; you just found the equivalent of a child refugee in your computer.](https://www.reddit.com/r/WritingPrompts/comments/3l68hv/wp_ais_were_declared_illegal_after_an_attempted/cv3lfg5)  
-3. [[WP] You have invented a perfect translation program. Jokingly, you play a recording of humpback whales, expecting the program to stay silent. It doesn't...](https://www.reddit.com/r/WritingPrompts/comments/3l2y14/wp_you_have_invented_a_perfect_translation/cv2ua3o)  
-4. [[WP] A mother who divorced her husband because of his cheating finds out her daughter is having an affair with a married man.](https://www.reddit.com/r/WritingPrompts/comments/3ouxx2/wp_a_mother_who_divorced_her_husband_because_of/cw0pzke)  
-
-
-----
-
-#### 133.[Jayefishy](https://www.reddit.com/user/Jayefishy/comments/?sort=top)  
-Karma: 1325  
-Stories written: 26  
-Latest story written: 3 days, 18 hours ago  
-Last active on reddit: 5 days, 4 hours ago  
-
-Best stories:  
-
-0. [[WP] You wake up one day and find you are now a sentient cake. You cannot decompose, and all that consume you fall under your control.](https://www.reddit.com/r/WritingPrompts/comments/326ljd/wp_you_wake_up_one_day_and_find_you_are_now_a/cq8flvm)  
-1. [[WP] A psychotic alien race invades using a reality distortion field, where imagination becomes a weapon. The government assembles a team of the world's most insane people to fight back.](https://www.reddit.com/r/WritingPrompts/comments/31nw0c/wp_a_psychotic_alien_race_invades_using_a_reality/cq3gq9g)  
-2. [[WP] You have the power to access another person's mind, but you must play a game/puzzle reflective of the owner's mind to unlock its secrets. You have solved 7x7 Rubik's cubes, played games of 3D Chess, and beaten countless final bosses. This time, however, you are caught off-guard.](https://www.reddit.com/r/WritingPrompts/comments/3478ts/wp_you_have_the_power_to_access_another_persons/cqs02gq)  
-3. [[WP] A world in which you can literally be bored to death.](https://www.reddit.com/r/WritingPrompts/comments/37n6ke/wp_a_world_in_which_you_can_literally_be_bored_to/cro5xjg)  
-4. [[WP] A virus is spreading at an alarming rate. You discover that if you kill someone who has spread it, those infected by them are now cured.](https://www.reddit.com/r/WritingPrompts/comments/370sb2/wp_a_virus_is_spreading_at_an_alarming_rate_you/crirz47)  
-
-
-----
-
-#### 134.[jayhawk88](https://www.reddit.com/user/jayhawk88/comments/?sort=top)  
-Karma: 1325  
-Stories written: 6  
-Latest story written: 30 days, 5 hours ago  
-Last active on reddit: 0 days, 13 hours ago  
-
-Best stories:  
-
-0. [[WP] It has been found that the best person to rule is the one who wants it least. You have just been chosen as our next president and are now on the run.](https://www.reddit.com/r/WritingPrompts/comments/2dbykm/wp_it_has_been_found_that_the_best_person_to_rule/cjo2nmf)  
-1. [[WP] You have 30 seconds with an ancestor of yours from 200 years ago (1814), before they are transported back to their time. What do you say to them? What effect appears in our world because of it?](https://www.reddit.com/r/WritingPrompts/comments/254fue/wp_you_have_30_seconds_with_an_ancestor_of_yours/chdmbxc)  
-2. [[WP] Across the universe humans are feared and revered as "Dreamwalkers". Back on earth we're just sleeping and dreaming as usual.](https://www.reddit.com/r/WritingPrompts/comments/3afi00/wp_across_the_universe_humans_are_feared_and/csc9229)  
-3. [[WP] Memory erasing tech is now common. A man has large self inflicted gaps in his memory that is he desperate to know more about, but a note from himself keeps him from doing it. when he finally does, the reason is something he would have never expected.](https://www.reddit.com/r/WritingPrompts/comments/27fmq8/wp_memory_erasing_tech_is_now_common_a_man_has/ci0f9w0)  
-4. [[WP] An exorcist has a startlingly rational conversation with a demon while performing his duties.](https://www.reddit.com/r/WritingPrompts/comments/2ao1o3/wp_an_exorcist_has_a_startlingly_rational/cix3093)  
-
-
-----
-
-#### 135.[IlIIIIllIllI](https://www.reddit.com/user/IlIIIIllIllI/comments/?sort=top)  
-Karma: 1232  
-Stories written: 10  
-Latest story written: 28 days, 23 hours ago  
-Last active on reddit: 0 days, 10 hours ago  
-
-Best stories:  
-
-0. [[EU] Dr. House becomes the new warden of Arkham Asylum.](https://www.reddit.com/r/WritingPrompts/comments/2t46fb/eu_dr_house_becomes_the_new_warden_of_arkham/cnvq7cd)  
-1. [[WP] Dwight Schrute attempts to sell paper to Ron Swanson](https://www.reddit.com/r/WritingPrompts/comments/2xj3o3/wp_dwight_schrute_attempts_to_sell_paper_to_ron/cp0kvdo)  
-2. [[WP] A vampire is experiencing the zombie apocalypse.](https://www.reddit.com/r/WritingPrompts/comments/2rip0k/wp_a_vampire_is_experiencing_the_zombie_apocalypse/cng8e5t)  
-3. [[WP] Tony Stark wakes up in the Game of Thrones universe. He does not have have any type of suit. Please indulge.](https://www.reddit.com/r/WritingPrompts/comments/2sp9w0/wp_tony_stark_wakes_up_in_the_game_of_thrones/cnrnpl6)  
-4. [[WP] Litigation has gotten so prevalent that everyday conversations are made in legal-speak. Make the mundane impossibly mired in legal-eze. I take no responsibility for your response to this prompt.](https://www.reddit.com/r/WritingPrompts/comments/2thf95/wp_litigation_has_gotten_so_prevalent_that/cnz6tk6)  
-
-
-----
-
-#### 136.[WriterDavidChristian](https://www.reddit.com/user/WriterDavidChristian/comments/?sort=top)  
-Karma: 1192  
-Stories written: 13  
-Latest story written:   
-Last active on reddit: 0 days, 7 hours ago  
-
-Best stories:  
-
-0. [[WP] A former child star has given up fame and fortune to pursue a career in academia. PhD candidate Jaden Smith presents his dissertation in Philosophy, "How Can Mirrors Be Real If Our Eyes Aren't Real"](https://www.reddit.com/r/WritingPrompts/comments/37wyqh/wp_a_former_child_star_has_given_up_fame_and/crql24j)  
-1. [[WP] A lottery is held in Hell every day. The winner gets an interview with God to try to get into heaven. You've just won the lottery.](https://www.reddit.com/r/WritingPrompts/comments/37w441/wp_a_lottery_is_held_in_hell_every_day_the_winner/crqcn02)  
-2. [[WP] You work for a future non-profit organization. Your job is to travel through time, visit people on their deathbed, and tell them about the incredible impact they have on the future.](https://www.reddit.com/r/WritingPrompts/comments/387yjk/wp_you_work_for_a_future_nonprofit_organization/crt2acw)  
-3. [[WP] Bill Clinton lives under your bed. Describe a weekend in your life](https://www.reddit.com/r/WritingPrompts/comments/3xmuzg/wp_bill_clinton_lives_under_your_bed_describe_a/cy6bflo)  
-4. [[WP] Two people who have promised their firstborn child to differet witches get married and have a child.](https://www.reddit.com/r/WritingPrompts/comments/374dg7/wp_two_people_who_have_promised_their_firstborn/crjmuzj)  
-
-
-----
-
-#### 137.[Chinaroos](https://www.reddit.com/user/Chinaroos/comments/?sort=top)  
-Karma: 1185  
-Stories written: 8  
-Latest story written: 7 days, 16 hours ago  
-Last active on reddit: 3 days, 20 hours ago  
-
-Best stories:  
-
-0. [[WP] The Pope Calls for a Crusade against ISIS. 130,000 Catholics from around the world answer his call in a month and storms Syria by force. Write about the build up, the battles and the global aftermath.](https://www.reddit.com/r/WritingPrompts/comments/3p6tmq/wp_the_pope_calls_for_a_crusade_against_isis/cw3x3it)  
-1. [[EU] You are an assassin sent to kill Ash Ketchum and his Pikachu, what is your method and how did it go down?](https://www.reddit.com/r/WritingPrompts/comments/1ub9h9/eu_you_are_an_assassin_sent_to_kill_ash_ketchum/cegdcy6)  
-2. [[WP] Tell a story in a classic fantasy world (dragons, magic, etc) where technology has progressed to a modern or futuristic level.](https://www.reddit.com/r/WritingPrompts/comments/2ulsdr/wp_tell_a_story_in_a_classic_fantasy_world/co9jt5l)  
-3. [[WP] A Romeo and Juliet style story, where a fedora-wearing neckbeard and an easily triggered tumblrinia fall in love, but the corresponding websites forbid their relationship.](https://www.reddit.com/r/WritingPrompts/comments/33xgcu/wp_a_romeo_and_juliet_style_story_where_a/cqpcni1)  
-4. [[WP]: a society where sex is public and entirely unstigmatised, but eating is a taboo](https://www.reddit.com/r/WritingPrompts/comments/1qwi6b/wp_a_society_where_sex_is_public_and_entirely/cdhfjpe)  
-
-
-----
-
-#### 138.[Schneid13](https://www.reddit.com/user/Schneid13/comments/?sort=top)  
-Karma: 1148  
-Stories written: 10  
-Latest story written: 5 days, 0 hours ago  
-Last active on reddit: 2 days, 1 hours ago  
-
-Best stories:  
-
-0. [[WP] A duel between two Wizards. Except they are not Archmages but apprentices who can barely cast spells.](https://www.reddit.com/r/WritingPrompts/comments/4400sc/wp_a_duel_between_two_wizards_except_they_are_not/czmhitl)  
-1. [[CW] Write the first and last paragraph of a story and make me want to know what happened in between.](https://www.reddit.com/r/WritingPrompts/comments/2vamek/cw_write_the_first_and_last_paragraph_of_a_story/cofyjzi)  
-2. [[WP] 12.000 years in the future. Civilizations fell and rose. Technology back on renaissance level. Mysterious area where no one can survive. Turns out to be Chernobyl.](https://www.reddit.com/r/WritingPrompts/comments/2ummmr/wp_12000_years_in_the_future_civilizations_fell/co9tx8p)  
-3. [[WP] It is discovered that Possession works both ways and now we can have some payback. Demons of the underworld are now suffering under multiple cases of Humanic Possession.](https://www.reddit.com/r/WritingPrompts/comments/2r35li/wp_it_is_discovered_that_possession_works_both/cnc5tm4)  
-4. [[WP] After waking up in your home at 3:54am to a warning, you do what it specifically tells you not too.](https://www.reddit.com/r/WritingPrompts/comments/2qwwye/wp_after_waking_up_in_your_home_at_354am_to_a/cnaaor1)  
-
-
-----
-
-#### 139.[GreggoryBasore](https://www.reddit.com/user/GreggoryBasore/comments/?sort=top)  
-Karma: 1146  
-Stories written: 8  
-Latest story written: 0 days, 16 hours ago  
-Last active on reddit: 0 days, 16 hours ago  
-
-Best stories:  
-
-0. [[WP]: it's the year 2057. Queen Elizabeth still reigns. People are getting suspicious.](https://www.reddit.com/r/WritingPrompts/comments/2t1b9p/wp_its_the_year_2057_queen_elizabeth_still_reigns/cnuto8u)  
-1. [[WP] While reminiscing a childhood imaginary friend with your SO, you realise you are both describing the same thing](https://www.reddit.com/r/WritingPrompts/comments/3cmtmn/wp_while_reminiscing_a_childhood_imaginary_friend/csx57iq)  
-2. [[WP]Death Eaters win The battle of Hogwarts killing all opposition and breaking a one thousand year old truce between muggles and wizards. Lord Voldemort must now face the full might of the United Kingdoms' military.](https://www.reddit.com/r/WritingPrompts/comments/2j006z/wpdeath_eaters_win_the_battle_of_hogwarts_killing/cl784ie)  
-3. [[WP] Magic is real. Your natural magic ability is determined by how many people died 24 hours prior to your birth. You, and 2 others were born on the day of the greatest massacre in human history.](https://www.reddit.com/r/WritingPrompts/comments/3i1v2m/wp_magic_is_real_your_natural_magic_ability_is/cucoaqo)  
-4. [[WP] After the freak discovery of FTL travel, China is the first nation to utterly transplant itself, to the last citizen, to another planet.](https://www.reddit.com/r/WritingPrompts/comments/2swy0y/wp_after_the_freak_discovery_of_ftl_travel_china/cntq9tg)  
-
-
-----
-
-#### 140.[Kra_gl_e](https://www.reddit.com/user/Kra_gl_e/comments/?sort=top)  
-Karma: 1060  
-Stories written: 11  
-Latest story written: 9 days, 12 hours ago  
-Last active on reddit: 0 days, 19 hours ago  
-
-Best stories:  
-
-0. [[WP] Bruno Mars isn't alone. there are nine other Bruno Scouts.](https://www.reddit.com/r/WritingPrompts/comments/2ysfmc/wp_bruno_mars_isnt_alone_there_are_nine_other/cpcho2a)  
-1. [[WP] You are about to make a speech on national television. As you step up to the podium and gaze over at the teleprompter, you see only one word: "Stall."](https://www.reddit.com/r/WritingPrompts/comments/367cae/wp_you_are_about_to_make_a_speech_on_national/crbj150)  
-2. [[WP] The only way two intelligent species can coexist is for neither of them to realize the other is intelligent.](https://www.reddit.com/r/WritingPrompts/comments/3833ki/wp_the_only_way_two_intelligent_species_can/crrxn2r)  
-3. [[WP] As a young child you made an innocent wish to be granted a power that in hindsight was just whimsical and silly. Now you have grown up but you still have the power - how do you use it now as an adult?](https://www.reddit.com/r/WritingPrompts/comments/2y7p7l/wp_as_a_young_child_you_made_an_innocent_wish_to/cp730lh)  
-4. [[WP] A genie will grant you three wishes under the condition that your wishes will also be granted to your archenemy.](https://www.reddit.com/r/WritingPrompts/comments/378pc2/wp_a_genie_will_grant_you_three_wishes_under_the/crkr0zy)  
-
-
-----
-
-#### 141.[halowenjo](https://www.reddit.com/user/halowenjo/comments/?sort=top)  
-Karma: 1056  
-Stories written: 34  
-Latest story written: 29 days, 20 hours ago  
-Last active on reddit: 1 days, 18 hours ago  
-
-Best stories:  
-
-0. [[WP] You have left the dystopian nation you have lived in for your entire life; only to see that, despite propaganda, the nation is only the size of a small town and no one knows the nation exists.](https://www.reddit.com/r/WritingPrompts/comments/37kenz/wp_you_have_left_the_dystopian_nation_you_have/crnjcv0)  
-1. [[WP] The zombie outbreak starts, but the first (and only) zombie is an overweight man that can't catch anyone.](https://www.reddit.com/r/WritingPrompts/comments/2zgs5i/wp_the_zombie_outbreak_starts_but_the_first_and/cpirtii)  
-2. [[WP] When a child is born, their parents may pick one skill that the child will be, without a doubt, talented in.](https://www.reddit.com/r/WritingPrompts/comments/2sa5mj/wp_when_a_child_is_born_their_parents_may_pick/cnnkmde)  
-3. [[WP] You acquire a device that downloads webcomics from the future, you enjoy an endless supply of entertainment when suddenly on the same date all but one comic stops, and the remaining one becomes quite a bit darker.](https://www.reddit.com/r/WritingPrompts/comments/36c1xt/wp_you_acquire_a_device_that_downloads_webcomics/crcqzp1)  
-4. [[WP] a girl who's completely useless and incapable of taking care of herself so the ghost in that haunts her college dorm does her laundry and cooks for her to keep her alive](https://www.reddit.com/r/WritingPrompts/comments/2znde2/wp_a_girl_whos_completely_useless_and_incapable/cpkiubg)  
-
-
-----
-
-#### 142.[goldengirlc5](https://www.reddit.com/user/goldengirlc5/comments/?sort=top)  
-Karma: 1010  
-Stories written: 50  
-Latest story written: 25 days, 15 hours ago  
-Last active on reddit: 6 days, 5 hours ago  
-
-Best stories:  
-
-0. [[WP] Humanity finally reaches the edge of the solar system only to encounter an impassible barrier and a warning not to try and breach it. But is it there to keep us in or to keep something else out?](https://www.reddit.com/r/WritingPrompts/comments/4fgpdu/wp_humanity_finally_reaches_the_edge_of_the_solar/d28pvlq)  
-1. [[WP] Your roommate is 2nd most powerful superhero in the world and he will not shut up about it. He does not yet know that you are the 1st.](https://www.reddit.com/r/WritingPrompts/comments/4boqu6/wp_your_roommate_is_2nd_most_powerful_superhero/d1bf4mz)  
-2. [[WP] You live in a world where every person receives a superpower on their 18th birthday. You eagerly count down the seconds then shriek in horror as you are given a power no one would ever want to be stuck with.](https://www.reddit.com/r/WritingPrompts/comments/30l6v4/wp_you_live_in_a_world_where_every_person/cpthha7)  
-3. [[WP] You have the super-human ability to remember the past perfectly and without bias. This causes the people around you to view you as a pathological liar, because your version of what happened never matches theirs.](https://www.reddit.com/r/WritingPrompts/comments/33kzbk/wp_you_have_the_superhuman_ability_to_remember/cqm6g13)  
-4. [[WP] The reason some people end up alone is because their soulmate committed suicide before ever meeting their own. You end up dying alone and meet your soulmate in the afterlife.](https://www.reddit.com/r/WritingPrompts/comments/3kd6jm/wp_the_reason_some_people_end_up_alone_is_because/cuwn4ga)  
-
-
-----
-
-#### 143.[Fractal_Death](https://www.reddit.com/user/Fractal_Death/comments/?sort=top)  
-Karma: 1006  
-Stories written: 7  
-Latest story written:   
-Last active on reddit: 0 days, 13 hours ago  
-
-Best stories:  
-
-0. [[EU] Jar Jar Binks is secretly the most powerful sith the universe has ever seen. He decides to finally drop the act once he discovers the Emperor was killed.](https://www.reddit.com/r/WritingPrompts/comments/3lkfdj/eu_jar_jar_binks_is_secretly_the_most_powerful/cv71flz)  
-1. [[WP] Describe Someone Baking Muffins Using Mainly Military Jargon](https://www.reddit.com/r/WritingPrompts/comments/2vk0bx/wp_describe_someone_baking_muffins_using_mainly/coie1ea)  
-2. [[WP] Satan is tired of losing countless guitar and fiddle duels, and is now challenging people with obscure instruments.](https://www.reddit.com/r/WritingPrompts/comments/2udbcm/wp_satan_is_tired_of_losing_countless_guitar_and/co7gllk)  
-3. [[WP]In the future, ISIS terrorists have become a part of pop culture along with history's other great maruaders, such as Carribean Pirates, Vikings, and American desperados. A child is having a birthday party themed around ISIS terrorists.](https://www.reddit.com/r/WritingPrompts/comments/3iimnq/wpin_the_future_isis_terrorists_have_become_a/cugwg3y)  
-4. [[EU] You've just been hired as the new sysadmin at Hogwarts.](https://www.reddit.com/r/WritingPrompts/comments/3ijqiv/eu_youve_just_been_hired_as_the_new_sysadmin_at/cuh1zkr)  
-
-
-----
-
-#### 144.[Probroscis](https://www.reddit.com/user/Probroscis/comments/?sort=top)  
-Karma: 938  
-Stories written: 13  
-Latest story written: 0 days, 2 hours ago  
-Last active on reddit: 0 days, 1 hours ago  
-
-Best stories:  
-
-0. [[WP] As it turns out, Hell has a healthy supply of scientists and engineers and is thus much more technologically advanced than is usually portrayed.](https://www.reddit.com/r/WritingPrompts/comments/4m3aaw/wp_as_it_turns_out_hell_has_a_healthy_supply_of/d3sd9ki)  
-1. [[WP] A young child summons a demon, but they only want a friend.](https://www.reddit.com/r/WritingPrompts/comments/4k0m79/wp_a_young_child_summons_a_demon_but_they_only/d3b9e0z)  
-2. [[WP] The aliens have arrived however they are not here for war. Instead after reading our broadcast of the United States Constitution they want to join as the 51 state and have brought a small planetoid into orbit to serve as the 51 state.](https://www.reddit.com/r/WritingPrompts/comments/4mt35b/wp_the_aliens_have_arrived_however_they_are_not/d3y6u6x)  
-3. [[WP] A knight hears a tale of a lone princess guarded by a fierce dragon. Unbeknownst to him, she's a shapeshifter...she IS the dragon.](https://www.reddit.com/r/WritingPrompts/comments/4kofwf/wp_a_knight_hears_a_tale_of_a_lone_princess/d3gme8y)  
-4. [[WP] A modern teenager is transported into a fantasy world, where they are forced into a quest with young witches and wizards their age. Fortunately, they've got a backpack full of high-tech gizmos to help them along.](https://www.reddit.com/r/WritingPrompts/comments/4l23cj/wp_a_modern_teenager_is_transported_into_a/d3jr9d5)  
-
-
-----
 
