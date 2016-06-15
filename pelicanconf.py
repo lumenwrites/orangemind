@@ -93,11 +93,12 @@ THEME = "/home/ray/orangemind/themes/orangemind"
 
 # Plugins
 PLUGIN_PATHS = ['/home/ray/orangemind/pelican-plugins']
-# PLUGINS = ['pdf']
+PLUGINS = ['feed_summary']
+
+FEED_USE_SUMMARY = True
 
 # PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 #            'liquid_tags.include_code', 'liquid_tags.notebook', 'summary']
 
 # EXTRA_HEADER = open('_nb_header.html').read() #.encode('utf-8')
-
 
