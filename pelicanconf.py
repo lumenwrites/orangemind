@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Ray Alez'
 SITENAME = 'orangemind'
-SITEURL = '' #
+SITEURL = 'http://orangemind.io' #
 
 LOCALE = ('en_US.UTF-8')
 
