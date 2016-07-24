@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Ray Alez'
 SITENAME = 'orangemind'
-SITEURL = '' #
+SITEURL = 'http://orangemind.io' #
 
 LOCALE = ('en_US.UTF-8')
 
@@ -91,9 +91,11 @@ DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'store','about','
 
 THEME = "/home/ray/orangemind/themes/orangemind"
 
-# Plugins
+# Plugins                                                        
 PLUGIN_PATHS = ['/home/ray/orangemind/pelican-plugins']
-# PLUGINS = ['pdf']
+PLUGINS = ['feed_summary']
+
+FEED_USE_SUMMARY = True
 
 # PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 #            'liquid_tags.include_code', 'liquid_tags.notebook', 'summary']

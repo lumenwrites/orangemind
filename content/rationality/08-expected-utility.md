@@ -25,11 +25,11 @@ So first we estimate probabilities of each outcome:
 
 And then we calculate our upside:
 
-> $20*0.3 + $15*0.2 + $5*0.2 = $10
+> $20 * 0.3 + $15 * 0.2 + $5 * 0.2 = $10
 
 And the downside:
 
-> -$10*0.2 - $30*0.1 = -$5
+> -$10 * 0.2 - $30 * 0.1 = -$5
 
 So now we can see that the expected utility of playing this game is
 
