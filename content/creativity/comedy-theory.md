@@ -1,7 +1,7 @@
 Title: Comedy Theory
 Date: 2016-02-02 00:01
 Image: https://medium2.global.ssl.fastly.net/max/2000/1*VSJUTxq5txJJlSyTK9UopA.png
-Summary: I am working on a theory that would explain how comedy works, and turn the process of writing jokes into an understandable, structured process that anyone can learn.
+Summary: I am working on a theory that would explain how comedy works, and turn the process of writing jokes into an understandable process that anyone can learn.
 
 I am working on a theory that would explain how comedy works, and turn the process of writing jokes into an understandable, structured process that anyone can learn. The theory is incomplete, but I had quite a few epiphanies that I think many people may find interesting and useful.
 
