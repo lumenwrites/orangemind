@@ -16,6 +16,7 @@
 
 html {
     font-size: 19px;
+    font-size:21px;	    
 }
 
 .row {
@@ -23,8 +24,10 @@ html {
 }
 
 a {
-	color: #f76300;
+    color: #f76300;
+    
 }
+
 
 p {
     margin-top: 19px!important;
